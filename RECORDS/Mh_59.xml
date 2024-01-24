@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_59">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 59</idno>
+<altName type="former shelfmark" lang="LAT">E recentioribus bibliothecis n:o 15</altName>
+<altName type="former shelfmark" lang="LAT">Bibl. Ms. B. Min.</altName>
+<altName lang="SWE" type="former shelfmark">Naturvet.</altName>
+<altName type="database-identifier">scriptorium:Mh:720087:1127808306</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="LAT">Miscellany: Medical and geological texts</title> 
+    <origDate notBefore="1475" notAfter="1550">15th century, late or early 16th century</origDate>
+  <textLang langKey="LAT" otherLangs="SWE GER">Latin (German and Swedish)</textLang>
+   </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="1v">f. 1r-v</locus>
+<title>Prayer or blessing (?)</title>
+</msItem>
+
+<msItem n="2">
+<locus from="2r" to="14r">ff. 2r-14r</locus>
+<author>Bartholomaeus Anglicus</author>
+<title type="uniform">De proprietatibus rerum, excerpts</title>
+<incipit>Argilla (est) frigiditate sua sanguinis restrictiva</incipit>
+<explicit>Item decoctum anetum cum oleo rigorem nervorum laxat. Multis etiam aliis subvenit passionibus.</explicit>
+<note><p>The text is a copy of parts of book 16, De lapidibus preciosis, and book 17, De arboribus et herbis et eorum proprietatibus.</p></note>
+<listBibl>
+<bibl>
+<title level="m">De lapidibus et gemmis (Medeltidshandskrift 59, Universitetsbiblioteket, Lunds Universitet)</title>
+<editor>Svensson, Johanna.</editor>
+<imprint>
+<pubPlace>Unpublished seminar paper (D-uppsats) Lund</pubPlace>
+<date>2006</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="3">
+<locus from="14v" to="14v">f. 14v</locus>
+<title type="uniform">Medical prescription</title>
+<rubric>Scherbuck</rubric>
+<incipit>Nim tzeyen melck. mack se warm, vnd</incipit>
+<explicit>waske den schaden Ein setten is bete</explicit>
+</msItem>
+
+
+
+<msItem n="4">
+<locus from="18r" to="33r">ff. 18r-33r</locus>
+<title type="uniform">Medical handbook, excerpts</title>
+<incipit>Collirium ngri (?) albti (?) ad dolores oculorum</incipit>
+<explicit defective="yes">Si urina fuerit multa et colorata,  commocionem tocius corporis habet. Si in urina ap-</explicit>
+<note><p>Under rubricated headings, like venter, caput, aures, raucitatem, venenum, lapidem different diseases are treated and cures are recommended. Some Latin words, considered difficult, are given in Swedish translation, cfr. e.g. at f. <locus>18r</locus> "radix scafani bolmeroth" or at f. <locus>22v</locus>, "Antraces liktorn".</p></note>
+</msItem>
+
+
+<msItem n="5">
+<locus from="34r" to="34v">f. 34r-v</locus>
+<title type="uniform">Lists (of sins, the five senses and the seven sacraments)</title>
+<note><p>In the margin the sins are marked either as <q>casus papales</q> or as <q>casus episcopales</q>. The list is in Latin hexameter, the explanations below are in Swedish.</p></note>
+</msItem>
+</msContents>
+<physDesc>
+  <support><p>Paper.</p><watermarks><p>Watermarks, a hand, visible on ff. 15 and 16, close to <ref targOrder="U" TEIform="ref">Briquet 11402</ref> (dated to 1493).</p></watermarks></support>
+  <extent>ff. 34<dimensions><height>150</height><width>105</width></dimensions>mm.</extent>
+<collation><p>Four quires and a final loose sheet: I: 8 (ff. 1-8); II: 9 (ff. 9-17); III: 8 (ff. 18-25); IV: 8 (ff. 26-33). </p></collation>
+<layout columns="1"><p>The ms. is ruled in ink; one written column.</p></layout>
+<msWriting>
+<handDesc><p>Four hands: hand 1: cursiva currens, late 15th century, ff. 1r-14r and ff. 18r-31r; hand 2: cursiva currens, 16th century, f. 14v; hand 3: cursiva currens, late 15th century, ff. 31r-33r; hand 4: 16th century (?), Latin quotation in cursiva libraria, Swedish explanation in cursiva currens, f. 34r-34v.</p></handDesc>
+</msWriting> 
+
+<bindingDesc>
+<binding><p>Limped wrapped parchment binding, contemporary with the manuscript. (cfr. Szirmai 1999 p. 285-317, Scholla 2002). Size: 156 x 118 x 10 mm.</p>
+<p>Limp binding of single parchment wrapping. Head and tail turn-ins tacked with parchment tapes, the tape is missing at the tail turn-in of the upper cover. Wrapping later cut at fore-edge of both covers, but small horizontal cuttings indicate former tacking at fore-edge.</p>
+<p>Manuscript title in ink at the back, likely 20th century. Long-stitch sewing on six sewing stations with two pairs of interwoven backstitches. Second quire in part cut to a stub in the centrefold. Three quires missing. First leaves of the bookblock restored.</p></binding>
+</bindingDesc>
+<foliation><p>The ms. is foliated in upper right corner of page by modern cataloguer.</p></foliation>
+ </physDesc>
+<history>
+<origin><p>Written in Sweden, in the late 15th or early 16th century.</p></origin>
+<provenance><p>The manuscript was owned by Gustaf Peringer Lilieblad (1651-1710) whose name appears on f. <locus>1r</locus>.</p></provenance>
+<acquisition><p>In 1703 the library bought a collection of oriental manuscripts from Peringer Lilieblad among which was also this book.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>October 2006</date> by Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation"/>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2007-01-16</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

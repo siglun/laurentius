@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_62">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 62</idno>
+<altName type="database-identifier">scriptorium:Mh:353079:1127809676</altName>
+</msIdentifier>
+<msHeading>
+    <title>Compendium of the Nicomachean Ethic</title> 
+    <origPlace>France (?)</origPlace>
+    <origDate notBefore="1454" notAfter="1477">15th century, later half</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note>The manuscript is bound with: Augustinus de Ancona, Summa de
+      ecclesiastica potestate, printed in Lyon before 1480, and with Medeltidshandskrift 63 and 64.</note> 
+  </msHeading>
+<msContents>
+    <msItem n="1">
+      <locus from="1r" to="48v">ff. 1r-48v</locus>
+<title>Compendium of the Nicomachean Ethic</title> 
+      <incipit>Pertractatis compendiose secundum mentem doctoris subtilis Scoti</incipit>   
+<explicit>fidelibus adqui(?) amen.</explicit>
+      <colophon>Ethice compendiosum breve sed perutile iuxta doctoris subtilis
+	Johannis Scoti doctrinam per mayistrum theologiae qua eximium ac
+	benemeritum Nicolaum Dorbelli editum explicit feliciter pariseorum in urbe olim bonarum arcium copiosissima. 1454 (?).</colophon> 
+      </msItem>
+
+    <msItem n="2">
+      <locus from="49r" to="49v">f. 49r-49v</locus>
+          <title>Tabula librorum</title>
+      <note><p>Another date at f. 49v, after the table of contents: <q>finitque tabula foeliciter iocundeque anno domini 1477.</q>; f. 50r-v: blank.</p></note>
+    </msItem>
+ </msContents>
+<physDesc>
+    <support><p>Paper</p><watermarks><p>Watermark, close to <ref>Briquet 1751</ref> at
+	  f. 50.</p></watermarks></support><extent>ff. 50  <dimensions><height>292</height><width>215</width></dimensions>
+      mm.</extent> 
+    <collation><p>Four quires: I: 12 (ff. 1-12), II: 12
+	  (ff. 13-24), III: 12 (ff. 25-36), IV: 14
+	  (ff. 37-50). Catchwords on ff. 12v, 24v and 36v
+	(cropped).</p></collation> 
+    <layout columns="2"><p>Ruled in ink; 2 columns with an intercolumnium of 20
+	mm.; written space: 210 x 140 mm.</p> 
+    </layout>
+    <msWriting hands="1">
+      <handDesc script="Semihybrida Currens"><p>
+	  One hand; Semihybrida Currens.</p>
+      </handDesc> 
+    </msWriting> 
+    <decoration>
+      <decoNote><p>Red lombards. Two simple drawings of scrolls in brown ink,
+	  framing a few lines of text (ff. <locus>48v</locus>,
+	  <locus>49v</locus>).</p></decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Blind-tooled brown calfskin binding, contemporary with the
+	  manuscript, restored back. Size: 300 x 220 x 80 mm.</p> 
+	<p>Brown calfskin binding over square edged wooden boards (type [a],
+	  cfr. Szirmai 1999 p. 219). Later recovering of the back late
+	  19th or 20th century. The covering is worn, loose and partly missing
+	  around endbands and at corners of the boards, the joint is cracked at
+	  the lower part of the upper board. Two engraved hook-clasp fastenings
+	  at fore-edge, engraving: ma[u or ri?]. Hook-clasp and leather strap of upper fastening missing. Lower anchor plate of later date, new nails. Worn
+	  and partly damaged manuscript titles on paper labels in top
+	  compartments and manuscript library code on paper in one of the lower
+	  compartments of the back. Primary wound endbands with secondary
+	  cross-stitched embroidery (type IV fig. 2.24, cfr. Szirmai 1999,
+	  p. 208-209). The endbands are worn and the embroidery partly
+	  missing. Trimmed edges, squares at head and tail. All along sewing on
+	  three double split leather thongs laced through the boards. Some of
+	  the bands are partly cracked at the joints of the upper
+	  board. Endleaves missing.</p> 
+	<p>The covers are blind-tooled with double fillets into a large frame
+	  and central panel. The frame is stamped with an inscribed curved
+	  ribbon tool into a partly irregular undulated and crossed pattern;
+	  the corner compartments contain a large rosette placed in a square
+	  made of the same ribbon tool. The central panel is stamped into
+	  repeated ogival compartments with pomegranates in the centre. The
+	  back is blind-tooled with double fillets next to the
+	  bands.</p>
+      </binding> 
+    </bindingDesc>
+
+    <foliation>
+      <p>Foliated in pencil by modern cataloguer in upper right
+	corner.</p></foliation> 
+    <additions><p>Pointing hands in the margins throughout the
+	manuscript.</p></additions> 
+    <condition><p>Lower part of f. 4 is torn.</p></condition>
+  </physDesc>
+<history>
+    <origin><p>France (?), second half of 15th century.</p></origin>
+<provenance><p>There is a note on the first leaf of the printed book (with which the manuscript part is bound) saying that the book once belonged to a reformed Franciscan convent in Bolzano: <q>Conventu. Frum Min. reform. Bolsanensium</q>.</p>
+<p>There is another note on the former front flyeaf, now a loose sheet, saying <q>Franciscus Borthanis me possidet</q>.</p></provenance>
+    <acquisition><p>It is unknown how and when the book came to the University library. There is a loose slip with a note in the hand of Per Ekström (librarian 1969-99) saying: <q>okat. Bland Callmers kvarlåtenskap (1985).</q></p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded in January of 2005 by Eva Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation">2005-09-27</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-27</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

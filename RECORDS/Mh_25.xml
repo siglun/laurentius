@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription status="uni" id="Mh_25">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 25</idno>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 32</altName>
+<altName type="database-identifier">scriptorium:Mh:425947:1128077031</altName>
+</msIdentifier>
+<msHeading>
+<title type="uniform" lang="DAN">Jyske Lov</title>
+<title lang="ENG" type="parallel">Provincial law of Jutland</title>
+<title lang="LAT" type="parallel">Liber legis danorum</title>
+<origPlace>Denmark</origPlace>
+<origDate notBefore="1457.01.01" notAfter="1550">15th-mid 16th century</origDate>
+<textLang langKey="DAN" otherLangs="LAT">Danish and Latin</textLang>
+</msHeading>
+<msContents>
+<msItem n="1">
+<locus from="2r:1" to="113v:8">ff. 2r:1-113v:8</locus>
+<title type="uniform" lang="DAN">Jyske Lov</title>
+<title type="parallel" lang="ENG">Provincial law of Jutland</title>
+
+<msItem n="1.1"><locus from="2r:1" to="5r:6">ff. 2r:1-5r:6</locus>
+<title type="uniform" lang="DAN">Jyske Lovs Fortale</title>
+<title type="parallel" lang="ENG">The prologue</title>
+<incipit>Mæth logh skall land bygges æn uilde hwar ma<expan>n</expan> oruæs at siit eghet</incipit>
+<explicit>och thæræ til mæth alle bæstæ mæntz raat thær i hans riki wæræ</explicit>
+</msItem>
+
+<msItem n="1.2."><locus from="5r:6" to="35r:4">ff. 5r:6-35r:4</locus>
+<title lang="ENG">Book I</title>
+
+<msItem n="1.2.1"><locus from="5r:6" to="7r:11">ff. 5r:6-7r:11</locus>
+<title lang="ENG">Chapter list of Book I</title>
+<rubric lang="LAT">Incipiu<expan>n</expan>t capitula Capitulum p<expan>ri</expan>mu<expan>m</expan></rubric>
+<incipit>Hwilkit barn æruæ skall .ii.</incipit>
+<explicit>Huræ mæ<expan>n</expan> skule mølne byggæ</explicit>       
+<rubric type="final" lang="LAT">Expliciunt capitula.</rubric>
+</msItem>
+
+<msItem n="1.2.2"><locus from="7r:11" to="35r:4">ff. 7r:11-35r:4</locus>
+<title lang="LAT">Liber primus</title>
+<rubric lang="LAT">Jncipit liber p<expan>ri</expan>m<expan>us</expan>  ca<expan>pitulu</expan>m <expan>pr</expan>i<expan>mu</expan>m</rubric>
+<incipit>Barn om thet wrth<expan>e</expan>r kristnæth standæ arff ok æi æll<expan>er</expan></incipit>
+<explicit>fra annæns mansz mylnæ æll<expan>er</expan> fiskæ garthææll<expan>er</expan> æll<expan>er</expan> fra annæns mansz iorth</explicit>
+<rubric type="final" lang="LAT">Explicit liber p<expan>ri</expan>m<expan>us</expan>.</rubric>
+</msItem>
+</msItem>
+
+<msItem n="1.3"><locus from="35r:4" to="84:7">ff. 35r:4-84r:7</locus>
+<title lang="ENG">Book II</title>
+
+<msItem n="1.3.1"><locus from="35r:4" to="39r:1">ff. 35r:4-39r:1</locus>
+<title lang="ENG">Chapter list of Book II</title>
+<rubric>Incipiu<expan>n</expan>t capit<expan>u</expan>la in libro s<expan>e</expan>c<expan>un</expan>do Capitulu<expan>m</expan> primu<expan>m</expan> .i.</rubric>
+<incipit>Um sannænd mæn</incipit>
+<explicit>cxiii. Om man stæl i lething</explicit>
+<rubric type="final">Expliciunt capitula.</rubric>
+</msItem>
+
+<msItem n="1.3.2"><locus from="39r:1" to="84r:7">ff. 39r:1-84r:7</locus>
+<title lang="LAT">Liber secundus</title>
+<rubric>Incipit liber secundus. vm sannænd mæn Cap<expan>itu</expan>l<expan>u</expan>m p<expan>ri</expan>mu<expan>m</expan></rubric>
+<incipit>Sannænd mæn skulæ wæræ attæ i hwært hæræth</incipit>
+<explicit>ok gaaf ha<expan>n</expan> hanu<expan>m</expan> æi førræ æn han heem kom tha skal han wæri siik mæth tolf mænsz eth</explicit>
+<rubric type="final">Explicit liber s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>s.</rubric> 
+</msItem>
+</msItem>
+
+<msItem n="1.4"><locus from="84r:7" to="113v:8">ff. 84r:7-113v:4</locus>
+<title lang="ENG">Book III</title>
+
+<msItem n="1.4.1"><locus from="84r:7" to="86r:8">ff. 84r:7-86r:8</locus>
+<title>Chapter list of Book III</title>
+<rubric>Incipiu<expan>n</expan>t cap<expan>itu</expan>la in libro t<expan>er</expan>tio. Cap<expan>itulu</expan>m .i.</rubric>
+<incipit>Um lething</incipit>
+<explicit>lxviii. Um hethæ bryn</explicit>
+<rubric type="final">Expliciunt cap<expan>itu</expan>la</rubric>
+</msItem>
+
+<msItem n="1.4.2"><locus from="86r:8" to="113v:8">ff. 86r:8-113v:4</locus>
+<title lang="LAT">Liber tertius</title>
+<rubric>Incipit liber t<expan>er</expan>tius Cap<expan>itu</expan>l<expan>u</expan>m p<expan>ri</expan>mum. vm lethi<expan>n</expan>g.</rubric>
+<incipit>??hær lething biuthæs wt e swo mannugh sum i en ha??æ</incipit>
+<explicit>ællær lægg  wt thæn thær eld sættæi først</explicit>
+</msItem>
+</msItem>
+
+<rubric type="final" lang="LAT"><locus>f. 113v:4-8</locus>Explicit liber legis danorum. Anno domini milesi<expan>m</expan>o quadringentesimo quinquagesimo septimo. Jnfra oct<expan>au</expan>am beati bartholomei 
+ap<expan>osto</expan>li gl<expan>ori</expan>osi et<expan>cetera</expan></rubric>
+<note>The division of the law text in three book is the traditional, but the chapter division it seems is not, as two chaptes here and there have been put together under one rubric. Each book is preceded by an index.</note>
+</msItem>
+
+<msItem n="2" defective="yes">
+<locus from="114r:1" to="115r:">ff. 114r:1-115r:4</locus>
+<title type="uniform" lang="DAN">Christoffer I's forordning (Den Abel-Christofferske forordning II) [1252-1259]</title>
+<rubric>Hwat wmbotzma<expan>n</expan> swærie schall</rubric>
+<incipit>Umbotzmæ<expan>n</expan> th<expan>e</expan>r taghe koni<expan>n</expan>gx læn / the skulle swærie paa th<expan>e</expan>n helghe læst</incipit>
+<explicit>En sæchter vmbotzma<expan>n</expan> noger ma<expan>n</expan> fore the gotz han er frafar<expan>e</expan> wærie siigh m<expan>et</expan> syne xii frendh<expan>e</expan>r</explicit>
+<textLang langKey="DAN">Danish</textLang>
+<note>Paragraph 1-3 and 17-19.</note>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 54-55; 57-58</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="3"><locus>f. 115r:4</locus>
+<title type="uniform" lang="DAN">Lov af 26. maj 1284 (Erik Klippings nyborgske forordning for Nørrejylland)</title>
+<rubric>bondæ ma ey giffue syn iord burt</rubric>
+<incipit>Th<expan>et</expan> skall man withe at bonde maa ey giffue syn iordh burth till kirke</incipit>
+</msItem>
+
+<msItem n="4"><locus from="116r:17" to="120r:6">ff. 116r:17-120r:6</locus>
+<title type="uniform" lang="DAN">Erik Klippings nyborgske forordning for Nørrejylland af 21-27. maj 1284</title>
+<rubric>Her effter begynnes th<expan>e</expan>n ny handfestni<expan>n</expan>g</rubric>
+<incipit>TH<expan>e</expan>nne logh gaff koni<expan>n</expan>g Erick Cristofferssø effter at wor h<expan>er</expan>ræ wor fødh tusindæ winter tuhundrethæ firesyn<expan>n</expan>e tyuwæ of fire winter</incipit>
+<explicit>Th<expan>e</expan>n mynt i siæland ær ha<expan>n</expan> schall waræ om godh som th<expan>e</expan>n i Iudlandh ær</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 107-122</biblScope>
+<note>Variant readings in the apparatus, signature Ab20.</note>
+</bibl>
+</msItem>
+
+<msItem n="5"><locus>f. 120r:7-18</locus>
+<title type="">Erik Klippings nyborgske forordning for Sjælland af 26. maj 1284</title>
+<rubric>Vm klethæ</rubric>
+<incipit>Alt th<expan>et</expan>klethe th<expan>e</expan>r køpmæ<expan>n</expan> haffue at sæliæ</incipit>
+<explicit>oc the toghe th<expan>e</expan>r alle same<expan>n</expan> with m<expan>et</expan> frii wiliæ &amp;tc Explicit istud ...</explicit>
+<note>Paragraph 15-16</note>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">p. 143</biblScope>
+<note>Variant readings in the apparatus, signature Ag8.</note>
+</bibl>
+</msItem>
+
+<msItem n="6">
+<locus from="120v:1" to="122v:14">ff. 120v:1-122v:14</locus>
+<title type="uniform" lang="DAN">Erik Klippings håndfæstning af 29. juli 1282</title>
+<title type="uniform" lang="LAT">Constitutio Erici Glipping, nuburgis anno 1282</title>
+<incipit>ERicus dei gra<expan>cia</expan> Danoru<expan>m</expan> Sclauo<expan>rumque</expan> Rex om<expan>n</expan>ibus p<expan>rese</expan>ns sc<expan>ri</expan>ptu<expan>m</expan> cerne<expan>n</expan>tibus In d<expan>omi</expan>no S<expan>a</expan>l<expan>ute</expan>m Ad p<expan>er</expan>petua<expan>m</expan> rei memoria<expan>m</expan></incipit>
+<explicit>sua sigilla vna cu<expan>m</expan> n<expan>ost</expan>ro Sigillo apponere curaveru<expan>n</expan>t &amp;tc Explicit</explicit>
+<textLang langKey="LAT">Latin</textLang>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 74-81</biblScope>
+<note>Variant readings in the apparatus, signature Ad8.</note>
+</bibl>
+</msItem>
+
+<msItem n="7" defective="yes"><locus from="123:1" to="123v:14">f. 123r:1-123v:14</locus>
+<title type="">Erik Klippings nyborgske forordning for Sjælland af 26. maj 1284</title>
+<rubric>Hwre stuth scall redh<expan>e</expan></rubric>
+<incipit>STuth skall hwer ma<expan>n</expan> redhæ a sancti andries dagh</incipit>
+<explicit>En skeer han oc slaar tha inne han for syn iordh so<expan>m</expan> foruit star</explicit>
+<note>Paragraph 7-12.</note>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 139-142</biblScope>
+<note>Variant readings in the apparatus, signature Af9.</note>
+</bibl>
+</msItem>
+
+<msItem n="8">
+<locus from="123v:15" to="124r:20">ff. 123v:15-124r:20</locus>
+<title type="supplied" lang="DAN">Rætterthing dom</title>
+<rubric>Th<expan>et</expan>e hau<expan>er</expan> righ<expan>e</expan>ns radh saght for rætte</rubric>
+<incipit>Item th<expan>et</expan>e tucker oss ware ræt</incipit>
+</msItem>
+
+<msItem n="9">
+<locus from="124v:22" to="126v:3">ff. 124v:1-126v:3</locus>
+<title type="uniform" lang="DAN">Christoffer I's forordning (Den Abel-Christofferske Forordning II)</title>
+<rubric>Vm een wrøher anne<expan>n</expan></rubric>
+<incipit>Um waldzma<expan>n</expan> wrøhær anne<expan>n</expan> ok wordh<expan>e</expan>r han wu<expan>n</expan>nen athawe sagd konu<expan>n</expan>g vsaat</incipit>
+<explicit>bøtæ hin hanu<expan>m</expan> kærer all sin how<expan>et</expan>loth ok hans hals wære i konu<expan>n</expan>gs wald etc</explicit>
+<note>Paragraph 4-16.</note>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 55-57</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="10">
+<locus from="127r:1" to="127r:7">f. 127r:1-7</locus>
+<incipit>Item withnær nogh<expan>e</expan>r ma<expan>n pa thinge ellar ær i logh eller</expan></incipit>
+<explicit>tha fellær ha<expan>n</expan> ey vth<expan>e</expan>n sigh selff</explicit>
+</msItem>
+
+<msItem n="11">
+<locus from="127r:8" to="129v;16">ff. 127r:8-129v:16</locus>
+<title type="supplied">Kyns neffnd</title>
+<rubric>Kyns neffnd</rubric>
+<incipit>For thiisse saghe scall ma<expan>n</expan> wæries m<expan>eth</expan> kyns neffn</incipit>
+<explicit>tha gangh<expan>e</expan>r ha<expan>n</expan> i konigh<expan>e</expan>ns iern meth rætthæ</explicit>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support>
+<extent>ff. i + 129 + i.<dimensions type="leaf" scope="all"><height>140</height><width>103</width></dimensions> mm.</extent>
+<collation><p>13 quires: I: 11 (ff. 1-11), II: 10 (ff. 12-21), III: 9 (ff. 22-30), IV: 10 (ff. 31-40), V: 10 (ff. 41-50), VI: 10 (ff. 51-60), VII: 10 (ff. 61-70), VIII: 10 (ff. 71-80), IX: 10 (ff. 81-90), X: 10 (ff. 91-100), XI: 10 (ff. 101-110), XII: 10 (ff. 111-120), XIII: 9 (ff. 121-129). The unwritten f. 1 is the original pastedown.</p></collation>
+
+<layout columns="1" writtenLines="16-18"><p>One column; 16-18 lines; written area: 98 x 75 mm. Rubricated.</p></layout>
+
+<msWriting>
+<handDesc script="Textualis libraria"><p>Textualis libraria in the main text, ff. <locus>2r-113v</locus>.</p></handDesc>
+<handDesc script="Cursiva currens"><p>Cursiva currens in ff. <locus>114r-126v</locus>.</p></handDesc>
+<handDesc script="Hybrida"><p>Hybrida in ff. <locus>127r-129v</locus>
+</p></handDesc>
+</msWriting> 
+
+<decoration>
+<decoNote><p>All decoration is in the first part of the manuscript dated to 1457 and is likely to have been executed by the original scribe/rubricator. The larger initials mark the beginning of the main sections in the Jutish Law.</p></decoNote>
+<decoNote type="initial" subtype="decorated" technique="pen-drawn"><p>Seven small red initials with simple decoration, extended serifs or fillings in a second colour at ff. <locus>35r</locus> (index of Book II), <locus>82v</locus>, <locus>84r</locus> (index of Book III), <locus>104r</locus>, <locus>104v</locus>, <locus>106v</locus>, <locus>108v</locus>.</p></decoNote> 
+      
+      <decoNote type="" subtype="" technique="">
+	<p>Four larger 3-7-line initials in dark and light red as well as brown
+	  ink. The decoration in brown and light red ink was not originally
+	  intended but probably added by the time the scribe had reached the
+	  initial T at f. 86r, the only initial both conceptualized and
+	  executed as multicoloured. 
+	  <list>
+	    <item>at f. <locus>2r</locus>large initial (an uncial M) in red
+	      with simple filigranated decoration and a vertically extended
+	      serif decorated with short strokes; first letter in the
+	      prologue</item> 
+	    <item>at f. <locus>7r</locus>semilarge initial (B), dark red filled
+	      with light red, and surrounded by brown geometric decoration and
+	      circumscribed by a light red double frame; index of Book I</item> 
+	    <item>at f. <locus>39r</locus>large initial (S) in red with brown
+	      filigranated decoration and brown outer contour; Book II</item> 
+	    <item>at f. <locus>86r</locus>large initial (T) in red and brown
+	      with filigranated filling and inscribed in a square with
+	      geometric decoration; Book III</item> 
+	  </list>
+	</p>
+      </decoNote>
+    </decoration>
+
+    <bindingDesc><binding><p>Parchment binding with turned fore-edge. Sweden, 17th century, before 1659 according to the dating on the back pastedown: <q>Datum Stockholm Den 8 Januari Annj 1659. Ericus Schult</q>. Size: 145 x 110 x 40 mm.</p>
+<p>Parchment binding over pasteboards with turned fore-edge. Flat spine, hollow back. Manuscript title from 20th century in ink on the back: <q>Jutske logh 1457</q>. Blind-tooled library label of paper. Endbands of green silk embroidered on white leather thong and laced through the  covers. Edges trimmed. Plain single flyleaves and pastedowns of paper. Single flyleaf of parchment at the front preserved from former binding. All along sewing on four double white leather thongs laced through the covers.</p></binding></bindingDesc>
+
+<foliation><p>Foliated in pencil in upper right corner by modern cataloguer.</p></foliation>
+<additions><p>Marginal notes in pencil by the librarian August Palm (1826-1907) on ff. 114-126.</p></additions>
+</physDesc>
+<history>
+<origin notBefore="1457.01.01" notAfter="1550" certainty="high" evidence="internal"><p>The Jutish Law is dated to 1457, end of August, on f. 113v: <q lang="LAT">Explicit liber legis danorum. Anno domini milesi<expan>m</expan>o quadringentesimo quinquagesimo septimo. Jnfra oct<expan>au</expan>am beati bartholomei
+ap<expan>osto</expan>li gl<expan>ori</expan>osi et<expan>cetera</expan></q>. The law texts on ff. 114-129 are younger additions.</p><p>On f. 129v an owner's statement is written: <q lang="LAT">iste liber pertinet ad me</q>.</p></origin>
+<provenance><p>Former owners: <name type="person" role="owner">Erik Schult</name> (according to a dated inscription on the inside of the back board) in 1659, the rural dean <name type="person" role="owner">H. Sederberg</name>, <name type="place">Carlshamn</name>, and subsequently his daughter's son, a certain <name type="person" role="owner">Magister Seldener</name>, <name type="place">Carlshamn</name>. Purchased by <name type="person" role="owner">Anders Lanærus</name> on <date>May 4, 1774</date>, as stated on the inside of the front board.</p></provenance>
+<acquisition><p>Entered the University Library after the death of Lanærus.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded during 2001 by Anne Mette Hansen.</p>
+</source>
+<change>
+<date rend="creation">2005-09-30</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-30</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Hedlund, Monica</author>
+<title level="m">Katalog der datierten Handschriften in lateinischer Schrift vor 1600 in Schweden, Bd. II, Die Handschriften Schwedens ausgenommen UB Uppsala</title>
+<imprint>
+<pubPlace>Stockholm</pubPlace><date>1980</date>
+</imprint><biblScope type="volume">Bd. I</biblScope><biblScope type="pages">p. 27</biblScope>
+</bibl>
+<bibl>
+<author>Palm, August Johan Theod.</author>
+<title level="m">Anteckningar till medeltidshandskrifterna i Lunds Universitetsbiblotek (handwritten notes kept in a box at the manuscript department.</title>
+<imprint><pubPlace>Lund</pubPlace></imprint>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

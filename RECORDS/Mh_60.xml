@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_60">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 60</idno>
+<altName type="database-identifier">scriptorium:Mh:515669:1137078368</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Epistulary</title> 
+    <origPlace>Germany (?)</origPlace>
+    <origDate notBefore="1200" notAfter="1225">13th century, early</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+  </msHeading>
+<msContents>
+<msItem n="1" defective="yes">
+<locus from="1r" to="20v">ff. 1r-20v</locus>
+<title type="uniform">Epistulary</title>
+<incipit defective="yes">vos karissimi quia unus dies apud Dominum sicut mille anni</incipit>
+<explicit defective="yes">omnis qui praecedit et non permanet in doctrina Christi</explicit>
+<note>The text starts defectively in 2 Peter 3:8; at ff. 3r-19v: 1 John 1-5; the text ends defectively at f. 20v in 2 John 1:9.</note>
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Parchment.</p></support>
+    <extent>ff. 20<dimensions>
+	<height>260</height><width>175</width></dimensions>mm. 
+    </extent>
+<collation><p>3 quires: I: 8 (ff. 1-8), II: 4 (ff. 9-12), III: 8 (ff. 13-20). Quire signatures at f. 8v (vii), f. 12v (viii) and f. 20v (ix).</p></collation>
+<layout columns="3" writtenLines="32"><p>Pricking in upper, lower and outer margin, ruled in ink; central column: 32 ruled lines, 16 written; side columns: 32 rules and written lines.</p></layout>
+<msWriting hands="1">
+<handDesc script="Gothic book hand"><p>
+Gothic book hand in three sizes for text, marginal gloss and interlinear gloss. The manuscript is unfinished; marginal gloss ends at f. 16r and interlinerar gloss ends at f. 17v.</p></handDesc>
+</msWriting> 
+
+    <decoration>
+      <decoNote><p>Alternating red and blue intials with pen flourishes in the
+	  opposite colour. Two larger initials with extensive pen flourishes,
+	  two lines in height, on f. <locus>3r</locus>, <locus>19v</locus>; the
+	  others, one line in height, are divided in two groups, the first of
+	  which show extended pen flourishes (f. <locus>1v</locus>,
+	  <locus>2v</locus>, <locus>5v</locus>, <locus>6v</locus>,
+	  <locus>9r</locus>, <locus>10v</locus>, <locus>11v</locus>,
+	  <locus>12r</locus>, <locus>13v</locus>, <locus>14v</locus>,
+	  <locus>15r</locus>, <locus>15v</locus>, <locus>16r</locus>,
+	  <locus>18r</locus>, <locus>18v</locus>) the decoration of the
+	  remaining being more restricted.</p> 
+
+	<p>Detailed description:
+	  <list>
+	    <item>f. <locus>3r</locus>: Initial Q in blue with
+	      filling consisting of S curling spirals in red with blue details,
+	      bordure decoration and pen flourishes in red with minute flower
+	      ornaments on the tail;</item>
+	    
+	    <item>f. <locus>19v</locus>: Initial S in blue with decorative
+	      filling somewhere between bordure and filigranated decoration in
+	      red with blue circular details, and pen flourishes in blue and
+	      red extended into the lower margin.</item>
+	  </list>
+	</p>
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Whittawed and reversed leather binding, Romanesque boards
+	  contemporary the with manuscript, covering of reversed leather
+	  possibly later (cfr. Szirmai 1999 pp. 140 sqq, p. 225). Restored
+	  back, 20th century. Size: 262 x 192 x 28 mm.</p> 
+	<p>Whittawed and reversed leather binding over thick rounded Romanesque
+	  oak boards. Leather covering of the back restored. Two long-strap
+	  fastenings at fore-edge, former hasp missing, straps new. Holes from
+	  chain attachment at the top of the lower cover. Tight back with three
+	  raised bands. Remnants of title labels at the top part of the upper
+	  cover. Endbands missing. Trimmed edges. No squares. Pastedowns of
+	  parchment. Front pastedown with restorations. Back pastedown partly
+	  defect from tearing showing pieces of manuscript waste of the lower
+	  board. All along sewing on three double thongs laced through the
+	  boards. Thongs later cut flush with the spine and restored at the
+	  joint of the upper board.</p>
+      </binding> 
+    </bindingDesc>
+<foliation><p>The manuscript is foliated by modern cataloguer in pencil in upper right corner of recto side of the leaves. </p></foliation>
+<additions><p>Notes at ff. <locus>12r</locus>, <locus>18v</locus> and <locus>20v</locus>; erased notes at ff. <locus>2v</locus>, <locus>15v</locus>,  modern marginal notes in pencil at ff. <locus>1r</locus>, <locus>3r</locus>, <locus>19v</locus>.</p></additions>
+
+  </physDesc>
+<history>
+<origin><p/></origin>
+<acquisition><p>The manuscript, bought in Heidelberg in 1969, was donated to the University library in 1975 by Gunlög Steidler-Ivarsson, Landskrona.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

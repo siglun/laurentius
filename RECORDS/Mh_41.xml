@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription status="def" id="Mh_41">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 41</idno>
+<altName type="former shelfmark">J 4:to 53</altName>
+<altName type="database-identifier">scriptorium:Mh:864094:1127728734</altName>
+</msIdentifier>
+<msHeading>
+<title type="supplied" lang="ENG">Provincial law of Scania</title>
+<origPlace>Denmark</origPlace>
+<origDate notBefore="1450" notAfter="1500">15th century, second half</origDate>
+<textLang langKey="DAN">Danish</textLang>
+<note>Skånske Lov in eight books with additions and Skånske Kirkelov.</note>
+</msHeading>
+<msContents>
+<msItem n="1"><locus from="1r:1" to="71v:3">ff. 1r:1-71v:3</locus><title type="uniform" lang="DAN">Skånske Lov</title>
+<title type="uniform" lang="ENG">The Law of Scania</title>
+
+<msItem n="1.1"><locus from="1r:1" to="1v:7">f. 1r:1-1v:7</locus>
+<title type="uniform">Kong Waldemars forordning om afskaffelse af jernbyrden (Skånske Lov, Tillæg XII)</title>
+<incipit>DEsse Logh satte woldemar koni<expan>n</expan>g i sine time for iern byrth m<expan>eth</expan> the withreste ma<expan>n</expan>ne rathe i da<expan>n</expan>mark</incipit>
+<explicit>Æn swerye the hanu<expan>m</expan> skyldan. tha gelde atær thiuff <supplied reason="damage"/>gild oc koni<expan>n</expan>g sin ræt</explicit>
+<note>Extracts from chapter 1.</note>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp. 791-792</biblScope>
+<note>Skånske Lov Tillæg XII, text II, signatur B1.</note>
+</bibl>
+</msItem>
+
+<msItem n="1.2"><locus from="1v:8" to="69v:1">ff. 1v:8-69v:1</locus><title>Skånske Lov</title>
+<incipit>FAr [... ..]ne oc dør han før æn hw<expan>n</expan></incipit>
+<explicit>m<expan>eth</expan> hine twigge man<expan>n</expan>e witne och ware sagh Løss</explicit>
+<listBibl>
+<bibl>
+<title level="m">Skånske Lov: Text I-III</title>
+<editor>Johannes Brøndum-Nielsen &amp; Svend AAkjær</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 1</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp. 1-199</biblScope><note>h1</note>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="1.3"><locus from="69v:1" to="70r:13">ff. 69v:1-70r:13</locus>
+<title type="supplied">Skånske Lov, Tillæg II</title>
+<rubric>xxvi</rubric>
+<incipit>Dræper ma<expan>n</expan> anner ma<expan>n</expan> bøde alt aff sit eyet</incipit>
+<explicit>Swo schal han taghe ann<expan>er</expan> sal och thredie sal oc swo skiffte sin i melle<expan>n</expan></explicit>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp.732-735</biblScope>
+<note>Skånske Lov tillæg II, text I (signature F).</note>
+</bibl>
+</msItem>
+
+<msItem n="1.4"><locus from="70r:14" to="70r;20">f. 70r:14-20</locus>
+<title type="supplied">Skånske Lov, Tillæg I</title>
+<rubric>xxvii</rubric>
+<incipit>Bodløss mall rith<expan>e</expan>r ma<expan>n</expan> him ower anner ma<expan>n</expan></incipit>
+<explicit>Setter ma<expan>n</expan> m<expan>eth</expan> wilie eldh vdi hwss anners ma<expan>n</expan>tz</explicit>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">p. 722</biblScope>
+<note>Skånske Lov tillæg I 2, text I (signature F).</note>
+</bibl>
+</msItem>
+
+<msItem n="1.5"><locus from="70r:20" to="71r:11">ff. 70r:20-71r:11</locus>
+<title type="supplied">Skånske Lov, Tillæg I</title>
+<rubric>xxviii</rubric>
+<incipit>Botløss mall meth th<expan>e</expan>m ther før ær mælt at dræp<expan>er</expan> ma<expan>n</expan> sagløsen</incipit>
+<explicit>Tha ær och firetywe m<expan>ar</expan>c<expan>is</expan> sagh</explicit>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp. 724-728</biblScope>
+<note>Skånske Lov tillæg I 3, text I (signature F).</note>
+</bibl>
+</msItem>
+
+<msItem n="1.6"><locus from="71r:11" to="71v:3">f. 71r:11-71v:3</locus><title type="supplied">Skånske Lov, Tillæg VI 1</title>
+<rubric>xxix</rubric>
+<incipit>Hwar bøth<expan>er</expan> ære sex mark <sic>at thinge</sic> oc sexten ørtigher swo ær fredh køp</incipit>
+<explicit>Th<expan>et</expan> ær thre<expan>n</expan>ne tylter edh til xl m<expan>ar</expan>c ær ey mer æn thre<expan>n</expan>ne tylter eth ogh th<expan>et</expan> c m<expan>ar</expan>c</explicit>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp. 755-756</biblScope>
+<note>Skånske Lov tillæg VI 1, text I (signature F1).</note>
+</bibl>
+</msItem>
+</msItem>
+
+<msItem n="2"><locus from="71v:4" to="77v:5">ff. 71v:4-77v:5</locus><title type="uniform" lang="DAN">Skånske Kirkelov</title><title type="uniform" lang="ENG">The Scanic Church Law</title>
+<incipit>Thette ær th<expan>e</expan>re ræt th<expan>e</expan>r settær war a mal steffne i lund aff ærchebiscop æskildh</incipit>
+<explicit>Thwsende vinter oc hundrethe oc xl oc en vint<expan>er</expan> oc vii manethe oc tolff daghe</explicit>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp. 821-866</biblScope>
+<note>Skånske Kirkelov, text I (signature J).</note>
+</bibl>
+</msItem>
+
+
+<msItem n="3"><locus from="77v:5" to="79r:9">ff. 77r:11-79r:9</locus><title type="supplied">Skånske Lov, Tillæg III (Dalbyforordningen)</title>
+<incipit>Sæl ma<expan>n</expan> sin kones iorth my<expan>n</expan>ne ell<expan>er</expan> mere. tha schal hun ather geldis</incipit>
+<explicit>tha ære the alle athelkone børn æn thoch at the wor<expan>e</expan> førre fødh</explicit>
+<bibl>
+<title level="m">Skånske Lov: Anders Sunesøns Parafrase, Skånske Kirkelov m.m.</title>
+<editor>Svend Aakjær &amp; Erik Kroman</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 2</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">pp. 740-744</biblScope>
+<note>Skånske Lov, tillæg III (signature A3).</note>
+</bibl>
+</msItem>
+
+<msItem n="4"><locus from="79r:10" to="87r:11">ff. 79r:10-87r:11</locus>
+<title type="uniform" lang="DAN">Malmø birkeret</title>
+<note>The name <name type="place">Malmø</name> has been changed to <name type="place">Lund</name>in this text.</note>
+<incipit>Thettæ ær th<expan>e</expan>n ræt ma<expan>n</expan> kaller <sic>kirkeræt</sic> Th<expan>e</expan> skæligh ær wt giffwen aff Wisæ mæ<expan>n</expan></incipit>
+<explicit>vde<expan>n</expan> tha ma bonden vide hanu<expan>m</expan> so<expan>m</expan> ha<expan>n</expan> wil æn garthgang ma th<expan>et</expan> ei hede</explicit>
+<bibl>
+<title level="m">Skåne, Bornholm, Halland og Blekinge</title>
+<editor>Erik Kroman</editor>
+<title level="s">Danmarks gamle Købstadslovgivning</title>
+<biblScope type="volume">Bind IV</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1961</date>
+</imprint><biblScope type="pages">pp. 43-57 (Signature Ac)</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="5" defective="yes"><locus from="87r:12" to="88v">ff. 87r:12-88v</locus><title type="uniform" lang="DAN">Kong Erik af Pommerns gårdsret</title>
+<incipit>Hvilke<expan>n</expan> en anne<expan>r</expan> slar i hiel giffue liff for liff om han worth<expan>e</expan>r fonge<expan>n</expan> wet færske gerni<expan>n</expan>ger</incipit>
+<explicit defective="yes">dylie meth vi mæn som foræ er sacht sith<expan>e</expan>n ma<expan>n</expan> hanst hest eller [...]</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning 1397-1513</title>
+<editor>Aage Andersen</editor><imprint><pubPlace>København</pubPlace>
+<date>1989</date></imprint><biblScope type="pages">pp. 27-52</biblScope>
+<note>Signature Ai.</note>
+</bibl>
+
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Paper.</p></support>
+<extent>ff. viii + 88 + xv, <dimensions type="leaf" scope="all"><height>140</height><width>102</width></dimensions> mm.</extent>
+<collation><p>8 quires: I: 12 (ff. 1-12), II: 12 (ff. 13-24), III: 12 (ff. 25-36), IV: 12 (ff. 37-48), V: 12 (ff. 49-60), VI: 12 (ff. 61-72), VII: 12 (ff. 73-84), VIII: 4 (ff. 85-88). The last quire originalley had at least eigth leaves; now only the first four leaves are extant as whole leaves, whereas the following four are preserved as the inner strips of the leaves onto which new blank leaves have been glued in rebinding/restoration process. The first quire has strengthening strips (fondelli) on the outer and the inner side. Catchwords on the last verso-page of each quire.</p></collation>
+<layout columns="1" writtenLines="20-22"><p>One column; 20-22 lines; framed in ink; written space: 90 x 75 mm. </p></layout>
+<msWriting hands="1">
+<handDesc script="hybrida" medium="ink" scope="sole"><p>
+Written in one hand in a hybrida from the second half of the 15th century.</p></handDesc>
+</msWriting> 
+<decoration><decoNote type="initial" subtype="decorated" technique="pen-drawn"><p>145 small initials in green and red with simple decoration in the complementary colour, red or brown. Eight initials are decorated with pen drawings of human faces. There is no consequent hierarchy in size or degree of decoration. The decoration is likely to be the work of the original scribe and made with some skill.</p>
+<p>Detailed description:
+<list>
+<item>at f. <locus>1r</locus>: initial (T) with decoration in bright red consisting of filigranated filling and pen flourish and to the left an unshaven human face in quarter profile with brown eyes and red pen flourish protruding from the mouth vertically in the left margin ending below mid page</item>
+<item>at f. <locus>2r</locus>: pointing hand in red ink</item>
+<item>at f. <locus>4v</locus>: red initial (S) with simple bearded face in profile</item>
+<item>at f. <locus>7r</locus>: red initial (A) with bearded face in half profile cunningly integrated in the structure of the letter. The face is drawn in a brighter red than the letter, with details in brown</item>
+<item>at f. <locus>9r</locus>: red initial (E) and green initial (T) with two simple but expressive faces in quarter profile, in brown ink</item>
+<item>at f. <locus>18</locus>r: green initial (S) with filigranated red filling</item>
+<item>at f. <locus>34r</locus>: green initial (W) with filigranated red decoration</item>
+<item>at f. <locus>61v</locus>: red initial (H) with green details and to the left a human face in quarrter profile in brown ink</item>
+<item>at f. <locus>70v</locus>: red initial (B) with a heart shaped ending of the right part of the upper serif</item>
+<item>at f. <locus>77r</locus>: red initial (T) with green detail and to the left a human face in profile and a detailed pointing hand in red with a green sleeve</item>
+<item>at f. <locus>79</locus>: green initial (T) with red geometric decoration</item>
+<item>at f. <locus>81r</locus>: red initial (V) with green details and to the left a human face in quarter profile with a cap, spitting five drops of green spittle</item>
+</list> 
+</p></decoNote></decoration>
+
+<bindingDesc><binding notBefore="1700" notAfter="1799" certainty="high" evidence="conjecture" contemporary="no"><p>Brown sheepskin binding with gilt back. Denmark 18th century. Size: 148 x 110 x 26 mm.</p>
+<p>Brown sheepskin binding over pasteboards. Rounded spine. Tight back with five raised bands. Gilt title on red label. Stuck-on endbands of green embroidered linen thread. Gilt edges. Eight plain front endpapers and twelve back endpapers. Made flyleaves and pastedowns of red, green and yellow comb marbled paper. All along sewing on five cords laced through the boards.</p>
+<p>Textblock with some restorations.</p>
+<p>The back is gilt into six single line fillet panels with corner and centre ornaments, one panel lettered in gilt on red label: <q>Kong Valdemars lov 1141</q>.</p></binding></bindingDesc>
+
+<additions><p>On the recto-side of the first flyleaf: <q>L. Kolderup-Rosenvinge <lb/>1. Waldemars forordn. om Jernbyrd <lb/>2. den Skaanske Lov <lb/>3. en ? <lb/>4. Skaanske Kirkeret <lb/>5. den Dalbyske forordning <lb/>6. Lunds kjøbstadsret <lb/>7. gaardsret.</q></p></additions>
+
+
+</physDesc>
+<history>
+<origin notBefore="1450" notAfter="1500" certainty="high" evidence="conjecture"><p>Written in the second half of the 15th century.</p></origin>
+<provenance><p>The law-book has belonged to the Danish professor <name type="person" role="owner scholar">J. L. A. Kolderup-Rosenvinge</name> who has written his name on the first flyleaf.</p></provenance>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded during 2001 by Anne Mette Hansen.</p>
+</source>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<title level="m">Skåne-Lagen</title>
+<editor>C. J. Schlyter</editor>
+<title level="s">Samling Af Sweriges gamla Lagar </title>
+<biblScope type="volume">Volumen IX</biblScope>
+<imprint>
+<pubPlace>Lund</pubPlace>
+<date>1859</date>
+</imprint><biblScope type="pages">p. LVIII</biblScope>
+</bibl>
+
+<bibl>
+<title level="m">Skånske Lov</title>
+<editor>Johannes Brøndum-Nielsen &amp; Svend AAkjær</editor>
+<title level="s">Danmarks gamle Landskabslove</title>
+<biblScope type="volume">Bind I, 1</biblScope>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1933</date>
+</imprint><biblScope type="pages">p. XXIX and p. LXXXI</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

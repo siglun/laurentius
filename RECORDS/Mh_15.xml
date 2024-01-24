@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+
+<msDescription id="Mh_15">
+ <msIdentifier>
+  <country reg="SE">Sweden</country>
+  <settlement>Lund</settlement>
+  <repository>Lund University Library</repository>
+  <idno>Medeltidshandskrift 15</idno>
+  <altName lang="LAT" type="nickname">Codex Reenhielmianus</altName>
+ </msIdentifier>
+
+ <msHeading>
+  <title lang="ENG">Miscellany: Law</title> 
+  <origPlace>Norway (?)</origPlace>
+  <origDate notBefore="1305" notAfter="1315">14th century</origDate>
+  <textLang langKey="NON">Old Norse</textLang>
+  <note><p>The manuscript contains Faroese law texts, among them the so called <title>Sheep Letter</title>, and a calendar.</p></note>
+ </msHeading>
+
+  <physDesc>
+    <support><p>parchment</p></support>
+    <extent>ff. i + 141 +
+      i,<dimensions><height>295</height><width>210</width></dimensions>mm.</extent> 
+    <bindingDesc>
+      <binding><p>Dark brown calfskin binding, Germany, signed with an ink stamp on the inside of the lower cover: Restauriert durch S. Heiland Stuttgart 1968. Size: 315 x 235 x 67 mm.</p>
+<p>Dark brown calfskin binding over square edged wooden boards. Two metal hook-clasp fastenings at fore-edge, hooks possibly from former binding. Rounded spine. Tight back with six raised double bands. Blind-tooled library code at the tail of the back. Former edge trimming preserved. Single parchment flyleaves, plain separate paper pastedowns. Front pastedown from former binding. All along two-on sewing on six double cords laced through the boards. Textblock with some restorations. The manuscript is kept in a drop front box of black cloth.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+
+  <history>
+    <origin><p>Norway (?), 14th century</p></origin>
+    <provenance><p>In 1314 the manuscript belonged to bishop Arni
+	Sigur&#240;arson of Bergen.</p> 
+
+<!--p>Has this ms. belonged to the Franciscan monastery in Stockholm? Axel Nelson seems to think so. There is an extensive bibliography - Storm, Gödel, Jakobsen (Nelson has them all).
+</p-->
+
+    </provenance>
+  </history>
+
+<additional>
+
+<listBibl>
+<bibl>
+<author>Nelson, Axel</author>
+<title level="a">Then Norska Laghboken" i Stockholms Franciskanerkloster</title>
+<title level="j">Nordisk Tidskrifts för Bok-och Biblioteksväsen</title>
+<biblScope type="volume">35</biblScope>
+<imprint>
+<date>1948</date>
+</imprint>
+<biblScope type="pages">pp. 1-16</biblScope>
+</bibl>
+</listBibl>
+
+  </additional>
+
+</msDescription>

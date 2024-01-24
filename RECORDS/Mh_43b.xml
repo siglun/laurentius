@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_43b">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 43b</idno>
+<altName type="database-identifier">scriptorium:Mh:538812:1127727987</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Liturgical manual for the Roskilde diocese</title> 
+    <origPlace>Denmark (Roskilde?)</origPlace>
+    <origDate notBefore="1500" notAfter="1600">16th century</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+    <note>
+      <p>The manuscript is bound with, and a handwritten continuation of,
+	<title type="uniform">Canon secundum usum ecclesie Rosckildensis. Cum
+	  aliquibus missis et communi sanctorum optime correctus</title>
+	(ff. 4r-79r), printed in Nyborg in 1522 (with shelfmark
+	Paleot. Da. 1522).</p>
+    </note> 
+  </msHeading>
+<physDesc>
+    <support><p>Paper</p></support>
+    <extent>ff. ii + 132 +
+      i<dimensions><height>210</height><width>155</width></dimensions>mm.
+    </extent> 
+    <bindingDesc>
+      <binding><p>Blind-tooled brown leather binding, decorated covers Denmark,
+	  contemporary with the manuscript. Sweden 20th century. Size: 220 x
+	  170 x 33 mm.</p> 
+	<p>Brown leather binding over thin square edged wooden
+	  boards. Rebinding with covers from former binding and leather
+	  fragment of the back preserved on the new covering. Leather ties at
+	  head, tail and fore-edge of the covers, one tie broken. Rounded
+	  spine. Tight back with three double raised bands. Embroidered
+	  endbands of beige linen. Former edge trimming preserved together with
+	  two textmarkers at fore-edge (defect). Single plain flyleaves and
+	  separate pastedowns of paper. Former pastedowns restored and
+	  preserved as additional flyleaves. All along sewing on three double
+	  cords laced through the boards.</p> 
+	<p>The covers are blind-tooled with two frames made of triple fillets
+	  and repeated tools. The outer frame contains a repeated
+	  lozenge-shaped burning heart and the inner frame a lozenge-shaped
+	  flower, the corner compartments a circular Christ motif. The central
+	  panel is stamped with a repeated apocalyptic Madonna (cfr. Schunke
+	  1979 p. 199 nr. 51) and a flower.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

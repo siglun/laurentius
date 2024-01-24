@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+
+<msDescription id="Mh_14" status="frag">
+ <msIdentifier>
+  <country reg="SE">Sweden</country>
+  <settlement>Lund</settlement>
+  <repository>Lund University Library</repository>
+  <idno>Medeltidshandskrift 14</idno>
+  <altName lang="LAT" type="nickname">Liber Scolae Virginis</altName>
+ </msIdentifier>
+
+ <msHeading>
+  <title lang="ENG">Sequentiary</title> 
+  <origPlace>Denmark (Lund)</origPlace>
+  <origDate notBefore="1300" notAfter="1499">14th-16th century</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+
+ <physDesc>
+  <support><p>parchment and paper</p></support>
+  <extent>ff. i + 20 + i +
+      39<dimensions><height>300</height><width>220</width></dimensions>mm.</extent> 
+    <bindingDesc><binding><p>Size: 327 x 255 x 30 mm. Brown goatskin binding
+	  over millboards. Calf skin cover from former binding, contemporary
+	  with manuscript, preserved on the new covering. Two long-strap
+	  fastenings at fore-edge. (Former binding with only one fastening at
+	  fore-edge according to documentation). Upper cover with five metal
+	  bosses and lower cover with one central metal boss all in the shape
+	  of a four petal flower. (The bosses are partly restored and only five
+	  of eight bosses preserved, some of the bosses are misplaced compared
+	  to photo documentation of former binding). Rounded spine. Tight back
+	  with four raised double bands. Former edge trimming preserved. Creme
+	  coloured paper pastedowns. All along sewing on four double cords
+	  laced through the boards. Textblock restored and with five additional
+	  quires of paper at the end of the textblock. Photographic
+	  documentation of former binding and description of the rebinding
+	  mounted on pastedown of the lower cover, signed by Hans Heiland
+	  1964. Preserved leather fragment and bosses, contemporary with
+	  manuscript, rebinding Germany, Stuttgart 1964.</p></binding> 
+</bindingDesc>
+</physDesc>
+
+<additional>
+<listBibl><bibl>
+<author>Hammerich, A.</author>
+<title level="m">Musik-minnesmaerker fra Middelalderen i Danmark</title>
+<imprint>
+<pubPlace>Köbenhavn</pubPlace>
+<date>1912</date>
+<biblScope type="pages">pp. 41-69</biblScope>
+</imprint>
+</bibl>
+</listBibl>
+  </additional>
+</msDescription>

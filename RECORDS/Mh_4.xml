@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_4">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 4</idno>
+<altName type="former shelfmark">Bibl. ant. M.54 collaticum 54 N:o 5</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) fol. 2</altName>
+<altName type="former shelfmark">M.57</altName>
+<altName type="former shelfmark">Handskrifter Teol.</altName>
+<altName type="database-identifier">scriptorium:Mh:393215:1126013975</altName>
+</msIdentifier>
+<msHeading>
+<title type="uniform">Psalter, glossed</title>
+  <origPlace>France?</origPlace>
+  <origDate notBefore="1150" notAfter="1200">12th century, middle or second half</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1" defective="yes">
+<locus from="1r" to="149v">ff. 1r-149v</locus>
+<title type="uniform">Psalter</title>
+<incipit defective="yes">et adversum Christum eius. Disrumpamus</incipit>
+<explicit defective="yes">Exultatio eorum sicut eius qui devorat pauperum</explicit>
+<note><p>Begins defectively at Ps. 2:3 and ends defectively at Habakuk 3:14. Between ff. 5v and
+6r Ps. 7:18-9:6 are missing.</p>
+<p>Between ff.75 and 76 Ps. 77:5-81:1 are missing.</p></note>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support>
+<extent>ff. 149<dimensions><height>280</height><width>180</width>mm.</dimensions></extent>
+<collation><p>21 quires: I: 5 (ff. 1-5), II: 8 (ff. 6-13), III: 8 (ff. 14-21), IV: 6 (ff. ff. 22-27), V: 8 (ff. 28-35), VI: 6 (ff. 36-41), VII: 8 (ff. 42-49), VIII: 4 (ff. 50-53), IX: 8 (ff. 54-61), X: 6 (ff. 62-67), XI: 4 (ff. 68-75), XII: 8 (76-83), XIII: 8 (ff. 84-91), XIV: 4 (ff. 92-95), XV: 8 (ff. 96-103), XVI: 6 (ff. 104-109), XVII: 8 (ff. 110-117), XVIII: 8 (ff. 118-125), XIX: 8 (ff. 126-133), XX: 8 (ff. 134-141), XXI: 8 (ff. 142-149).</p><p>Quire signatures in lower margin of last leaf of all quires; sometimes cropped.</p>
+<p>The amount of missing text from the first quires (cfr. above) corresponds to a loss of the outer bifolium of the quire. Apart from this loss, the remaining loop of sewing thread and fragments of parchment still visible behind two supports, indicate the loss of another, unsigned, quire consisting of a single bifolium. Since the writing space required for the text
+of the first psalm, including a large B-initial, and the beginning of the second is supplied by the missing first folio of the first preserved quire, the superfluous amount of leaves provided by the extra bifolium would have sufficed to use the first leaf as pastedown, leaving one folio for prefaces or decorations.</p>
+<p>One quire is missing between f.75 and f. 76. The text ends corruptly on f. 149v and fragments of sewing hamp indicate the loss of one quire, probably a single bifolium.</p></collation>
+<layout columns="3"><p>Dry point ruling reinforced with ink; pricking in outer, upper and lower margin. The text is glossed marginally and interlineary.</p></layout>
+<msWriting hands="1">
+<handDesc script="protogothic book script"><p>
+Protogothic book script.</p></handDesc>
+</msWriting>
+
+<decoration>
+<decoNote><p>In linea marks? with leaf ornaments on ff. 1v, 2r, 5r, 5v, 6v, 7r, 11r, 12r, 13r, 13v, 17v, 22r, 23v, 26r, 27v, 30r, 30v, 32r, 32v, 35v, 49r, 53r, 54v, 93r, 94r, 134r, 138r, 143r, mostly very simple, but the ornament on f. <locus>7r</locus> is somewhat more elaborate, though not enough to indicate any specific place of origin. The 155 initials, in red ink with a few exceptions in green and red with green details, are simple but not without elegance in the curvature and sometimes decorated with small leaves and flower buds. Generally the initials are in uncial, but there are a few square initials, and especially E and F usually display a blend of the two forms.</p>
+<p>Secondary enhancements in light brown ink with floral ornaments and geometrical designs on ff. 4r, 69r, 76r, 110r, 117v, 136r and 137r are most probably Scandinavian, dating from the 13th or beginning of the 14th century (cfr. Medeltidshandskrift 10; the same reader?); f. <locus>68v</locus>: the light brown outline of a bearded face in profile in the left margin marking a section of the commentary, contemporary with the enhancements of the initials; f. <locus>124r</locus>: simple outline of a face in profile in light brown ink lower right margin marking a section of the commentary, contemporary with the enhancements of the initials. It simpler than the face on f. <locus>68v</locus>, but undoubtedly by the same hand.</p></decoNote>
+</decoration>
+
+<bindingDesc>
+<binding><p>Binding over oak boards, former covering material missing; boards in Romanesque technique contemporary with the manuscript, resewing possibly Denmark, Lund 14th - 16th century. Size: 282 x 200 x 73 mm.</p>
+<p>Binding over square edged oak boards, former covering material missing. Two marks at the upper part of the upper cover indicate former fastenings or a frame. Two edged-pegged fastenings closing on the upper cover are missing. Blind-tooled library label of paper and a note <q>Psalmi Davidis cum commentariis. Medlet af 1100-talet</q>in the left upper corner of
+ upper board. Spine concave. Integral endbands sewn on white leather thongs and laced through the boards. Edges trimmed, no squares. Endleaves missing. Integral packed herringbone sewing on three white slit leather thongs and tongs of endbands, all laced through the edges of the boards. One thong of the upper board cracked, two of the upper and three wedges of the lower board missing. Cut change-over holes at head and tail of the quires and other sewing holes indicate new sewing 14th - 16th century (cfr. Szirmai 1999 pp. 140 ff.).</p></binding>
+</bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner.</p></foliation>
+</physDesc>
+<history>
+<origin><p>France?, middle or second half of 12th century.</p></origin>
+<acquisition><p>The manuscript appears to have been the property of the library of Lund Cathedral and entered the library in 1671 when the chapter was formally reorganized, or dissolved, and its manuscripts were transferred to the University library.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in June of 2001.</p>
+</source>
+<change>
+<date rend="creation"/>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2007-01-09</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Liebman, Charles J.</author>
+<title level="a">Paleographical Notes on Ms. Morgan 338 of the Old French Psalter Commentary</title>
+<title level="j">Codices manuscripti. Zeitschrift für Handschriftenkunde</title>
+<biblScope type="volume">11:2</biblScope>
+<imprint>
+<pubPlace>Wien</pubPlace>
+<date>1985</date>
+</imprint>
+<biblScope type="pages">pp. 65-77</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

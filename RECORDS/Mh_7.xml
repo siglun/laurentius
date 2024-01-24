@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_7">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 7</idno>
+<altName lang="LAT" type="nickname">Liber daticus Lundensis vetustior</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) fol. N:o 10.</altName>
+<altName type="former shelfmark">Bibliotheca recentior N:o 1</altName>
+<altName type="database-identifier">scriptorium:Mh:129659:1138809836</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Martyrology of Ado, for use in the Cathedral of Lund</title> 
+  <origPlace>Metz and Lund</origPlace>
+  <origDate notBefore="1130" notAfter="1418">12th-15th century (1140 c.-1410 c.)</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="7v">ff. 1r-7v</locus>
+<title type="uniform">Lectiones</title>
+<rubric>In commemoracione fratrum defunctorum</rubric>
+<incipit>Quando celebramus dies fratrum defunctorum in mente habere debemus</incipit>
+<explicit defective="yes">Deinde qui sunt Christi</explicit>
+<note>After f. 7 there is probably one leaf missing which would have contained the two missing lectiones.</note>  
+</msItem>
+
+<msItem n="2">
+<locus from="8r" to="140v">ff. 8r-140v</locus>
+<title type="uniform">Martyrology, January 1-December 31</title>
+<listBibl>
+<bibl>
+<editor>Weeke, C.</editor>
+<title level="m">Libri memoriales capituli Lundensis. Lunde Domkapitels Gavebøger. ("Libri datici Lundenses")</title>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1884-1889</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="3">
+<locus from="141r" to="142v">ff. 141r-142v</locus>
+<title type="uniform">Sequences</title>
+<incipit>Ab arce siderea descendens lux</incipit>
+<explicit defective="yes">quam jocunda celebrentur illorum sollempnia</explicit>
+<note>Three sequences: 1) Ab arce siderea descendens lux aurea virginis in gremium ... O! Maria, vas pudoris, nostri mater salvatoris, hac in die tu Messie servos reconcilia, Ut quos ipse jam redemit et cruore sancto emit, nos ad sua prece tua perducat palacia. Amen dicant omnia! (f. 141r-v); 2) Lux jocunda, lux insignis ... da perfecte novitatis plena nobis gaudia. Amen. (ff. 141v-142r); 3) De apostolis. Alleluja nunc decantet ... O! quanta, quam preclara, quam jocunda celebrentur illorum sollempnia (f. 142v).</note>  
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Parchment.</p></support>
+    <extent>ff. i + 142 +
+      i,<dimensions><height>300</height><width>200/205</width></dimensions>mm.</extent>
+<collation><p>19 quires: I: 7(ff. 1-7); II:8 (ff. 8-15); III: 8 (ff. 16-23); IV: 8 (ff. 24-32, f. 28 is added); V: 8 (ff. 33-40); VI: 9 (ff. 41-49, f. 49 is added); VII: 8 (ff. 50-57); VIII: 2 (ff. 58-59); IX: 8 (ff. 60-67); X: 10 (ff. 68-77, ff. 71 and 77 are added); XI: 8 (ff. 78-85); XII: 8 (ff. 86-93); XIII: 8 (ff. 94-101); XIV: 8 (ff. 102-109); XV: 8 (ff. 110-117); XVI: 8 (ff. 118-125); XVII: 8 (ff. 126-133); XVIII: 7 (ff. 134-140); XIX: 2 (ff. 141-142). There are quire signatures, roman numbers in pencil in the lower left corner of the first recto leaf of each quire, from the second quire and onwards, reflecting an earlier stage of the manuscript in that the first and last quire are not numbered.</p></collation>
+<layout columns="1" writtenLines="22"><p>Layout varies but mainly one central column with 22 lines per page. Hard point ruling.</p></layout>
+<msWriting>
+<handDesc><p>Three hands, one for each section of the book; hand 1, late 13th century: ff. 1r-7v; hand 2: ff. 8r-140v, early 12th century, protogothic book script; hand 3, late 12th century: ff. 141r-142v. This hand resembles the hand that wrote marginal notes on the inauguration of altars in the main section of the book, see ff. 67v, 76r, 90v. Many hands have added the entries in the calendar proper and the notes in the margins.</p></handDesc>
+</msWriting> 
+
+
+
+<decoration>
+<decoNote><p>The original 12th century portion of the manuscript contains twelve illuminated KL-monograms, the first of which is considerably larger, and the added 14th century part (ff. 1r-7v) is furnished with 25 pen flourished two-line initials alternating in pale blue and red with flourishes in opposite colour. Some of the simpler initials are adorned with leaf decoration (e.g. ff. <locus>16r</locus>, <locus>21v</locus>, <locus>34r</locus>), and some have been secondarily enhanced with bordure, or other decoration in brown ink (ff. <locus>20v</locus>, <locus>27r</locus>). Occasional leaf designs in the margins of ff. <locus>13r</locus>, <locus>17r</locus> and further additional decoration described below.</p>
+<p>Detailed description: <locus>f. 8r</locus>: Large illuminated KL-monogram in red, green and faded yellow, 165 x 117 mm, with stems designed as narrow stalks with profuse foliage organically spreading throughout the entire space intrinsically interlaced with the inhabiting beasts; one big dragon, the wings of which constitutes the arms of the letter K, and the tail of which is totally intertwined with the foliage, one smaller dragon biting the foot of the larger dragon and a crouching lion at the bottom, biting the wing of the larger dragon. The outline drawing is in red and brown, and the background colour to some extent compartmented in green and red; <locus>f. 8v</locus>: Small red initial N with foliate pattern partly enhanced in blue; <locus>f. 18r</locus>: Large inhabited KL-monogram, 90 x 75 mm, with outline drawing in red and brown, with profuse foliage spreading from the stems and intertwining with wings and vegetable tail of a dragon, the wings of which constitutes the arms of the letter K; <locus>f. 25v</locus>: Decorated KL-monogram, 70 x 70 mm, with outline drawing of profuse foliage in brown and red; <locus>f. 29v</locus>: In the left margin a rather simple secondary drawing in brown ink of a standing man facing left with one hand pointing towards the text behind him, and the other pointing downwards; <locus>f. 30v</locus>: In right margin a small drawing in brown ink of the shield of arms with a ibex horn; <locus>f. 36r</locus>: Decorated KL-monogram, 80 x 65 mm, with outline drawing of profuse foliage in brown and red; <locus>f. 45r</locus>: Decorated KL-monogram, 85 x 55 mm, with foliate pattern in red; <locus>f. 56r</locus>: Decorated KL-monogram, 78 x 62 mm, with comparatively sparse outline drawing of foliage in red (faded); <locus>f. 68r</locus>: Decorated KL-monogram, 72 x 57 mm, with outline drawing of profuse foliage in red; <locus>f. 80r</locus>: Decorated KL-monogram, 72 x 78 mm, with outline drawing of profuse foliage in red; <locus>f. 90v</locus>: Decorated KL-monogram, 80 x 65 mm, with outline drawing of profuse foliage in red, with a white void decorated undy line in the stem of the letter L (faded); <locus>f. 102v</locus> Decorated KL-monogram, 63 x 63 mm, with outline drawing of profuse foliage in red (faded); <locus>f. 114v</locus>: Decorated KL-monogram, 70 x 65 mm, with sparse foliate pattern in red; <locus>f. 129v</locus>: Decorated KL-monogram, 80 x 65 mm, with outline drawing of profuse foliage in red; <locus>f. 133r</locus>: Secondary initial N, 20 x 22 mm, in brown ink with pen flourishes and filigranated decoration.</p>
+<p>Style: The grand KL-monograms with their intricate and highly organically rendered foliage is not coherent with any manuscript decoration known to have been executed in Scandinavia. Ewert Wrangel (Lunds domkyrkas konsthistoria, 1923, pp. 103-110) suggests a south German or Bohemian origin, but without any convincing comparisons, while in a foot note he refers to his friend Wilhelm Köhler, who suggests a northern French origin. Exceptionally close affinities are in fact found in the north east of  France. The scriptoria of Corbie, Metz and Reims all present plausible places of origin with a tendency towards Metz on hagiographical grounds, or Reims for ecclesiogeographical reasons (see Origin).</p>
+</decoNote>
+</decoration>
+ 
+    <bindingDesc>
+    <binding><p>Half binding of parchment, Sweden, Lund 20th century; preserved sewing contemporary with the manuscript. Size: 312 x 210 x 82 mm.</p>
+<p>Half binding of parchment with blue, red and yellow marbled paper over millboards. Hollow back. Two library labels at the back; one of gilt parchment from former binding and the other of blind-tooled paper. Former edge trimming preserved. Plain single flyleaves and pastedowns of paper. All along sewing on five double white leather thongs. The manuscript is kept in a parchment and paper drop front box.</p><p>There are 99 small fragments from the old binding in the Fragment collection (shelfmark: Fragment 93).</p></binding></bindingDesc>
+<foliation><p>The manuscript is foliated by modern cataloguer in the upper right corner of the recto page.</p></foliation>
+<additions><p>There are marginal notes pertaining to the first 8 months of the year, in one hand from the early 15th century. The notes give editorial directions like "non scribatur" or "summarie habetur in alio libro et sic scribendum est, non hic set V kl. Mart.", or "scribatur ut in alio libro". Langebek presumed that this "other book", referred to is the so called Liber daticus recentior (Copenhagen, Kungliga Bibliteket, Gl. kgl. Saml. Nr. 845). Weeke is not convinced and instead hypothesizes another contemporary necrology, now lost.</p></additions>
+<condition><p>The manuscript is in poor condition.</p></condition>
+ </physDesc>
+<history>
+<origin><p>Metz, early 12th century, in use in Lund from c. 1140. Mainly due to the Lundensian nature of the secondary text, and the mentioning of St Canute, St Olaf, St Ansgar and St Rimbert in the Martyrology, this manuscript has been considered a local product. The peculiarities in the Martyrology, with several names of bishops from Metz, have been noted earlier, but explained with an unreflected copying of a French prototype. However, the original disposition of the Martyrology has never allowed for neither the long nor the short vita of St Canute (f. <locus from="72r" to="72v">72r-v</locus>) and the emphasis given to St Godehard's name (f. <locus>46v</locus>) might instead imply that the manuscript was executed in Reims or in Metz shortly after Godehard's  canonisation in 1131. It was taken into use in Lund some time between 1139 and 1146, possibly in connection with the inauguration of the main altar in 1145, as can be deduced from the dating of the secondary entries.</p></origin>
+<provenance><p>There is a note in the lower margin of f. <locus>8r</locus>: <q>Hunc Antiquitatum Ecclesiasticarum librum a Praeposito b. mem. Nomarchiae Wepmanhogensis  et Pastore Ecclesi. Kielstrupensis, Mag. Michaele Arenkilo, sibi ante multos annos donatum, Bibliothecae publicae Academiae Carolinae in sui memoriam bona intentione dicavit. Londini S. Goth. die XXII Octob. A. MDCCIX. Jonas Linnerius, S. Theol. in Acad. Car. Prof. Pr. et past. Eccles. Cathedr.</q> Arenkil died in 1698. It is unknown where the book was between the beginning of the 15th century, when it was no longer used, and the 17th century when it came into the property of Arenkil. It was seemingly not in the Cathedral when in 1578 Magnus Matthiae wrote his <title>Episcoporum ecclesiae Lundensis series</title> because he has not seen it and does not even know about it. He used
+instead the Liber daticus recentior. In the upper margin of the same leaf there is an intertwined I and L and below: <q>A. 1709 d. 22 Oct.</q> in the same hand as the note, probably Linnerius'.</p></provenance>
+<acquisition><p>In 1709 the book entered the University Library. On the front pastedown two notes in ink: <q>142 blad</q> and  <q>Gammal sign. Bibl. Ms. H. L. a) fol. 10</q> and a glued slip with a note in the hand of August Palm: <q> Liber daticus Lundensis vetustior. Från 1140-talet till 1410-talet</q>. In the lower margin of f. 1r: <q>E recentioribus Bibliothecis No. 1</q>.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded in November of 2005 by Eva
+	    Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation"/>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2007-02-21</date>
+<respStmt>
+<name>mattias</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<surrogates><p>Microfilm placed in the Microfilm collection of the manuscript department.</p>
+<p>Photographic copy, "Fotosamlingen", in the reference
+	room of the manuscript department.</p>
+    </surrogates>
+<listBibl>
+<bibl>
+<author>Bring, S.</author>
+<title level="m">Monumenta Scanensia</title>
+<imprint>
+<pubPlace>Londini Gothorum</pubPlace>
+<date>[1744]-1751</date>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Langebek, J.</author>
+<title level="m">Scriptores rerum Danicarum medii aevi, collegit adornavit et publici juris fecit Jacobus Langebek, vol. 3</title>
+<imprint>
+<pubPlace>Hafniae</pubPlace>
+<date>1774</date>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Cederschjöld, F. J.</author>
+<title level="m">Disputatio historica de libro datico Lundensi ejusque in historia Scaniae ecclesiastica usu, cujus partem secundam ... Fried. J. Cederschjöld et respondens Petrus Olasu Bäckamn ... modeste exhibent.</title>
+<imprint>
+<pubPlace>Lundae</pubPlace>
+<date>1797</date>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Liebman, Charles J.</author>
+<title level="a">Paleographical Notes on Ms. Morgan 338 of the Old French Psalter Commentary</title>
+<title level="j">Codices manuscripti. Zeitschrift für Handschriftenkunde</title>
+<biblScope type="volume">11:2</biblScope>
+<imprint>
+<pubPlace>Wien</pubPlace>
+<date>1985</date>
+</imprint>
+<biblScope type="pages">pp. 65-77</biblScope>
+</bibl>
+
+<bibl>
+<author>Nielsen, L.</author>
+<title level="m">Danmarks Middelalderlige Haandskrifter</title>
+<imprint>
+<pubPlace>Köbenhavn</pubPlace>
+<date>1937</date>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Sommelius, G.</author>
+<title level="m">Disputatio historica de libro datico Lundensi ejusque in historia Scaniae ecclesiastica usu, cujus partem primam ... praeside Gustavo Sommelio, ... defert Friedricus Cederschjöld.</title>
+<imprint>
+<pubPlace>Lundae</pubPlace>
+<date>[s.d.]</date>
+</imprint>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

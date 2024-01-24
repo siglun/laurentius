@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_13">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 13</idno>
+<altName lang="LAT" type="nickname">Codex Sedinensis I</altName>
+<altName type="database-identifier">scriptorium:Mh:569022:1126016592</altName>
+</msIdentifier>
+<msHeading>
+ <title lang="ENG">Miscellany: Theology</title> 
+  <origPlace>Pomerania (?)</origPlace>
+  <origDate notBefore="1320" notAfter="1500">14th-15th century</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+  <note><p>The manuscript contains mostly works by Augustinus de Ancona and Thomas Aquinas.</p></note>
+ </msHeading>
+<msContents>
+    <msItem n="1">
+      <locus from="1" to="41">ff. 1-41</locus>
+      <author>Augustinus de Ancona</author>
+      <title type="uniform">De cognitione animae et potentiarum eius.</title>
+      <colophon>Explicit iste liber anno domini m cc c xxix in die benedicti
+	abbatis.</colophon>
+    </msItem>
+
+    <msItem n="2">
+      <locus from="41" to="44">ff. 41-44</locus>
+      <title type="uniform">Propositiones secundum ordinem alphabeti
+	collectae</title>
+    </msItem>
+
+<msItem n="3">
+<locus from="45" to="122">ff. 45-122</locus>
+<author>Thomas Aquinas</author>
+<title type="uniform">Compendium theologiae (De fide)</title>
+</msItem>
+
+<msItem n="4">
+<locus from="122" to="123">ff. 122-123</locus>
+<author>Thomas Aquinas</author>
+<title type="uniform">Responsio de 6 qu.</title>
+</msItem>
+
+<msItem n="5">
+<locus from="124" to="124">ff. 124</locus>
+<title type="uniform">Annotationes variae.</title>
+</msItem>
+
+<msItem n="6">
+<locus from="125" to="133">ff. 125-133</locus>
+<title type="uniform">Calendar</title>
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Parchment</p></support>
+    <extent>ff. 134<dimensions><height>182</height><width>130</width></dimensions>mm.</extent>
+    
+    <bindingDesc>
+      <binding>
+	<p>Blind-tooled light red sheepskin binding; Sweden, Lund University library bindery, signed in pencil: <q>G. Borgström 1965</q>. Size: 188 x 140 x 40 mm.</p>
+<p>Light red sheepskin binding over rounded wooden boards. Two metal hook-clasp fastenings at fore-edge and five preserved round metal bosses on each cover. Rounded spine, tight back with three double raised bands. Blind-tooled library code on leather label at the tail of the back. Embroidered endbands of white linen. Former edge trimming preserved. Separate pastedowns of parchment, back pastedown restored. All along sewing on three raised double cords laced through the boards.</p>
+<p>The covers are blind-tooled with double line fillets to a frame and a central panel with a saltire.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>Pomerania (?), c. 1320-15th century.</p></origin>
+    <provenance><p>The earliest owner is the Carthusian convent in
+	Alten-Stettin.</p>
+    </provenance>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-09-06</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-06</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Hedlund, Monica</author>
+	<title level="m">Die Handschriften Schwedens ausgenommen UB Uppsala,
+	  unter Leitung von Jan-Olof Tjäder, herausgegeben von Monica
+	  Hedlund. 1. Text. 2. Tafeln</title>
+
+	<title level="s">Katalog der datierten Handschriften in lateinischen
+	  Schrift vor 1600 in Schweden</title>
+
+	<biblScope type="volume">II:1-2</biblScope>
+	<imprint>
+	  <pubPlace>Stockholm</pubPlace>
+	  <date>1980</date>
+	</imprint>
+	<biblScope type="pages">p. 12</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Lehmann, P.</author>
+	<title level="a">Skandinavische Reisefrüchte. N. F. 1-2.</title>
+	<title level="j">Nordisk tidskrift för bok och
+	  biblioteksväsen</title>
+
+	<biblScope type="volume">23</biblScope>
+	<imprint>
+	  <date>1936</date>
+	</imprint>
+	<biblScope type="pages">pp. 13-22; 49-84 (esp. pp. 20-21)</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Pellegrin, E.</author>
+	<title level="a">Manuscrits d'auteurs latins de l'époque
+	  classique conservés dans les bibliothèques publiques de
+	  Suède</title>
+
+	<title level="j">Bulletin d'information de l'institut de recherches et
+	  d'histoire des texts</title>
+
+	<biblScope type="volume">3 (1954)</biblScope>
+	<imprint>
+	  <date>1955</date>
+	</imprint>
+	<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+      </bibl>
+
+      <bibl>
+	<title level="m">Codices manuscripti operum Thomae de
+	  Aquino. II.</title>
+
+	<editor>H. V. Shooner, cooperantibus sociis Commissionis
+	  Leoninae</editor>
+
+	<title level="s">Editores operum Sancti Thomae de Aquino</title>
+
+	<biblScope type="volume">3</biblScope>
+	<imprint>
+	  <pubPlace>Roma</pubPlace>
+	  <date>1973</date>
+	</imprint>
+	<biblScope type="pages">nr. 1537</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

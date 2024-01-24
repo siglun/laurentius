@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_17">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 17</idno>
+<altName type="former shelfmark">J 4:o 22</altName>
+<altName type="former shelfmark">B. N. Mscr. 4:to N:o 38.</altName>
+<altName type="database-identifier">scriptorium:Mh:113399:1129132218</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">National law of Magnus Eriksson</title> 
+  <origPlace>Sweden</origPlace>
+  <origDate notBefore="1347" notAfter="1400">14th century, late half (not before 1347)</origDate>
+  <textLang langKey="SWE">Swedish</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="139r">ff. 1r-139r</locus>
+<title type="uniform">Magnus Erikssons Landslag</title>
+<title type="parallel" lang="ENG">National law of Magnus Eriksson</title>
+<rubric>Hær byrias konongs balker mædh floccom</rubric>
+<incipit>Um suerekes konongs riki huilkit sum i sik hauer syu biskupsdøme</incipit>
+<explicit>oc þet uæri konongs <supplied>ensak</supplied></explicit>
+</msItem>
+
+<msItem n="2">
+<locus from="139r" to="139r">f. 139r</locus>
+<title type="uniform">Om edgång</title>
+<title type="parallel" lang="ENG">On swearing an oath</title>
+<incipit>Hwlkin som swer eedh oppa bok han swer edhen i triggia handha motthe</incipit>
+<explicit>om jagh falsth sigher i tessom edh som mik är nw före lagd</explicit>
+</msItem>
+
+
+<msItem n="2.1">
+<locus from="139v" to="139v">f. 139v</locus>
+<title type="uniform">Om mened</title>
+<title type="parallel" lang="ENG">On committing perjury</title>
+<incipit>Hwlkin som falst swer oppa bok</incipit>
+<explicit>til tess ath han haffwer scriptad (?) sigh och tagith oppenbara  bätringh</explicit>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support><extent>ff. i (modern paper ) + 139 + i (modern paper)) <dimensions><height>200</height>145<width/></dimensions> mm.</extent>
+<collation><p>18 quires: I: 6 (ff. 1-6), II: 8 (ff. 7-14), III: 8 (ff. 15-22), IV: 8 (ff. 23-30), V: 6 (ff. 31-36), VI: 8 (ff. 37-44), VII: 8 (ff. 45-52), VIII: 8 (ff. 53-60), IX: 8 (ff. 61-68), X: 8 (ff. 69-76), XI: 8 (ff. 77-84), XII: 8 (ff. 85-92), XIII: 8 (ff. 93-100), XIV: 8 (ff. 101-108), XV: 8 (ff. 109-116), XVI: 8 (ff. 117-124), XVII: 9 (ff. 125-133; f. 131 is inserted), XVIII: 6 (ff. 134-139). Catchwords in lower right margin of last leaf of every quire.</p></collation>
+<layout columns="1" writtenLines="21"><p>One column; 21 written lines; ruled in ink; pricking in outer margins; written space: 140 x 90 mm.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="textualis" medium="ink" scope="sole"><p>Textualis in one hand. Capital letters marked in red. In margins many juridical annotations in a 16th century cursive hand.</p></handDesc>
+</msWriting> 
+
+<decoration>
+      <decoNote><p>A total of 26 pen flourished initials in red, blue and
+	  towards the end also brown ink. One initial decorated with a human
+	  face in profile. Occasional line fillings and simple marginal
+	  decoration.</p> 
+	<p>Three levels of initial decoration occur in the manuscript: the
+	  lowest level is represented by the small monocoloured initials
+	  beginning the capitula of each code ("balk"). They are of the same
+	  heigth, 2-lines, and type as the lombards of the running text, with
+	  restrained or sometimes omitted pen flourishing (on ff. 1r, 29r, 78v,
+	  82r, 93r, 109r, 118r, 122r, 126v, 129r). The main text of each code
+	  ("balk") begins with a large decorated 4-7-lines initial of the
+	  middle level, in two or three colours with fillings of floral
+	  ornaments and surrounded by pen flourishes. In the highest level,
+	  represented by four initials, the pen flourishes extend beyond the
+	  compartment of the letter, forming horizontal and vertical
+	  borders. In the case of the first large initial, on f. 3r, the
+	  decoration has been further heigthened by a denser character and the
+	  adding of small birds.</p> 
+	<p>Detailed description: f. <locus>3r</locus>: large intarsiated initial (E) of the
+	  highest level in blue and red with void details in white, red
+	  filigranated filling with blue dots, an outer rectangular area of
+	  blue floral decoration with occasional red details, to the right
+	  continuing in blue and red pen flourishing. The initial and the lower
+	  part of the written text is surrounded, except for the right margin,
+	  by blue and red lines and fifteen pen flourish ornaments alternating
+	  in blue and red, nine of which are surmounted by small birds; f. <locus>21r</locus>:
+	  large intarsiated initial (S) of the highest level in blue and red
+	  with void details in white, filigranated filling in blue above and
+	  red below and surrounded by red pen flourishing above and blue below,
+	  continuing in red from the serifs towards the lower and outer edges;
+	  f. <locus>29v</locus>: large initial (D) of the middle level in red and blue with
+	  pen flourishing; f. <locus>35v</locus>: semilarge red initial (F) with a contour
+	  drawing of a human face in profile continuing in a furry slim body
+	  and ending with a fish tail; f. <locus>37r</locus>: large initial (F) of the highest
+	  level in blue and red with filigranated filling, below red with blue
+	  dots and above blue with red dots, pen flourishing in red extends in
+	  diverging lines towards the lower and right edges; f. <locus>45r</locus>: in the
+	  lower margin a drawing in red ink of a small bird sitting on top of a
+	  heartshaped leaf; f. <locus>49v</locus>: large initial (U) of the highest level in
+	  red and blue with filigranated filling in red consisting of an
+	  ondulated stem with three flowers, the petals of which have details
+	  in blue. The outer left contour of the initial is decorated with red
+	  pen flourishing extending vertically and diverging below mid
+	  page. The upper and right sides are decorated with pen flourishing in
+	  blue extending horizontally from upper left with volutes and short
+	  strokes suggesting an architectural structure corbel, certainly in
+	  awarness of the content of the text, "bygningabalker"; f. <locus>79r</locus>: large
+	  blue initial (N) of the middle degree with filigranated filling and
+	  pen flourishing in red; f. <locus>83v</locus>: large initial (N) of the middle
+	  degree in red and blue with filigranated filling in brown with red
+	  details and outer pen flourishing in red; f. <locus>95r</locus>: large initial (R)
+	  of the middle level in red and blue with red filigranated filling and
+	  outer pen flourishing in brown and red; f. <locus>105v</locus>: large red initial
+	  (M) of the middle level decorated with rows of white dots and
+	  surrounded by blue pen flourishing; f. <locus>110v</locus>: large brown initial (N)
+	  of the middle level with ondulating line, red floral filling and
+	  surrounded by red pen flourishing: f. <locus>118v</locus>: large brown initial (N) of
+	  the middle level with void leaf ornaments, red floral filling and
+	  surrounded by red pen flourishing; f. <locus>122v</locus>: large blue initial (N) of
+	  the middle level with void white ornaments, red floral filling and
+	  surrounded by red pen flourishing; f. <locus>127r</locus>: large red initial (H) of
+	  the middle level with intarsiated pattern, brown filigranated filling
+	  and surrounded by brown pen flourishing; f. <locus>130v</locus>: large brown initial
+	  S of the middle level with red filigranated filling and red pen
+	  flourishing by a second, inferior, hand; f. <locus>130v</locus>: below, small red
+	  initial (N) ending in a fish tail ornament.</p> 
+	<p>Style: Well executed initials of a common version of the 14th
+	  century Scandinavian synthesis of features from different north
+	  european styles.</p> 
+      </decoNote>
+    </decoration>
+    <bindingDesc>
+      <binding>
+	<p>Brown calfskin binding, Germany, Stuttgart 1967, singed with
+	  a blue ink stamp on the inside of the lower cover: Restauriert Hans
+	  Heiland &amp; Sohn. Size: 225 x 170 x 45 mm.</p> 
+	<p>Brown calfskin binding over millboards. Two metal hook-clasp
+	  fastenings with red leather straps at fore-edge (not from former
+	  binding). Rounded spine. Tight back with four double raised
+	  bands. Library code in pencil in the head compartment of the
+	  back. Former edge trimming preserved. Plain single flyleaves and
+	  pastedowns of paper.  Former shelf marks on front pastedown
+	  (cfr. above). Also on front pastedown a note on Schlyter's
+	  edition (cfr. bibliography) and a notation on the date of the
+	  entrance of the manuscript in the library: <q>Inköpt 1751 se
+	    consist. manualhandlingar 12/6 1751</q> and further down:
+	  <q>1300-talets senare hälft</q>. In upper and lower left corners
+	  the present shelf mark. Upper board  with preserved and restored
+	  separate pastedown. All along sewing on four double cords laced
+	  through the boards. The last textleaf of the bookblock with
+	  restorations. Signed in blue ink stamp 1967 <q>Restauriert Hans
+	    Heiland und Sohn</q> on the inside of the lower cover.</p>  
+      </binding> 
+    </bindingDesc>
+    <foliation><p>Foliation in ink in upper right corner.</p></foliation>
+    <additions><p>At f. 139r-v: Notes in a 16th century cursive script:
+	<q>Hwlkin som swer eedh oppa bok ... och taghit oppenbara
+	  bætringh</q>. Below on f. 139v in a later hand: <q>Fader
+	  wår som æst i h.</q></p></additions> 
+  </physDesc>
+<history>
+    <origin><p>Sweden, late 14th century (not before 1347).</p></origin>
+    <provenance><p>In the 17th century the manuscript was owned by Nils
+	Stackelberg, minister in charge of Estonian affairs (=lantråd i
+	Estland) of Hjälmarsnäs, Mödders and Raggafer in
+	Närke whose name appears in the upper margin of
+	f. 1r. On f. <locus>109r</locus> another note of ownership
+ (?).</p></provenance> 
+    <acquisition><p>The manuscript was bought (with Medeltidshandskrift 16 and
+	19) in 1751 from Johan Nelander, 1743-1782, professor of philosophy at
+	the university of Lund (cfr. Cons. maj. manualhandliungar June 22,
+	1751.</p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt; the manuscript description encoded in May of 2002 by Eva Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation">2005-10-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-10-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<title level="m">Konung Magnus Erikssons Landslag</title>
+<editor>Schlyter, C., J.</editor>
+<title level="s">Samling af Sweriges Gamla Lagar</title>
+<biblScope type="volume">10</biblScope>
+<imprint>
+<pubPlace>Lund</pubPlace>
+<date>1862</date>
+</imprint>
+<biblScope type="pages">pp. xiv-xv where it appears as manuscript N</biblScope>
+</bibl>
+
+
+<bibl>
+<author>Geete, R.</author>
+<title level="m">Fornsvensk bibliografi. Förteckning öfver Sveriges medeltida bokskatt på modersmålet samt därtill hörande litterära hjälpmedel</title>
+<title level="s">SFSS</title>
+<biblScope type="volume"/>
+<imprint><pubPlace>Stockholm</pubPlace><date>1903</date></imprint><biblScope>nr. 406</biblScope>
+</bibl>
+
+<bibl>
+<author>Åström, P.</author>
+<title level="m">Senmedeltida svenska lagböcker. 136 lands- och stadslagshandskrifter. Dateringar och problem</title>
+<title level="s">Acta Universitatis Stockholmiensis. Stockholm Studies in Scandinavian Philology. New Series.</title>
+<biblScope type="volume">32</biblScope>
+<imprint><pubPlace>Stockholm</pubPlace><date>2003</date></imprint><biblScope> passim and esp. pp. 220 and 224</biblScope>
+</bibl>
+
+
+
+</listBibl>
+</additional>
+</msDescription>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_32">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 32</idno>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 23</altName>
+<altName type="former shelfmark">Handskrifter. Hist. Sv. Medelt.</altName>
+<altName lang="LAT" type="nickname">Codex Lagerbringianus</altName>
+<altName type="database-identifier">scriptorium:Mh:677910:1137069888</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Medieval Swedish Rhyming Chronicles</title> 
+  <origPlace>Sweden</origPlace>
+  <origDate notBefore="1475" notAfter="1500">15th century (1480 c.)</origDate>
+  <textLang langKey="SWE">Swedish</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1" defective="yes">
+<locus from="1r:1" to="75r:10">ff. 1r:1-75r:10</locus>
+<title>Older Swedish Rhyming Chronicle, second redaction</title>
+<incipit>Gudh fadh<expan>ir</expan> oc son oc th<expan>æ</expan>n helge ande beskerme swe<add place="supralinear" hand="scribe">r</add>ike aff allan wande; 2r:1 koni<expan>n</expan>gh erik haffde systra tree</incipit>
+<explicit>thæt wlto honom gud ok men</explicit>
+<!--Er der en slags prolog til msItem 1, tjek udgaven-->
+</msItem>
+
+    <msItem n="2">
+      <locus from="75r:11" to="227v">ff. 75r:11-227v</locus>
+      <title>Older Swedish Rhyming Chronicle, continuation, with a transition to Younger Rhyming Chronicle</title>
+      <incipit>Drotzeten skulle rykens førstandara vara</incipit>
+      <explicit defective="yes">han kombir aldre <supplied reason="illegible">leu</supplied>andes heem ... liber jste ... xxx ... andium</explicit>
+      <note>Klemming read the following explicit in 1868, before the
+	restauration of the ms.: "(Script)us est liber iste
+	(anno Mcd) lxxx --- (?pro labore da mihi) prandium." Ff. 228r-229v are blank</note>  
+      <listBibl>
+	<bibl>
+	  <title level="m">Svenska medeltidens rimkrönikor</title>
+	  <editor>Klemming, G. E.</editor>
+	  <title level="s">Svenska Fornskriftsälskapets Samlingar</title>
+	  <biblScope type="volume">17:1</biblScope>
+	  <imprint>
+	    <pubPlace>Stockholm</pubPlace>
+	    <date>1867-1868</date><biblScope type="pages">pp. 163-166</biblScope> 
+	  </imprint>
+	</bibl>
+	<bibl>
+	  <title level="m">Svenska medeltidens rimkrönikor</title>
+	  <editor>Klemming, G. E.</editor>
+	  <title level="s">Svenska Fornskriftsälskapets Samlingar</title>
+	  <biblScope type="volume">17:2</biblScope>
+	  <imprint>
+	    <pubPlace>Stockholm</pubPlace>
+	    <date>1867-1868</date><biblScope type="pages">pp. 171-192</biblScope> 
+	  </imprint>
+	</bibl>
+      </listBibl>
+    </msItem>
+  </msContents>
+<physDesc>
+    <support><p>Paper and parchment.</p></support><extent>ff. i + 229 +
+      iii, <dimensions><height>185</height><width>137</width></dimensions> 
+      mm.</extent>
+
+    <collation><p>18 quires: I: 5 (ff. 1-5), II: 12
+	  (ff. 6-17), III: 12 (ff. 18-29), IV: 12 (ff. 30-41) V: 12
+	  (ff. 42-53), VI: 2 (ff. 54-65), VII: 12 (ff. 66-77), VIII: 12
+	  (ff. 78-89), IX: 16 (ff. 90-105), X: 16 (ff. 106-121), XI: 16
+	  (ff. 122-137), XII: 16 (ff. 138-153), XIII: 16 (ff. 154-169),
+	  XIV: 16 (ff. 170-185), XV: 16 (ff. 186-201),
+	  XVI: 16 (ff. 202-217), XVII: 5
+	  (ff. 218-222), XVIII: 7 (ff. 223-229).</p> 
+
+	<p>The collation is
+	uncertain, especially in the beginning and in the end, since the
+	manuscript has been rebound; the first and the two last quires are
+	defect and after f. 5 a whole quire is missing. The external and
+	central bifolium of each quire are in parchment.
+	Catchwords on ff. 17v, 
+	29v; quire signatures on ff. 18r, 30r.</p></collation>
+
+    <layout columns="1" writtenLines="29-35">
+      <p>One column; the planned written
+	space layout is 140 x 90 mm, but the lines, 29-35 lines per page,
+	differ in length.</p>  
+    </layout>
+
+    <msWriting hands="1">
+      <handDesc script="cursive" medium="ink" scope="sole"><p>
+	  Cursive script from around 1480.</p></handDesc>
+    </msWriting> 
+
+    <decoration>
+      <decoNote type="initial" subtype="flourished" technique="pen-drawn"><p><locus>f. 126r</locus>:
+	  A red initial (S) with simple penflourish on.</p></decoNote>
+      <decoNote type="secondary" subtype="manicula" technique="pen-drawn"><p>A
+	  manicula in the upper left margin of <locus>f. 147v</locus>.
+	</p></decoNote>
+      <decoNote type="secondary" subtype="initial">
+	<p>Small rubricated initials
+	  and the beginning of each line marked in red.</p></decoNote>
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Light brown goatskin binding, preserved leather covering Sweden, contemporary with the manuscript. Rebinding signed by Hans Heiland, Germany, Stuttgart, 1964. Size: 205 x 155 x 65 mm.</p>
+<p>Light brown goatskin binding over bevelled wooden boards. Rebinding with whittawed leather from former binding preserved on the new cover. One metal hook-clasp fastening at fore-edge (new or from other binding). Rounded spine. Tight back with three raised double bands. Ink manuscript title in one compartment and a blind-tooled cloth label at the tail of the back. Former edge trimming preserved. Single flyleaves and pastedowns of parchment. Pastedown of the upper board with fragments of former endpaper. On the front pastedown, apart from a paper label with the present shelfmark, former callnumbers (cfr. above), and further down the note <q>Rimkrönikan som Lagerbring begagnat sig af</q>. All along sewing on double cords laced through the boards. Textblock restored. Photographic documentation of former binding and description of the rebinding mounted on pastedown of the lower cover. The preserved covering shows traces from blind-tooled fillets.</p></binding></bindingDesc>
+
+    <foliation><p>Foliated in pencil by modern cataloguer in upper right corner
+	where there are sometimes also traces of another foliation, also modern
+	and in pencil (e.g. on ff. 11, 188, 21, 23, 28 etc.).</p></foliation>
+    <additions><p>Sometimes notes in margin by a younger hand.</p></additions>
+  </physDesc>
+<history>
+    <origin><p>Sweden, c. 1480.</p></origin>
+    <acquisition><p>The manuscript came to the Library in 1848 with the
+	collection of Sven Lagerbring (1707-1787), professor of history at the
+	university of Lund.</p></acquisition>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the
+	    manuscript description encoded 16.04.2002 by Anne Mette
+	    Hansen.</p>
+</source>
+<change>
+<date rend="creation">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Blom, C.</author>
+	<title level="m">Förbindelsedikten och de medeltida
+	  rimkrönikorna</title>
+
+	<imprint><pubPlace>Lund</pubPlace><date>1972</date></imprint>
+	<biblScope type="pages">pp. 27-29</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Geete, R.</author>
+	<title level="m">Fornsvensk bibliografi. Förteckning öfver
+	  Sveriges medeltida bokskatt på modersmålet samt
+	  därtill hörande litterära hjälpmedel</title>
+
+	<title level="s">SFSS</title>
+	<biblScope type="volume"/>
+	<imprint><pubPlace>Stockholm</pubPlace><date>1903</date></imprint>
+	<biblScope type="pages">pp. 21-22 under Nr. 48:II and 49</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Jansson, S.-B.</author>
+	<title level="m">Medeltidens rimkrönikor</title>
+	<imprint><pubPlace>Stockholm</pubPlace><date>1971</date></imprint>
+	<biblScope type="pages">p. 141, note 6</biblScope>
+      </bibl>
+
+      <bibl>
+	<title level="m">Svenska medeltidens rimkrönikor</title>
+	<editor>Klemming, G. E.</editor>
+	<title level="s">SFSS</title>
+	<biblScope type="volume">17:3</biblScope>
+	<imprint><pubPlace>Stockholm</pubPlace><date>1867-1868</date></imprint><biblScope type="pages">pp. 257-259</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

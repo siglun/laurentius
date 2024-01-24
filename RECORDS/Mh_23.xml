@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription status="uni" id="Mh_23">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 23</idno>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 30</altName>
+<altName type="former shelfmark">Biblioth. Meckiana N:o VI</altName>
+<altName type="database-identifier">scriptorium:Mh:253563:1126177114</altName>
+</msIdentifier>
+<msHeading>
+<title type="supplied" lang="DAN">Sjaellaensfare logh</title>
+<title type="parallel" lang="ENG">Provincial law of Zealand</title>
+<title type="parallel" lang="LAT">Leges selandenses</title>
+<origPlace>Denmark</origPlace>
+<origDate notBefore="1425" notAfter="1550">15th-mid 16th century</origDate>
+<textLang langKey="DAN">Danish</textLang>
+</msHeading>
+<msContents>
+<msItem n="1"><locus from="1r:1" to="2r:16">ff. 1r:1-2r:16</locus>
+<title type="uniform" lang="DAN">Fortalen til Jyske Lov</title>
+<title type="parallel" lang="ENG">Prologue of the Jutish Law</title>
+<incipit>Mæth logh schal man land byggæ. Æn wildæ hwær man orwæs at sit eghiet oc latæ mæn niwtæ iæffnæth. tha thyrfftæ mæn ikkæ logh weth</incipit>
+<explicit>oc th<expan>e</expan>r tell allæ bæstæ mæn thær i hans rikæ woræ</explicit>
+</msItem>
+
+<msItem n="2">
+<locus from="2r:17" to="80">f. 2r:17-80</locus>
+<title type="uniform" lang="DAN">Eriks Sjællandske Lov</title>
+<title type="parallel" lang="ENG">Erik's Zealandic Law</title>
+
+<msItem n="2.1">
+<locus from="2r:17" to="3r:17">ff. 2r:17-3r:17</locus>
+<title lang="ENG">Chapter list of Book I</title>
+<rubric>p<expan>ri</expan>mu<expan>m</expan></rubric>
+<incipit>Vm man far athel konæ/ i</incipit>
+<explicit>.l. Vm sleghe fridhæ børn</explicit>
+</msItem>
+
+<msItem n="2.2">
+<locus from="3r:17" to="17v:29">ff. 3r:17-17v:29</locus>
+<title>Book I</title>
+<rubric>Cap<expan>itu</expan>l<expan>m</expan></rubric>
+<incipit>FAr man athæl konæ/ tha huat som the æræ æghiændæ at fæ for vtæn th<expan>e</expan>ræ iorth. tha æghiæ the alt till halffs</incipit>
+<explicit>Allæ the børn th<expan>e</expan>r førr<expan>e</expan> wor<expan>e</expan> føddæ ænthæn wor wigdh weth an<expan>n</expan>ær konæ. allær hun weth annær man.</explicit>
+</msItem>
+
+<msItem n="2.3">
+<locus from="18r:1" to="19r:16">ff. 18r:1-19r:16</locus>
+<title type="uniform">Chapter list of Book II</title>
+<rubric>tabula libri secundi</rubric>
+<incipit>i Om hoor.</incipit>
+<explicit>Om ma<expan>n</expan> hugg<expan>er</expan> i a<expan>n</expan>nars skogh. lxxvii</explicit>
+</msItem>
+
+<msItem n="2.4">
+<locus from="19r:17" to="49v:15">ff. 19r:17-49v:15</locus>
+<title lang="ENG">Book II</title>
+<rubric>i. om hoor</rubric>
+<incipit>Takær bonde a<expan>n</expan>nær man m<expan>eth</expan> sin konæ. oc komb<expan>er</expan> swa. at han antigæ dræp manne<expan>n</expan>. ællær bæriær</incipit>
+<explicit>Æn huggær han swo myket tembær thæræ. at han gitær æy m<expan>eth</expan> en øk bort ko<expan>m</expan>met. oclatær vnder two æll<expan>e</expan>r fleræ økæ. tha skal ha<expan>n</expan> vt latæ.oc bøtæ a xii øræ</explicit>
+</msItem>
+
+<msItem n="2.6">
+<locus from="49v:16" to="50v:20">ff. 49v:16-50v:20</locus>
+<title lang="ENG">Chapter list of Book III</title>
+<incipit>i vm ma<expan>n</expan> skifft<expan>er</expan> iordh meth a<expan>n</expan>æ<expan>n</expan></incipit>
+<explicit>vm ma<expan>n</expan> dør at a<expan>n</expan>ners. lxviii</explicit>
+</msItem>
+
+<msItem n="2.6">
+<locus from="50v:21" to="80r:4">ff. 50v:21-80r:4</locus>
+<title lang="ENG">Book III</title>
+<rubric>i om ma<expan>n</expan> skifft<expan>er</expan> iordh meth annæ<expan>n</expan>.</rubric>
+<incipit>Skifft<expan>er</expan> man iorth meth annæ<expan>n</expan>. oc mælær han foræ a thingæ </incipit>
+<explicit>tha ma han th<expan>e</expan>r foræ worthæ thiuff. som han hathæ thæt siælff stalæt. tu aute<expan>m</expan></explicit>
+</msItem>
+</msItem>
+
+<msItem n="3">
+<locus from="80v:1" to="82v:21">ff. 80v:1-82v:21</locus>
+<title type="uniform" lang="DAN">Christoffer II's Håndfæstning af 25. januar 1320</title>
+<incipit>I guts naffn Amen. Ar æfft<expan>er</expan> guts byrth m ccc. oc pa thæt tiuwændæ. Sanctæ pauels dagh æfftær iul.</incipit>
+<explicit>therræ inseilæ m<expan>eth</expan> wort inseilæ æræ hengdæ foræ t<expan>ette</expan> br<expan>e</expan>ff.</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor>
+<imprint>
+<pubPlace>København</pubPlace>
+<date>1971</date>
+</imprint><biblScope type="pages">pp. 182-198</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="4">
+<locus from="82v:21" to="86v:9">ff. 82v:21-86v:9</locus>
+<title type="uniform" lang="DAN">Forpligtelsesbrevet 1360 (Valdemar Atterdags Håndfæstning)</title>
+<incipit>Wi Woldemar m<expan>æth</expan> guts nathæ Da<expan>n</expan>marks oc Wendæs konyngh oc wor kæræ søn Christoffær h<expan>er</expan>tugæ i Laland</incipit>
+<explicit>wi latæ woræ inseilæ for<expan>e</expan> th<expan>ættæ</expan> br<expan>e</expan>ff</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 251-260</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="5">
+<locus from="86v:9" to="87r:8">ff. 86r:9-87r:8</locus>
+<title type="uniform" lang="DAN">Valdemar Atterdags forpligtelsesbrev af 1341</title>
+<incipit>Allæ Mæn th<expan>ættæ</expan> br<expan>e</expan>ff se allær høræ læses helssæ wi Waldemar m<expan>eth</expan> guts nathæ</incipit>
+<explicit>Giuit i Roskilde aar æfft<expan>ær</expan> guts byrth m ccc xl pa th<expan>æt</expan> førstæ the heliæ thre koni<expan>n</expan>ge dagh</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 225-226</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="6">
+<locus from="87r:9" to="89v:30">ff. 87r:9-89v:30</locus>
+<title type="uniform" lang="DAN">Olufs Håndfæstning af 3. maj 1376</title>
+<incipit>I th<expan>æ</expan>n heliæ threfoldichets naffn am<expan>en</expan> Ar æfft<expan>ær</expan>gutz byrth mccc lxx oc pa th<expan>æt</expan> siættæ</incipit>
+<explicit>at hengæ wort inseilæ foræ thettæ breff. aff wor wittighestæ wessæ tell witnes byrth oc stærkær<expan>æ</expan> forwaringh</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 284-291</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="7">
+<locus from="89v:30" to="91r:10">ff. 89v:30-91r:10</locus>
+<title type="uniform" lang="DAN">Forpligtelsesbrevet 1377 (Landefreden af 1. juli 1377)</title>
+<incipit>Allæ mæ<expan>n</expan> thættæ breff &amp;c Oloff m<expan>æth</expan> guts nathæ Da<expan>n</expan>marks Wendæs oc God<expan>æs</expan> koni<expan>n</expan> oc wi Margærætæ</incipit>
+<explicit>Giuæt oc giort th<expan>æ</expan>n dagh som forsc<expan>re</expan>ffuæt star aar æfft<expan>ær</expan> guts byrth m cc lxx pa th<expan>æt</expan> siwændæ ottænde dagh<expan>æ</expan> æfft<expan>ær</expan> sancti Iohanis baptistæ dagh</explicit> 
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 322-325</biblScope>
+</bibl>
+</msItem>
+
+<msItem n="8">
+<locus from="91v:1" to="91v:24">f. 91v:1-24</locus>
+<title type="supplied" lang="LAT">Nota bene</title>
+<rubric>Nota bene</rubric>
+<incipit>Primo Ry<expan>m</expan>mer nogh<expan>e</expan>r fran syn iordrotte och bliffu<expan>er</expan> ey g<expan>re</expan>ben paa syn rø<expan>m</expan>ni<expan>n</expan>gswey</incipit>
+</msItem>
+
+<msItem n="9">
+<locus from="92r:1" to="123v:7">ff. 92r:1-123v:6</locus>
+<title type="uniform" lang="DAN">Valdemars Sjællandske Lov og Sjællandske Kirkelov</title>
+<title type="parallel" lang="ENG">Valdemar's Zealandic Law and the Zealandic Church Law</title>
+
+<msItem n="9.1">
+<locus from="92r:1" to="96r:7">ff. 93r:1-96:7</locus>
+<title>Kapitelregister til Valdemars Sjællandske Lov og Sjællandske Kirkelov</title>
+<title>Chapter list of Valdemar's Zealandic law and the Zealandic Church Law</title>
+<incipit>Tabula libri p<expan>ri</expan>mi</incipit>
+<explicit>Tabulis expletis</explicit>
+</msItem>
+
+<msItem n="9.2">
+<locus from="96r:7" to="123v:6">ff. 96r:7-123v:6</locus>
+<title>Sjællandske Lov</title>
+<title>Zealandic Law</title>
+<incipit>incipit lib<expan>er</expan> p<expan>ri</expan>mus qui t<expan>ra</expan>ctat de iur<expan>e</expan> heredita<expan>r</expan>io cu<expan>m</expan> cap<expan>itu</expan>lis s<expan>ibi</expan> attine<expan>n</expan>tibus</incipit>
+<explicit>oc tho mæth th<expan>e</expan>n sa<expan>m</expan>mæ logh ær førr<expan>e</expan> ær saght</explicit>
+</msItem>
+
+<msItem n="9.3">
+<locus from="123v:7" to="126r:27">ff. 123v:7-126r:27</locus>
+<title type="uniform">Sjælandske Kirkelov</title>
+<title type="parallel" lang="ENG">Zealandic Church Law</title>
+<rubric>Incipit ius ecc<expan>lesi</expan>a<expan>sti</expan>cum</rubric>
+<incipit>i Vm kirkæ wiælssæ</incipit>
+<explicit>Expliciu<expan>n</expan>t leges selande<expan>n</expan>ses</explicit>
+</msItem>
+</msItem>
+
+<msItem n="10">
+<locus from="126v:1" to="129r:3">ff. 126v:1-129r:3</locus>
+<title type="uniform" lang="DAN">Tyveretten</title>
+<title type="parallel" lang="ENG"/>
+<rubric>thiuwæ balk<expan>er</expan></rubric>
+<incipit>Stiæl nokær man. tha a han æy at bindes foræ my<expan>n</expan>næ æn fæm pe<expan>n</expan>nyngæ mun.</incipit>
+<explicit>Æn takær han antigh. tha giuæ twa øræ. th<expan>et</expan> ær twa ørtugh silffs.</explicit>
+</msItem>
+
+<msItem n="12" defective="yes">
+<locus from="129r:4" to="134v:24">ff. 129r:4-134v:24</locus>
+<title type="uniform">Kong Christian II's håndfæstning, 22. juli 1513</title>
+<incipit>Vy Børy m<expan>eth</expan> gutz nadhe erchebisscop<expan>e</expan>r vti lwnd swe<expan>ri</expan>g<expan>is</expan> førsthe oc paffwenss legatthe e<expan>ri</expan>cke aff sa<expan>m</expan>me naadhe erchibisscop</incipit>
+<explicit defective="yes">Oc om nogh<expan>e</expan>n wanbordh<expan>e</expan>n oc ycky edel fødh <expan>e</expan>r haffwe nw vti Da<expan>n</expan>m<expan>ar</expan>ck ell<expan>e</expan>r</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning 1513-1523</title>
+<editor>Aage Andersen</editor><imprint><pubPlace>København</pubPlace>
+<date>1991</date></imprint><biblScope type="pages">ff. 19-31</biblScope>
+<note>Signature Ab.</note>
+</bibl>
+<note>The text is defective (chapter 27-68 are missing) because of missing leaf / leaves.</note>
+</msItem>
+
+</msContents>
+<physDesc>
+    <support><p>Parchment.</p></support>
+    <extent>ff. 134 + i.<dimensions type="leaf" scope="all"><height>180</height><width>135</width></dimensions>
+      mm.</extent> 
+    <collation><p>14 quires: I: 10 (ff. 1-10), II: 11
+	  (ff. 11-21; f. 13 is added), III: 10 (ff. 22-31), IV: 10 (ff. 32-41),
+	  V: 10 (ff. 42-51), VI: 10 (ff. 52-61), VII: 10 (ff. 62-71), VIII: 10
+	  (ff. 72-81), IX: 10 (ff. 82-91), X: 10 (ff. 92-101), XI: 10
+	  (ff. 102-111), XII: 11 (112-122; f. 122 is added), XIII: 8
+	  (ff. 123-130), XIV: 4 (ff. 131-134). Catchwords on the last
+	verso pages of the quires have been cropped in
+	rebinding.</p></collation> 
+    <layout columns="1" writtenLines="28-31"><p>One column; 28-31 lines;
+	written area: 130 x 100 mm. The text of each chapter begins with a
+	2-line red initial and roman chapter numbers in red accompanied by an
+	underlining or a framing of the corresponding rubric and often a
+	paragraph-mark. Paragraphs are indicated by red-stroked letters and
+	sometimes by a paragraph-mark.</p></layout> 
+
+    <msWriting hands="5">
+      <handDesc scribe="Jacobus Olavi" script="gothic hybrid" medium="ink" scope="major"><p>Jacobus Olavi has written the texts on ff. <locus from="14" to="91r">1r-91r</locus> and
+	  <locus from="92r" to="129r">92r-129r</locus> in a practiced gothic
+	  hybrid, and signed his name on f. <locus>91v</locus>, 
+	  at the end of the first section of the book: <q>p<expan>er</expan>
+	    manus iacobi olaui</q>.</p></handDesc> 
+
+      <handDesc script="gothic cursive" medium="ink" scope="minor"><p>A later
+	  cursive hand, most likely from the first half of the 16th century,
+	  has written f. <locus>91v</locus>.</p></handDesc> 
+
+      <handDesc script="gothic cursive" medium="ink" scope="minor"><p>Another
+	  gothic cursive hand from the 1st half of 16th century has written
+	  ff. 129r-134v. The same hand has written marginalia on
+	  ff. <locus>95v</locus>, <locus>96r</locus>, <locus>123v</locus>.
+	</p></handDesc> 
+
+      <handDesc script="new gothic" medium="ink" scope="minor"><p>There are
+	  marginal notations (new gothic script) about the divisions of the
+	  texts on ff. <locus>25v</locus>, <locus>38r</locus>,
+	  <locus>80v</locus>, <locus>82v</locus>, <locus>86v</locus>,
+	  <locus>89v</locus>, <locus>92r</locus>, <locus>123v</locus>,
+	  <locus>134v</locus>.</p></handDesc> 
+ 
+      <handDesc script="new gothic" medium="ink" scope="minor"><p>
+	  The information on Erik's Zealandic Law on the front paste-down is
+	  also written in a new gothic hand.</p></handDesc> 
+    </msWriting>
+
+    <decoration>
+      <decoNote type="secondary" subtype="initials" size=""><p>Numerous red
+	  lombards.</p></decoNote> 
+    </decoration> 
+
+    <bindingDesc><binding><p>Parchment binding with turned fore-edge. Sweden 17th century or in connection with the library acquisition of the manuscript in 1704. Size: 183 x 148 x 50 mm.</p>
+<p>Parchment binding over pasteboards with turned fore-edge. Parchment cracked at the joint of the lower cover and covers slightly warped. Ties missing. Flat spine, hollow back. Manuscript titles in ink; one in sepia (20th century) the other faded. Blind-tooled library label of paper. Endbands of green silk embroidered on white leather thongs laced through the covers. Embroidery of the endbands in part missing (tail) and damaged. Former edge trimming preserved together with five fore-edge textmarkers of red parchment on ff 18, 29, 80, 93 and 126. Plain single flyleaves (front leaf missing) and pastedowns of paper. All along sewing on four double white leather thongs laced through the covers.</p></binding></bindingDesc>
+
+    <foliation><p>Foliated in pencil by modern cataloguer in upper right
+	margin.</p></foliation> 
+
+    <additions><p>Marginal notations by the same gothic hand on the following
+	pages:  
+	<list>
+	  <item><locus>f. 25v</locus>, left margin: <q>NB. Her begyndiss den
+	      3. Bog udi den Tryckte Sælandss Lougbog.</q></item> 
+	  <item><locus>f. 38r</locus>, right margin / lower margin: <q>NB. Her
+	      begyndiss den fjerde Bog i den Tryckte Sælandske
+	      Lougbog.</q></item> 
+	  <item><locus>f. 80v</locus>, top margin: <q>Nogle Artickle med huilke
+	      kong Christopher den Anden forskreff sig til menige Rigenss
+	      Stender. Huitfeldius p. 280.</q></item> 
+	  <item><locus>f. 80v</locus>, left margin: <q>Kaldiss ellerss Hertug
+	      Christophers Handfestning.</q></item> 
+	  <item><locus>f. 82v</locus>, left margin. <q>* Waldemari IV Ny
+	      Recess. 1360. Hvitfeldius pag. 547.</q></item> 
+	  <item><locus>f. 86v</locus>, left margin: <q>* Kong Waldemar den 4
+	      tilgiffuer adelen deriss
+	      forseelsse. 1341. Hvitfeld. p. 441.</q></item> 
+	  <item><locus>f. 89v</locus>, left margin / lower margin: <q>* Kong
+	      Oluff och Adelen beplichter sig at giemme Lowen etc., Hvitfeldius
+	      pag. 20.</q></item> 
+	  <item><locus>f. 92r</locus>, upper margin: <q>Dette er den Sælandske
+	      Lowbog.</q></item> 
+	  <item><locus>f. 92r</locus>, upper margin (written in red ink):
+	    <q>NB. Denne Loug kaldiss udi somme gamle Skreffuen bøger, kong
+	      Waldemars Loug.</q></item> 
+	  <item><locus>f. 123v</locus> (written in red ink): <q>FINIS LEGVM
+	      SELANDICARVM.</q></item> 
+	  <item><locus>f. 123v</locus>, left margin (in red ink): <q>IVS
+	      ECCLESIASTICVM ABSALONIS ARCHIEPISCOPI.</q></item> 
+	  <item><locus>f. 123v</locus>, lower margin (in red ink): <q>Vdi gamle
+	      skreffne Bøger kaldiss denne Kircke Ret Kirke Skraaen.</q></item> 
+	  <item><locus>f. 134v</locus>, lower margin:
+	    <q>134 Bladder</q></item>
+	</list>
+      </p>
+      <p><name type="person" role="librarian">August Palm</name> (1826-1907),
+	librarian at the library from 1856, has written chapter numbers in
+	pencil in the margins, mainly in the margins of the Zealandic
+	Law.</p></additions> 
+  </physDesc>
+<history>
+    <origin notBefore="1425" notAfter="1550"><p>The bulk of the book was
+	written in mid 15th century by <name type="person" role="scribe">Jacobus Olavi</name> (decanus eccl. Roskildensis,
+	c. 1434?, according to a note by <name type="person" role="librarian">August Johan Theod. Palm</name>). F. 91v and
+	ff. 129r-134v were written by younger hands, most likely from the
+	first half of the 16th century.</p></origin> 
+
+    <acquisition><p>Acquired in <date>1704</date> when Lund University Library
+	purchased the <name type="person" role="owner">Meck</name> book
+	collection.</p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by
+	    Anne Mette Hansen during 2001.</p>
+</source>
+<change>
+<date rend="creation">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Palm, August</author>
+	<title level="m">Anteckningar till medeltidshandskrifterna i Lunds
+	  Universitetsbiblotek (handwritten notes kept in a box at the
+	  manuscript department.</title> 
+	<imprint><pubPlace>Lund</pubPlace></imprint>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

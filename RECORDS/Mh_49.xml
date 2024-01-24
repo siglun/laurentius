@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_49">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund Observatory (in deposition at Lund University Library)</repository>
+<idno>Medeltidshandskrift 49</idno>
+<altName type="database-identifier">scriptorium:Mh:382963:1127733609</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Miscellany: Astronomy</title> 
+  <origPlace>Bavaria</origPlace>
+  <origDate notBefore="1480" notAfter="1520">15th century, late - 16th century, early</origDate>
+  <textLang langKey="GER">German (Bavarian dialect)</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="7r">ff. 1r-7r</locus>
+<title type="uniform">About the "houses" (mansiones) of the moon</title>
+<rubric>Nu merck von der wonung des mons ... </rubric>
+<incipit>Der Mon hat vberall 28 wonung ... </incipit>
+<explicit>Auch hat D pey dem tag mer kraft dan dy O pey der nacht</explicit>
+<note>F. 7v: blank.</note>
+</msItem>
+
+
+<msItem n="2">
+<locus from="8r" to="9r">ff. 8r-9r</locus>
+<title type="uniform">About the position of Saturnus</title>
+<rubric>Von der schickung Saturni ... </rubric>
+<incipit>Lvna in allem wesen so er zuegefuegt wirt Saturno ... </incipit>
+<explicit>als wol den diennärn als den herren etc.</explicit>
+</msItem>
+
+<msItem n="3">
+<locus from="9v" to="10r">ff. 9v-10r</locus>
+<title type="uniform">Pyromantia</title>
+<incipit>Hie hebt sich an dy Piromantia Die man machen sol das feur der erkantnüß kunftiger ding ... </incipit>
+<explicit>also hat die kunst hie ain end.</explicit>
+</msItem>
+
+<msItem n="4">
+<locus from="10v" to="11r">ff. 10v-11r</locus>
+<title type="uniform">About the zodiacal signs.</title>
+<rubric>von V</rubric>
+<incipit>Item die hernach geschriben stet sein von der taylung Arietis ... </incipit>
+<explicit>klag vnd traurigkait vnd geistligkait.</explicit>
+</msItem>
+
+<msItem n="5">
+<locus from="11v" to="12r">ff. 11v-12r</locus>
+<title type="uniform">About the winds; diagram and text</title>
+<incipit>Nvn got an von den winden ein Capitel ... </incipit>
+<explicit>das s bedewtt siccus das haist drucken.</explicit>
+<note>Additions to the text at ff. 11v and 12r about the winds by a later hand; f. 12v: blank.</note>
+</msItem>
+
+<msItem n="6">
+<locus from="13r" to="22v">ff. 13r-22v</locus>
+<title type="uniform">About weather</title>
+<rubric>Von der anderung des weters</rubric>
+<incipit>In wissende da vber laß ich vill pücher das ain ietzlich wandlung des luffts geschiecht ... </incipit>
+<explicit>ist zw versten von dem ascendenten.</explicit>
+</msItem>
+
+
+<msItem n="7">
+<locus from="23r" to="26r">ff. 23r-26r</locus>
+<title type="uniform">Table of the planets and their influence on earth</title>
+<note>F. 26v: blank.</note>
+</msItem>
+
+<msItem n="8">
+<locus from="27r" to="31r">ff. 27r-31r</locus>
+<title type="uniform">About forecasting the weather</title>
+<incipit>Wer da wissen welle was in einem yedlichem monat von gewitter werd ... </incipit>
+<explicit>dar nach der grad ist schicket sich das wetter.</explicit>
+<note>F. 31v: blank.</note>
+</msItem>
+
+<msItem n="9">
+<locus from="32r" to="35v">ff. 32r-35v</locus>
+<title type="uniform">Astrological directions</title>
+<incipit>Anno etc quinquagesimo quinto am suntag vor Jacobj ... est ain chnab geporen dem diß nach geschribem judicia gemacht est ... </incipit>
+<explicit>vnd pey der scham vnd ist vergessenlich.</explicit>
+<note>At f. 35v an astrological diagram added by a later hand.</note>
+</msItem>
+
+
+<msItem n="10">
+<locus from="36r" to="40v">ff. 36r-40v</locus>
+<title type="uniform">About the planets</title>
+<rubric>Hye heben sich an dy erwelung der planeten stunden</rubric>
+<incipit>Spricht halij Ebenragel das sein dy erwelung dy da genumen sein auß dem puech abablez ... </incipit>
+<explicit>wer dar jn gefangen wirt der wirt nicht ledig.</explicit>
+<note>Abi Ibn Ragal ("halij Ebenragel") and Albumasar are mentioned here.</note>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Paper</p>
+<watermarks><p>Three different watermarks: 1) at ff. 5, 7, 9, 10, 11, 12, very similar to that of <ref>Briquet 14871 (1434-45), 14872 (1457-70), 14873 (1483), 14874 (1489) and 14875 (1509)</ref>; 2) at ff. 14-17, 22, 25-26, 29-30 very close to <ref>Briquet 14868 (1465-1492)</ref> and 3) at ff. 31-32, 34, 37-38 <ref>Briquet 11949 (1480)</ref>.</p></watermarks>
+</support><extent>ff. i + 40 +
+      i,<dimensions><height>305</height><width>215</width></dimensions>
+      mm.</extent>
+
+<collation><p>4 quires: I: 5 (ff. 2-11; f. 1 is a single leaf), II: 12 (ff. 12-23), III: 6 (ff. 24-29), IV: 10 (ff. 30-39; f. 40 is a single leaf). Collation is uncertain since the manuscript has been rebound.</p></collation>
+<layout><p>Partly rubricated. Page layout and number of lines vary.</p>
+</layout>
+<msWriting hands="6">
+<handDesc script="cursive" medium="ink" scope="sole"><p>
+Cursive script from early 16th century. Six hands: Hand I: ff. 1r-10r, 36r-40v; Hand II: ff. 10v-11r; Hand III: ff. 11v-12r; Hand IV: ff. 13r-22v; Hand V: ff. 23r-26r; Hand VI: ff. 27r-35v.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>Calligraphic small lombards in red up to f. 33r, continuous use of the signs of the zodiac in running text, horoscopes and tables; f. <locus>24v</locus>: Table with the signs of the zodiac in red; f. <locus>34v</locus>: Rose of winds; circular diagram with four inscribed ribbons radiating from a central circular field, and two inscribed ribbons radiating from each one of these, all ending at the circumference of the diagram, together forming a double cruciform disposition; f. <locus>53v</locus>: Table with three columns of astrological signs; f. <locus>58v</locus>: Astrological horoscope.</p></decoNote>
+</decoration>
+<bindingDesc>
+<binding><p>Paper binding with blue grey French shell marbled paper; Germany, first decades of the 19th century. (cfr. Wolfe 1990 p. 185 and plate XXX:96). Size: 310 x 220 x 15 mm.</p>
+<p>Paper binding with blue grey French shell marbled paper over pasteboards, worn. Rounded spine. Hollow back, defect. Trimmed edges. Single plain flyleaves and pastedowns of paper.  Notes on front pastedown in pencil from top to bottom: <q>Oberdeutsch Qursiven / err. / 1500.- / fol. 24-63 fol. 1-23 saknas / Dep. i LUB av Astr. Inst. / Nfi / Medeltidshs nr 49 / KIH 15</q>. Notes in pencil on back pastedown: <q>17</q> (crossed out) / <q>M. T. I. F. - 56 / He. 12/XI. 44. / 3590. / 3114</q> (crossed out) and <q>ArTG</q> (?).Former all along sewing on 
+double supports partially defect and later cut flush with the spine. Originally the bookblock was cased to the covers by a single string of glue on the flyleaves, which explain why the bookblock is now loose in case, first and last page of the manuscript still hold to the flyleaves and cover.</p></binding></bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in lower right margin (ff. 1-40); contemporary foliation in red ink in upper right margin ff. 24-63 (ff. 1-23 thus missing).</p></foliation>
+<additions><p>At f. i recto: notes in pencil: (1455) / Ms. 89.</p></additions>
+</physDesc>
+<history>
+<origin><p>Germany, Regensburg (cfr. f. 1r, upper margin: <q>Conventus Ratisbon[ensis] ord. Praed.</q>), late 15th century - early 16th.</p>
+</origin>
+<acquisition><p>At upper pastedown in upper left corner a label from the antiquarian book seller Emanuel Mai in Berlin; under the label in ink: No. 17044/E.</p><p>The manuscript came to the University Library in 1936 in deposition from the Lund Observatory.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the manuscript description encoded in June of 2002 by Eva Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

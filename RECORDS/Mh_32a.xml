@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_32a">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 32a</idno>
+<altName type="former shelfmark">Ms. Th. 4:o 1</altName>
+<altName type="former shelfmark">Biblioth. Meckiana No. XX</altName>
+<altName type="database-identifier">scriptorium:Mh:909103:1137070371</altName>
+</msIdentifier>
+<msHeading>
+      <title lang="ENG">Prayerbook</title> 
+      <origPlace>Holland (Delft, for the use of Utrecht)</origPlace>
+      <origDate notBefore="1460" notAfter="1480">15th century (1460
+	c.-1480)</origDate> 
+      <textLang langKey="DUT">Dutch</textLang>
+    </msHeading>
+<msContents>
+
+      <msItem n="1">
+	<locus from="2r" to="2v">f. 2r-v</locus>
+	<title type="uniform">Rhymed verses from "De boec van seden".</title>
+	<incipit>Weest snel in verstandelhet Ende traech tot elker
+	  quaethet</incipit> 
+	<explicit>so wil ic mijn hueeickijn anders drayen.</explicit>
+	<note>F. 1r-v: blank.</note>
+      </msItem>
+
+      <msItem n="2">
+	<locus from="2v" to="2v">f. 2v</locus>
+	<title type="uniform">Minneverser</title>
+	<incipit>God gheef allen reynen harten eer</incipit>
+	<explicit>dat hi mint.</explicit>
+      </msItem>
+
+      <msItem n="3">
+	<locus from="2v" to="2v">f. 2v</locus>
+	<title type="uniform">Proverbs</title>
+	<incipit>Wantnem (!) wanckel vrienden vint</incipit>
+	<explicit>Als water doir een teems ghegoten. Nota bene.</explicit>
+	<note>The two last verses are written in a smaller gothic
+	  book-hand.</note> 
+	<listBibl>
+	  <bibl>
+	    <author>Rooth, E.</author>
+	    <title level="a">"Mittelniederländische Reimsprüche aus
+	      Lund"</title> 
+	    <title level="j">Niederdeutsche Mitteilungen</title>
+	    <biblScope type="volume">2</biblScope>
+	    <imprint>
+	      <date>1946</date>
+	    </imprint>
+	    <biblScope type="pages">ed. on pp. 123-134</biblScope>
+	  </bibl>
+	</listBibl>
+      </msItem>
+
+      <msItem n="4">
+	<locus from="3r" to="11r">ff. 3r-11r</locus>
+	<title type="uniform">Calendar</title>
+	<note>In red: Pontianus (14. 1), Pancratius (12. 5), Bonifatius (5. 6),
+	  Willibrordus, bishop of Utrecht (7. 11), Lebuinus (12. 11) with
+	  Translatio Lebuini (25. 6), indicating the diocese of Utrecht.</note> 
+      </msItem>
+
+      <msItem n="5">
+	<locus from="11r" to="11v">f. 11r-v</locus>
+	<title type="uniform">Auctoritates</title>
+	<incipit>Also hebt altoes dinen vrient als dattu waenste dat hi noch
+	  viant worden mach</incipit> 
+	<explicit>Dat hi die soeticheit der trouwen deruen moet.</explicit>
+      </msItem>
+
+      <msItem n="6">
+	<locus from="11v" to="11v">f. 11v</locus>
+	<title type="uniform">Prayer</title>
+	<rubric>Oracio</rubric>
+	<incipit>HEer god sich harwaert tot ons</incipit>
+	<explicit>en brenghense ten ewighen leuen Amen</explicit>
+	<note>F. 12r-v: blank.</note>
+      </msItem>
+
+      <msItem n="7">
+	<locus from="13r" to="51r">ff. 13r-51r</locus>
+	<title type="uniform">Breviary</title>
+	<rubric>Hier beghinnen sommighe vanden merkelicsten feesten ... Inden
+	  eersten vanden aduent ... Respons</rubric> 
+	<incipit>SIet mijn alre liefsten die grote ende die veruaerliken dach
+	  des oerdels</incipit> 
+	<explicit>mitten trooster den heilighen geest nv ende in ewicheden
+	  Amen.</explicit> 
+	<note><p>Liturgical prayers to the feasts, with antiphons, versicles
+	    and collects.</p> 
+	  <p>Ff. 51v-53v: blank.</p></note>
+      </msItem>
+
+      <msItem n="8">
+	<locus from="54r" to="103v">ff. 54r-103v</locus>
+	<title type="uniform">Psalter of the Blessed Virgin Mary</title>
+	<rubric>Dis die ordinancie van onser lieuen vrouwen souter
+	  ... </rubric>  
+	<incipit>Inden daghe onser lieuer vrouwen bootscap salmen desen souter
+	  beghinnen te lesen</incipit> 
+	<explicit>God gheef allen reynen harten eer die connen draghen hoers
+	  harten seer.</explicit> 
+	<note><p>According to f. <locus>54v</locus> the following psalter is
+	    written by Bernard of Clairvaux; on f. <locus>55r</locus>:
+	    <q>Hier beghint dat prologius onser lieuer vrouwen souter</q> and
+	    <q>O heer doe op minen mont te louen dinen ... naem ... </q></p> 
+	  <p>Rubricated Latin initia.</p>
+	  <p>Litany to the Blessed Virgin Mary at f. <locus>98r</locus>; f. <locus>101r</locus>:
+	    <q>Collecta</q> and <q>WEs ghegroet O heilighe moeder gods
+	      ... </q>; f. <locus>102r</locus>: <q>in 
+	      onneyndeliker ewicheit Amen.</q> and on f. <locus>102r</locus>: <q>Hier beghint
+	      onser lieuer vrouwen te deum</q>, and
+	    <q>DIe moeder gods louen wi ... </q></p> </note>  
+      </msItem>
+
+      <msItem n="9">
+	<locus from="104r" to="127v">ff. 104r-127v</locus>
+	<title type="uniform">Seven psalms of the Blessed Virgin Mary, with
+	exempla</title>
+
+	<rubric>Hier beghint onser lieuer vrouwen seuen psalmen</rubric>
+	<incipit>O vrouwe en wilt niet ghehenghen
+	  dat vi beruspt worden</incipit>
+
+	<explicit>en spreken si te min quaets niet.</explicit>
+
+	<msItem n="9.1"><locus from="107r" to="107r">f. 107r</locus>
+	  <title>Litany of the Blessed Virgin Mary</title>
+	</msItem>
+	
+	<msItem n="9.2"><locus from="111v" to="111v">f. 111v</locus>
+	  <rubric>Hier beghint een ... crans ghehieten is onser
+	  lieuer vrouwen hoet ... </rubric>
+	</msItem>
+	
+	<msItem n="9.3"><locus from="116v" to="119r">ff. 116v-119r</locus>
+          <title>Prayers to the Blessed Virgin Mary</title>
+          <incipit>O Ghebenedide vrouwe der hemelen heilighe reyne maghet 
+	    maria</incipit>
+	  <explicit>ende dijn wille O maghet maria</explicit>
+	</msItem>
+
+        <msItem n="9.4"><locus from="119r" to="119v">ff. 119r-119v</locus>
+	  <incipit>Want ic wel weet ende seker ben</incipit>
+	  <explicit>ende alle ghelouighe sielen rust Amen.</explicit>
+	</msItem>
+
+        <msItem n="9.5"><locus from="119v" to="121r">ff. 119v-121r</locus>
+	  <rubric>een weninghe der saligher ende der reynre maghet
+	    maria</rubric>
+	  <incipit>Die moeder gods vol van rouwen stont al wenende biden
+	    cruce</incipit>
+	  <explicit>die glorie des hemelschen paradijs</explicit>
+	  <note><p>(cfr. Stabat mater, Analecta hymnica Medii Aevi 54, 201).
+	    </p></note>
+	</msItem>
+
+        <msItem n="9.6"><locus from="121v" to="125r">ff. 121v-125r</locus>
+	  <title>Prayer, attributed to Augustin</title>
+	  <incipit>O Alre goedertierenst ende ontfermharticste
+	    ioncfrouwe</incipit>
+	  <explicit>ende regniert een god ewelic sonder eynde
+	    Amen.</explicit>
+	</msItem>
+
+	<msItem n="9.7"><locus from="125r" to="127r">ff. 125r-127r</locus>
+	  <title>Prayer attributed to Bernard</title>
+	  <incipit>Ic spreke tot dijne harten ende aenbedet</incipit>
+	  <explicit>alle salicheit des lichaems ende der zielen</explicit>
+	</msItem>
+  
+        <msItem n="9.8"><locus from="127r" to="127r">f. 127r</locus>
+	  <incipit>Wes blide moeder gods onbeulect</incipit>
+	</msItem>
+
+      </msItem>
+
+      <msItem n="10">
+	<locus from="128r" to="202v">ff. 128r-202v</locus>
+	<title type="uniform">The Seven Delights of the Blessed Virgin Mary
+	  and other prayers to her, some of them attributed to Bernard,
+	  some with versicle and collecta.</title>
+
+	<rubric>Hier beghinnen onser lieuer vrouwen ... seuen lichameliker
+	  bliscappen</rubric>
+
+	<incipit>Die eerste bliscap die si hade is doe hoer die boetscap
+	quam</incipit>
+
+	<explicit>in mijnre harten ende in minen monde Amen.</explicit>
+
+	<note><p>F. 203r-v: blank.</p></note>
+
+	<msItem n="10.1"><locus from="180r" to="190r">ff 180v-190r</locus>
+	  <rubric>Hier beghint een sermoen van onser lieuer vrouwen hemel
+	    ... </rubric>
+	  <incipit>Als die tijt nakende was dat maria</incipit>
+	  <explicit>Daer ons toe brenghen moet die hemelsche coninghinne maria
+	    Amen.</explicit> 
+
+	  <note><p>On f. <locus>190v</locus>: Prayers to the Blessed Virgin
+	      Mary, some with 
+	      versicle and collecta.</p></note>
+	</msItem>
+      
+	<msItem n="10.2"><locus from="202r" to="202r">f. 202</locus>
+	  <title>Prayer to Christ</title>
+	  <incipit>Ic beueel minen doot inden bitteren doot mijns heren
+	    ... </incipit>
+	</msItem>
+      </msItem>
+
+      <msItem n="11">
+	<locus from="204r" to="259v">ff. 204r-259v</locus>
+	<title type="uniform">Prayers to the Passion of Christ, with
+	  exempla.</title>
+	<rubric>oracio</rubric>
+	<incipit>West ghegroet mijn salichet O du lieue heer</incipit>
+	<explicit>Ter eren dijns hemelschen vaders ende der glorioser maghet
+	  maria Amen.</explicit>
+
+	<msItem n="11.1">
+	  <locus from="204r" to="204r">f. 204r</locus>
+	  <title>Prologus</title>
+	  <rubric>Dat prologe op die ghecruuste leden
+	    ons heren ihesu cristi</rubric>
+	  <incipit>Men leest dat sinte barnaert dit ghebet
+	    ghemaect heeft</incipit> 
+	</msItem>
+      </msItem>
+
+      <msItem n="12">
+	<locus from="259v" to="281v">ff. 259v-281v</locus>
+	<title type="uniform">Prayers to the Eucharist</title>
+	<incipit>O ouerste priester ende waer biscop heer ihesu
+	  christe</incipit>
+	<explicit>oetmoedichet caritate wijsheit.</explicit>
+	<note><p>The first prayer is attributed to Ambrose; cfr. Summe
+	    sacerdos, Patrologiae cursus completus ...
+	    acc. J. P. Migne. Series Latina 17,751-755.</p> 
+	</note>
+      </msItem>
+
+      <msItem n="13">
+	<locus from="282r" to="293v">ff. 282r-293v</locus>
+	<title type="uniform">Hours of the Passion of Christ</title>
+	<rubric>Hier b<supplied reason="illegible">e</supplied>ghint
+	  een deuote oeffeninghe vander passien ons heren 
+	  ihesu cristi</rubric> 
+	<incipit>Cristus onse gheminde brudegom</incipit>
+	<explicit>O heer ic dank di dat ic di ewelic behouden mach
+	  Amen</explicit> 
+	<note><p>F. 294: blank.</p></note>
+
+	<msItem n="13.1"><locus from="293r" to="293r">f. 293</locus>
+	  <title>Rhymed prayer</title>
+	  <incipit>Die wil hebben pays ende vrede
+	    Ende oec langhe wil bliuen op eenre stede</incipit>
+	</msItem>
+
+      </msItem>
+
+    </msContents>
+<physDesc>
+      <support><p>Paper mainly (ff. 1, 12, 13, 24, 203 in
+	  parchment).</p></support><extent>ff. 294,
+	<dimensions><height>200</height><width>145</width></dimensions>
+	mm.</extent>
+
+      <collation>
+	<p>25 quires: I: 12 (ff. 1-12), II: 12
+	    (ff. 13-24), III:  12 (ff. 25-36), V: 12 (ff. 37-48), VI: 5
+	    (ff. 49-53), VII: 12 (ff. 54-65), VII: 12 (ff. 66-77), VIII: 12
+	    (ff. 78-89), IX: 12 (ff. 90-101), X: 14 (ff. 102-115), XI: 12
+	    (ff. 116-127), XII: 12 (ff. 128-139), XIII: 12 (ff. 140-151), XIV:
+	    12 (ff. 152-163), XV: 13 (ff. 164-176), XVI: 10 (ff. 177-186 ),
+	    XVII: 12 (ff. 187-198), XVIII: 13 (ff. 199-211), XIX: 10
+	    (ff. 212-221), XX: 10 (ff. 222-231), XXI: 10 (ff. 232-241), XXII:
+	    15 (ff. 242-256), XXIII: 12 (ff. 257-268), XXIV: 12 (ff. 269-280),
+	    XXV: 13 (ff. 281-293); f. 294 added later.</p>
+<p>Collation is uncertain since the manuscript has been rebound.</p></collation>
+
+      <layout columns="1" writtenLines="24"><p>One columne; ruled in ink;
+	  written space: 115 x 80 mm., 24 lines.</p></layout>
+
+      <msWriting hands="2">
+	<handDesc script="gothic book hand"><p>
+	    Gothic book hand; two hands; hand I: ff. 3-11; 13-48; hand II:
+	    ff. 2r-v; 11r-v; 49-293.</p></handDesc>
+
+      </msWriting> 
+
+      <decoration>
+	<decoNote><p>One full page border with a half-length figure;
+	    101 highly  accomplished initials with pen flourishing and
+	    filigranated pattern, executed by four different
+	    artists. Frontispiece with initial by artist A, 14 intials from
+	    ff. 1r - 50 by artist B 
+	    (ff. <locus>15v</locus>, <locus>19r</locus>, <locus>22v</locus>,
+	    <locus>28r</locus>, <locus>34r</locus>, <locus>38r</locus>,
+	    <locus>40v</locus>, <locus>42r</locus>, <locus>43r</locus>,
+	    <locus>44r</locus>, <locus>45v</locus>, <locus>46r</locus>, 
+	    <locus>47r</locus>, <locus>50r</locus>),
+
+	    from f. 54 initials alternately by artists A
+
+	    (ff. <locus>68r</locus>, <locus>72r</locus>, <locus>76r</locus>,
+	    <locus>79r</locus>, <locus>83v</locus>, <locus>87r</locus>,
+	    <locus>88r</locus>, <locus>90r</locus>, <locus>93r</locus>,
+	    <locus>94v</locus>, <locus>96r</locus>, <locus>98r</locus>;
+	    <locus>153v</locus>, <locus>156v</locus>, 
+	    <locus>159v</locus>, <locus>160v</locus>, <locus>163r</locus>,
+	    <locus>167r</locus>, <locus>167v</locus>),
+
+	    C (ff. <locus>54r</locus>, <locus>55r</locus>, <locus>56r</locus>,
+	    <locus>64v</locus>; <locus>102r</locus>, 
+	    <locus>104r</locus>, <locus>107r</locus>, <locus>113v</locus>,
+	    <locus>114r</locus>, <locus>114v</locus>, <locus>115v</locus>;
+	    <locus>128r</locus>, <locus>128v</locus>, <locus>129r</locus>,
+	    <locus>129v</locus>, <locus>130v</locus>, 
+	    <locus>131r</locus>, <locus>136v</locus>, <locus>139v</locus>,
+	    <locus>141r</locus>, <locus>142r</locus>, <locus>143v</locus>,
+	    <locus>145v</locus>, <locus>149r</locus>; <locus>177r</locus>,
+	    <locus>178r</locus>, <locus>179v</locus>, 
+	    <locus>180v</locus>, <locus>190v</locus>, <locus>193r</locus>,
+	    <locus>198r</locus>, <locus>202r</locus>, <locus>204r</locus>;
+	    <locus>223r</locus>, <locus>224r</locus>, <locus>226r</locus>,
+	    <locus>227v</locus>; <locus>259v</locus>, 
+	    <locus>282r</locus>, <locus>283r</locus>, <locus>284v</locus>,
+	    <locus>286r</locus>, <locus>287r</locus>, <locus>289r</locus>,
+	    <locus>290r</locus>, <locus>291r</locus>) 
+
+	    and D (ff. <locus>116r</locus>,
+	    <locus>116v</locus>, <locus>119r</locus>, <locus>119v</locus>,
+	    <locus>121v</locus>, <locus>125v</locus>; <locus>212r</locus>,
+	    <locus>217r</locus>, <locus>217v</locus>, <locus>218r</locus>,
+	    <locus>219v</locus>, <locus>220v</locus>, 
+	    <locus>222r</locus>; <locus>233v</locus>, <locus>235r</locus>,
+	    <locus>246r</locus>, <locus>247v</locus>, <locus>248r</locus>,
+	    <locus>251r</locus>).
+
+	    The different artists  use somewhat different gradations between
+	    larger, 5-7 line initials (with exceptions up to 10 lines
+	    (e.g. f. <locus>56r</locus>), and smaller initials, 3-5 lines.
+	    Only artist C clearly distinguish between large and small
+	    initials.</p> 
+
+	  <p>Detailed description: f. <locus>13r</locus> (parchment):
+	    full page border by  Artist A with elegantly twisting,
+	    symmetrically arranged leaf and flower decoration in alternating
+	    blue and red pen drawing with gilt dots; an intarsiated 9-line
+	    initial (S), with filigranated filling 
+	    in red (upper field) and blue (lower field) with flowers in
+	    contrasting colours with gilt centres. Along the right side of the
+	    textblock, inside the marginal decoration, a stem in brownish red
+	    with leaf-endings in red, green and yellow extend vertically into
+	    the decorated area. In the right margin, covering roughly the
+	    second top quarter of the decorated area, an illuminated
+	    half-length figure representing the prophet Zachariah appearing
+	    from a tripartite gilt cloud, holding a scroll inscribed with the
+	    dutch translation of Zach. 14:5, and dressed in a blue cloak
+	    heightened with gilt strokes and a bright red soft hat with big
+	    flaps in ochre suggesting fur.</p>
+
+	  <p>Style: Initials by artist A are highly detailed with dense
+	    patterns and organically fluent pen flourishes in thin distinctly
+	    drawn lines.</p>
+
+	  <p>Artist B uses a third colour (mauve, green), intarsiated letters
+	    in blue and red with fillings of leaf-ornaments rather than
+	    filigranation and stiff pen flourishes dominated by repeated
+	    curls.</p>
+
+	  <p>Artist C uses diverging straight or slightly curving lines
+	    interspersed with numerous dots.</p> 
+	  <p>Artist D, like artist B, uses leaf-ornaments instead of
+	    filigranation in the letter-fillings, intarsiated letter-forms and
+	    occasionally a third colour, though never green. The pen flourishes
+	    of artist D often show distinctly naturalistic features, less
+	    stylized than those of artist A, but executed with the same
+	    skill. Triangular fields of parallel thin strokes beside the
+	    letters are characteristic.</p> 
+	  <p>All the decoration in Medeltidshandskrift 32a, especially that of
+	    artists A and D clearly belong to the "Delft block group" usually
+	    ascribed to the convent of St Agnes in Delft. The style of artist B
+	    show a tendency towards the "Delft scallop group", whereas the
+	    rather coarse style of artist C is more genrally Dutch in
+	    character.</p> 
+	  <p>Artist A is identical to the main artist in Den Haag, KB, 128 D 28
+	    (ff. <locus>1r</locus>, <locus>44r</locus>, <locus>73r</locus>,
+	    <locus>121r</locus>) made for the Tertiaries of the Convent of 
+	    St Ursula in Delft 1476; in Den Haag, KB, 133 E 19 (the decorated
+	    initial pages) dated to 1460-80;
+	    in Den Haag, KB, 135 E 22 (with a Utrecht calendar),
+	    and in Den Haag KB, 135 F2, Leiden, UB, LTK, 288
+	    (the frame on f. 221r ); possibly in Huntington Library HM 1127
+	    (Dutschke 1989) and in Cleveland Museum, The Jeanne Blackburn
+	    Collection 1999.133 (Stephen N. Fliegel,
+	    The Jeanne Miles Blackburn
+	    Collection of Manuscript Illuminations, 1999).</p>  
+
+	  <p>Artist B is possibly identical to the artist of Leiden, UB, Ltk,
+	    262, and similar, but not identical, to the main artist in Den
+	    Haag, KB, 78 J 47 (dated 1440-60) and Den Haag KB, 135 F2,
+	    suggesting perhaps a somewhat older artist than A.</p> 
+
+	  <p>Artist C is less accomplished and close to one of the artists in
+	    Leiden, UB, Voss. Germ. Gall. Fol. 7, (e.g. f. 5r), dated to
+	    1459.</p> 
+
+	  <p>Artist D is more flamboyant than artist A, and show similarities
+	    with manuscripts from Schoonhoven such as Leiden UB Ltk 244,
+	    although these features do fit into a Delft context.</p> 
+
+	  <p>The blend of the more modern artists A and D, active around 1460 -
+	    80, and the sligthly older features of artist B and C, probably
+	    active mainly around 1440 - 60, suggests a date for
+	    Medeltidshandskrift 32a around 1460 - 70, during which the two
+	    tendencies overlap, although a sligthly later date cannot be
+	    excluded.</p> 
+	  <p>Considering the fact that the space left to be filled by a similar
+	    half-length figure in Leiden, UB, Ltk. 288, f. 176r, and the fact
+	    that the half-length figure on f. 13r in Den Haag, KB, 135 F2 is
+	    executed by the same artist active in Medeltidshandskrift 32a
+	    (whereas the decorative border is not) the half-length figure on
+	    f. 13r in Medeltidshandskrift 32a is not necessarily executed by
+	    artist A, but could be attributed to a separate artist. However,
+	    since artist A is identified in the border on f. 221r in Den Haag,
+	    KB, 135 F2, and the caracteristic style of the half-length figures
+	    otherwise occurs in numerous manuscripts in immediate connection to
+	    borders decorated by artist A, the half-length figures must be
+	    attributed to artist A. This artist is not likely to be identical
+	    with the anonymous Master of the Delft Half-length Figures,
+	    although a close relationship between the two is obvious.</p> 
+	  <p>Iconography: The half length figure in the margin on f. 13r is
+	    identified as the prophet Zachariah through the quotation. The
+	    prophet's dress with its original hat is to be understood as an
+	    orientalizing feature, often associated with persons of the Old
+	    Testament.</p></decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding>
+	<p>Blind-tooled brown calfskin binding, preserved decorated covering
+	  Netherlands contemporary with the manuscript. Rebinding most likely
+	  Sweden 20th century. Size: 200 x 150 x 65 mm.</p> 
+	<p>Brown calfskin binding over rounded wooden boards. Rebinding with
+	  leather covering of former binding preserved on the new covers. Two
+	  preserved metal hook-clasp fastenings at fore-edge, straps and nails
+	  new. Rounded spine. Tight back with five raised bands. Blind-tooled
+	  library cloth label at the tail of the back. Embroidered endbands of
+	  white linen. Trimmed edges. Front flyleaf of parchment and back
+	  flyleaf of paper, both mounted on guards, separate parchment
+	  pastedowns. Front flyleaf and pastedowns from former binding. On
+	  front paste down a white label with the present shelf mark and the
+	  former call number (cfr. above). Below the Meck number a faded note
+	  on the contents of the ms.:  <q>på Hålländska</q> and below
+	  another former callnumber: <q>Bibl. Ms. Th. 4:o 1</q>.All along
+	  sewing on five double cords laced through the boards. Textblock with
+	  paper restorations.</p> 
+	<p>The covers are blind-tooled to a triple fillet panel with
+	  corners. The frame of the panel is decorated with a repeated rosette,
+	  leaf, star and lily. The panel is divided into lozenge-shaped triple
+	  fillets compartments and the central compartment is stamped with a
+	  repeated rosette.</p>
+      </binding>
+    </bindingDesc> 
+    <foliation>
+      <p>Foliated in pencil in upper right corner by modern
+	cataloguer, probably in connection with the rebinding in 1964. The
+	present foliation thus does not agree with that used in the quoted
+	bibliography.</p>
+    </foliation> 
+  </physDesc>
+<history>
+    <origin><p>Holland (Delft), c. 1460-1480</p></origin>
+      <provenance><p>In ab. 1475-1525 the manuscript was owned by Duif
+	Cornelis, 
+	beguine in the beguine community of St. Agnes in Leiden, cfr. note on
+	f. 1v: <q>Duif Cornelis faele be gin tot leyden</q>.</p></provenance> 
+      <acquisition><p>It came to the Lund University Library in 1704 as part of
+	  the Meck collection (cfr. former shelfmark Meckiana N:o XX) of Eric
+	  Johan Meck, 1644-1702, of Riga.</p></acquisition> 
+    </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the
+	      manuscript description encoded in August 2002 by Eva Nilsson
+	      Nylander.</p>
+</source>
+<change>
+<date rend="creation">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<surrogates>
+<p>A photograph of f. 16r is present in Leiden,
+	  Universiteitsbibliotheek, Bibliotheca Neerlandica
+	  Manuscripta.</p>
+</surrogates>
+<listBibl>
+	<bibl>
+	  <author>Borchling, C.</author>
+	  <title level="a">Mittelniederdeutsche Handschriften in Skandinavien,
+	    Schleswig-Holstein, Mecklenburg und Vorpommern. Zweiter
+	    Reisebericht</title> 
+	  <title level="j">Nachrichten von Königl. Gesellschaft der
+	    Wissenschaften zu Göttingen. Philologisch-historische
+	    Klasse. Beiheft</title> 
+	  <biblScope type="volume"/> 
+	  <imprint>
+	    <date>1900</date>
+	  </imprint>
+	  <biblScope type="pages">pp. 1-204 (p. 137)</biblScope>
+	</bibl>
+
+	<bibl>
+	  <title level="m">Gyldne Bøger. Illuminerede middelalderlige
+	    håndskrifter i Danmark og Sverige. Nationalmuseet,
+	    København 5 april - 4 maj 1952</title> 
+	  <imprint>
+	    <pubPlace>København</pubPlace>
+	    <date>1952</date>
+	  </imprint>
+	  <biblScope type="pages">p. 72 (n. 136)</biblScope>
+	</bibl>
+
+	<bibl>
+	  <author>Jansen-Sieben, R.</author>
+	  <title level="m">Repertorium van de Middelnederlandse
+	    Artes-literatuur</title> 
+	  <imprint>
+	    <pubPlace>Utrecht</pubPlace>
+	    <date>1989</date>
+	  </imprint>
+	  <biblScope type="pages">pp. 404-405 (n. L1200)</biblScope>
+	</bibl>
+
+	<bibl>
+	  <author>Kernkamp, G. W.</author>
+	  <title level="m">Verslag van een onderzoek in Zweden, Noorwegen en
+	    Denemarken naar archivalia, belangrijk voor de geschiedenis van
+	    Nederland</title> 
+	  <imprint>
+	    <pubPlace>s'Gravenhage</pubPlace>
+	    <date>1903</date>
+	  </imprint>
+	  <biblScope type="pages">p. 3</biblScope>
+	</bibl>
+
+	<bibl>
+	  <author>Rooth, E.</author>
+	  <title level="a">Medelnederländska trubadurdikter funna i
+	    Universitetsbiblioteket i Lund</title> 
+	  <title level="j">Nordisk tidskrift för Bok- och
+	    Biblioteksväsen</title> 
+	  <biblScope type="volume">14</biblScope>
+	  <imprint>
+	    <date>1927</date>
+	  </imprint>
+	  <biblScope type="pages">pp. 142-146 (p. 143)</biblScope>
+	</bibl>
+
+	<bibl>
+	  <author>Rooth, E.</author>
+	  <title level="a">Mittelniederländische Reimsprüche aus
+	    Lund</title> 
+	  <title level="j">Niederdeutsche Mitteilungen</title>
+	  <biblScope type="volume">2</biblScope>
+	  <imprint>
+	    <date>1946</date>
+	  </imprint>
+	  <biblScope type="pages">pp. 123-134</biblScope>
+	</bibl>
+
+	<bibl>
+	  <author>Stooker K.</author>
+	  <author>Verbeij, T.</author>
+	  <title level="m">Collecties op orde. Middelnederlandse handschriften
+	    uit kloosters en semi-religieuze gemeenschappen in de
+	    Nederlanden. Vol. 2</title> 
+	  <title level="s">Miscellanea Neerlandica</title>
+	  <biblScope type="volume">16</biblScope>
+	  <imprint>
+	    <pubPlace>Leuven</pubPlace>
+	    <date>1997</date>
+	  </imprint>
+	  <biblScope type="pages">p. 243 (n. 736)</biblScope>
+	</bibl>
+      </listBibl>
+</additional>
+</msDescription>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_48">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<institution>Lund Observatory</institution>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 48</idno>
+<altName type="former shelfmark">Astron.</altName>
+<altName type="database-identifier">scriptorium:Mh:194492:1127733593</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Miscellany: Astronomy</title> 
+    <origPlace>Italy (?)</origPlace>
+    <origDate notBefore="1444.01.01" notAfter="1444.12.31">15th century (1444)</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains among other things texts by Johannes de
+	Sacrobosco, <title type="uniform">De sphaera</title> and <title type="uniform">Computus</title>.</p> 
+      <p>In deposition.</p></note>
+  </msHeading>
+<physDesc>
+    <support><p>Paper</p></support>
+    <extent>ff. i + 97 +
+      i<dimensions><height>210</height><width>150</width></dimensions>mm.
+    </extent> 
+
+    <decoration>
+      <decoNote><p>Astronomical diagrams in red and brown ink, either occupying
+	  between a third and full page on ff. <locus>3v</locus>,
+	  <locus>16r</locus>, <locus>17r</locus>, <locus>60r</locus>,
+	  <locus>96v</locus>, <locus>97r</locus>, <locus>97v</locus>, described
+	  separately below, or smaller diagrams in red ink occupying lower
+	  margins or smaller part of the written space, on
+	  f. <locus>48v</locus>, <locus>49r</locus>, <locus>50r</locus>,
+	  <locus>51r</locus>, <locus>52r</locus>.</p> 
+	<p>Space left for circular diagrams on ff. 23v, 26r, 31v, 33r, 35v,
+	  45r.</p> 
+	<p>One decorated initial on f. <locus>60v</locus>; Small perspective
+	  drawing of a dice in brown and red, with four partly erased
+	  preparatory sketches, in lower and left margins on
+	  f. <locus>94v</locus>.</p> 
+	<p>Detailed description:
+	  <list>
+	    <item>f. <locus>3v</locus>: Diagram occupying the
+	      lower right third of the page, depicting the spheres of the
+	      elements, the moon, the sun and the planets and stars surrounding
+	      the earth with its poles;</item>
+	    <item>f. <locus>16r</locus>: Large circular diagram with Sol on
+	      top, in red ink with the drawing of a face in brown, Terra in the
+	      centre and Cauda draconis at the bottom, vertically placed within
+	      a system of orbital circles, illustrating a moon eclipse
+	      (?);</item>
+	    <item>f. <locus>17r</locus>: Unfinished diagram with two
+	      circles;</item> 
+	    <item>f. <locus>60r</locus>: Large diagram in brown ink with
+	      circles and the four cardinal points;</item>
+	    <item>f. <locus>60v</locus>: Three line initial D in red, with
+	      geometric filling and leaf decoration with graphite extending in
+	      upper margin;</item>
+	    <item>f. <locus>96v</locus>: Unfinished circular diagram in brown
+	      ink;</item>
+	    <item>f. <locus>97r</locus>: Diagram in brown ink with circles,
+	      illustrating the relations between Mercurius and Sol;</item>
+	    <item>f. <locus>97v</locus>: Diagram in brown ink, with circles,
+	      illustrating orbits of planets, but lacking explanatory
+	      texts.</item> 
+	  </list>
+	</p> 
+
+	<p>Style: The diagrams, probably executed by the scribe Paulus zighanus
+	  in 1444, do not produce  any significant stylistic features leading
+	  to the geographical origin of the manuscript. The decorated initial
+	  on f. <locus>60v</locus>, however, shows typically Italian leaf
+	  forms. The secondary note on f. <locus>88v</locus>, which indicates a
+	  provenance at some date at Genova, together with the watermark,
+	  suggests a north Italian origin.</p> 
+      </decoNote>
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Parchment case with turned fore-edge, sewing and endbands
+	  contemporary with the manuscript. Sweden 20th century, before 1936. Size: 222 x 158 x 25 mm.</p> 
+	<p>Parchment case over millboards with turned fore-edge. Bookblock partly
+	  loose in case. Flat spine. Endbands of embroidered linen on white
+	  leather thong. Trimmed edges. All along sewing on two white leather
+	  thongs. Quire centrefolds with parchment guards. Thongs and endbands
+	  later cut flush with the spine. The bookblock is hold to the case by
+	  a single thread sewn through first and last quire and the pastedown
+	  of the case (20th century). Plain single endpaper wrapped around the
+	  bookblock and glued to the spine. The parchment case has plain paper
+	  pastedowns.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Hedlund, M.</author>
+	<title level="m">Die Handschriften Schwedens ausgenommen UB Uppsala,
+	  unter Leitung von Jan-Olof Tjäder, herausgegeben von Monica
+	  Hedlund. 1. Text. 2. Tafeln</title> 
+	<title level="s">Katalog der datierten Handschriften in lateinischen
+	  Schrift vor 1600 in Schweden</title> 
+	<biblScope type="volume">II:1-2</biblScope> 
+	<imprint>
+	  <pubPlace>Stockholm</pubPlace>
+	  <date>1980</date>
+	</imprint>
+	<biblScope type="pages">p. 23</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

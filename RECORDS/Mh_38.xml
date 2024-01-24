@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_38">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 38</idno>
+<altName type="nickname" lang="LAT">Breviarium Turonense</altName>
+<altName type="database-identifier">scriptorium:Mh:983003:1127467851</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Breviary</title>
+    <origPlace>France (Tours)</origPlace>
+    <origDate notBefore="1450" notAfter="1500">15th century, later half</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+    <note>
+      <p>For use in the convent of St. Julian de Tours.</p><p>Type B.</p></note> 
+  </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="2r" to="7v">ff. 2r- 7v</locus>
+<title type="uniform">Calendar</title></msItem>
+
+<msItem n="2">
+<locus from="8r" to="138v">ff. 8r-138v</locus>
+<title type="uniform">Temporale, winter part</title>
+<rubric>dominica prima in adventu domini</rubric>
+<incipit>Ecce dies veinunt [sic!] dicit dominus</incipit>
+<explicit>Mulieres sedentes ad monumentum lamentabantur flentes dominum</explicit>
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Parchment</p></support> <extent>ff. ii (paper) + 138
+      ii (paper)<dimensions><height>175</height><width>120</width></dimensions>mm.
+    </extent>
+<collation><p>18 quires: I: 8 (ff. 1-7); II: 8 (ff. 8-15); III: 8 (ff. 16-23); IV: 8 (ff. 24-31); V: 7 (ff. 32-38; f. 38 is added); VI: 8 (ff. 39-46); VII: 8 (ff. 47-54); VIII: 8 (ff. 55-62); IX: 8 (ff. 63-70; ff. 64, 69 and ff. 64, 68 are not conjugate); X: 8 (ff. 71-78); XI: 8 (ff. 79-86); XII: 8 (ff. 87-94); XIII: 8 (ff. 95-102); XIV: 8 (ff. 103-110); XV: 8 (ff. 111-118); XVI: 8 (ff. 119-126); XVII: 8 (127-134); XVIII: 4 (ff. 135-138).</p>
+<p>Catchwords in centre of lower margin of last leaf of almost every quire. No quire signatures.</p>
+</collation>
+<layout columns="2" writtenLines="30"><p>Ruled in pale red ink, 2 colums, 30 lines.</p></layout>
+<msWriting hands="1">
+<handDesc><p>1 scribe; Gothic book hand in 2 sizes according to the liturgical function. 
+</p><p>F. 1 is blank (later ex-libris on recto; probationes pennae on verso).</p> 
+</handDesc></msWriting> 
+ 
+    <decoration>
+      <decoNote><p>Finely executed initials and borders consisting of one
+	  illuminated historiated 6 line initial with a painted border,
+	  described separately; two illuminated 4 line initials with gilt
+	  floral decoration and a painted half border with flowers and leaves,
+	  f. <locus>46r</locus>, <locus>124v</locus>; six illuminated 3 line
+	  initials with floral decoration f. <locus>88r</locus>,
+	  <locus>97r</locus>, <locus>103r</locus>, <locus>108r</locus>,
+	  <locus>116v</locus>, <locus>131v</locus>. Also hundreds of gilt champ
+	  initials against a background in blue and mauve decorated with fine
+	  white lines divided in three sizes: 3 lines in height; 2 lines,
+	  including KL monograms in the calendar f. 2r - 7v; 1 line initials,
+	  and line fillers of similar design on f. 13r - 13v.</p> 
+	<p>Detailed description: f. <locus>8r</locus>: Illuminated historiated
+	  initial E in blue with oxydized floral decoration in silver on the
+	  body of the letter, inscribed in a gilt square compartment with a
+	  frame in black ink. The centre of the initial is occupied by a
+	  monochrome gilt representation of a standing figure in a mantle and a
+	  topped hat, facing right and holding a scroll between two
+	  perpendicular bars against a pinkish purple background with darker
+	  tones for shadows. The floriated border covers the entire left margin
+	  and half the upper and lower margins, leaving the right text column
+	  unaccentuated. The border is filled with acantus leaves in blue and
+	  gold, violets in violet, pink and blue, flower buds in gold, leaves
+	  in light green and small spermazoid space fillers in black ink. The
+	  border is framed by at thin red line complemented by a gilt line to
+	  the right.</p>  
+	<p>Style: The characteristic technique with minute strokes in gilt
+	  against a monochrome background is totally coherent with the high
+	  quality illuminations of Tours from the second half of the 15th
+	  century associated with the workshop of <name>Jean
+	    Fouquet</name>. Close affinities are found in a Psalter with
+	  Swedish provenance, dated to c. 1450 (Gyllene böcker, nyförvärv och
+	  nyupptäckter, Stockholm 1987, Cat. Nr. 60 Stockholm, Riksarkivet
+	  Nynäs: manuskript nr 1). The composition of the border also suggests
+	  a date in the third quarter of the 15th century.</p> 
+	<p>Iconography: The identity of the standing figure on
+	  f. <locus>8r</locus> as a prophet is suggested by the scroll and the
+	  oriental hat. The text <q>Ecce dies veniunt dicit dominus et
+	    suscitabo David</q> Ier. 23:5 identifies him as
+	  <name>Jeremiah</name>.</p>
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Gold-tooled green straight grain leather binding. Sweden,
+	  Lund, unsigned but Lars Magnus Berggren  after 1840. (cfr. Karlson
+	  1939, pp. 248-49; Rudbeck vol. 3, 1914 pp. 40-41). Size: 186 x 135 x
+	  30 mm.</p> 
+	<p>Green artificial straight grain leather binding over
+	  pasteboards. Backed and rounded spine. Hollow back. Gilt title and
+	  white paper library label at the upper part of the back. Endbands of
+	  green leather. Gilt edges. Plain single flyleaves, made endleaves and
+	  doublures of dark purple moiré paper and with gilt frames. Green
+	  leather hinges. All along sewing on five recessed cords. The inner
+	  joint of the lower cover cracked and the bookblock in part detached
+	  from the board. </p> 
+	<p>The covers are tooled with a fat blind border fillet, an inner gilt
+	  double lined fillet enclose a large centrepiece of undulating rococo
+	  ornaments together with naturalistic birds, butterflies and flowers
+	  in a neo-rococo style. The back is gilt with rococo ornaments to a
+	  central ogival panel containing the title. Edges and turn-ins are
+	  gilt with a single fillet.</p>
+      </binding> 
+    </bindingDesc>
+
+
+<foliation><p>Modern foliation in pencil in upper right corner of recto.</p></foliation>
+
+<additions><p>Various added notes in the calendar in several hands; addenda on ff. 94r and 98r; a pointing hand on f. 110v.</p></additions>
+  </physDesc>
+<history>
+<origin><p>France, Tours, later half of 15th century. The ex-libris on f. 1r: <q>Breviarium ad usum monasterii S. Juliani Turonensis Congr. Sti Mauri</q> might indicate that the book was still in the possession of the monastery in the 17th century, cfr. the acquisition register, LUBA A IV b Nr. 10 and the correspondence with Dom R.-J. Hesbert, LUBA, Handskr. avd. korresp. Br fr/till utl.: Franskspr./ Tyskspr. 1861-1981.</p>
+</origin>
+<acquisition><p>According to the old catalogue card, the manuscript entered the University library in 1842 as a gift from Christian Gissel Berlin (1800-1863), professor of  Mathematics at the university, vicar of Balkåkra and member of parliament. In the acquisition register from that period however the year of entry is not mentioned. On f. i verso former library shelf mark: <q>Bibl. Mscr. H. L. a) 8o 7</q> and on front pastedown a library label with the current call number <q>Medelt.-handskr. 38</q>.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>Spring of 2004.</date> by Maria Sandomirskaia/Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation">2005-09-23</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-23</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+	<editor>Hesbert, Renato-Joanne</editor>
+	<title level="m">Corpus Antiphonalium Officii. V. Fontes earumque prima ordinatio. (Series Maior. Fontes. XI). </title>
+	<imprint>
+	  <pubPlace>Roma</pubPlace>
+	  <date>1975</date>
+<biblScope type="pages">p. 10</biblScope>
+	</imprint>
+      </bibl>
+</listBibl>
+</additional>
+</msDescription>

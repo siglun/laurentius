@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_65">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 65</idno>
+<altName type="former shelfmark">De la Gardie Cod. I, 2.</altName>
+<altName type="former shelfmark">Löberödsbiblioteket. N. 125 bland Medeltida urkunder</altName>
+<altName type="former shelfmark">U.2</altName>
+<altName type="former shelfmark">T:2</altName>
+<altName type="database-identifier">scriptorium:Mh:327159:1138810104</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Prayerbook</title> 
+  <origPlace>Holland (?)</origPlace>
+  <origDate notBefore="1400" notAfter="1500">15th century</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+
+<msItem n="1.1">
+<locus from="3r" to="12v">ff. 3r-12v</locus>
+<title type="uniform">Pentitential psalms</title>
+<rubric>Septem psalmi poenitentiales incipiunt</rubric>
+<incipit>Domine ne in furore tuo arguas me</incipit>
+<explicit>Et perdes omnes qui tribulant animam meam: quoniam ego servus tuus sum. Gloria patri.</explicit>
+<rubric type="final">Letania</rubric>
+</msItem>
+
+<msItem n="1.2">
+<locus from="13r" to="18r">ff. 13r-18r</locus>
+<title type="uniform">Litany</title>
+</msItem>
+
+<msItem n="1.3">
+<locus from="19r" to="63v">ff. 19r-63v</locus>
+<title type="uniform">Office of the Virgin</title>
+<rubric>Incipiunt cursus de domina nostra. Ad Matutinas.</rubric>
+<incipit>Ave Maria gratia plena</incipit>
+<explicit>ab instantibus malis et a morte perpetua liberemur.</explicit>
+</msItem>
+
+
+<msItem n="1.4">
+<locus from="64r" to="65v">ff. 64r-65v</locus>
+<title type="uniform">Responsory for St. Nicholas</title>
+<incipit>Sancte Nicolae praesul dei</incipit>
+<explicit>et ad gaudia perducant aeterna</explicit>
+</msItem>
+
+
+<msItem n="1.5">
+<locus from="66r" to="88v">ff. 66r-88v</locus>
+<title type="uniform">Celebrants' prayers before saying Mass</title>
+<rubric>Incipit praeparamentum sacerdotibus celebrare volentibus</rubric>
+<incipit>Adiutorium nostrum in nomine domini qui fecit celum et terram</incipit>
+<explicit>pervenire concedas. Qui vivis et (?)</explicit>
+</msItem>
+
+</msContents>
+<physDesc>
+  <support><p>Parchment.</p></support>
+  <extent>ff. ii + 85 + iv <dimensions><height>95</height><width>70</width></dimensions>mm.</extent>
+
+<collation><p>12 quires: I: 2 (ff. 1-2); II: 8 (ff. 3-10); III: 8 (ff. 11-18); IV: 8 (ff. 19-26); V: 8 (ff. 27-34); VI: 8 (ff. 35-42); VIII: 8 (ff. 43-50); VIII: 8 (ff. 51-58); IX: 7 (ff. 59-65, f. 61 is added); X: 8 (ff. 66-73); XI: 8 (ff. 74-81); XII: 8 (ff. 82-89).</p></collation>
+<layout columns="1" writtenLines="16"><p>Ruled in ink, one column, 16 lines, written space: 70 x 45 mm.</p></layout>
+<msWriting>
+<handDesc><p>Textualis libraria</p></handDesc>
+</msWriting> 
+
+<decoration>
+<decoNote><p>Three initials in blue with white void decoration and red pen flourishes on f. <locus>3r</locus> (4 lines in height), <locus>19r</locus> (5 lines in height) and <locus>66r</locus> (7 lines in height). Small wavy vegetable line-filler in mauve on f. <locus>66r</locus>.</p>
+<p>Style: The composition and the dense leafy decoration is consistent with Dutch manuscripts from the mid 15th century.</p></decoNote>
+</decoration>
+
+<bindingDesc><binding><p/></binding></bindingDesc>
+
+<foliation><p>Foliated continuously 1-92 (ff. 1-2 and 89 are parchement flyleaves, ff. 90-92 are paperleaves added later) in pencil in the upper right corner by the modern cataloguer.</p></foliation>
+<additions><p>On ff. 1v-2v there are liturgical instructions in a cursive hand and on ff. 90r-92r there are prayers added in a later cursive hand.</p></additions>
+<condition><p>Upper cover loose; ff. 90-92 loose.</p>
+</condition>
+</physDesc>
+<history>
+<origin><p>Holland (?), 15th century.</p></origin>
+<acquisition><p>The manuscript was owned by Jacob Pontusson De la Gardie (1768-1842) whose ex libris is on the inside of the upper cover. It came to the University library as part of the Löberöd archives in 1848. There are several former shelf marks both in the inside of the upper cover and on f. 1r (cfr. above).</p>
+</acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>September of 2005</date> by Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

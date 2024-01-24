@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription status="def" id="Mh_35">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 35</idno>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 4</altName>
+<altName type="former shelfmark">Bibl. Meckiana N:o XIX.</altName>
+<altName type="database-identifier">scriptorium:Mh:620477:1138809279</altName>
+</msIdentifier>
+<msHeading> 
+<title type="uniform" lang="DAN">Karen Ludvigsdatters
+Tidebog</title>
+<origPlace>Denmark</origPlace>
+<origDate notBefore="1490" notAfter="1510">16th century (1500 c.)</origDate> 
+<textLang langKey="DAN" otherLangs="LAT">Danish</textLang> 
+<note>The prayer book of <name type="person" role="owner">Karen Ludvigsdatter Rosenkrantz</name> is a combination of a book of hours and a prayer book and resembles the <title>Hortulus Animæ</title> type. It contains a calendar, <title>The Little Office of Our Lady</title>, <title>The Seven Penitentiel Psalms</title> and a <title>Litany of the Saints</title>. The Hours of the Virgin follow a redaction related to the hours (in Latin) of another Danish prayer book from around <date>1480</date>:
+<ref>Ms. A 42, Kungliga Biblioteket, Stockholm</ref>, also known as 
+<title type="uniform" lang="DAN"><name type="person" role="owner" reg="Johanne Nielsdatter Munk">Johanne Nielsdatter Munk</name>s Tidebog</title>.
+<p>Italicized numbers in brackets refer to the numbering in the printed editions.</p></note>
+</msHeading>
+<msContents>
+<msItem n="1"> 
+<locus from="1r" to="32v">ff. 1r-32v</locus> 
+<title type="supplied">Book of Hours</title>
+ 
+<msItem n="1.1"> 
+<locus from="2r" to="6v">ff. 2r-6v</locus> 
+<title type="supplied">Calendar</title>
+<note><p>In the calendar the following local saints are mentioned: <name type="person">Ansgar</name>, February 3: <q>ansgari ep<expan>iscop</expan>i</q>, <locus>2v</locus>, <name type="person">Knud Konge</name> and <name type="person">Kjeld</name>, July 10: <q>kanuti regis <expan>et</expan> m<expan>a</expan>r<expan>tir</expan>is ketille</q>, <locus>5r</locus>, <name type="person">Olav</name>, July 29: <q>olaui regis</q>, <locus>5r</locus>, <name type="person">Birgitta</name>, October 7: <q>S<expan>an</expan>c<expan>t</expan>e birgitte</q>, <locus>6v</locus> and <name type="person">Thøger</name>, October 30: <q>Theodgari co<expan>n</expan>f<expan>essoris</expan></q>, <locus>6v</locus>.</p></note>    
+</msItem> 
+
+<msItem n="1.2"> 
+<locus from="8r:1" to="26v">ff. 8r:1-26v</locus>
+<title type="uniform" lang="DAN">Vor Frue Tider</title>
+<title type="uniform" lang="LAT">Officium Parvum Beatae Mariae Virginis</title> 
+<title type="uniform" lang="ENG">The Little Office of the Blessed Virgin Mary (the Hours of the Virgin)</title>
+
+<msItem n="1.2.0">
+<locus from="8r:1" to="8r:16">f. 8r:1-16</locus>
+<title type="supplied">Praise of God the Father and the Virgin</title>
+<incipit>Heel maria fuldh m<expan>eth</expan> nade</incipit>
+<explicit><sic>O</sic> hellighæ iomfrw marie hedær Sywnge vi h<expan>er</expan>ræn loff</explicit>
+</msItem>
+
+<msItem n="1.2.1">
+<locus from="8r:16" to="12v:9">ff. 8r:16-12v:9</locus>
+<title type="uniform" lang="LAT">Ad matutinum</title>
+<msItem n="1.2.1.1">
+<locus from="8r:16" to="8v:16">f. 8r:16-8v:16</locus>
+<title type="uniform" lang="LAT">Psalmus 95 (94): Venite, exultemus Domino</title>
+<rubric>venite</rubric>
+<incipit>Kom<expan>m</expan>ær, vi gledhæ os i h<expan>er</expan>ræn</incipit>
+</msItem>
+<msItem n="1.2.1.2">
+<locus from="8v:16" to="9r:15">ff. 8v:16-9r:15</locus>
+<title type="uniform" lang="LAT">Hymnus. Quem terra, pontus, ethera</title>
+<rubric>ympn<expan>us</expan></rubric>
+<incipit>Iomfrw marie liiff baar th<expan>e</expan>n ther iorde<expan>n</expan> <sic>hauer</sic> och hi<expan>m</expan>melen dyrkæ</incipit>
+</msItem>
+<msItem n="1.2.1.3">
+<locus from="9r:15" to="9v:12">f. 9r:15-9v:12</locus>
+<title type="uniform" lang="LAT">Psalmus 8: Domine, Dominus noster</title>
+<rubric>d<expan>omi</expan>ne d<expan>omi</expan>n<expan>u</expan>s n<expan>oste</expan>r</rubric>
+<incipit>H<expan>er</expan>ræ vor h<expan>er</expan>ræ huræ vndærlig ær thit naffn</incipit>
+</msItem>
+<msItem n="1.2.1.4">
+<locus from="9v:16" to="10r:22">ff. 9v:16-10r:22</locus>
+<title type="uniform" lang="LAT">Psalmus 19 (18): Caeli enarrent gloriam Dei</title>
+<incipit>Himlæne ku<expan>n</expan>giøre gusz ære</incipit>
+</msItem>
+<msItem n="1.2.1.5">
+<locus from="10r:23" to="10v:23">f. 10r:23-10v:23</locus>
+<title type="uniform" lang="LAT">Psalmus 24 (23): Domini est terra et plenitudo eius</title>
+<incipit>Herre<expan>n</expan>s ær iorde<expan>n</expan> och henne fule iørderigh</incipit>
+</msItem>
+<msItem n="1.2.1.6">
+<locus from="10v:24" to="11r:5">ff. 10v:24-11r:5</locus>
+<title type="uniform" lang="LAT">Absolutio. Precibus et meritis</title>
+<incipit>Thu all mektugæste fadær mildh och miskundh h<expan>er</expan>ræ</incipit>
+</msItem>
+<msItem n="1.2.1.7">
+<locus from="11r:5" to="11r:19">f. 11r:5-19</locus>
+<title type="uniform" lang="LAT">Lectio prima. Sancta maria virgo</title>
+<rubric>leccio</rubric>
+<incipit>S<expan>an</expan>c<expan>t</expan>a maria, iomfrw ouer alle i<expan>om</expan>fruær</incipit>
+</msItem>
+<msItem n="1.2.1.8">
+<locus from="11r:19" to="11v:6">f. 11r:19-11v:6</locus>
+<title type="uniform" lang="LAT">Lectio secunda. Sancta maria piarum</title>
+<rubric>leccio</rubric>
+<incipit>S<expan>an</expan>c<expan>t</expan>a ma<expan>ri</expan>a, mildæstæ ouer alle milde och helligæstæ ouer alle hellige<expan>n</expan></incipit>
+</msItem>
+<msItem n="1.2.1.9">
+<locus from="11v:7" to="11v:20">f. 11v:7-20</locus>
+<title type="uniform" lang="LAT">Lectio tertia. Sancta dei genetrix</title>
+<incipit>Hellighæ gusz modær thu so<expan>m</expan> værduge var ath vntfonghæ the<expan>n</expan></incipit>
+</msItem>
+<msItem n="1.2.1.10">
+<locus from="11v:21" to="12v:9">ff. 11v:21-12v:9</locus>
+<title type="uniform" lang="LAT">Hymnus sanctorum Ambrosii et Augustini. Te deum</title>
+<incipit>Vi loue thik, vi ki<expan>n</expan>ne thic til h<expan>er</expan>ræ</incipit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.2">
+<locus from="12v:10" to="16v:23">ff. 12v:10-16v:23</locus>
+<title type="uniform" lang="LAT">Ad laudes</title>
+<msItem n="1.2.2.1">
+<locus from="12v:10" to="12v:22">f. 12v:10-22</locus>
+<title type="uniform">Psalmus 93 (92): Dominus regnavit!</title>
+<incipit>Herræ regnerdæ och in førdæ fauerligh</incipit>
+</msItem>
+<msItem n="1.2.2.2">
+<locus from="12v:23" to="13r:8">ff. 12v:23-13r:8</locus>
+<title type="uniform">Psalmus 100 (99): Iubilate Domino, omnis terra</title>
+<incipit>Syungær gusz loff allæ iørdærigi</incipit>
+</msItem>
+<msItem n="1.2.2.3">
+<locus from="13r:9" to="13v:9">f. 13r:9-13v:9</locus>
+<title type="uniform">Psalmus 63 (62): Deus, deus meus es tu</title>
+<incipit>Gvdh myn gudh iæch vagær til thik aff lyuset</incipit>
+</msItem>
+<msItem n="1.2.2.4">
+<locus from="13v:9" to="13v:21">f. 13v:9-21</locus>
+<title type="uniform">Psalmus 67 (66): Deus misereatur nostri</title>
+<incipit>Gudh misku<expan>n</expan>dæ os och velsigne os han for lyusæ sit anlædæ ouer os och miskunde os</incipit>
+</msItem>
+<msItem n="1.2.2.5">
+<locus from="13v:22" to="14v:7">ff. 13v-14v:7</locus>
+<title type="uniform">Canticum trium puerorum. Benedicite</title>
+<incipit>Velsigne h<expan>er</expan>ræn alle h<expan>er</expan>rens giærnin<expan>n</expan>ger</incipit>
+</msItem>
+<msItem n="1.2.2.6">
+<locus from="14v:8" to="15v:10">ff. 14v:8-15v:10</locus>
+<title type="uniform">Psalmus 148: Alleluia. Laudate Dominum de caelis</title>
+<incipit>Loffuær h<expan>er</expan>ræn aff hi<expan>m</expan>melæne</incipit>
+</msItem>
+<msItem n="1.2.2.7">
+<locus from="15v:10" to="15v:15">f. 15v:10-15</locus>
+<title type="uniform">Capitulum. In omnibus requiem quesiui</title>
+<rubric>ca<expan>pitulu</expan>m</rubric>
+<incipit>I alle the thingh lettæ iæch æfftær roo</incipit>
+</msItem>
+<msItem n="1.2.2.8">
+<locus from="15v:15" to="16r:5">ff. 15v:15-16r:5</locus>
+<title type="uniform">Hymnus: O gloriosa domina</title>
+<rubric>ym<expan>nus</expan></rubric>
+<incipit>O ære fulle fruæ opp høgdh ouer stiærnere</incipit>
+</msItem>
+<msItem n="1.2.2.9">
+<locus from="16r:6" to="16v:9">f. 16r:6-16v:9</locus>
+<title type="uniform">Canticum Zacharie prophete. Benedictus dominus</title>
+<incipit>Vælsign<expan>et</expan> være h<expan>er</expan>ræn israhels gudh</incipit>
+</msItem>
+<msItem n="1.2.2.10">
+<locus from="16v:10" to="16v:23">f. 16v:10-23</locus>
+<title type="uniform">Collecta. Concede nos</title>
+<incipit>Vi bedhæ thic vor h<expan>er</expan>ræ gudh giff os thine tiener ath gledes</incipit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.3">
+<locus from="16v:23" to="18r:22">ff. 16v:23-18r:22</locus>
+<title type="uniform" lang="LAT">Ad primam</title>
+<msItem n="1.2.3.1">
+<locus from="16v:23" to="17r:5">ff. 16v:23-17r:5</locus>
+<title type="uniform">Hymnus. Rex christe clementissime</title>
+<rubric>ympn<expan>us</expan></rubric>
+<incipit>O christe, mildistæ ko<expan>n</expan>nigh</incipit>
+</msItem>
+<msItem n="1.2.3.2">
+<locus from="17r:6" to="17r:17">f. 17r:6-17</locus>
+<title type="uniform">Psalmus 120 (119): Ad Dominum, cum tribularer</title>
+<incipit>The<expan>n</expan> tidh iæch roptæ til h<expan>er</expan>ræn och var bedrøuet</incipit>
+</msItem>
+<msItem n="1.2.3.3">
+<locus from="17r:18" to="17v:6">f. 17r:18-17v:6</locus>
+<title type="uniform">Psalmus 121 (120): Levabo ocolos meos in montes</title>
+<incipit>Iæch <sic>loffuedhæ</sic> myne øuen opp til biergæne</incipit>
+</msItem>
+<msItem n="1.2.3.4">
+<locus from="17v:7" to="17v:23">f. 17v:7-23</locus>
+<title type="uniform">Psalmus 122 (121): Laetatus sum in eo</title>
+<incipit>Iæch ær gladh vorden i the thingh</incipit>
+</msItem>
+<msItem n="1.2.3.5">
+<locus from="17v:24" to="18r:13">ff. 17v:24-18r:13</locus>
+<title type="uniform">Capitulum. Haec est virgo</title>
+<incipit>Thi<expan>n</expan>ne iamfru ær helligh och ære fuldh</incipit>
+</msItem>
+<msItem n="1.2.3.6">
+<locus from="18r:14" to="18r:22">f. 18r:14-22</locus>
+<title type="uniform">Collecta. Sancta maria</title>
+<incipit>S<expan>an</expan>c<expan>t</expan>a maria, vor h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>i modær</incipit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.4">
+<locus from="18r:22" to="19v:">ff. 18r-19v</locus>
+<title type="uniform" lang="LAT">Ad tertiam</title>
+<rubric>ad t<expan>ertiam</expan></rubric>
+<msItem n="1.2.4.1">
+<locus from="18r:23" to="18r:24">f. 18r:23-24</locus>
+<title type="uniform">Hymnus: Rex Christe</title>
+<rubric>ym<expan>nus</expan></rubric>
+<incipit>O <expan>christ</expan>e misku<expan>n</expan>deligste konige so<expan>m</expan> i prim staar</incipit>
+</msItem>
+<msItem n="1.2.4.2">
+<locus from="18r:25" to="18v:10">f. 18r:25-18v:10</locus>
+<title type="uniform">Psalmus 123 (122): Ad te lavavi oculos meos</title>
+<incipit>Iech løfftæ myne øuen opp til tik</incipit>
+</msItem>
+<msItem n="1.2.4.3">
+<locus from="18v:11" to="18v:26">f. 18v:11-26</locus>
+<title type="uniform">Psalmus 124 (123): Nisi quia Dominus erat in nobis</title>
+<rubric>psalm<expan>us</expan></rubric>
+<incipit>Forty vden h<expan>er</expan>ræn hauer været i os</incipit>
+</msItem>
+<msItem n="1.2.4.4">
+<locus from="19r:1" to="19r:15">f. 19r:1-15</locus>
+<title type="uniform">Psalmus 125 (124): Qui confidunt in Domino</title>
+<incipit>The ther trøste paa h<expan>er</expan>ræn</incipit>
+</msItem>
+<msItem n="1.2.4.5">
+<locus from="19r:15" to="19r:25">f. 19r:15-25</locus>
+<title type="uniform">Ab initio et ante secula creata sum</title>
+<rubric>capitulu<expan>m</expan></rubric>
+<incipit>Aff opp hoff och for værde<expan>n</expan> ær <supplied reason="omitted">iæch</supplied> skapt</incipit>
+<explicit>H<expan>er</expan>re, hør myn bøn</explicit>
+<note>cf. Ecclesiasticus 24.14</note>
+</msItem>
+<msItem n="1.2.4.6">
+<locus from="19v:1" to="19v:11">f. 19v:1-11</locus>
+<title type="uniform">Collecta. Deus qui de beate marie</title>
+<incipit>Gudh thu som vilde ath thit ordh skullæ tagæ kiødh aff iomfrw maria liiff</incipit>
+<explicit>Och vel signæ vi h<expan>er</expan>ræn Gudh være tak</explicit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.5">
+<locus from="19v:12" to="20v:25">ff. 19v:12-20v:25</locus>
+<title type="uniform" lang="LAT">Ad sextam</title>
+<msItem n="1.2.5.1">
+<locus from="19v:13" to="19v:25">f. 19v:13-25</locus>
+<title type="uniform">Psalmus 126 (125): In convertendo captivitatem Sion</title>
+<incipit>The<expan>n</expan> tidh h<expan>er</expan>ræn vændhæ syons fængxæl</incipit>
+</msItem>
+<msItem n="1.2.5.2">
+<locus from="20r:1" to="20r:15">f. 20r:1-15</locus>
+<title type="uniform">Psalmus 127 (126): Nisi Dominus aedificaverit domum</title>
+<incipit>Udhen h<expan>er</expan>ræn byggæde huss<expan>et</expan></incipit>
+</msItem>
+<msItem n="1.2.5.3">
+<locus from="20r:16" to="20v:5">f. 20r:16-20v:5</locus>
+<title type="uniform">Psalmus 128 (127): Beati omnes</title>
+<incipit>Helligh ære alle the som rædes h<expan>er</expan>ræn</incipit>
+</msItem>
+<msItem n="1.2.5.4">
+<locus from="20v:6" to="20v:14">f. 20v:6-14</locus>
+<title type="uniform">Capitulum. Et sic in Sion firmata sum</title>
+<incipit>Och sa ær iech fast giordh i syon</incipit>
+<note>cf. Ecclesiasticus 24.15</note>
+</msItem>
+<msItem n="1.2.5.5">
+<locus from="20v:15" to="20v:25">f. 20v:15-25</locus>
+<title type="uniform">Collecta. Deus qui salutis</title>
+<incipit>Gudh thu so<expan>m</expan> gaffst me<expan>n</expan>niskens slekt ewi<expan>n</expan>eligh <sic>slekt</sic> ewi<expan>n</expan>eligh hielsens løn</incipit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.6">
+<locus from="21r:1" to="22r:6">ff. 21r:1-22r:6</locus>
+<title type="uniform" lang="LAT">Ad nonam</title>
+<msItem n="1.2.6.1">
+<locus from="21r:1" to="21r:1">f. 21r:1</locus>
+<title type="uniform">Hymnus. Rex christe clementissime</title>
+<incipit>O <expan>christ</expan>e, mildiste ko<expan>n</expan>nigh, giør vor hiær<supplied reason="omitted">tæ</supplied></incipit>
+</msItem>
+<msItem n="1.2.6.2">
+<locus from="21r:2" to="21r:15">f. 21r:2-15</locus>
+<title type="uniform">Psalmus 129 (128): Saepe expugnaverunt me a iuventute mea</title>
+<incipit>The haue offtæ bestridh mik aff mynæ vngdom</incipit>
+</msItem>
+<msItem n="1.2.6.3">
+<locus from="21r:15" to="21v:1">f. 21r:15-21v:1</locus>
+<title type="uniform">Psalmus 130 (129): De profundis clamavi ad te, Domine</title>
+<rubric>psalm<expan>us</expan></rubric>
+<incipit>Aff dyubæ roptæ iæch til h<expan>er</expan>ren h<expan>er</expan>ræ høør myn bøn</incipit>
+</msItem>
+<msItem n="1.2.6.4">
+<locus from="21v:2" to="21v:13">f. 21v:2-13</locus>
+<title type="uniform">Psalmus 131 (130): Domine, non est exaltatum cor meum</title>
+<incipit>H<expan>er</expan>ræ, mith hiærtæ ær ey opp høgh<expan>et</expan></incipit>
+</msItem>
+<msItem n="1.2.6.5">
+<locus from="21v:13" to="21v:22">f. 21v:13-22</locus>
+<title type="uniform">Capitulum. Et radicavi in populo honorificatu</title>
+<rubric>ca<expan>pitulu</expan>m</rubric>
+<incipit>Och iæch hauer fæst myne <corr sic="ordh">rodh</corr> i th<expan>et</expan> hedrædæ folk</incipit>
+</msItem>
+<msItem n="1.2.6.6">
+<locus from="21v:23" to="22r:6">ff. 21v:23-22r:6</locus>
+<title type="uniform">Collecta. Concede misericors deus</title>
+<incipit>Misku<expan>n</expan>dæ gudh giff vor skrøbelighet hielp och styrkiæ</incipit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.7">
+<locus from="22r:7" to="24r">ff. 22r:7-24r:24</locus>
+<title type="uniform" lang="LAT">Ad vesperas</title>
+<msItem n="1.2.7.1">
+<locus from="22r:8" to="22v:4">f. 22r:8-22v:4</locus>
+<title type="uniform">Psalmus 110 (109): Dixit Dominus Domino meo</title>
+<incipit>H<expan>er</expan>ræn saudhe til my<expan>n</expan> h<expan>er</expan>ræ</incipit>
+</msItem>
+<msItem n="1.2.7.2">
+<locus from="22v:5" to="22v:19">f. 22v:5-19</locus>
+<title type="uniform">Psalmus 113 (112): Laudate, pueri Dominum</title>
+<incipit>Loffuær h<expan>er</expan>ræn i børn loffuer h<expan>er</expan>ræns naff<expan>n</expan></incipit>
+</msItem>
+<msItem n="1.2.7.3">
+<locus from="22v:19" to="22v:22">f. 22v:19-22</locus>
+<title type="uniform">Psalmus 122 (121): Laetatus sum in his quae dicta sunt mihi</title>
+<incipit>Iæch ær gladh vorde<expan>n</expan> i the thingh ther mik ær saud</incipit>
+</msItem>
+<msItem n="1.2.7.4">
+<locus from="22v:23" to="22v:24">f. 22v:23-24</locus>
+<title type="uniform">Psalmus 127 (126): Nisi Dominus aedeficaverit domum</title>
+<incipit>Udhen h<expan>er</expan>ræn byggær hus<expan>et</expan></incipit>
+</msItem>
+<msItem n="1.2.7.5">
+<locus from="22v:25" to="23r:18">ff. 22v:25-23r:18</locus>
+<title type="uniform">Psalmus 147: Lauda Ierusalem, Dominum</title>
+<incipit>Ih<expan>erusa</expan>l<expan>e</expan>m loffue thin h<expan>er</expan>re</incipit>
+</msItem>
+<msItem n="1.2.7.6">
+<locus from="23r:19" to="23v:2">f. 23r:19-23v</locus>
+<title type="uniform">Capitulum. Beata es, virgo maria </title>
+<incipit>Helligh æst thu iomfrw maria</incipit>
+</msItem>
+<msItem n="1.2.7.7">
+<locus from="23v:2" to="23v:21">f. 23v:2-21</locus>
+<title type="uniform">Hymnus. Ave maris stella</title>
+<incipit>Heel haffzæns stiærne hellighe gusz modær</incipit>
+</msItem>
+<msItem n="1.2.7.8">
+<locus from="23v:22" to="24r:20">ff. 23v:22-24r:20</locus>
+<title type="uniform">Canticum beatae mariae virginis. Magnificat</title>
+<incipit>Min siæl loffuær h<expan>er</expan>ræn och myn andh hauer fryd<expan>et</expan> sik</incipit>
+</msItem>
+<msItem n="1.2.7.9">
+<locus from="24r:21" to="24r:24">f. 24r:21-24</locus>
+<title type="uniform">Collecta. Concede nos</title>
+<incipit>Vi bede thic vor h<expan>er</expan>ræ gudh</incipit>
+</msItem>
+</msItem>
+
+<msItem n="1.2.8">
+<locus from="24v:1" to="26r:15">ff. 24v:1-26r:15</locus>
+<title type="uniform" lang="LAT">Ad completorium</title>
+<msItem n="1.2.8.1">
+<locus from="24v:1" to="25r:11">ff. 24v:1-25r:11</locus>
+<title type="uniform">Psalmus 132 (131): Memento, Domine, David</title>
+<incipit>H<expan>er</expan>ræ my<expan>n</expan>nes dauid</incipit>
+</msItem>
+<msItem n="1.2.8.2">
+<locus from="25r:12" to="25r:18">f. 25r:12-18</locus>
+<title type="uniform">Psalmus 133 (132): Ecce quam bonum et quam iucundum</title>
+<incipit>See hure goth och hure frygdeligh th<expan>et</expan> ær</incipit>
+</msItem>
+<msItem n="1.2.8.3">
+<locus from="25r:19" to="25v:2">f. 25r:19-25v:2</locus>
+<title type="uniform">Psalmus 134 (133): Ecce nunc benedicite Dominum</title>
+<incipit>See vælsigner nw h<expan>er</expan>ræn alle h<expan>er</expan>rens sue<expan>n</expan>ne</incipit>
+</msItem>
+<msItem n="1.2.8.4">
+<locus from="25v:3" to="25v:9">f. 25v:3-9</locus>
+<title type="uniform">Capitulum. Multe filie</title>
+<incipit>Manghæ døttræ same<expan>n</expan> sanckædæ rigdo<expan>m</expan>me</incipit>
+</msItem>
+<msItem n="1.2.8.5">
+<locus from="25v:10" to="25v:19">f. 25v:10-19</locus>
+<title type="uniform">Hymnus. Fit porta christi</title>
+<incipit>Christi porth ær opp laden och opp fylt</incipit>
+</msItem>
+<msItem n="1.2.8.6">
+<locus from="25v:20" to="26r:7">ff. 25v:20-26r:7</locus>
+<title type="uniform">Canticum Simeonis. Nunc dimittis</title>
+<incipit>H<expan>er</expan>ræ, ladh nw thin suendh i fredh æfft<expan>er</expan> thit ordh</incipit>
+</msItem>
+<msItem n="1.2.8.7">
+<locus from="26r:8" to="26r:15">f. 26r:8-15</locus>
+<title type="uniform">Collecta. Famulorum tuorum</title>
+<incipit>H<expan>er</expan>ræ, vi bedhæ thic, for ladh thine tieners syndær</incipit>
+</msItem>
+</msItem>
+</msItem> 
+
+<msItem n="1.3"> 
+<locus from="26r:16" to="30v">ff. 26r:16-30v:20</locus>
+<title type="uniform" lang="DAN">De Syv Bodssalmer</title>
+<title type="uniform" lang="LAT">Septem Psalmi Penitenciales</title> 
+<title type="uniform" lang="ENG">The Seven Penitential Psalms</title>
+<rubric>Syw salme pa da<expan>n</expan>ske</rubric>
+<msItem n="1.3.1">
+<locus from="26r:16" to="26v:14">f. 26r:16-26v:14</locus>
+<title type="uniform">Psalmus 6: Domine, ne in furore tuo argas me</title>
+<incipit>H<expan>er</expan>ræ straffe mik ey i thin brædhæ</incipit>
+</msItem>
+<msItem n="1.3.2">
+<locus from="26v:15" to="27r:17">ff. 26v:15-27r:17</locus>
+<title type="uniform">Psalmus 32 (31): Beatus, cui remissa est inquitas</title>
+<incipit>Helligh ære the thieres vndskab ære for ladænæ</incipit>
+</msItem>
+<msItem n="1.3.3">
+<locus from="27r:18" to="28r:14">ff. 27r:18-28r:14</locus>
+<title type="uniform">Psalmus 38 (37): Domine, ne in furore tuo argas me</title>
+<incipit>H<expan>er</expan>ræ straffe mik ey i thin brædhæ</incipit>
+</msItem>
+<msItem n="1.3.4">
+<locus from="28r:15" to="29r:4">ff. 28r:15-29r:4</locus>
+<title type="uniform">Psalmus 51 (50): Miserere mei, Deus</title>
+<incipit>Misku<expan>n</expan>dæ mik, gudh for thin storæ miskwndh</incipit>
+</msItem>
+<msItem n="1.3.5">
+<locus from="29r:5" to="30r:9">ff. 29r:5-30r:9</locus>
+<title type="uniform">Psalmus 102 (102): Domine, exaudi orationem</title>
+<incipit>H<expan>er</expan>ræ, høør myn bøn</incipit>
+</msItem>
+<msItem n="1.3.6">
+<locus from="30r:10" to="30r:11">f. 30r:10-11</locus>
+<title type="uniform">Psalmus 130 (129): De profundis clamavi ad te, domine</title>
+<incipit>Aff dyub roptæ iæch til thic herre</incipit>
+</msItem>
+<msItem n="1.3.7">
+<locus from="30r:12" to="30v:20">f. 30r:12-30v:20</locus>
+<title type="uniform">Psalmus 143 (142): Domine, exaudi orationem meam</title>
+<incipit>H<expan>er</expan>ræ høør my<expan>n</expan> bøn</incipit>
+</msItem> 
+</msItem> 
+
+<msItem n="1.4"> 
+<locus from="30v:21" to="32v:18">ff. 31r-32v:18</locus>
+<title type="uniform" lang="DAN">Allehelgenslitaniet</title> 
+<title type="uniform">The Litany of the Saints</title>
+<incipit>Kyriel<expan>eison</expan> <expan>Christ</expan>eleyso<expan>n</expan></incipit>
+<explicit>och ladh mik see the<expan>m</expan> i hi<expan>m</expan>mærigis rigi och th<expan>e</expan>r ewi<expan>n</expan>nelig at leue Ame<expan>n</expan></explicit>
+</msItem> 
+</msItem>
+
+<msItem n="2" defective="yes">
+<locus from="33r:1" to="110v">ff. 33r:1-110v</locus> 
+<title type="supplied">Prayer book</title> 
+
+<msItem n="2.1">
+<locus from="33r:1" to="64v:23">ff. 33r:1-64v:23</locus> 
+<title type="supplied">Prayers to Our Lord Jesus Christ and to the Trinity</title>
+
+<msItem n="2.1.1">
+<locus from="33r:1" to="34r:2">ff. 33r:1-34r:2</locus>
+<title type="supplied">Prayer of the Cross (<ref>MDB 69</ref>)</title>
+<incipit>Wors h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>i kors væræ m<expan>eth</expan> migh</incipit>
+<explicit>i naffn fadær och søn och th<expan>e</expan>n helligandh Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+<rubric type="final">The<expan>n</expan>næ for skreffnæ bøn diktæ och skreff een hiedærligh paffuæ i rom ... so offtæ som han th<expan>et</expan> helligæ kors th<expan>e</expan>r vdi næffnær Ame<expan>n</expan></rubric>
+</msItem>
+
+<msItem n="2.1.2">
+<locus from="34r:3" to="34r:16">f. 34r:3-16</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 70</ref>)</title>
+<incipit><supplied reason="omitted">I</supplied>æch betegnær migh m<expan>eth</expan> gudh hans værduga benedidhæ makt</incipit>
+<explicit>I naffn fadær och søn och th<expan>e</expan>n helligandh Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+<note>MDB I, No. 70</note>
+</msItem>
+
+<msItem n="2.1.3">
+<locus from="34r:17" to="34v:2">f. 34r:17-34v:2</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 71</ref>)</title>
+<rubric>Vor h<expan>er</expan>ræ sigær so i s<expan>an</expan>c<expan>t</expan>a birgitte bøgær ... tha vil iæch for ladhæ hanom allæ allæ sinæ syndære Amen</rubric>
+<incipit>O h<expan>er</expan>ræ gudh iæch kiæ<expan>n</expan>nes migh suarligh ath haffuæ syndæt amodh thik</incipit>
+<explicit>thin bieskæ pinæ och hordhæ døth amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.1.4">
+<locus from="34v:3" to="34v:10">f. 34v:3-10</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 72</ref>)</title>
+<rubric>Huo som heelst the<expan>n</expan>næ æffth<expan>e</expan>r skreffnæ bøn læs gudæligh dagligh han skal m<expan>eth</expan> ganghæ i gledæn for vth<expan>e</expan>n allæ pinær Amen</rubric>
+<incipit>O h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e leffwindis gusz søn</incipit>
+<explicit>vdh aff thennæ grædhe fuldh dall Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.1.5">
+<locus from="34v:11" to="34v:22">f. 34v:11-22</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ in his pain (<ref>MDB 73</ref>)</title>
+<rubric>Huo som the<expan>n</expan>næ æffth<expan>e</expan>r skreffnæ bøn læsær i vors h<expan>er</expan>ræ ih<expan>es</expan>us <expan>christ</expan>i pinæs amy<expan>n</expan>nilsæ ... vth<expan>e</expan>n gudh allæ iæ<expan>n</expan>ne Amen</rubric>
+<incipit>O korssæns høgilsæ o menløs blodh</incipit>
+<explicit>hielp myn siæl til ewi<expan>n</expan>nælighe salligh<expan>et</expan> Amen</explicit>
+</msItem>
+
+<msItem n="2.1.6">
+<locus from="34v:23" to="35v:5">ff. 34v:23-35v:5</locus>
+<title type="supplied">Prayer to the Trinity (<ref>MDB 74</ref>)</title>
+<rubric>hære byriæs een mærkæligh bøn aff then helligæ tre foldughet myggæt kostæligh ath læsæ huærdagh</rubric>
+<incipit>Heedær dygd makt och mektugh<expan>et</expan> væræ th<expan>e</expan>n helligæ trefoldugh<expan>et</expan> i iæn guddommæligh<expan>et</expan></incipit>
+<explicit>Ewi<expan>n</expan>næligh loff væræ th<expan>e</expan>n helligæ trefoldugh<expan>et</expan> och hiedær væræ een <corr sic="guddomæligh">guddomæligh<expan>et</expan></corr> ewi<expan>n</expan>næligh Amen</explicit>
+</msItem>
+
+<msItem n="2.1.7">
+<locus from="35v:6" to="35v:16">f. 35v:6-16</locus>
+<title type="supplied">Prayer to the Trinity (<ref>MDB 75</ref>)</title>
+<rubric>Item huo som gudæligh huærdagh thissæ effth<expan>e</expan>r skreffnæ ordh læs i helligæ tre foldughetz ære ... huilkæt damascen<expan>us</expan> skriffuær i sin bogh xv</rubric>
+<incipit>S<expan>an</expan>c<expan>t</expan>us S<expan>an</expan>c<expan>t</expan>us S<expan>an</expan>c<expan>t</expan>us d<expan>omi</expan>nus de<expan>us</expan> sabaoth</incipit>
+<explicit>S<expan>an</expan>c<expan>t</expan>us <expan>et</expan> inmortalis mis<expan>er</expan>ere nobis Amen</explicit>
+<textLang langKey="LAT">Latin</textLang>
+</msItem>
+
+<msItem n="2.1.8">
+<locus from="35v:16" to="35v:22">f. 35v:16-22</locus>
+<title type="supplied">Prayer to the Trinity (<ref>MDB 76</ref>)</title>
+<rubric>Iæn a<expan>n</expan>nen loff sangh aff helligæ trefoldugh<expan>et</expan></rubric>
+<incipit>Helligh helligh helligh æst thu h<expan>er</expan>ræ gudh vndær huis h<expan>er</expan>rædom ær allæ ænglæ skaræ</incipit>
+<explicit>o hellige trefoldugh<expan>et</expan> Amen</explicit>
+</msItem>
+
+<msItem n="2.1.9">
+<locus from="35v:22" to="36v:21">ff. 35v:22-36v:21</locus>
+<title type="supplied">Prayer to the Trinity (<ref>MDB 77</ref>)</title>
+<rubric>Item sigæs the<expan>n</expan>næ effth<expan>e</expan>r skreffnæ loff sangh ath haffuæ sadan makt och dygdh ... som damascen<expan>us</expan> skriffuær i libro xiv Amen</rubric>
+<incipit>O iæne alzom mektugæstæ gudh fadær oc søn och th<expan>e</expan>n helligand mektugh<expan>et</expan> visdom <corr sic="godhotz">godhetz</corr> værnære</incipit>
+<explicit>O hellighæ trefoldugh<expan>et</expan> Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+<rubric type="final">The<expan>n</expan>næ for skreffnæ tallæn troligh och gudæligh læst ær krafftugh modh allæ vodhæ paa iordæn och i haffuæth ... Saa helligh ær the<expan>n</expan>næ for skreffnæ læsni<expan>n</expan>gh och loff sangh ath næppæligh til stedæs iæn værdzsæligh me<expan>n</expan>niskæ ath framføræ th<expan>et</expan> Amen</rubric>
+</msItem>
+
+<msItem n="2.1.10">
+<locus from="36v:22" to="37r:6">ff. 36v:22-37r:6</locus>
+<title type="supplied">Praise of the Trinity, Jesus Christ and the Virgin (<ref>MDB 78</ref>)</title>
+<incipit>O hellighæ och v atskiellæligh trefoldugh<expan>et</expan> ih<expan>es</expan>u <expan>christ</expan>i korsfæst mandom</incipit>
+<explicit>O helligæ marie iomff<expan>ru</expan> och modær væræ loff och æræ aff allæ creatur ewi<expan>n</expan>næligh e for vth<expan>e</expan>n ændæ Amen</explicit>
+<rubric type="final">The<expan>n</expan>næ lidlæ bøn ær vd skreffuæt i ro<expan>m</expan> och til hi<expan>n</expan>næ ær giiffuæt tho thusind aar och ii hu<expan>n</expan>dræt och sextyue daghe Amen</rubric>
+</msItem>
+
+<msItem n="2.1.11">
+<locus from="37r:7" to="37r:22">f. 37r:7-22</locus>
+<title type="supplied">Prayer to the Trinity (<ref>MDB 79</ref>)</title>
+<incipit>O <supplied reason="omitted">herræ</supplied> helligæ fadær och ewærdæligh gudh iæch bedær thik</incipit>
+<explicit>och ælsk oss at iæch maa fi<expan>n</expan>næ thik i myn døsz timæ Amen</explicit>
+</msItem>
+
+<msItem n="2.1.12">
+<locus from="37r:23" to="38v:11">ff. 37r:23-38v:11</locus>
+<title type="supplied">Prayers to Jesus Christ and the Virgin (<ref>MDB 80</ref>)</title>
+<rubric>een læghæ brodær i s<expan>anct</expan>i bernardi ordæn togh sigh for een godh sedwonæ och læste huærdagh i xx aar føræ han dødhæ ... han fongær vissæligh th<expan>e</expan>n sa<expan>m</expan>mæ nadhæ och affløsni<expan>n</expan>gh aff syndær Amen</rubric>
+<incipit>H<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>i leffwindis gusz søn och io<expan>m</expan>fru maria søn</incipit>
+<explicit>medæn fræls migh raskæligh æffth<expan>e</expan>r thin signæth viliæ och storæ miskwndh Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.1.13">
+<locus from="38v:12" to="39v:3">ff. 38v:12-39v:3</locus>
+<title type="supplied">Prayer in verse to the Five Wounds of Jesus Christ (<ref>MDB 81</ref>)</title>
+<rubric>Til huært værs och collecter som hær æffth<expan>e</expan>r skriffuæs ... om thu læsær th<expan>e</expan>m m<expan>eth</expan> gudæligh<expan>et</expan> Amen</rubric>
+<incipit>Heel ih<expan>es</expan>u <expan>christ</expan>e høgræ handh som korsfæst var a iødhæ landh</incipit>
+<explicit>och i dødæn hielp migh th<expan>et</expan> diæfflen fongær ey makt hellær voldh ouær migh som thu m<expan>eth</expan> thit dyræ blodh løstæ Amen</explicit>
+</msItem>
+
+<msItem n="2.1.14">
+<locus from="39v:4" to="40v:7">ff. 39v:4-40v:7</locus>
+<title type="supplied">Three prayers to Jesus Christ (<ref>MDB 82</ref>)</title>
+<rubric>Thissæ tre stackæt effth<expan>e</expan>r skreffnæ bønær skal læsæs m<expan>eth</expan> tre p<expan>ate</expan>r n<expan>oste</expan>r och aue maria ... och han førær thieræ siæle til ewighæ glede Am<expan>en</expan></rubric>
+<incipit>O Mildæ h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e my<expan>n</expan> gudh myn h<expan>er</expan>ræ myn skabær myn salligh giørær</incipit>
+<explicit>och giiff allæ kristenæ siæle ewi<expan>n</expan>næligh gledæ Amen</explicit>
+</msItem>
+
+<msItem n="2.1.15">
+<locus from="40v:8" to="41r:3">ff. 40v:8-41r:3</locus>
+<title type="supplied">Prayer to the Trinity (<ref>MDB 83</ref>)</title>
+<rubric>Huilkæn me<expan>n</expan>niskæ the<expan>n</expan>næ effth<expan>e</expan>r skreffne bøn læs m<expan>eth</expan> gudæligh<expan>et</expan> th<expan>e</expan>n helligæ trefoldugh<expan>et</expan> til loff och ære ... hanom giøres amodh i iørdærigi Amen</rubric>
+<incipit>Iæch op ladær myn hiærtens røst til ath loffuæ och ære thic th<expan>e</expan>n helligæ trefoldugh<expan>et</expan></incipit>
+<explicit>fulkom the<expan>n</expan>næ stackæth <supplied reason="omitted">hiertens</supplied> loff i th<expan>e</expan>n helligæ trefoldughetz aasiøn i the<expan>n</expan>næ pu<expan>n</expan>kt nw och ewi<expan>n</expan>næligh Am<expan>en</expan>
+</explicit>
+</msItem>
+
+<msItem n="2.1.16">
+<locus from="41r:4" to="41v:8">f. 41r:4-41v:8</locus>
+<title type="supplied">Prayer to Jesus Christ in his pain (<ref>MDB 84</ref>)</title>
+<rubric>S<expan>an</expan>c<expan>t</expan>us gregori<expan>us</expan> paffuæ gaff til the<expan>n</expan>næ effth<expan>e</expan>r skreffnæ bøn saa myghæt afflath som ... ee huo th<expan>e</expan>m læs m<expan>eth</expan> gudæligh<expan>e</expan>t Amen</rubric>
+<incipit>O kiære h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e thu som æst alzom nadhæ fullæste</incipit>
+<explicit>och giiff mik ryffwilsæ i mith hiærtæ for allæ mynæ syndær Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.1.17">
+<locus from="41v:9" to="47v:8">ff. 41v:9-47v:8</locus>
+<title type="supplied">Prayer to the limbs of Jesus Christ (<ref>MDB 85</ref>)</title>
+<rubric>een helligh qwi<expan>n</expan>næ astwndæt ath vidhæ taal paa ih<expan>es</expan>u <expan>christ</expan>i vndær och saar ... som han frælstæ S<expan>an</expan>c<expan>t</expan>æ powæl fra haffzæns bu<expan>n</expan>dh Amen</rubric>
+<incipit>O sødhæ h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e ewerdæligh thieræ sødmæ swo som thik ælskær</incipit>
+<explicit>och skiænk hi<expan>n</expan>næ aff th<expan>e</expan>n guddoms kalk huilkæn som thu haffuær th<expan>e</expan>m allæ iæt th<expan>e</expan>r thic m<expan>eth</expan> thissæ bønær thie<expan>n</expan>ner m<expan>eth</expan> so kiærlighetz how och so gudælighetz akt Amen p<expan>ate</expan>r</explicit>
+</msItem>
+
+<msItem n="2.1.18">
+<locus from="47v:9" to="48v:1">ff. 47v:9-48v:1</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 86</ref>)</title>
+<rubric>Huo som the<expan>n</expan>næ effth<expan>e</expan>r skreffne bøn læs huær dagh ... tha om vænd<expan>e</expan>r gudh the pinæ til ewi<expan>n</expan>næligh gledhæ Amen</rubric>
+<incipit>O godhæ ih<expan>es</expan>u O alt mildistæ ih<expan>es</expan>u O alt sødistæ ih<expan>es</expan>u</incipit>
+<explicit>hwilkæn som ær vey oc sandh<expan>et</expan> och iæn signet fruct iomfru maria Amen</explicit>
+</msItem>
+
+<msItem n="2.1.19">
+<locus from="48v:2" to="49r:18">ff. 48v:2-49r:18</locus>
+<title type="supplied">Three prayers to Our Lord Jesus Christ (<ref>MDB 87</ref>)</title>
+<rubric><supplied reason="omitted">I</supplied>oha<expan>n</expan>nes paffuæ th<expan>e</expan>n annen til tyffwindhæ stadfæste thissæ tre æffth<expan>e</expan>r skreffnæ bønær til th<expan>e</expan>n fyrstæ gaff han ottæ hwndræt thusindh aar afflath for nadæligh syndær Amen</rubric>
+<incipit>H<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e iæch vslæ syndugæ me<expan>n</expan>niskæ</incipit>
+<explicit>ath vi moghæ ewi<expan>n</expan>neligh m<expan>eth</expan> thik bliffuæ Amen migh hobæs</explicit>
+</msItem>
+
+<msItem n="2.1.20">
+<locus from="49r:19" to="51r:23">ff. 49v:19-51r:23</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ for the owner of the book (<ref>MDB 88</ref>)</title>
+<rubric>Huo som the<expan>n</expan>næ effth<expan>e</expan>r skreffnæ bøn læser gudæligh huærdagh han fongær for ladilsæ aff allæ sinæ synd<expan>e</expan>r ... tha skal han til forne læse thissæ tre psalmer som <supplied reason="omitted">ær</supplied> <title>De<expan>us</expan> in no<expan>m</expan>i<expan>n</expan>e tuo</title> <title>De<expan>us</expan> misereatur n<expan>ostr</expan>i</title> <title>De p<expan>ro</expan>fundis</title> och skal the<expan>n</expan>næ bøn læsæs m<expan>eth</expan> stor attroels och stor gudæligh<expan>et</expan> och m<expan>eth</expan> ødhmygt hiærte Amen</rubric>
+<incipit>H<expan>er</expan>ræ gudh alz voldugæstæ fadær och søn och th<expan>e</expan>n helligandh giiff mik thin vuærdugæ thienistæ qwi<expan>n</expan>næ <name type="female">karine lodwigs dottær</name> ouær ath vi<expan>n</expan>næ</incipit>
+<explicit>thu som leffwær styrær och regnerær m<expan>eth</expan> gudh fadær och th<expan>e</expan>n helligandh nw och ewi<expan>n</expan>neligh Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.1.21">
+<locus from="51v:1" to="51v:16">f. 51v:1-16</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 89</ref>)</title>
+<rubric>The<expan>n</expan>æ effth<expan>e</expan>r skreffnæ bøn giordhæ s<expan>an</expan>c<expan>t</expan>us augustin<expan>us</expan> och huo hi<expan>n</expan>næ dagligh læs paa sin knæ han skal ey dø i dødæligh syndær vth<expan>e</expan>n han syndær th<expan>e</expan>r apa Amen</rubric>
+<incipit> O thu vbegribæligh mildh<expan>et</expan> skodhæ mig vslæ syndære</incipit>
+<explicit>skrabæ aff mynæ syndærs vtalligh<expan>et</expan> m<expan>eth</expan> thin misku<expan>n</expan>dh mangæ foldh<expan>et</expan> Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.1.22">
+<locus from="51v:17" to="52v:24">ff. 51v:17-52v:24</locus>
+<title type="supplied">Prayer to Jesus Christ in his pain (<ref>MDB 90</ref>)</title>
+<rubric><supplied reason="omitted">I</supplied>æn godh bøn læssindæ nar gusz ligom lyfftes til huilkæn paffuæ benedict<expan>us</expan> th<expan>e</expan>n tolfftæ aff the<expan>et</expan> naffn gaff allæ ræth skrifftedæ me<expan>n</expan>niskæ ... huilkæt for<expan>skreff</expan>ne afflath skal bliffuæ <sic corr="varigh">varingh</sic> til ewighæ tidh Amen</rubric>
+<incipit>O Miskwndæligh h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e Iæch bedær thik for th<expan>e</expan>n storæ kiærlighet thu ælskæt me<expan>n</expan>niskæn m<expan>eth</expan></incipit>
+<explicit>thu som leffw<expan>er</expan> och styrær m<expan>eth</expan> fadæren och th<expan>e</expan>n hellighandh efor vth<expan>e</expan>n ænde Amen</explicit>
+</msItem>
+
+<msItem n="2.1.23">
+<locus from="52v:25" to="54r:3">ff. 52v:25-54r:3</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 91</ref>)</title>
+<rubric>Hwo som the<expan>n</expan>ne effth<expan>e</expan>r skreffnæ bøn læsær i nogær mæsse ... the vare fæm thusindh och firæ hwndræt och trystywæ och sex Amen</rubric>
+<incipit>Heedær och loff och offær giør iæch thic ewi<expan>n</expan>neligh fadær och eemektugæste gudh</incipit>
+<explicit>til vor ydærste timæ th<expan>e</expan>r vi i værden leffuæ Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.1.24">
+<locus from="54r:4" to="55v:1">ff. 54r:4-55v:1</locus>
+<title type="supplied">Prayer to the body of Christ, used in the Holy Communion (<ref>MDB 92</ref>)</title>
+<rubric>Huo som the<expan>n</expan>næ effth<expan>e</expan>r skreffnæ bøn læs hanom ko<expan>m</expan>mær xx godhæ tingh th<expan>e</expan>r aff ... th<expan>et</expan> giiffuæ os <supplied reason="omitted">gudh</supplied> alzom mektugæste Amen</rubric>
+<incipit>H<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e thu som æst th<expan>e</expan>n leffwindes gusz søn</incipit>
+<explicit>thu som myn sødiste och aldræ kiæristæ h<expan>er</expan>ræ och gudh ær ewi<expan>n</expan>næligh Amen</explicit>
+</msItem>
+
+<msItem n="2.1.25">
+<locus from="55v:2" to="56r:14">ff. 55v:2-56r:14</locus>
+<title type="supplied">Prayer in verse to Our Lord Jesus Christ (<ref>MDB 93</ref>)</title>
+<rubric>Hæræ byriæs een godh bøn aff vor kiære h<expan>er</expan>ræ ih<expan>es</expan>us <expan>christ</expan>us och ær ganszæ godh ath læsæ huær syndagh han<expan>om</expan> til loff och ære</rubric>
+<incipit>Signæth see th<expan>e</expan>n dyræ dagh Signæth see th<expan>e</expan>n h<expan>er</expan>ræ os hanom gaff</incipit>
+<explicit>ladh os ey vorde i ræszæl grebæn och ey i syndæn grebæn Am<expan>en</expan></explicit>
+<note>Cfr. the Swedish <title>Dagvise</title></note>
+</msItem>
+
+<msItem n="2.1.26">
+<locus from="56r:15" to="56v:20">f. 56r:15-56v:20</locus>
+<title type="supplied">Prayer to Our Lord Jesus Christ (<ref>MDB 94</ref>)</title>
+<rubric>Hære byriæs iæn myggæth godh <supplied reason="omitted">bøn</supplied> aff vor h<expan>er</expan>ræ som man skal giærne læsæ huærdagh och tackæ gudh for allæ hans gode giærni<expan>n</expan>gær</rubric>
+<incipit>Vælsignæth være gudh fadær och søn och th<expan>e</expan>n helligand</incipit>
+<explicit>Signæth være hans naffn och loffwæth ewi<expan>n</expan>næligh ee for vth<expan>e</expan>n ænde Amen</explicit>
+</msItem>
+
+<msItem n="2.1.27" defective="yes">
+<locus from="56v:21" to="56v:24">f. 56v:21-24</locus>
+<title type="supplied">Prayers to Our Lord Jesus Christ (<ref>MDB 94.2</ref>)</title>
+<rubric>Till thissæ efftær skriffnæ bønær ær giffuæt xx thusindh aar afflath iiii xx aar och iiii daghæ och the skullæ læsæs for sadant figure som ih<expan>es</expan>us <expan>christ</expan>us</rubric>
+</msItem>
+
+<msItem n="2.1.28" defective="yes">
+<locus from="57r:1" to="59v:6">ff. 57r:1-59v:6</locus>
+<title type="supplied">Nine prayers to the body of Christ, used in the Holy Communion (<ref>MDB 95</ref>)</title>
+<incipit defective="yes">tær thin signedhæ viliæ Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue</incipit>
+<explicit>och ladh migh ey skiliæs vidh thik efor vth<expan>e</expan>n ænde Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue ma<expan>ri</expan>a</explicit>
+</msItem>
+
+<msItem n="2.1.29">
+<locus from="59v:7" to="60r:20">ff. 59v:7-60r:20</locus>
+<title type="supplied">Prayer to the body of Christ (<ref>MDB 96</ref>)</title>
+<rubric>S<expan>an</expan>c<expan>t</expan>us anastaci<expan>us</expan> paffwæ i rom giorde the<expan>n</expan>næ effth<expan>e</expan>r skreffnæ bøn ... och huo th<expan>e</expan>n læs gudæligh han ey døør førræ han fongær gusz ligo<expan>m</expan>mæ i hans ydærstæ timæ Amen</rubric>
+<incipit>O aldræ værdugæstæ gudh och h<expan>er</expan>ræ och skabær</incipit>
+<explicit>och loff m<expan>eth</expan> thik efor vth<expan>e</expan>n ænde Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue</explicit>
+</msItem>
+
+<msItem n="2.1.30">
+<locus from="60r:21" to="61r:21">ff. 60r:21-61r:21</locus>
+<title type="supplied">Prayer to the body of Christ, used in the Holy Communion (<ref>MDB 97</ref>)</title>
+<rubric>Hære byriæs iæn mygæth godh bøn som man skal giærne læsæ før man tagær gusz ligom</rubric>
+<incipit>O h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e m<expan>eth</expan> skielffwindæ samwidhæ gaar iæch fram ath vntfongæ thit vælsignedæ kiødh</incipit>
+<explicit>och myn siæls krops stærkæ værn modh dieffwilsæns gienwordilsæ och fræstilsæ och mit leffnetz atroligh och hielso<expan>m</expan>mæligt ændeligt Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.1.31">
+<locus from="61r:22" to="62r:15">ff. 61r:22-62r:15</locus>
+<title type="supplied">Prayer to the body of Christ, used in the Holy Communion (<ref>MDB 98</ref>)</title>
+<rubric>Hære byriæs een mygæth godh bøn som man skal læsæ føræ han tagær gusz benedidæ ligo<expan>m</expan>mæ</rubric>
+<incipit>O h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e huo hellær <supplied reason="omitted">huilken</supplied> ær iæch at iæch tørff gangæ til thit bordh</incipit>
+<explicit>ath iæch maa thic gledæligh skodhæ i thin ewerdælighæ ære Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria aue</explicit>
+</msItem>
+
+<msItem n="2.1.32">
+<locus from="62r:16" to="62r:24">f. 62r:16-24</locus>
+<title type="supplied">Prayer to God the Father, used in the Holy Communion (<ref>MDB 99</ref>)</title>
+<rubric>Hære byriæs een godh bøn som skal læsæs førre thu tag<expan>er</expan> gusz ligo<expan>m</expan>mæ</rubric>
+<incipit>O <supplied reason="omitted">h</supplied><expan>er</expan>ræ gudh alz voldugær och ewærdeligh fadær vndh migh </incipit>
+<explicit>ath fonghæ mynæ syndærs for ladilsæ och opp fyllæs m<expan>eth</expan> thin alzo helligæste andh Amen</explicit>
+</msItem>
+
+<msItem n="2.1.33">
+<locus from="62v:1" to="63r:5">ff. 62v:1-63r:5</locus>
+<title type="supplied">Prayer to the Virgin, used in the Holy Communion (<ref>MDB 100</ref>)</title>
+<rubric>iæn godh bøn som skal læsæs førre thu tag<expan>er</expan> gusz benedidhe ligo<expan>m</expan>mæ</rubric>
+<incipit>All ælskæligæste fruæ och alzo sædeligæste iomfru maria til thik ær mith høgæste hob næst gudh</incipit>
+<explicit>til ewærdæligh gledhæ och ære m<expan>eth</expan> gudh ewi<expan>n</expan>næligh efor vth<expan>e</expan>n ændhæ Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.1.34">
+<locus from="63r:6" to="63v:8">f. 63r:6-63v:8</locus>
+<title type="supplied">Prayer to the body of Christ, used in the Holy Communion (<ref>MDB 101</ref>)</title>
+<rubric>Hære byriæs een godh bøn aff vor h<expan>er</expan>ræ so<expan>m</expan> skal <sic corr="læses">slæses</sic> siden thu haw<expan>er</expan> taget gusz ligo<expan>m</expan>me</rubric>
+<incipit><sic corr="Wors">Oors</sic> h<expan>er</expan>ræ ih<expan>es</expan>u dyræ ligo<expan>m</expan>mæ som iæch vuærdugæ me<expan>n</expan>niskæ diærffwæs til ath vntfonghæ</incipit>
+<explicit>tha vndh migh th<expan>et</expan> for thin vælsignedhæ mod<expan>e</expan>r iomfru maria och thinæ helligæns bønæ Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.1.35">
+<locus from="63v:9" to="64r:2">ff. 63v:9-64r:2</locus>
+<title type="supplied">Prayer to the body of Christ, used in the Holy Communion (<ref>MDB 102</ref>)</title>
+<rubric>Hære byriæs een godh bøn so<expan>m</expan> skal læses sidæn thu haffw<expan>er</expan> tagæt gusz ligo<expan>m</expan>mæ</rubric>
+<incipit>O helligæ h<expan>er</expan>ræs ih<expan>es</expan>u <expan>christ</expan>i siæl hellighe giør migh</incipit>
+<explicit>th<expan>e</expan>r til ath iæch skal loffwæ thik m<expan>eth</expan> thinæ helligæ ænglæ och gledæs m<expan>eth</expan> thic ewi<expan>n</expan>næligh Amen</explicit>
+</msItem>
+
+<msItem n="2.1.36">
+<locus from="64r:3" to="64v:11">f. 64r:3-64v:11</locus>
+<title type="supplied">Three prayers to God the Father, used in the Holy Communion (<ref>MDB 103</ref>)</title>
+<rubric>Fyrst thu haffwær tagæth gusz benedidhæ och sødistæ ligo<expan>m</expan>mæ ... skalt thu so sighæ som hære æffth<expan>e</expan>r skriffwæs</rubric>
+<incipit>Gudh fadær for ladh migh th<expan>e</expan>t iæch icki saa gudh frittæligh haffwær tagæt</incipit>
+<explicit>och rætte bønæ ath giøræ i thin helligæ thie<expan>n</expan>nistæ Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.1.37">
+<locus from="64v:12" to="64v:23">f. 64v:12-23</locus>
+<title type="supplied">Prayer to the body of Christ (<ref>MDB 104</ref>)</title>
+<rubric>Hwo som the<expan>n</expan>næ lidlæ bøn læsær tri<expan>n</expan>næ si<expan>n</expan>næ m<expan>eth</expan> gudæligh<expan>et</expan> nar han haffuær vntfongæt ... och in tændh kiærligh<expan>et</expan> til ih<expan>es</expan>u <expan>christ</expan>i pinæ och dødh</rubric>
+<incipit>O Sødhæ h<expan>er</expan>ræ ih<expan>es</expan>u <expan>christ</expan>e dyræ benedidhæ ligo<expan>m</expan>mæ giøm myn siæl til ewi<expan>n</expan>næligh liiff AMEN</incipit>
+</msItem>
+</msItem> 
+
+<msItem n="2.2"> 
+<locus from="64v:24" to="89r:10">ff. 64v:24-89r:10</locus> 
+<title type="supplied" lang="ENG">Prayers to the Virgin</title>
+<title type="supplied" lang="DAN">Vor Frue bønner</title>
+<rubric>Hære byriæs vor fruæ bønær</rubric>
+
+<msItem n="2.2.1">
+<locus from="65r:1" to="69v:2">ff. 65r:1-69v:2</locus>
+<title type="supplied">The Joys of the Virgin. Ten prayers to the joy of the Virgin (<ref>MDB 105</ref>)</title>
+<rubric>Wilt thu vidhæ huræ thissæ æfft<expan>e</expan>r skreffne bønær i th<expan>et</expan>te iørderigi ær kome<expan>n</expan> ... troendis at the fonger vissæligh hielp aff iomfrw ma<expan>ri</expan>a i alle thieres bøn</rubric>
+<incipit>Maria iech bedær thik och paa my<expan>n</expan>ner thic for the<expan>n</expan> store frygd och ouer flødughæ frygd</incipit>
+<explicit>ladh thin barmhiærtugh<expan>et</expan> skie<expan>n</expan>næ paa mik och fuldkom myn bøn æfftær thin nadhæ och æfftær myn begieringh Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.2">
+<locus from="69v:3" to="71v:13">ff. 69v:3-71v:13</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 106</ref>)</title>
+<rubric>Hwilke<expan>n</expan> me<expan>n</expan>niskæ som thi<expan>n</expan>ne æfft<expan>e</expan>r skreffnæ bøn læsær j xxx daue for vor fruæ billet m<expan>eth</expan> hiærtens kiærligh<expan>et</expan> ... hiluidi skrigær then ilzske mordær skieluer rædes och frycter och hylær</rubric>
+<incipit>Ærie hielset och louet være thu iomfru maria thu all ærlixtæ</incipit>
+<explicit>th<expan>et</expan> ær th<expan>et</expan> ewi<expan>n</expan>neligh liff i then ewi<expan>n</expan>neligh gledhæ Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r</explicit> 
+</msItem>
+
+<msItem n="2.2.3">
+<locus from="71v:14" to="72r:15">ff. 71v:14-72r:15</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 107</ref>)</title>
+<rubric>Nær korss<expan>et</expan> ær opp tagh<expan>et</expan> paa poskæ morgæn ... ath thu skalt ioo frælses vde<expan>n</expan> thyffuel Ame<expan>n</expan></rubric>
+<incipit>O iomfru s<expan>an</expan>c<expan>t</expan>a maria iæch kwndgiør thiek ien stor gledhæ</incipit>
+<explicit>oc løsær mik aff alt vnt rykt och aff alle angestæ och aff alt nødh Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r aue</explicit>
+</msItem>
+
+<msItem n="2.2.4">
+<locus from="72r:16" to="75v:18">ff. 72r:16-75v:18</locus>
+<title type="supplied" lang="ENG">The Sorrows of the Virgin</title>
+<title type="uniform" lang="DAN">Jomfru Marias drøvelser (<ref>MDB 108</ref>)</title>
+<rubric>Th<expan>et</expan> læses at s<expan>an</expan>c<expan>t</expan>e ioha<expan>n</expan>nes ewangelsite han astu<expan>n</expan>dhe ath see iomfrw maria ... och fongæ alle thissæ thing ther i thissæ bøner bedes som hære æffter skriffues Amen</rubric>
+<incipit>O maria sødistæ ih<expan>es</expan>u <expan>christ</expan>i modær syndughæ me<expan>n</expan>niskes hielpære</incipit>
+<explicit>ath iæch mattæ gledis m<expan>eth</expan> thin vælsign<expan>et</expan> søn ih<expan>es</expan>u <expan>christ</expan>o och ha<expan>nu</expan>m loffuæ ewi<expan>n</expan>neligh efor vden ændhæ Ame<expan>n</expan> 
+p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.2.5">
+<locus from="75v:19" to="76r:20">ff. 75v:19-76r:20</locus>
+<title type="supplied" lang="ENG">Prayer to the Virgin</title>
+<title type="uniform" lang="DAN">Jomfru Maria syv ord under korset (<ref>MDB 109</ref>)</title>
+<rubric>Th<expan>et</expan>tæ ær the syu ordh som iomfrw maria tallet vndær korss<expan>et</expan> ... tha skal iomfru maria ko<expan>m</expan>mæ och frælæ hanwm aff alle hans nødh Ame<expan>n</expan></rubric>
+<incipit>O ewærdeligh vth flydende kielde hwi æst thu</incipit>
+<explicit>i sa stoor nødh Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.2.6">
+<locus from="76r:21" to="76v:6">f. 76r:21-76v:6</locus>
+<title type="supplied" lang="ENG">Prayer to the sorrow of the Virgin</title>
+<title type="uniform" lang="DAN">Kristi råb på korset (<ref>MDB 110</ref>)</title>
+<rubric>Hæræ æffter skriffues ien mygh<expan>et</expan> godh bø<expan>n</expan> aff iomfrw maria drøwilsæ</rubric>
+<incipit>O Mildæ modær iomfrw maria</incipit>
+<explicit>fra alle andælig diæffuele vode och gri<expan>m</expan>me rob Am<expan>en</expan> p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.2.7">
+<locus from="76v:7" to="81r:7">ff. 76v:7-81r:7</locus>
+<title type="supplied" lang="ENG">Prayer to the joys and sorrows of the Virgin</title>
+<title type="uniform" lang="DAN">Jomfru Marias glæder og drøvelser (<ref>MDB 111</ref>)</title>
+<rubric>Huo som thissæ gledær och thissæ drøffuelsær les ... th<expan>et</expan>tæ gaff hun for s<expan>an</expan>c<expan>t</expan>i ancelm<expan>us</expan> bøn</rubric>
+<incipit>Loff hedær och æræ haffue thu iomfrw maria for thin æræ och værdugh<expan>et</expan></incipit>
+<explicit>hwilke<expan>n</expan> som leffwær och regnerer ien b<expan>e</expan>n<expan>e</expan>didhæ gudh nw och ewi<expan>n</expan>neligh Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.8">
+<locus from="81r:8" to="81r:23">f. 81r:8-23</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 112</ref>)</title>
+<rubric>Huo som thi<expan>n</expan>ne æffter skreffne bøn læsær m<expan>eth</expan> gudæligh<expan>et</expan> ... sa mangæ daue skal han see io<expan>m</expan>f<expan>ru</expan> maria førræ æn han døør Ame<expan>n</expan></rubric>
+<incipit>Heel fruæ s<expan>anc</expan>c<expan>t</expan>a maria gusz modær</incipit>
+<explicit>och bedh for myne sy<expan>n</expan>d<expan>e</expan>r Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.2.9">
+<locus from="81r:24" to="81v:8">f. 81r:24-81v:8</locus>
+<title type="supplied" lang="ENG">Prayer to the Virgin</title>
+<title type="uniform" lang="DAN">Jomfru Marias kys (<ref>MDB 113</ref>)</title>
+<rubric>Saa thit och offtæ som thu les thi<expan>n</expan>næ bøn ... som thu læstæ halff tridiæ si<expan>n</expan>ne xx aue maria</rubric>
+<incipit>O maria iæch bedær thik for the sødæ kys</incipit>
+<explicit>barmhiærtugh<expan>et</expan> hoos gudh Amen Aue ma<expan>ri</expan>a</explicit>
+</msItem>
+
+<msItem n="2.2.10">
+<locus from="81v:9" to="81v:21">f. 81v:9-21</locus>
+<title type="uniform">Prayer to the Virgin (<ref>MDB 114</ref>)</title>
+<rubric>Th<expan>et</expan> seyæs ath ingen ær saa stor syndhær ... i sin døsz thimæ hellær ændæligt</rubric>
+<incipit>O maria thu som æst alle dygde opp hou och fulkomelsæ</incipit>
+<explicit>och ath gledis aff thin asiøn i hi<expan>m</expan>mærigis æræ Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.11">
+<locus from="81v:22" to="82r:8">ff. 81v:22-82r:8</locus>
+<title type="supplied">Prayer to the Trinity and the Virgin (<ref>MDB 115</ref>)</title>
+<rubric>Ien paue hede celestin<expan>us</expan> ... læsær hi<expan>n</expan>næ m<expan>eth</expan> gudæligh<expan>et</expan></rubric>
+<incipit>Sign<expan>et</expan> væræ h<expan>er</expan>re s<expan>an</expan>c<expan>t</expan>e trinitatis</incipit>
+<explicit>meræ æn thry thusindh foldh Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.12">
+<locus from="82r:9" to="82r:23">f. 82r:9-23</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 116</ref>)</title>
+<rubric>Th<expan>et</expan> var ien fattugh møø ... hu<expan>n</expan> ær mik saa <sic corr="taknæmæligher">taknæligher</sic> æn thusindh aue maria</rubric>
+<incipit>Heel maria fuldh m<expan>eth</expan> nadhæ</incipit>
+<explicit>och alt hi<expan>m</expan>merigis hærskabs Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.13">
+<locus from="82v:1" to="82v:15">f. 82v:1-15</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 117</ref>)</title>
+<rubric>Huo som thi<expan>n</expan>ne æffter skreffne bøn læsær</rubric>
+<incipit>Heel maria the<expan>n</expan> helligæ trefoldughetz mynstær</incipit>
+<explicit>i alle my<expan>n</expan> nødh och myn sorigh Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit> 
+</msItem>
+
+<msItem n="2.2.14">
+<locus from="82v:16" to="82v:23">f. 82v:16-23</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 118</ref>)</title>
+<rubric>ien stakket bøn aff iomfru maria ... nar thu fra<expan>m</expan> gangær for io<expan>m</expan>fru maria billet</rubric>
+<incipit>O nadens fruæ omisku<expan>n</expan>deligh moder</incipit>
+<explicit>och alle bedrøwæde hiærtæ Amen p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.2.15">
+<locus from="83r:1" to="83v:12">f. 83r:1-83v:12</locus>
+<title type="supplied">Prayer to the joys of the Virgin (<ref>MDB 119</ref>)</title>
+<rubric>Til thissæ æffther skreffne bøner ... M ars afflat och iii ars afflat</rubric>
+<incipit>Gledes iomfru ih<expan>es</expan>u <expan>crist</expan>i modær maria</incipit>
+<explicit>som aldrigh for gaar <sic corr="vden">och</sic> bliuer efor vden ændhæ Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.2.16">
+<locus from="83v:13" to="84r:9">ff. 83v:13-84r:9</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 120</ref>)</title>
+<rubric>Hæræ æfftær skriffues ien godh bø<expan>n</expan> som skal læses m<expan>eth</expan> fæm aue ma<expan>ri</expan>a ... och sey sa</rubric> 
+<incipit>O Sødhæ iomfrw maria iæch bed<expan>e</expan>r thik for th<expan>et</expan> sorgæligh lydh</incipit>
+<explicit>ath the moue vordæ thin søn vthen for tørnelsæ och myn siæl vden pinæ Amen</explicit>
+</msItem>
+
+<msItem n="2.2.17">
+<locus from="84r:9" to="84r:18">f. 84r:9-18</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 121</ref>)</title>
+<rubric>It<expan>em</expan> siden skulle man læsse tree aue maria och siden seyæ saa</rubric>
+<incipit>O alzo troligæstæ syndughæ me<expan>n</expan>niskens modær iomfrw maria</incipit>
+<explicit>och thin modærligh hedær hære och ewi<expan>n</expan>nelig</explicit>
+</msItem>
+
+<msItem n="2.2.18">
+<locus from="84r:19" to="84v:11">f. 84r:19-84v:11</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 122</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> godh bøn aff iomfrw ma<expan>ri</expan>a som i skal daueligh læsæ m<expan>eth</expan> gudæligh<expan>et</expan></rubric>
+<incipit>O maria iomfrw ouer alle iomf<expan>ru</expan>ær vær mik nær i th<expan>e</expan>n same thime</incipit>
+<explicit>th<expan>et</expan> vndhæ mik gudh fadær och søn och then helligh andh Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r Aue</explicit>
+</msItem>
+
+<msItem n="2.2.19">
+<locus from="84v:12" to="85r:9">ff. 84v:12-85r:9</locus>
+<title type="supplied">Prayer to the joys of the Virgin (<ref>MDB 123</ref>)</title>
+<rubric>Paa vor fruæ dagh i fastæ tha ladh bri<expan>n</expan>ne ix lyus ... oc seyæ saa som hære æfftær skriffues</rubric>
+<incipit>O iomfru maria gusz modær for the<expan>n</expan> glede thu fæk</incipit>
+<explicit>I naffn gudh fad<expan>e</expan>r och søn och the<expan>n</expan> helligh andh Ame<expan>n</expan> p<expan>ate</expan>r</explicit>
+</msItem>
+
+<msItem n="2.2.20">
+<locus from="85r:10" to="85v:1">f. 85r:10-85v:1</locus>
+<title type="supplied">Prayer to the Virgin (<ref>MDB 124</ref>)</title>
+<rubric>Thi<expan>n</expan>næ æffter skreffne bøn hu<expan>n </expan> star i s<expan>an</expan>c<expan>t</expan>e birgite hi<expan>n</expan>nes bogh ... frels<expan>et</expan> fraa hilwidis pine</rubric>
+<incipit>O S<expan>an</expan>c<expan>t</expan>a maria thu æst miskwnde<expan>n</expan>s modær</incipit>
+<explicit>for ty thu nettær ingen misku<expan>n</expan>d som til thik bedis Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue</explicit>
+</msItem>
+
+<msItem n="2.2.21">
+<locus from="85v:2" to="85v:22">f. 85v:2-22</locus>
+<title type="supplied">A commitment to the Virgin (<ref>MDB 125</ref>)</title>
+<rubric>Ien mygh<expan>e</expan>t godh bøn aff iomfrw maria som i skal læsæ fyrst om morge<expan>n</expan></rubric>
+<incipit>Heel maria fuldh m<expan>eth</expan> nadhæ</incipit>
+<explicit>th<expan>et</expan> iæch aldrigh døør førræ æn iæch hauer for thient beggis edær vænskab och hyllæstæ Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.2.22">
+<locus from="85v:23" to="86r:14">ff. 85v:23-86r:14</locus>
+<title type="supplied">Prayer to the joy of the Virgin (<ref>MDB 126</ref>)</title>
+<rubric>Huo som thi<expan>n</expan>ne æffter skreffne bøn les huerdagh ... och frælsæ th<expan>e</expan>m fraa dieffuelen och alt vnt</rubric>
+<incipit>Gledh thik maria gusz fødær qwi<expan>n</expan>ne</incipit>
+<explicit>i vor døtzæns thime ewi<expan>n</expan>neligh hielp<expan>er</expan> och bed<expan>e</expan>rinne Ame<expan>n</expan> Aue maria</explicit>
+</msItem>
+
+<msItem n="2.2.23">
+<locus from="86r:15" to="86r:19">f. 86r:15-19</locus>
+<title type="supplied">Prayer in verse to the Virgin (<ref>MDB 127</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> godh bøn aff iomfru maria</rubric>
+<incipit>Heel maria th<expan>e</expan>n skienende liliæ</incipit>
+<explicit>thu giø<expan>m</expan>me my<expan>n</expan> siæl fraa hiluidis qwide Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.24">
+<locus from="86r:20" to="86v:11">f. 86r:20-86v:11</locus>
+<title type="supplied">Prayer in verse to the joys of the Virgin (<ref>MDB 128</ref>)</title>
+<rubric>Huo som thi<expan>n</expan>ne bøn les huærdagh</rubric>
+<incipit>Gledes gusz modær iomfru maria fuldh m<expan>eth</expan> ære</incipit>
+<explicit>och giffuæ mik the<expan>n</expan> ewi<expan>n</expan>neligh gledhæ Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.2.25">
+<locus from="86v:12" to="87v:2">ff. 86v:12-87v:2</locus>
+<title type="supplied">Prayer in verse to the seven joys of the Virgin (<ref>MDB 129</ref>)</title>
+<rubric>Hæræ æffter skriffues syw mygh<expan>et</expan> fore bøner aff iomfrw maria he<expan>n</expan>nes syw gledær och ær mygh<expan>et</expan> godhæ at læse</rubric>
+<incipit>Gledis maria modær krist</incipit>
+<explicit>mi siæl mattæ fonghæ then frygd Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.2.26">
+<locus from="87v:2" to="88v:17">ff. 87v:3-88v:17</locus>
+<title type="supplied">Prayer to the Virgin for all christian souls (<ref>MDB 130</ref>)</title>
+<rubric>Hære æffter skriffues ien mygh<expan>et</expan> godh bøn aff iomfrw maria som skal læses for alle kristænæ siælæ</rubric>
+<incipit>O thu alzom feyærstæ och lystæligstæ yrtærgardh iomfrw maria</incipit>
+<explicit>æfftær thin b<expan>e</expan>n<expan>e</expan>didhæ søns viliæ nw och ewi<expan>n</expan>neligh efor vdæn ændhæ Amen p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.2.27">
+<locus from="88v:18" to="89r:10">ff. 88v:18-89r:10</locus>
+<title type="supplied" lang="ENG">A commitment to the Virgin (<ref>MDB 131</ref>)</title>
+<rubric>Hæræ æfftær skriffwes ien mygh<expan>et</expan> god befalelse bøn aff iomfrw maria</rubric>
+<incipit>O maria alzo mektugæstæ och edelestæ iomfrw maria</incipit>
+<explicit>och bliffuer e for vde<expan>n</expan> ændhæ Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+</msItem>
+ 
+<msItem n="2.3"> 
+<locus from="89r:11" to="101r:24">ff. 89r:11-101r:24</locus> 
+<title type="supplied">Prayers to St Anne</title>
+
+<msItem n="2.3.1">
+<locus from="89r:11" to="95:22">ff. 89r:11-95r:22</locus>
+<title type="supplied">Ten prayers to st Anne (<ref>MDB 132</ref>)</title>
+<rubric>Hæræ æfftær fylgær vnd<expan>e</expan>rligh nade och for gauæ som the fonghe som giærne hedræ s<expan>an</expan>c<expan>t</expan>a anna ... han fongær hielp och salligh<expan>et</expan> til sin siæl och liiff Amen</rubric>
+<incipit>Æræ fuldh væræ thu hellighæ fruæ s<expan>an</expan>c<expan>t</expan>a anna aff ko<expan>n</expan>nigh dauidz slekt æst thu vdh voldh ouer alle qwi<expan>n</expan>ner</incipit>
+<explicit>at the for huærffuer mik syndzens for ladilsæ och th<expan>et</expan> ewi<expan>n</expan>neligh liiff æffter døden om vor h<expan>er</expan>ræ ih<expan>es</expan>um <expan>christ</expan>um Amen</explicit>
+<rubric type="final">Alle the som giærne hedær iomf<expan>ru</expan> maria ih<expan>es</expan>u <expan>christ</expan>i modær th<expan>e</expan>m ær alle tidh stoor gusz nadhe ... tha hører gwdh hans bøn och om vænder alle drøwelse til alzo største glede Amen</rubric>
+</msItem>
+
+<msItem n="2.3.2">
+<locus from="95v:1" to="97v:4">ff. 95v:1-97v:4</locus>
+<title type="supplied">Prayer to the fifteen joys of St Anne (<ref>MDB 133</ref>)</title>
+<incipit>O fruæ s<expan>an</expan>c<expan>t</expan>a anna gusz modær modær</incipit>
+<explicit>vedh thic ih<expan>es</expan>u <expan>christ</expan>e som leuer och styrer och regnerer efor vden ændhe Am<expan>en</expan></explicit>
+<rubric type="final">Huo som huerdagh thissæ xu gledær i s<expan>an</expan>c<expan>t</expan>a anna heller hi<expan>n</expan>ne dottær hedær gudeligh læsær huerdagh ... och skal see iomfru maria och s<expan>an</expan>c<expan>t</expan>a anna i sin yderste thime</rubric>
+</msItem>
+
+<msItem n="2.3.3">
+<locus from="97v:5" to="97v:18">f. 97v:5-18</locus>
+<title type="supplied">Prayer to St Anne and the Virgin (<ref>MDB 134</ref>)</title>
+<incipit>Heel maria fuldh m<expan>eth</expan> nadhæ h<expan>er</expan>ren ær m<expan>eth</expan> thic thin nadæ væræ m<expan>eth</expan> mik</incipit>
+<explicit>aff thic ær fødh ih<expan>es</expan>us <expan>christ</expan>us the<expan>n</expan> leffwindis gusz søn Ame<expan>n</expan></explicit>
+<rubric type="final">Allexander paue gaff alle so<expan>m</expan> thi<expan>n</expan>ne lidele for skreffne bøn læser tre si<expan>n</expan>nær m<expan>eth</expan> tre p<expan>ate</expan>r n<expan>oste</expan>r och aue maria for s<expan>an</expan>c<expan>t</expan>a anna billet x M aar for dødeligh syndær och xx M for nadælig syndær Amen</rubric>
+</msItem>
+
+<msItem n="2.3.4">
+<locus from="97v:19" to="98r:3">ff. 97v:19-98r:3</locus>
+<title type="uniform">Prayer to St Anne, the mother of the Virgin (<ref>MDB 135</ref>)</title>
+<incipit>Æræ och hedær væræ thik værdugestæ modær s<expan>an</expan>c<expan>t</expan>a anna</incipit>
+<explicit>ouer alle creature bodæ i hi<expan>m</expan>merigi och i iørdærigi ære Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r Aue maria</explicit>
+</msItem>
+
+<msItem n="2.3.5">
+<locus from="98r:4" to="98r:10">f. 98r:4-10</locus>
+<title type="supplied">Prayer to St Anne (<ref>MDB 136</ref>)</title>
+<rubric>Faal paa thine knæ och les ien aue maria aff s<expan>an</expan>c<expan>t</expan>a anna och sey sa som hæræ æffter staar</rubric>
+<incipit>Heel s<expan>an</expan>c<expan>t</expan>a anna iomfru maria ære m<expan>eth</expan> thik thu æst vælsignet ouer alle qwi<expan>n</expan>ner</incipit>
+<explicit>vælsignet ær thin liiffs fruct iomfru maria gusz modær p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.3.6">
+<locus from="98r:11" to="98r:24">f. 98r:11-24</locus>
+<title type="uniform">Prayer to St Anne, mother of the Virgin (<ref>MDB 137</ref>)</title>
+<incipit>Vælsign<expan>et</expan> være thu frue s<expan>an</expan>c<expan>t</expan>a anna for thy ath thu æst iomfru maria modær</incipit>
+<explicit>bedh for mik til thi<expan>n</expan> kiære dotter søn at han vælsigner mik ewi<expan>n</expan>neligh Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r Aue</explicit>
+</msItem>
+
+<msItem n="2.3.7">
+<locus from="98v:1" to="98v:12">f. 98v:1-12</locus>
+<title type="supplied">Prayer to St Anne and her three daughters (<ref>MDB 138</ref>)</title>
+<rubric>Les tre aue maria s<expan>an</expan>c<expan>t</expan>a a<expan>n</expan>na til loff och hi<expan>n</expan>ne tre døttær</rubric>
+<incipit>O aldræ værdugæstæ modær s<expan>an</expan>c<expan>t</expan>a anna iæch bedær thic ødmygæligh</incipit>
+<explicit>och for huerff bodhæ mik och th<expan>e</expan>m ath gledis m<expan>eth</expan> thik ewærdeligh Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.3.8">
+<locus from="98v:13" to="99r:2">ff. 98v:13-99r:2</locus>
+<title type="supplied">Prayer to St Anne, the Virgin and Jesus Christ (<ref>MDB 139</ref>)</title>
+<rubric>Les tre aue maria iomfru ma<expan>ri</expan>a hiærte til loff och hi<expan>n</expan>ne kiære søn i<expan>esus christus</expan> och frue s<expan>an</expan>c<expan>t</expan>a anna</rubric>
+<incipit>O aldræ fructsomeligestæ modær fruæ s<expan>an</expan>c<expan>t</expan>a anna iæch bed<expan>er</expan> thik for then samen bindelsæ</incipit>
+<explicit>och iæch mattæ bliue m<expan>eth</expan> hanw<expan>m</expan> ewi<expan>n</expan>neligh Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.3.9">
+<locus from="99r:3" to="100r:24">ff. 99r:3-100r:24</locus>
+<title type="supplied">Prayer to St Anne (<ref>MDB 140</ref>)</title>
+<rubric>en iomfru var mygh<expan>et</expan> syrgendhe th<expan>e</expan>r om ath hun kwnde ey saa tiene io<expan>mfru</expan> maria ... och alt hi<expan>m</expan>merigis herskab astu<expan>n</expan>der thi<expan>n</expan> ko<expan>m</expan>me</rubric>
+<incipit>O ære fuldh frue s<expan>an</expan>c<expan>t</expan>a anna alt høueskeste qwi<expan>n</expan>ne</incipit>
+<explicit>th<expan>et</expan> vndhe os alle same<expan>n</expan> gudh fadær och søn oc then helligh andh iomfru maria och frue s<expan>an</expan>c<expan>t</expan>a anna Amen</explicit>
+</msItem>
+
+<msItem n="2.3.10">
+<locus from="100v:1" to="101r:24">ff. 100v:1-101r:24</locus>
+<title type="supplied">Prayer to St Anne (<ref>MDB 141</ref>)</title>
+<rubric>Syndugh<expan>et</expan> siæle hielsomeligh<expan>et</expan> skie<expan>n</expan>dæligh<expan>et</expan> Ære ... faldh pa knæ och les thi<expan>n</expan>ne æfftær skreffne bøn</rubric>
+<incipit>Heel være thu helligæ frue s<expan>an</expan>c<expan>t</expan>a anna m<expan>eth</expan> ioachim thin kiære hosbunde</incipit>
+<explicit>vite sortem pacem presta celebrantibus tua festa Am<expan>en</expan></explicit>
+<textLang langKey="DAN" otherLangs="LAT">Danish and Latin</textLang>
+</msItem>
+</msItem>
+
+ 
+<msItem n="2.4"> 
+<locus from="101v:1" to="110v:10">ff. 101v:1-110v:10</locus> 
+<title type="supplied">Prayers to various Angels and Saints</title>
+
+<msItem n="2.4.1">
+<locus from="101v:1" to="102r:10">ff. 101v:1-102r:10</locus>
+<title type="supplied">Prayer to the daughters of St Anne (<ref>MDB 142</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> godh bøn aff the værduge hellighe tre maria oc ær the mygh<expan>et</expan> gode ath pa kalle i sin nødh</rubric>
+<incipit>O i edele systær bodæ maria iacobi och maria salome</incipit>
+<explicit>och beholpe<expan>n</expan> aff theres bøner skulle nw leffue i hi<expan>m</expan>mærigi ewi<expan>n</expan>neligh <supplied reason="omitted">Ame</supplied></explicit>
+</msItem>
+
+<msItem n="2.4.2">
+<locus from="102r:10" to="102v:3">f. 102r:10-102v:3</locus>
+<title type="supplied">Prayer to St Mary Magdalene (<ref>MDB 143</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> godh bøn aff frue s<expan>an</expan>c<expan>t</expan>a maria magdalena</rubric>
+<incipit>S<expan>an</expan>c<expan>t</expan>a maria magdalena gusz alzo<expan>m</expan> kiæristæ</incipit>
+<explicit>for hi<expan>n</expan>ne bøn skyldh skulle vi settis i helligæ mensz skare Amen</explicit>
+</msItem>
+
+<msItem n="2.4.3">
+<locus from="102v:3" to="103r:5">ff. 102v:3-103r:5</locus>
+<title type="supplied">Prayer to one's guardian angel (<ref>MDB 144</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> godh bøn aff gusz hellighe ængel</rubric>
+<incipit>O hellighæ gusz ængæl hwilke<expan>n</expan> som mik ær giuen til ien godh beuarelsæ</incipit>
+<explicit>och antworde hi<expan>n</expan>ne for gut fadær och søn oc then helligh andh Amen</explicit>
+</msItem>
+
+<msItem n="2.4.4">
+<locus from="103r:5" to="103v:3">f. 103r:5-103v:3</locus>
+<title type="supplied">Prayer to St John the Baptist (<ref>MDB 145</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff s<expan>an</expan>c<expan>t</expan>e ioha<expan>n</expan>nes ewa<expan>n</expan>geliste ær han ien mygh<expan>et</expan> god nød hielp<expan>er</expan></rubric>
+<incipit> O thu edele och helligæste s<expan>an</expan>c<expan>t</expan>e ioha<expan>n</expan>nes ewangeliste gusz væn</incipit>
+<explicit>och leedh myn siæl til hi<expan>m</expan>merigis paredis æffter døden Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.5">
+<locus from="103v:3" to="104r:1">ff. 103v:3-104r:1</locus>
+<title type="supplied">Prayer to St Andrew (<ref>MDB 146</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> god bøn aff s<expan>an</expan>c<expan>t</expan>e andreas appostele</rubric>
+<incipit> O s<expan>an</expan>c<expan>t</expan>e andreas alzo<expan>m</expan> stærkeste ih<expan>es</expan>u <expan>christ</expan>i <sic>predicken</sic></incipit>
+<explicit>ien sandh gudh efor vden ænde Am<expan>en</expan></explicit>	
+</msItem>
+
+<msItem n="2.4.6">
+<locus from="104r:2" to="104r:23">f. 104r:2-23</locus>
+<title type="supplied">Prayer to the Magi (<ref>MDB 147</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff the værduge hellige tre kongær ær the mygh<expan>et</expan> gode</rubric>
+<incipit>Konge iæsp<expan>er</expan> konge melchior ko<expan>n</expan>gæ baltazar iæch bedær edær for alle eders naffn</incipit>
+<explicit>och fra alle fare ther mik kan hendhe anten til siel hell<expan>er</expan> liiff Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.7">
+<locus from="104r:23" to="104v:11">f. 104r:23-104v:11</locus>
+<title type="supplied">Prayer to St George (<ref>MDB 148</ref>)</title>
+<rubric>ien mygh<expan>et</expan> god bøn aff riddær s<expan>an</expan>c<expan>t</expan>e iørgen ær han ien mygh<expan>et</expan> god nødhielp<expan>er</expan></rubric>
+<incipit>O helligæ h<expan>er</expan>ræ s<expan>an</expan>c<expan>t</expan>e iørgen ien edele nødhielp<expan>er</expan></incipit>
+<explicit>th<expan>e</expan>m hielp<expan>er</expan> thu til vors h<expan>er</expan>re rigi efor vden ændhæ Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.8">
+<locus from="104v:11" to="104v:22">f. 104v:11-22</locus>
+<title type="supplied">Prayer to St Christopher (<ref>MDB 149</ref>)</title>
+<rubric>ien mygh<expan>et</expan> god bøn aff h<expan>er</expan>re s<expan>an</expan>c<expan>t</expan>e cristofer</rubric>
+<incipit>O hellighæ h<expan>er</expan>ræ s<expan>an</expan>c<expan>t</expan>e cristofer gusz hellige martir</incipit>
+<explicit>och m<expan>eth</expan> salligh<supplied reason="omitted">et</supplied> døø och fonge then ewi<expan>n</expan>neligh ære Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.4.9">
+<locus from="104v:23" to="105r:9">ff. 104v:23-105r:9</locus>
+<title type="supplied">Prayer to St Lawrence (<ref>MDB 150</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff s<expan>an</expan>c<expan>t</expan>e laurenti</rubric>
+<incipit>Aldræ helligestæ laurentii messæ degen och gusz kiære martir</incipit>
+<explicit>oc at iæch mattæ faa ewi<expan>n</expan>neligh roo Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.10">
+<locus from="105r:10" to="105v:3">f. 105r:10-105v:3</locus>
+<title type="supplied">Prayer to St Sebastian (<ref>MDB 151</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff s<expan>an</expan>c<expan>t</expan>e sebastiane</rubric>
+<incipit>O S<expan>an</expan>c<expan>t</expan>e sebastiane bedh for mik vdi thi<expan>n</expan>ne nødh</incipit>
+<explicit>och ko<expan>m</expan>me til th<expan>et</expan> ewi<expan>n</expan>neligh liiff æffter døden i naffn gudh fadær och søn och the<expan>n</expan> helligh andh Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.11">
+<locus from="105v:3" to="105v:18">f. 105v:3-18</locus>
+<title type="supplied" lang="ENG">Prayer to the Fourteen Holy Helpers</title>
+<title type="supplied" lang="DAN">Bøn til de femten nødhjælpere (<ref>MDB 152</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> god bø<expan>n</expan> aff the xv nødhielper</rubric>
+<incipit>O i værdughæ xu nødhielp<expan>er</expan> Georgi<expan>us</expan> blasius</incipit>
+<explicit>och bed<expan>e</expan>r for mik til vor h<expan>er</expan>ræ ih<expan>esu</expan>m <expan>christu</expan>m Ame<expan>n</expan></explicit>
+<note>The 15th helper is St Magnus from Allgäu</note>
+</msItem>
+
+<msItem n="2.4.12">
+<locus from="105v:18" to="106r:9">ff. 105v:18-106r:9</locus>
+<title type="supplied" lang="ENG">Prayer to the Ten Thousand Martyrs</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff the x thwsind ridd<expan>e</expan>r (<ref>MDB 153</ref>)</rubric>
+<incipit>O thu alzom <sic>byrdugæstæ</sic> fadær hermolae o thu altzom <sic>helligæste</sic> martir</incipit>
+<explicit>och alle gusz helligen skal bliue m<expan>eth</expan> ewi<expan>n</expan>neligh Ame<expan>n</expan> p<expan>ate</expan>r n<expan>oste</expan>r</explicit>
+</msItem>
+
+<msItem n="2.4.13">
+<locus from="106r:10" to="107v:5">ff. 106r:10-107v:5</locus>
+<title type="supplied">Prayer in verse to St Erasmus (<ref>MDB 154</ref>)</title>
+<rubric>Huo som thi<expan>n</expan>ne æffter skreffne bø<expan>n</expan> les huer syndagh i iet aar ... th<expan>et</expan> femtte at vors h<expan>er</expan>re hellige ængel komer til ha<expan>nu</expan>m tre daue føre æn han dør oc fører ha<expan>n</expan>s siel til ewi<expan>n</expan>neligh glede Am<expan>en</expan></rubric>
+<incipit>O S<expan>an</expan>c<expan>t</expan>e erasme hedærligh h<expan>er</expan>ræ och m<expan>arti</expan>r och gusz dyre biscop thu toldæ om syndagh pine och døt hielp nw bode <sic>til</sic> liff och siæl aff nødh</incipit>
+<explicit>ladh os hære saa i iørdærigi thienæ ath vi moue fonghæ hi<expan>m</expan>mærigis gledhæ</explicit>
+</msItem>
+
+<msItem n="2.4.14">
+<locus from="107v:5" to="108r:3">ff. 107v:5-108r:3</locus>
+<title type="supplied">Prayer in verse to St Erasmus (<ref>MDB 155</ref>)</title>
+<rubric>It<expan>em</expan> les tre oc halffierde si<expan>n</expan>ne xx aue ma<expan>ri</expan>a huer sy<expan>n</expan>dag</rubric>
+<incipit>O S<expan>an</expan>c<expan>t</expan>e erasme bedh goth for mik och for os alle th<expan>et</expan> bede vi thik</incipit>
+<explicit>løs os aff syndhæ och aff sorigh alle same<expan>n</expan> th<expan>et</expan> bedhæ vi gudh och seyæ vi Amen</explicit>
+</msItem>
+
+<msItem n="2.4.15">
+<locus from="108r:4" to="108v:7">f. 108r:4-108v:7</locus>
+<title type="supplied">Prayer to St Francis (<ref>MDB 156</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff h<expan>er</expan>re s<expan>an</expan>c<expan>tu</expan>s francisc<expan>us</expan> ær han mygh<expan>et</expan> god at pa kalle i sin nødh ... inge<expan>n</expan> kan fuld skriue han<supplied reason="omitted">s</supplied> dygd hell<expan>er</expan> godh<expan>et</expan></rubric>
+<incipit>Gledis ærligh fadær s<expan>an</expan>c<expan>t</expan>o francisco skie<expan>n</expan>nende m<expan>eth</expan> <expan>christ</expan>i tege<expan>n</expan></incipit>
+<explicit>thu ærlighe riddær som bar konigens vaben och bedh os syndens forladilsæ Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.16">
+<locus from="108v:7" to="109r:5">ff. 108v:7-109r:5</locus>
+<title type="supplied">Prayer to St Antony (<ref>MDB 157</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff h<expan>er</expan>re s<expan>an</expan>c<expan>t</expan>us antoni<expan>us</expan> ær han mygh<expan>et</expan> godh at hedre och pa kalle i sin nød</rubric>
+<incipit>O hellighe h<expan>er</expan>re s<expan>an</expan>c<expan>tu</expan>s antoni<expan>us</expan> gusz vt voldh væn</incipit>
+<explicit>frels mik aff vlideligh legoms plaue och pine bodhe til siæl och liiff Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.17">
+<locus from="109r:5" to="109r:24">f. 109r:5-24</locus>
+<title type="supplied">Prayer to St Nicholas (<ref>MDB 158</ref>)</title>
+<rubric>ien mygh<expan>et</expan> god bøn aff h<expan>er</expan> s<expan>an</expan>c<expan>t</expan>us nicholaus</rubric>
+<incipit>O S<expan>an</expan>c<expan>t</expan>e nicholae ære fuldh <expan>con</expan>fessor oc alt helligæstæ biscop thu som æst the<expan>n</expan> hellighæ kirkens feyringh</incipit>
+<explicit>oc leed hi<expan>n</expan>ne til abrahams skiød oc th<expan>e</expan>r at gledis m<expan>eth</expan> gudh for vden ænde Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.4.18">
+<locus from="109v:1" to="109v:24">f. 109v:1-24</locus>
+<title type="supplied">Prayer to St Catherine (<ref>MDB 159</ref>)</title>
+<rubric>Ien mygh<expan>et</expan> god bøn aff iomfru s<expan>an</expan>c<expan>t</expan>a katerina</rubric>
+<incipit>Gledis iomfru och martir s<expan>an</expan>c<expan>t</expan>a katerina och hielsæt være thu ære fuldh och vælskaptæ iomfru</incipit>
+<explicit>och giø<expan>m</expan>mer os fra brad døth och hiluidis nød och iørdærigis skam nw och ewi<expan>n</expan>nelig Ame<expan>n</expan></explicit>
+</msItem>
+
+<msItem n="2.4.19">
+<locus from="109v:24" to="110r:22">ff. 109v:24-110r:22</locus>
+<title type="supplied">Prayer to St Gertrud (<ref>MDB 160</ref>)</title>
+<rubric>ien mygh<expan>et</expan> godh bøn aff iomfru s<expan>an</expan>c<expan>t</expan>a ge<supplied reason="omitted">r</supplied>trudh</rubric>
+<incipit>Heel iomfru s<expan>anct</expan>a gertrudh tackæligh iomfru fødh aff ko<expan>n</expan>nighe slekt</incipit>
+<explicit>och thin maiestat ær tackæligt m<expan>eth</expan> vor h<expan>er</expan>ræ ih<expan>esu</expan>m <expan>christu</expan>m</explicit>
+</msItem>
+
+<msItem n="2.4.20">
+<locus from="110r:23" to="110v:10">f. 110r:23-110v:10</locus>
+<title type="supplied">Prayer to St Barbara (<ref>MDB 161</ref>)</title>
+<rubric>ien mygh<expan>et</expan> god bø<expan>n</expan> aff s<expan>an</expan>c<expan>t</expan>a barbara</rubric>
+<incipit>O thu værdugæ iomfru s<expan>an</expan>c<expan>t</expan>a barabra iæch v værdughæ me<expan>n</expan>niskæ iæch beder thik fir thin harde pine</incipit>
+<explicit>th<expan>et</expan> sign<expan>et</expan> gusz legome at fonge i myn siste time och ew<expan>er</expan>delig liiff æffter døde<expan>n</expan> Am<expan>en</expan></explicit>
+</msItem>
+
+<msItem n="2.4.21">
+<locus from="110v:11" to="112v:3">ff. 110v:11-112v:3</locus>
+<title type="supplied">Prayers copied from Christiern Pedersen's Book of Hours</title>
+<msItem n="2.4.21.1">
+<locus from="110v:11" to="111r:19">ff. 110v:11-111r:19</locus>
+<title type="supplied">Prayer to the Trinity (<ref>CP, p. 393</ref>)</title>
+<incipit>O helligste mectiste erefwlde oc v atskillige trefoldighed Jeg arme vwerdige syndige men<expan>n</expan>iske</incipit>
+<explicit>och kome til dyth clareste heme<expan>ri</expan>g<expan>is</expan> ryge och blyffwe der meth teg ewindelige A m e N</explicit>
+</msItem>
+<msItem n="2.4.21.2">
+<locus from="111r:20" to="111v:17">f. 111r:20-111v.17</locus>
+<title type="supplied">Prayer to the Trinity (<ref>CP, p. 394</ref>)</title>
+<incipit>O helligste trefoldighed som er en sand gwd myskwnde teg offw<expan>er</expan> meg</incipit>
+<explicit>oc lad meg see dyth gwdomelig ansicthe i heme<expan>ri</expan>g til ewig thyd ame<expan>n</expan></explicit>
+</msItem>
+<msItem n="2.4.21.3">
+<locus from="111v:18" to="112v:3">ff. 111v:18-112v:3</locus>
+<title type="supplied">A blessing (<ref>CP, p. 394</ref>)</title>
+<incipit>Uor herres ih<expan>es</expan>u <expan>cristi</expan> fred hans sware pines krafft oc macht dygd oc bitth<expan>e</expan>rhed beware meg</incipit>
+<explicit>fra alth vnth nerwerend<expan>is</expan> framfarend<expan>is</expan> oc til kome<expan>n</expan>d<expan>is</expan> formedelste ih<expan>es</expan>u cristi mildhed oc baremhartighed AmeN</explicit>
+</msItem>
+</msItem>
+
+</msItem>
+
+      <listBibl>
+	<bibl>
+	  <title level="m">Middelalderens danske Bønnebøger I. Bind</title>
+	  <editor>Karl Martin Nielsen</editor>
+	  <imprint>
+	    <pubPlace>Copenhagen</pubPlace>
+	    <date>1946</date>
+	  </imprint>
+	  <biblScope type="pages">pp. 155-338</biblScope>
+	  <note>The calendar has not been edited, but variant readings are
+	    given in the apparatus of the edition of Ms. A 42, Middelalderens
+	    danske Bønnebøger. I. Bind, pp. 3-14.</note>
+	</bibl>
+
+	<bibl>
+	  <title level="m">Christiern Pedersens Danske Skrifter. Andet
+	    Bind</title> 
+	  <editor>C. J. Brandt &amp; R. Th. Fenger</editor>
+	  <imprint>
+	    <pubPlace>Kiøbenhavn</pubPlace>
+	    <date>1851</date>
+	  </imprint><biblScope type="pages">pp. 393-394</biblScope>
+	</bibl>
+      </listBibl>
+    </msItem>
+  </msContents>
+<physDesc> 
+    <support><p>Parchment.</p></support> 
+    <extent>ff. 112<dimensions type="leaf" scope="all"><height>185</height><width>120</width></dimensions>
+      mm.</extent>  
+    <collation> 
+      <p>14 quires: I: 7 (ff. 1-7, first leaf of quire
+	  glued to upper cover as pastedown), II: 8 (ff. 8-15), III: 8
+	  (ff. 16-23), IV: 9 (ff. 24-32; f. 31 is added), V: 8 (ff. 33-40), VI:
+	  8 (ff. 41-48), VII: 8 (ff. 49-56), VIII: 8 (ff. 57-64), IX: 8
+	  (ff. 65-72), X: 8 (ff. 73-80), XI: 8 (ff. 81-88), XII: 8 (ff. 89-96),
+	  XIII: 8 (ff. 97-104), XIV: 8 (ff. 105-112). One quire
+	missing between f. 56 and 57.</p></collation> 
+
+    <layout columns="1" writtenLines="24-25"><p>One column; 24-26 lines;
+	written space: 120 x 85 mm.</p></layout> 
+
+    <msWriting> 
+      <handDesc scribe="unknown" script="gothic hybrid" medium="ink" scope="major">		  <p>The main hand of the manuscript has
+	  written the text on ff. <locus from="2r" to="110v">2r-110v</locus> in
+	  a distinct gothic hybrid.</p>   
+      </handDesc> 
+
+      <handDesc scribe="unknown" script="gothic cursive" medium="ink" scope="minor"><p>A younger cursive hand has written the text on
+	  ff. <locus from="110v" to="112v">110v-112v</locus>.</p> 
+      </handDesc> 
+    </msWriting> 
+
+
+    <decoration>
+      <decoNote>
+	<p>The original decoration in red ink pen drawing is confined to 28
+	  initials divided in three hierarchical levels or groups. The
+	  decoration is varied only in quantity and everything is undoubtedly
+	  executed after the main text and by the scribe himself.</p> 
+
+	<p>Style: The decorative effect is emphasized by the frequent use of
+	  void details in the body of the letter and the grid-like disposition
+	  of the geometrical or filigranated patterns in the fillings. The
+	  decoration is repeated in <ref>Ms. A 42, Kungliga Biblioteket,
+	    Stockholm</ref>, and <ref>Ms. A 40, Kungliga Bibliotket,
+	    Stockholm</ref>, also known as <title type="uniform" lang="DAN"><name type="person" role="owner">Ingeborg
+	      Predbjørnsdatter</name>s Tidebog</title>. 
+	</p>
+      </decoNote>
+
+      <decoNote type="initial" subtype="decorated" technique="pen-drawn"><p>The
+	  decoration of the 9 initials of the simples kind
+	  (ff. <locus>8v</locus>, <locus>15v</locus>, <locus>17v</locus>, 
+	  <locus>47v</locus>, <locus>86v</locus>, <locus>95v</locus>,
+	  <locus>99r</locus>, <locus>104r</locus>, <locus>109v</locus>)  is
+	  restricted to white void details of the letter itself and simple
+	  geometrical decoration of the area surrounding it, mostly ca. 5 lines
+	  in height. The initial (I) on f. <locus>8v</locus> marks the first
+	  hymn of the Matins.</p>
+      </decoNote> 
+
+
+      <decoNote type="initial" subtype="pen flourished" technique="pen-drawn">
+	<p>The 14 initials of medium size (ff. <locus>22r</locus>,
+	  <locus>24v</locus>, <locus>26r</locus>, <locus>42v</locus>,
+	  <locus>65r</locus>, <locus>73v</locus>, <locus>77r</locus>,
+	  <locus>83r</locus>, <locus>89v</locus>, <locus>101v</locus>,
+	  <locus>102v</locus>, <locus>103r</locus>, <locus>108r</locus>) are
+	  defined by a slightly larger size, 7-10 lines, but mainly by the use
+	  of extended pen flourishings along parts of the margin.
+
+	  <list>
+	    <item>The initial (H) on f. <locus>24v</locus> marks the first
+	      psalm in the Compline</item>
+	    <item>the initial H on f. <locus>26r</locus> marks the beginning of
+	      the Seven Penetentiel Psalms</item>
+	    <item>the Æ on f. <locus>89v</locus> initiates the first of
+	      the prayers to St Anne.</item>
+	  </list>
+	</p>
+      </decoNote>
+
+      <decoNote type="initial" subtype="pen flourished" technique="pen-drawn"><p>The three largest initials are of considerable
+	  size, 10 - 15 lines, with pen flourishes often in two directions
+	  framing parts of the written area. The initials mark major divisions
+	  of the text, the opening of the Little Office of Our Lady (f. 
+	  <locus>8r</locus>), the opening of the prayer book
+	  (f. <locus>33r</locus>) and the first prayer to the Virgin
+	  (f. <locus>66r</locus> ). 
+	  <list>
+	    <item>f. <locus>8r</locus> Large initial (H) with
+	      quadratic and zig zag ornaments left blank, filling and
+	      surrounding area decorated with geometrical and filigranated
+	      pattern and filigranated pen flourish borders along left and
+	      upper margin.</item> 
+	    <item>f. <locus>33r</locus> Large initial (W) with
+	      simple ondulated, floral and heart shaped ornaments left blank,
+	      filling and surrounding area decorated with geometrical pattern
+	      and filigranated pen flourish borders along left and upper
+	      margin.</item> 
+
+	    <item>f. <locus>66r</locus> Large initial (M) with simple
+	      dotted line, zig zag, floral and heart shaped ornaments left
+	      blank, filling and surrounding area decorated with geometrical
+	      pattern and filigranated pen flourish borders along left and
+	      upper margin.</item> 
+	  </list>
+	</p></decoNote>
+
+      <decoNote type="initial" subtype="decorated" technique="pen-drawn">
+	<p>
+	  Two small initials in the added portion on ff. 110v and 111v are
+	  different in character, written in brown ink by the second scribe. 
+	  <list>
+	    <item><locus>f. 110v</locus>Small initial (O) in brown ink with
+	      inscribed human face.</item> 
+	    <item><locus>f. 111v</locus>Small initial (U) in brown ink with
+	      outspared ondulated and quadratical ornaments.</item> 
+	  </list>
+	</p>
+      </decoNote>
+
+      <decoNote type="secondary" subtype="initial" size="1- to 2-line"> 
+	<p>One- to two-line red lombards mark the beginning of each
+	  period.</p>
+      </decoNote>  
+
+      <decoNote type="secondary" subtype="line-filler"> 
+	<p>There are pen flourished line-fillers in red.</p>
+      </decoNote> 
+
+      <decoNote type="secondary" subtype="rubric"> 
+	<p>The rubrics are written in red ink.</p>
+      </decoNote>
+ 
+    </decoration> 
+
+
+    <bindingDesc> 
+      <binding><p>Blind-tooled brown calfskin binding, preserved decorated leather covering, Denmark contemporary with the manuscript. Rebinding, Sweden, Lund University library bindery, singed in pencil at the pastedown of lower cover: <q>Restaurerat av Nils Knutsson 1963</q>. 
+Size: 200 x 135 x 45 mm.</p>
+<p>Brown calfskin binding over bevelled wooden boards. Leather covering from former binding preserved on the new cover. Two metal hook-clasp fastenings; lower fastening and engraved hooks from former binding. Rounded spine. Tight back with three raised double bands. Brown blind-tooled library cloth label at the tail of the back. Embroidered endbands of white linen. Former edge trimming preserved. Former endleaves preserved as separate pastedowns. Single flyleaf of parchment at the front, the upper half of the leaf missing. All along sewing on three raised cords.</p>
+<p>The covers are blind-tooled with a triple fillets frame and divided in six double line fillet compartments. The compartments of the upper cover are decorated with stamps of 
+animal and symbolic motifs: the Y-shaped foliated cross, a quadrangle griffin, a burning heart, a bird with forked tail and an eagle, and the lower cover compartments only with a repeated burning heart and eagle.</p></binding></bindingDesc> 
+
+    <foliation><p>Foliated in ink in upper right corner by modern
+	cataloguer.</p></foliation> 
+    <condition>
+      <p>The first leaf of the manuscript has been cut. Lacuna between
+	f. <locus>56</locus> and f. <locus>57</locus> (after 7th quire).</p>
+    </condition> 
+  </physDesc>
+<history> 
+    <origin><p>Karen Ludvigsdatter's prayer book was written in <name type="place">Jutland</name> around <date>1500</date>. The language
+	cannot be caracterized as Jutland dialect, though it shows certain
+	Jutland regional features according to <name type="person" role="scholar">Karl Martin Nielsen</name>. Two other Danish books of
+	hours show a similar Jutlandish orthography; they were possibly
+	produced in the same scriptorium: <ref>Ms. A 42, Kungliga Biblioteket,
+	  Stockholm</ref>, and <ref>Ms. A 40, Kungliga Bibliotket,
+	  Stockholm</ref>.</p><p><name type="person" role="owner">Karen
+	  Ludvigsdatter Rosenkrantz</name> was the daughter of <name type="person">Ludvig Nielsen Rosenkrantz</name>, a member of the
+	Danish Rigsråd (c. 1492), and <name type="person">Kirsten
+	  Andersdatter Hak</name> (fl. 1492). Karen was married to the High
+	Court judge and member of the Rigsråd <name type="person">Mogens
+	  Munk</name> (<date>c. 1558</date>), a brother of the bishop of <name type="place">Ribe</name> <name type="person">Iver Munk</name>. She
+	died in <date>1535</date> and was buried at <name type="other">Viborg
+	  Cathedral</name>. The owner's name is mentioned in a prayer to Jesus
+	Christ on f. <locus>50r</locus>: <q>thin vuærdugæ
+	  thienistæ qwi<expan>n</expan>næ karine lodwigs
+	  dottær</q>.</p><p>On f. <locus>1v </locus> someone wrote the
+	genealogy on her father's side: <name type="person">Ivar</name>, <name type="person">Marsk Iverssen</name>, <name type="person">Albert <del rend="overstrike" hand="scribe">Iversson</del> Marsksson</name>,
+	<name type="person">Ivar Albertsson</name>, <name type="person">Jens
+	  Iversson</name>, <name type="person">Niels Jensson</name> (c. around
+	1412), <name type="person">Ludvig Nielsson</name>. The same names
+	appear in an older hand (gothic cursive) on the back pastedown: <q>Her
+	  iuer <lb/>Her marssk iuerssen <lb/>Her albret iuerssen marssk <lb/>
+	  Her iuer albretss<expan>en</expan> iuerssen <lb/>Her iens iuerssen
+	  <lb/>Her niels iuerssen <lb/>Her loduich nielssen</q>.</p> 
+    </origin> 
+
+    <provenance><p>Medeltidshandskrift 35 was owned by <name type="person" role="owner">Erik Joh. Meck</name> at the end of the 17th century. It
+	was probably left to him by his father-in-law <name type="person" role="owner">Magnus Durell</name>.</p> 
+    </provenance>
+
+    <acquisition><p>Acquired in <date>1704</date> when the Lund University
+	Library purchased the <name type="person" role="owner">Meck</name> book
+	collection.</p> 
+    </acquisition>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded in 2001 by Anne Mette
+	    Hansen.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<custodialHist> 
+	<custEvent type="conservation" notBefore="1963.01.01" notAfter="1963.12.31"><p>The binding has been restored during
+	    <date>1963</date> by <name type="person" role="binder">Niels
+	      Knutson</name> according to information written on the pastedown
+	    of lower cover.</p>  
+	</custEvent> 
+      </custodialHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Nielsen, Lauritz</author>
+	<title level="m">Danmarks middelalderlige Haandskrifter</title>
+	<imprint>
+	  <pubPlace>København</pubPlace>
+	  <date>1937</date>
+	</imprint>
+	<biblScope type="pages">p. 144</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Otto, Alfred</author>
+	<title level="a">Indledning</title>
+	<title level="m">Middelalderens danske  Bønnebøger</title>
+	<imprint>
+	  <pubPlace>Copenhagen</pubPlace>
+	  <date>1946</date>
+	</imprint>
+	<biblScope type="pages">p. XXIII</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Nielsen, Karl Martin</author>
+	<title level="a">Haandskrifter</title>
+	<title level="m">Middelalderens danske
+	  Bønnebøger. V. Bind. Kommentar og Registre</title> 
+	<imprint>
+	  <pubPlace>København</pubPlace>
+	  <date>1982</date>
+	</imprint>
+	<biblScope type="pages">pp. 18-19</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Nielsen, Karl Martin </author>
+	<title level="a">Tre jyske bønnebøger</title>
+	<title level="m">Festskrift til Peter Skautrup</title>
+	<imprint>
+	  <pubPlace>Århus</pubPlace>
+	  <date>1956</date>
+	</imprint>
+	<biblScope type="pages">pp. 223-238</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Dahlerup, Pil</author>
+	<title level="a">Den signede dag</title>
+	<title level="m">Liv og Lyst. Artikler og essays</title>
+	<imprint>
+	  <pubPlace>København</pubPlace>
+	  <date>1987</date>
+	</imprint>
+	<biblScope type="pages">pp. 9-34</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Frederiksen, Britta Olrik</author>
+	<title level="a">Til diskussion om den middelalderlige dagvises
+	  jordiske hjemsted og himmelske ophav</title> 
+	<title level="j">Danske studier 1988</title>
+	<biblScope type="volume">83</biblScope>
+	<imprint>
+	  <date>1988</date>
+	</imprint>
+	<biblScope type="pages">pp. 5-31</biblScope>
+      </bibl>
+
+      <bibl>
+	<author>Dahlerup, Pil</author>
+	<title level="m">Dansk Litteratur. Middelalder. 1. Religiøs
+	  litteratur</title> 
+	<imprint>
+	  <pubPlace>Copenhagen</pubPlace>
+	  <date>1998</date>
+	</imprint>
+	<biblScope type="pages">pp. 127, 129, 464-465</biblScope>
+	<note>p. 29 (on Psalm 8), p. 127 (on Psalm 101/102/103?), pp. 464-465
+	  (Prayer to Jesus Christ/Dagvisen)</note> 
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

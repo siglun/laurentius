@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_43a">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 43a</idno>
+<altName type="former shelfmark" lang="LAT">Bibl. Ms. H. E. 4:o 3 (?)</altName>
+<altName type="former shelfmark" lang="LAT">Biblioth. Meckiana N:o XV</altName>
+<altName type="former shelfmark" lang="LAT">Teol. Rituale 1522</altName>
+<altName type="database-identifier">scriptorium:Mh:278525:1127814082</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Noted liturgical texts for various major festivals</title> 
+    <origPlace>Denmark (Roskilde)</origPlace>
+    <origDate notBefore="1490" notAfter="1522">16th century, first quarter</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript is bound with, and a handwritten continuation
+	of, <title type="uniform">Manuale curatorum secundum usum ecclesie
+	  Rosckildensis</title>, printed by Poul Reff, in Copenhagen in 1513 (with shelfmark	Paleot. Da. 1513).</p>
+    </note>
+  </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="2r" to="4v">ff. 2r-4v</locus>
+<title>Matthean Genealogy</title>
+</msItem>
+
+<msItem n="2">
+<locus from="4v" to="8r">ff. 4v-8r</locus>
+<title>Lucan Genealogy</title>
+</msItem>
+
+<msItem n="3">
+<locus from="8r" to="10r">ff. 8r-10r</locus>
+<title>Preface to the Blessing of Palms</title>
+</msItem>
+
+<msItem n="4">
+<locus from="10v" to="12r">ff. 10v-12r</locus>
+<title>Orders of service for Good Friday</title>
+</msItem>
+
+<msItem n="5">
+<locus from="12v" to="26v">ff. 12v-26v</locus>
+<title>Orders of service for Easter Eve</title>
+</msItem>
+
+<msItem n="6">
+<locus from="26v" to="30r">ff. 26v-30r</locus>
+<title>Order of the Blessing of the Candles</title>
+</msItem>
+</msContents>
+<physDesc>
+    <support>
+      <p>Paper</p>
+      <watermarks><p>According to Strömberg (see bibliography) who saw the
+	  manuscript in the 1970:s, before it was bound/rebound, there are two
+	  different watermarks, now barely visible: 1) the palm of a hand
+	  surmounted by a flower, similar to <ref targOrder="U" TEIform="ref">Briquet 11417-11435</ref>; and 2) a gothic P
+	  surmounted by a four-petalled flower, similar to <ref targOrder="U" TEIform="ref">Briquet 8586-8653</ref>.</p></watermarks> 
+</support>
+<extent>i-viii + c. 100 unnumbered leaves of printed material + 36 handwritten leaves + ix-xiii<dimensions><height>200</height><width>130</width></dimensions>mm.
+    </extent>
+<collation><p>Eight quires (seven binions and one quaternion): 1: 4 (ff. 1-4); 2: 4 (ff. 5-8); 3: 4 (ff. 9-12); 4: 4 (ff. 13-16); 5: 4 (ff. 17-20); 6: 4 (ff. 21-24); 7: 4 (ff. 25-28); 8: 8 (ff. 29-36). A watermark analysis shows that also the last quire, like the others, was originally a binion. The beginning of each quire, except the first, is marked by a decorative element in the inner margin of its forst recto and a letter (B, C, D, E, F, G and H). No catchwords.</p></collation>
+<layout><p>Written area: c. 135-40 x 85 mm. Noted chants in four-line staffs, most often seven per page take up most of the manuscript.</p></layout>
+<msWriting hands="1">
+<handDesc scribe="Petrus Iacobi" script="Gothic semi cursive."><p>
+One hand; semi cursice script, initials often filled with red.</p></handDesc>
+</msWriting> 
+<musicNotation><p>Square notes of late medieval type. The basic note is the punctum, single notes are consistently puncta inclinata, tilted to the right and traditional neumes appear as linked groups of such notes.</p>
+</musicNotation>
+
+<decoration>
+      <decoNote><p>On f. <locus>1r</locus>: Drawing in brown ink of a Tau-cross with indication of holes for the three nails. Above the cross a band inscribed INRI and under the words: <q>O crux aue</q> and the verses: <q>Salve crux digna, super omnia ligna benigna. Tu me consigna, moriar ne morte maligna</q>. It is probable that the cross is inspired by the <q>crux admiranda</q> in Bystorp church of which the <title>Annales rerum Danicarum</title> of <author>Petrus Olai</author> talks and from which blood flowed in 1402.</p></decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Blind-tooled brown calfskin binding, preserved decorated
+	  covering Denmark contemporary with the manuscript. Rebinding Sweden
+	  20th century. Size: 216 x 158 x 30 mm.</p> 
+	<p>Brown calfskin binding over bevelled wooden boards. Leather covering
+	  from former binding preserved on the new covering. One engraved metal
+	  hook-clasp fastening (hook and clasp from former binding, anchor
+	  plate, nails and strap new). Rounded spine. Tight back with three
+	  raised double bands. Former edge trimming preserved. Preserved single
+	  plain flyleaves and separate pastedowns of paper (restored). Six
+	  additional blank leafs at the front and eight at the back, some
+	  quires with partly restored joints. All along sewing on three double
+	  cords laced through the boards. Textblock restored.</p> 
+	<p>The covers are blind-tooled into three panels built by a repeated
+	  triple fillet and a lozenge flower roll.</p></binding> 
+    </bindingDesc>
+<foliation><p>Only parts of the book is foliated, in pencil in upper right corner, presumably in connection with the rebinding: the preliminaries i-viii and ix-xiii and the manuscript part 1-36.</p></foliation>
+<additions><p>A cursive hand has provided both printed and handwritten part with marginal entries; at f. 2r. <q>In nocte nativitatis domini</q>; f. 4v: <q>In festo epiphanie ante missam</q>; f. 8r: <q>deinde assumat monstrantiam</q>; f. 10r: <q>fiat processio cum ramo in manu</q>; on f. 26v this hand has completed the order for consecrating the Font and on f. 30r there is an added collect to the order of the Blessing of the Candles at the Purification. A third hand added four prayers and a note on ff. 30r-31v; on f. xii verso and f. xiii recto, today the back pastedown there are autographs and dates of successive priests of  Bystorp.</p></additions>
+
+  </physDesc>
+<history>
+<origin><p>The manuscript was written by the priest/scribe Petrus Jacobi (Per Ibsen?) according to a crossed out note in red ink on f. 1r: <q>Petrus Iacobi possidet hunc librum presbiter licet indignus</q>. Between 1513 and 1522 the printed and the handwritten part were bound together in the same volume. When Peter Wieselgren described the book in 1830 (cfr. Lunds Universitetsbiblioteks Arkiv A IV b 10) it was still like that. It was subsequently taken apart and when Strömberg talks about the manuscript part "was kept loose in a parchment cover". Strömberg proved that it had once been bound with the printed manual and since then it has again, probably as a result of Strömberg's analysis, been rebound with it.</p></origin>
+<provenance><p>There are five notes of ownership and they thus pertain to both printed and handwritten part. In 1522 the book was owned by the church St. Mary Magdalene in Bystorp in the diocese of Roskilde, cfr. the crossed out notes on the upper pastedown: <q>Liber ecclesie sancte marie magdalene de bystorp</q> and on the title page of the printed manual: <q>Liber ecclesie Bystorp</q>; see also the note above the colophon of the printed text: <q>Liber ecclesie bystorp mdxxii</q>. The same hand has crossed out the ex libris of Petrus Iacobi and added a fourth note, also crossed out: <q>Liber ecclesie bystorp Mdxxii</q>. According to Strömberg the crossed out note on the recto of f. ii, today illegible, says: <q>ecclesia sancti sanguinis [apella]tur</q> and in fact Bystorp was a much visited pilgrimage church. It was pulled down in the second half of the 16th century.</p></provenance>
+<acquisition><p>By the end of the 17th century the book was owned by E. J. Meck (1644-1702). In 1704 the manuscript arrived in the University Library as part of a donation of 25 manuscripts out of which 7 Medieval (see Gerle E. Lunds universitetsbiblioteks historia fram till år 1968, Lund 1984, pp. 47-48).</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>February of 2005</date> by Eva Nilsson
+	  Nylander.</source>
+<change>
+<date rend="creation">2005-09-27</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-27</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+<title level="m">The Manual from Bystorp. Lund University Library, Medeltidshandskrift 43a.</title>
+<editor>Strömberg, Bengt</editor>
+<title level="s">Bibliotheca Liturgica Danica. Series latina.</title>
+<biblScope type="volume">2</biblScope>
+<imprint>
+<pubPlace>Denmark</pubPlace>
+<date>1982</date>
+</imprint>
+</bibl>
+
+<bibl>
+<title>Två böckers väg från Roskilde stift till Lunds universitetsbibliotek</title>
+<author>Hoen, Marie</author>
+<note>Unpublished seminar paper (B-uppsats), Lund 2004</note>
+</bibl>
+
+</listBibl>
+</additional>
+</msDescription>

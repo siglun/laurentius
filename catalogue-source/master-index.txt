@@ -1,0 +1,935 @@
+/author:Boethius... 1
+/publ-place:Eastern France (?) ... Medeltidshandskrift 1 ... 1
+/publ-date:10th century, early ... 900\(en925 ... Medeltidshandskrift 1 ... 1
+/language:Latin... Medeltidshandskrift 1 ... 1
+/title:Institutio Arithmetica###--Mh_1 1r-- ... 1
+author:Boethius ... 4
+author:Boethius ... 4
+author:Lehmann, P. ... 4
+author:Paulson, J. ... 4
+author:Pellegrin, E. ... 4
+/publ-place:Flanders (See of Li\[u00E8]ge: Probably Gembloux or Lobbes for the use of Rolduc/Kloosterrade) ... Medeltidshandskrift 2 ... 5
+/publ-date:12th century, first quarter ... 1100\(en1125 ... Medeltidshandskrift 2 ... 5
+/language:Latin... Medeltidshandskrift 2 ... 5
+author:Liebman, Charles J. ... 7
+author:Nielsen, Lauritz ... 7
+author:Wrangel, E. ... 7
+/publ-place:France ? (Paris?) ... Medeltidshandskrift 3 ... 8
+/publ-date:12th century, mid ... 1150\(en1200 ... Medeltidshandskrift 3 ... 8
+/language:Latin... Medeltidshandskrift 3 ... 8
+/title:Prothemata in Genesim###--Mh_3 1r-- ... 8
+/title:Genesis###--Mh_3 2v-- ... 8
+author:Haastrup, N. ... 9
+author:Pellegrin, E. ... 9
+author:Weibull, L. ... 9
+/publ-place:France? ... Medeltidshandskrift 4 ... 10
+/publ-date:12th century, middle or second half ... 1150\(en1200 ... Medeltidshandskrift 4 ... 10
+/language:Latin... Medeltidshandskrift 4 ... 10
+/title:Psalter###--Mh_4 1r-- ... 10
+author:Liebman, Charles J. ... 11
+/publ-place:Denmark (Lund) ... Medeltidshandskrift 5 ... 12
+/publ-date:12th century, second third ... 1130\(en1170 ... Medeltidshandskrift 5 ... 12
+/language:Latin... Medeltidshandskrift 5 ... 12
+author:Liebman, Charles J. ... 14
+author:Nielsen, L. ... 14
+/publ-place:Denmark (Lund) ... Medeltidshandskrift 6 ... 15
+/publ-date:12th century, early-16th century, early ... 1120\(en1525 ... Medeltidshandskrift 6 ... 15
+/language:Latin... Medeltidshandskrift 6 ... 15
+/title:Catalogus debiti estivalis et census insule###--Mh_6 1r-- ... 15
+/title:Midsommargälds- och ölistan###--Mh_6 1r-- ... 15
+/title:Decretum pacti Kanuti regis XII kal. Junii 1085###--Mh_6 1v-- ... 15
+/title:Knut den Heliges gåvobrev den 21 maj 1085###--Mh_6 1v-- ... 15
+/title:Series prebendarum###--Mh_6 2v-- ... 15
+/title:Prebendelistan###--Mh_6 2v-- ... 15
+/title:Notitie VI idibus Julii mortuorum###--Mh_6 5r-- ... 15
+/title:Dödsanteckningarna för den 10 juli###--Mh_6 5r-- ... 15
+/title:Admonitio ad filium spiritualem###--Mh_6 5v-- ... 15
+/title:Epistula LII. Ad Nepotianum. De vita clericorum et monachorum###--Mh_6 26r-- ... 16
+/title:Epistola XIV ad Heliodorum monachum###--Mh_6 40r-- ... 16
+/title:Epistola LX. Ad Helidorum###--Mh_6 48v-- ... 16
+/title:Preface to the Aachen rule###--Mh_6 58r-- ... 16
+/title:Institutio canonicorum Aquisgranensis###--Mh_6 58v-- ... 16
+/title:Opusculum II. De Psalmodiae Bono###--Mh_6 83r-- ... 17
+/title:Epistola prima. Isidori Leudefredo Episcopo.###--Mh_6 89v-- ... 17
+/title:Consuetudines canonice###--Mh_6 92r-- ... 17
+/title:Kaniksamfundets statuter###--Mh_6 92r-- ... 17
+/title:Series regum###--Mh_6 123v-- ... 17
+/title:Konungalistan###--Mh_6 123v-- ... 17
+/title:Memoriale fratrum###--Mh_6 124v-- ... 17
+/title:Dödboken###--Mh_6 124v-- ... 17
+/title:Series episcoporum Lundensium###--Mh_6 174v-- ... 18
+/title:ärkebiskopslistan###--Mh_6 174v-- ... 18
+/title:Series episcoporum antea Lundensium canonicorum###--Mh_6 175v-- ... 18
+/title:Biskopslistan###--Mh_6 175v-- ... 18
+/title:Series canonicorum Lundensium presbiterorum###--Mh_6 176v-- ... 18
+/title:Presbyterlistan###--Mh_6 176v-- ... 18
+/title:Series canonicorum Lundensium diaconorum###--Mh_6 177v-- ... 18
+/title:Diakonlistan###--Mh_6 177v-- ... 18
+/title:Series canonicorum Lundensium subdiaconorum###--Mh_6 178v-- ... 19
+/title:Subdiakonlistan###--Mh_6 178v-- ... 19
+/title:Series ecclesiarum que fraternitatem Lundensis ecclesie habent cum allegatis###--Mh_6 179v-- ... 19
+/title:Brödraskapslistan med allegater###--Mh_6 179v-- ... 19
+/title:Constitutio Wibergensis###--Mh_6 182v-- ... 19
+/title:Termini Balluncslef###--Mh_6 182v-- ... 19
+/title:Markaskälsnotitierna för Balingslöv###--Mh_6 182v-- ... 19
+/title:Agreement between the canons of St. Lawrence and Asmund Tygesen on the boundaries of Ballingslöv###--Mh_6 183v-- ... 19
+author:Ciardi, Anna Minara ... 23
+author:Ciardi, Anna Minara ... 23
+author:Ciardi, Anna Minara ... 23
+author:Ekstr\[u00F6]m, Per ... 23
+author:Johansson, Anna Minara ... 23
+author:Krron, Sigurd ... 23
+author:Langebek, J. ... 23
+author:Nielsen, Lauritz ... 23
+author:Wrangel, Ewert ... 23
+/publ-place:Metz and Lund ... Medeltidshandskrift 7 ... 24
+/publ-date:12th-15th century (1140 c.-1410 c.) ... 1130\(en1418 ... Medeltidshandskrift 7 ... 24
+/language:Latin... Medeltidshandskrift 7 ... 24
+/title:Lectiones###--Mh_7 1r-- ... 24
+/title:Martyrology, January 1-December 31###--Mh_7 8r-- ... 24
+/title:Sequences###--Mh_7 141r-- ... 24
+/title:Episcoporum ecclesiae Lundensis series###--Mh_7 -- ... 26
+author:Bring, S. ... 27
+author:Langebek, J. ... 27
+author:Cederschj\[u00F6]ld, F. J. ... 27
+author:Liebman, Charles J. ... 27
+author:Nielsen, L. ... 27
+author:Sommelius, G. ... 27
+/author:Vegetius... 28
+/publ-place:Italy (Florence?) ... Medeltidshandskrift 8 ... 28
+/publ-date:15th century ... 1400\(en1500 ... Medeltidshandskrift 8 ... 28
+/language:Latin... Medeltidshandskrift 8 ... 28
+/title:Epithoma rei militaris###--Mh_8 1r-- ... 28
+author:Lehmann, P. ... 29
+author:Pellegrin, E. ... 29
+author:W\[u00E5]hlin, Lars ... 29
+/publ-place:France (Paris?) ... Medeltidshandskrift 9 ... 30
+/publ-date:13th century, last quarter (c. 1280) ... 1275\(en1300 ... Medeltidshandskrift 9 ... 30
+/language:Latin... Medeltidshandskrift 9 ... 30
+/title:Liber extra###--Mh_9 1r-- ... 30
+/title:Liber sextus###--Mh_9 197r-- ... 30
+author:Pellegrin, E. ... 32
+/publ-place:France (Paris) ... Medeltidshandskrift 10 ... 33
+/publ-date:13th century (1285 c.) ... 1275\(en1300 ... Medeltidshandskrift 10 ... 33
+/language:Latin... Medeltidshandskrift 10 ... 33
+author:Pellegrin, E. ... 33
+/author:Goffredo da Trani... 34
+/publ-place:France (Paris) ... Medeltidshandskrift 11 ... 34
+/publ-date:13th century (1250 c.) ... 1240\(en1260 ... Medeltidshandskrift 11 ... 34
+/language:Latin... Medeltidshandskrift 11 ... 34
+author:Pellegrin, E. ... 35
+/author:Nicolas de Byard... 36
+/publ-place:France (?) ... Medeltidshandskrift 12 ... 36
+/publ-date:13th-14th century ... 1200\(en1400 ... Medeltidshandskrift 12 ... 36
+/language:Latin... Medeltidshandskrift 12 ... 36
+author:Pellegrin, E. ... 36
+/publ-place:Pomerania (?) ... Medeltidshandskrift 13 ... 37
+/publ-date:14th-15th century ... 1320\(en1500 ... Medeltidshandskrift 13 ... 37
+/language:Latin... Medeltidshandskrift 13 ... 37
+/title:De cognitione animae et potentiarum eius.###--Mh_13 1-- ... 37
+/title:Propositiones secundum ordinem alphabeti collectae###--Mh_13 41-- ... 37
+/title:Compendium theologiae (De fide)###--Mh_13 45-- ... 37
+/title:Responsio de 6 qu.###--Mh_13 122-- ... 37
+/title:Annotationes variae.###--Mh_13 124-- ... 37
+/title:Calendar###--Mh_13 125-- ... 37
+author:Hedlund, Monica ... 37
+author:Lehmann, P. ... 37
+author:Pellegrin, E. ... 37
+/publ-place:Denmark (Lund) ... Medeltidshandskrift 14 ... 39
+/publ-date:14th-16th century ... 1300\(en1499 ... Medeltidshandskrift 14 ... 39
+/language:Latin... Medeltidshandskrift 14 ... 39
+author:Hammerich, A. ... 39
+/publ-place:Norway (?) ... Medeltidshandskrift 15 ... 40
+/publ-date:14th century ... 1305\(en1315 ... Medeltidshandskrift 15 ... 40
+/language:Old Norse... Medeltidshandskrift 15 ... 40
+/title:Sheep Letter###--Mh_15 -- ... 40
+author:Nelson, Axel ... 40
+/publ-place:Pomerania (?) ... Medeltidshandskrift 16 ... 41
+/publ-date:14th-15th century ... 1300\(en1500 ... Medeltidshandskrift 16 ... 41
+/language:Latin... Medeltidshandskrift 16 ... 41
+person:Nelander, Johan ... 42
+author:Lehmann, P. ... 42
+author:Pellegrin, E. ... 42
+/publ-place:Sweden ... Medeltidshandskrift 17 ... 43
+/publ-date:14th century, late half (not before 1347) ... 1347\(en1400 ... Medeltidshandskrift 17 ... 43
+/language:Swedish... Medeltidshandskrift 17 ... 43
+/title:Magnus Erikssons Landslag###--Mh_17 1r-- ... 43
+/title:National law of Magnus Eriksson###--Mh_17 1r-- ... 43
+/title:Om edgång###--Mh_17 139r-- ... 43
+/title:On swearing an oath###--Mh_17 139r-- ... 43
+/title:Om mened###--Mh_17 139v-- ... 43
+/title:On committing perjury###--Mh_17 139v-- ... 43
+author:Geete, R. ... 45
+author:\[u00C5]str\[u00F6]m, P. ... 45
+/publ-place:Denmark ... Medeltidshandskrift 18 ... 46
+/publ-date:14th century ... 1300\(en1400 ... Medeltidshandskrift 18 ... 46
+/language:Danish... Medeltidshandskrift 18 ... 46
+/title:Jyske Lov###--Mh_18 1r:1-- ... 46
+/title:Provincial law of Jutland###--Mh_18 1r:1-- ... 46
+/title:Erik Klippings nyborgske forordning for Sjælland af 26. maj 1284###--Mh_18 134v:11-- ... 46
+/title:Erik Klippings nyborgske forordning for Nørrejylland af 21-27. maj 1284###--Mh_18 140r:14-- ... 46
+/title:Jutish Law###--Mh_18 -- ... 48
+/title:Erik Klippings nyborgske forordning for Sjælland###--Mh_18 -- ... 48
+/title:Erik Klippings nyborgske forordning for Nørrejylland###--Mh_18 -- ... 48
+/person:Meck... 48
+author:Palm, August Johan Theod. ... 48
+/author:Jacobus de Voragine... 49
+/publ-place:Pomerania (?) ... Medeltidshandskrift 19 ... 49
+/publ-date:14th century, late-15th century, early ... 1380\(en1425 ... Medeltidshandskrift 19 ... 49
+/language:Latin... Medeltidshandskrift 19 ... 49
+/title:Legenda Aurea###--Mh_19 3r-- ... 49
+/title:Legenda Sanctorum###--Mh_19 3r-- ... 49
+author:Jacobus de Voragine ... 49
+author:Lehmann, P. ... 51
+author:Spunar, P. ... 51
+/author:Pseudo-Bonaventure... 52
+/publ-place:Sweden (Vadstena) ... Medeltidshandskrift 20 ... 52
+/publ-date:15th century, first half ... 1400\(en1450 ... Medeltidshandskrift 20 ... 52
+/language:Swedish... Medeltidshandskrift 20 ... 52
+/title:The legend of Gregorius of Armenia###--Mh_20 1r-- ... 52
+/title:Revelationes, fragment, IV:131###--Mh_20 35v-- ... 52
+/author:Sancta Birgitta... 52
+/title:Meditationes vitae Christi###--Mh_20 36r-- ... 52
+/title:The legend of S. Mechtild, fragment###--Mh_20 165r-- ... 52
+author:Geete, Robert ... 54
+author:Rietz, Johan Ernst ... 54
+/author:Birgitta... 55
+/publ-place:Sweden (Vadstena) ... Medeltidshandskrift 21 ... 55
+/publ-date:15th century, early (1404-1415?, before 1446) ... 1400\(en1446 ... Medeltidshandskrift 21 ... 55
+/language:Latin... Medeltidshandskrift 21 ... 55
+/title:Revelationes Birgittae, libri I-VII.###--Mh_21 1r-- ... 55
+/title:Additiones.###--Mh_21 277r-- ... 55
+/title:Revelationum liber VIII###--Mh_21 280r-- ... 55
+/title:Sermo angelicus###--Mh_21 316r-- ... 55
+/title:Additiones. 37 Extravagantes, 6 Declarationes, Regula Saluatoris###--Mh_21 331v-- ... 55
+/title:Legenda Birgittae###--Mh_21 343r-- ... 56
+/author:Birgerus Gregorii... 56
+/title:Additiones. 13 Declarationes, 5 Extravagantes###--Mh_21 350r-- ... 56
+/title:Vita Birgittae prioris Petri et magistri Petri###--Mh_21 353r-- ... 56
+/title:Additiones###--Mh_21 358r-- ... 56
+/title:Poema ad laudem beatae Birgittae###--Mh_21 360r-- ... 56
+author:Birgitta ... 58
+author:Wess\[u00E9]n, E. ... 58
+author:Hedlund, Monica ... 58
+/publ-place:Denmark ... Medeltidshandskrift 23 ... 60
+/publ-date:15th-mid 16th century ... 1425\(en1550 ... Medeltidshandskrift 23 ... 60
+/language:Danish... Medeltidshandskrift 23 ... 60
+/title:Fortalen til Jyske Lov###--Mh_23 1r:1-- ... 60
+/title:Prologue of the Jutish Law###--Mh_23 1r:1-- ... 60
+/title:Eriks Sjællandske Lov###--Mh_23 2r:17-- ... 60
+/title:Erik's Zealandic Law###--Mh_23 2r:17-- ... 60
+/title:Chapter list of Book I###--Mh_23 2r:17-- ... 60
+/title:Book I###--Mh_23 3r:17-- ... 60
+/title:Chapter list of Book II###--Mh_23 18r:1-- ... 60
+/title:Book II###--Mh_23 19r:17-- ... 60
+/title:Chapter list of Book III###--Mh_23 49v:16-- ... 60
+/title:Book III###--Mh_23 50v:21-- ... 60
+/title:Christoffer II's Håndfæstning af 25. januar 1320###--Mh_23 80v:1-- ... 60
+/title:Forpligtelsesbrevet 1360 (Valdemar Atterdags Håndfæstning)###--Mh_23 82v:21-- ... 60
+/title:Valdemar Atterdags forpligtelsesbrev af 1341###--Mh_23 86v:9-- ... 61
+/title:Olufs Håndfæstning af 3. maj 1376###--Mh_23 87r:9-- ... 61
+/title:Forpligtelsesbrevet 1377 (Landefreden af 1. juli 1377)###--Mh_23 89v:30-- ... 61
+/title:Nota bene###--Mh_23 91v:1-- ... 61
+/title:Valdemars Sjællandske Lov og Sjællandske Kirkelov###--Mh_23 92r:1-- ... 61
+/title:Valdemar's Zealandic Law and the Zealandic Church Law###--Mh_23 92r:1-- ... 61
+/title:Kapitelregister til Valdemars Sjællandske Lov og Sjællandske Kirkelov###--Mh_23 92r:1-- ... 61
+/title:Chapter list of Valdemar's Zealandic law and the Zealandic Church Law###--Mh_23 92r:1-- ... 61
+/title:Sjællandske Lov###--Mh_23 96r:7-- ... 61
+/title:Zealandic Law###--Mh_23 96r:7-- ... 61
+/title:Sjælandske Kirkelov###--Mh_23 123v:7-- ... 61
+/title:Zealandic Church Law###--Mh_23 123v:7-- ... 61
+/title:Tyveretten###--Mh_23 126v:1-- ... 61
+/title:Kong Christian II's håndfæstning, 22. juli 1513###--Mh_23 129r:4-- ... 61
+/person:August Palm... 63
+/person:Jacobus Olavi... 63
+/person:August Johan Theod. Palm... 63
+/person:Meck... 63
+author:Palm, August ... 63
+/author:Servius... 64
+/publ-place:Italy, Northern (?) ... Medeltidshandskrift 24 ... 64
+/publ-date:15th century, mid ... 1440\(en1455 ... Medeltidshandskrift 24 ... 64
+/language:Latin... Medeltidshandskrift 24 ... 64
+/title:Commentary on the Bucolics###--Mh_24 1r-- ... 64
+/title:Commentary on the Georgics###--Mh_24 24r-- ... 64
+/title:Commentary on the Aeneid###--Mh_24 65r-- ... 64
+author:Pellegrin, E. ... 66
+/publ-place:Denmark ... Medeltidshandskrift 25 ... 67
+/publ-date:15th-mid 16th century ... 1457.01.01\(en1550 ... Medeltidshandskrift 25 ... 67
+/language:Danish and Latin... Medeltidshandskrift 25 ... 67
+/title:Jyske Lov###--Mh_25 2r:1-- ... 67
+/title:Provincial law of Jutland###--Mh_25 2r:1-- ... 67
+/title:Jyske Lovs Fortale###--Mh_25 2r:1-- ... 67
+/title:The prologue###--Mh_25 2r:1-- ... 67
+/title:Book I###--Mh_25 5r:6-- ... 67
+/title:Chapter list of Book I###--Mh_25 5r:6-- ... 67
+/title:Liber primus###--Mh_25 7r:11-- ... 67
+/title:Book II###--Mh_25 35r:4-- ... 67
+/title:Chapter list of Book II###--Mh_25 35r:4-- ... 67
+/title:Liber secundus###--Mh_25 39r:1-- ... 67
+/title:Book III###--Mh_25 84r:7-- ... 67
+/title:Chapter list of Book III###--Mh_25 84r:7-- ... 67
+/title:Liber tertius###--Mh_25 86r:8-- ... 67
+/title:Christoffer I's forordning (Den Abel-Christofferske forordning II) [1252-1259]###--Mh_25 114r:1-- ... 68
+/language:Danish... ... 68
+/title:Lov af 26. maj 1284 (Erik Klippings nyborgske forordning for Nørrejylland)###--Mh_25 -- ... 68
+/title:Erik Klippings nyborgske forordning for Nørrejylland af 21-27. maj 1284###--Mh_25 116r:17-- ... 68
+/title:Erik Klippings nyborgske forordning for Sjælland af 26. maj 1284###--Mh_25 -- ... 68
+/title:Erik Klippings håndfæstning af 29. juli 1282###--Mh_25 120v:1-- ... 68
+/title:Constitutio Erici Glipping, nuburgis anno 1282###--Mh_25 120v:1-- ... 68
+/language:Latin... ... 68
+/title:Erik Klippings nyborgske forordning for Sjælland af 26. maj 1284###--Mh_25 123:1-- ... 68
+/title:Rætterthing dom###--Mh_25 123v:15-- ... 68
+/title:Christoffer I's forordning (Den Abel-Christofferske Forordning II)###--Mh_25 124v:22-- ... 69
+/title:Kyns neffnd###--Mh_25 127r:8-- ... 69
+/person:Erik Schult... 70
+/person:H. Sederberg... 70
+/place:Carlshamn... 70
+/person:Magister Seldener... 70
+/place:Carlshamn... 70
+/person:Anders Lanærus... 70
+author:Hedlund, Monica ... 70
+author:Palm, August Johan Theod. ... 70
+/publ-place:Denmark (?) ... Medeltidshandskrift 26 ... 71
+/publ-date:15th century, mid ... 1440\(en1460 ... Medeltidshandskrift 26 ... 71
+/language:Latin... Medeltidshandskrift 26 ... 71
+/author:Vergilius... 72
+/publ-place:Northern Italy ... Medeltidshandskrift 27 ... 72
+/publ-date:15th century (1460-1480) ... 1460\(en1480 ... Medeltidshandskrift 27 ... 72
+/language:Latin... Medeltidshandskrift 27 ... 72
+/title:Bucolica###--Mh_27 1r-- ... 72
+/title:Georgica###--Mh_27 14r-- ... 72
+/title:Anthologia latina###--Mh_27 49r-- ... 72
+/title:Aeneidos###--Mh_27 51r-- ... 72
+/title:Anthologia latina 672###--Mh_27 207v-- ... 72
+/title:Anthologia latina 507-518; 555-556###--Mh_27 208r-- ... 72
+/person:Andreas Rydelius (1671-1738)... 75
+/name:Johan Klasson Banér... 75
+/name:Johan Gabriel Banér... 75
+author:Dudik, B. ... 76
+author:Ek, Joh., Gust. ... 76
+author:Pellegrin, E. ... 76
+/publ-date:15th century, second half ... 1450\(en1500 ... Medeltidshandskrift 28 ... 77
+/language:Latin... Medeltidshandskrift 28 ... 77
+/publ-place:Holland (Leyderdorp) ... Medeltidshandskrift 29 ... 78
+/publ-date:15th century, second half ... 1450\(en1500 ... Medeltidshandskrift 29 ... 78
+/language:Latin... Medeltidshandskrift 29 ... 78
+/title:Temporale###--Mh_29 1r-- ... 78
+/title:Sanctorale###--Mh_29 84v-- ... 78
+/title:Hymnarium###--Mh_29 98v-- ... 78
+/title:Sanctorale###--Mh_29 103r-- ... 78
+author:Kernkamp, Gerhard Wilhelm ... 80
+author:Lievens, Robrecht ... 80
+author:Verheyden, Prosper ... 80
+/publ-date:15th century, late-16th century, late ... 1475\(en1600 ... Medeltidshandskrift 30 ... 81
+/language:Latin... Medeltidshandskrift 30 ... 81
+author:Dudik, B. ... 81
+author:Kristeller, P. O. ... 81
+author:Pellegrin, E. ... 81
+author:Spunar, P. ... 81
+/publ-place:Denmark (Lund) ... Medeltidshandskrift 31 ... 82
+/publ-date:15th century, first half ... 1400\(en1450 ... Medeltidshandskrift 31 ... 82
+/language:Latin... Medeltidshandskrift 31 ... 82
+/person:Olaus Jacobus... 82
+/person:Amundus Andree filius... 82
+/person:Tuve Nielsen Juel... 82
+/publ-place:Sweden ... Medeltidshandskrift 32 ... 83
+/publ-date:15th century (1480 c.) ... 1475\(en1500 ... Medeltidshandskrift 32 ... 83
+/language:Swedish... Medeltidshandskrift 32 ... 83
+/title:Older Swedish Rhyming Chronicle, second redaction###--Mh_32 1r:1-- ... 83
+/title:Older Swedish Rhyming Chronicle, continuation, with a transition to Younger Rhyming Chronicle###--Mh_32 75r:11-- ... 83
+author:Blom, C. ... 84
+author:Geete, R. ... 84
+author:Jansson, S.-B. ... 84
+/publ-place:Holland (Delft, for the use of Utrecht) ... Medeltidshandskrift 32a ... 85
+/publ-date:15th century (1460 c.-1480) ... 1460\(en1480 ... Medeltidshandskrift 32a ... 85
+/language:Dutch... Medeltidshandskrift 32a ... 85
+/title:Rhymed verses from "De boec van seden".###--Mh_32a 2r-- ... 85
+/title:Minneverser###--Mh_32a 2v-- ... 85
+/title:Proverbs###--Mh_32a 2v-- ... 85
+/author:Rooth, E.... 85
+/title:Calendar###--Mh_32a 3r-- ... 85
+/title:Auctoritates###--Mh_32a 11r-- ... 85
+/title:Prayer###--Mh_32a 11v-- ... 85
+/title:Breviary###--Mh_32a 13r-- ... 85
+/title:Psalter of the Blessed Virgin Mary###--Mh_32a 54r-- ... 85
+/title:Seven psalms of the Blessed Virgin Mary, with exempla###--Mh_32a 104r-- ... 85
+/title:Litany of the Blessed Virgin Mary###--Mh_32a 107r-- ... 86
+/title:Prayers to the Blessed Virgin Mary###--Mh_32a 116v-- ... 86
+/title:Prayer, attributed to Augustin###--Mh_32a 121v-- ... 86
+/title:Prayer attributed to Bernard###--Mh_32a 125r-- ... 86
+/title:The Seven Delights of the Blessed Virgin Mary and other prayers to her, some of them attributed to Bernard, some with versicle and collecta.###--Mh_32a 128r-- ... 86
+/title:Prayer to Christ###--Mh_32a 202r-- ... 86
+/title:Prayers to the Passion of Christ, with exempla.###--Mh_32a 204r-- ... 86
+/title:Prologus###--Mh_32a 204r-- ... 86
+/title:Prayers to the Eucharist###--Mh_32a 259v-- ... 86
+/title:Hours of the Passion of Christ###--Mh_32a 282r-- ... 86
+/title:Rhymed prayer###--Mh_32a 293r-- ... 87
+author:Borchling, C. ... 89
+author:Jansen-Sieben, R. ... 89
+author:Kernkamp, G. W. ... 89
+author:Rooth, E. ... 89
+author:Rooth, E. ... 89
+/author:Stooker K.... 89
+author:Verbeij, T. ... 89
+/author:Schönebeck, Brun von... 90
+/publ-place:Germany, Northern ... Medeltidshandskrift 32b ... 90
+/publ-date:15th century ... 1400\(en1500 ... Medeltidshandskrift 32b ... 90
+/language:Low German... Medeltidshandskrift 32b ... 90
+/title:Ave Maria###--Mh_32b 1r-- ... 90
+/title:Van der almissen###--Mh_32b x1r-- ... 90
+author:Norlind, W. ... 91
+author:Norlind, W. ... 91
+author:Wolff, L. ... 91
+/publ-place:Holland (Utrecht) ... Medeltidshandskrift 33 ... 92
+/publ-date:16th century, early ... 1500\(en1525 ... Medeltidshandskrift 33 ... 92
+/language:Dutch... Medeltidshandskrift 33 ... 92
+/title:Calendar###--Mh_33 3r-- ... 92
+/title:Computistic tables, partially imcomplete###--Mh_33 12r-- ... 92
+/title:Golden Numbers###--Mh_33 13v-- ... 92
+/title:Psalter###--Mh_33 15r-- ... 92
+/title:Cantica###--Mh_33 214r-- ... 92
+author:Biemans, J.A.A.M. ... 95
+author:Borchling, C. ... 95
+author:Kernkamp, G. W. ... 95
+author:Rooth, E ... 95
+author:Vreese, W. de ... 95
+/publ-place:Denmark (Lund) or Norway (Trondheim) ... Medeltidshandskrift 34 ... 96
+/publ-date:15th century, end of ... 1475\(en1500 ... Medeltidshandskrift 34 ... 96
+/language:Latin... Medeltidshandskrift 34 ... 96
+/title:Psalter with hymns and canticles###--Mh_34 1v-- ... 96
+/title:Temporale, comprising the whole year###--Mh_34 99r-- ... 96
+/title:Sanctorale, comprising the whole year###--Mh_34 295r-- ... 96
+/title:Commune Sanctorum###--Mh_34 464r-- ... 96
+author:Nielsen, Lauritz ... 98
+/publ-place:Denmark ... Medeltidshandskrift 35 ... 99
+/publ-date:16th century (1500 c.) ... 1490\(en1510 ... Medeltidshandskrift 35 ... 99
+/language:Danish... Medeltidshandskrift 35 ... 99
+/person:Karen Ludvigsdatter Rosenkrantz... 99
+/title:Hortulus Animæ###--Mh_35 -- ... 99
+/title:The Little Office of Our Lady###--Mh_35 -- ... 99
+/title:The Seven Penitentiel Psalms###--Mh_35 -- ... 99
+/title:Litany of the Saints###--Mh_35 -- ... 99
+person:Johanne Nielsdatter Munk ... 99
+/title:Johanne Nielsdatter Munks Tidebog###--Mh_35 -- ... 99
+/title:Book of Hours###--Mh_35 1r-- ... 99
+/title:Calendar###--Mh_35 2r-- ... 99
+/person:Ansgar... 99
+/person:Knud Konge... 99
+/person:Kjeld... 99
+/person:Olav... 99
+/person:Birgitta... 99
+/person:Thøger... 99
+/title:Vor Frue Tider###--Mh_35 8r:1-- ... 99
+/title:Officium Parvum Beatae Mariae Virginis###--Mh_35 8r:1-- ... 99
+/title:The Little Office of the Blessed Virgin Mary (the Hours of the Virgin)###--Mh_35 8r:1-- ... 99
+/title:Praise of God the Father and the Virgin###--Mh_35 8r:1-- ... 99
+/title:Ad matutinum###--Mh_35 8r:16-- ... 99
+/title:Psalmus 95 (94): Venite, exultemus Domino###--Mh_35 8r:16-- ... 99
+/title:Hymnus. Quem terra, pontus, ethera###--Mh_35 8v:16-- ... 99
+/title:Psalmus 8: Domine, Dominus noster###--Mh_35 9r:15-- ... 99
+/title:Psalmus 19 (18): Caeli enarrent gloriam Dei###--Mh_35 9v:16-- ... 99
+/title:Psalmus 24 (23): Domini est terra et plenitudo eius###--Mh_35 10r:23-- ... 99
+/title:Absolutio. Precibus et meritis###--Mh_35 10v:24-- ... 99
+/title:Lectio prima. Sancta maria virgo###--Mh_35 11r:5-- ... 100
+/title:Lectio secunda. Sancta maria piarum###--Mh_35 11r:19-- ... 100
+/title:Lectio tertia. Sancta dei genetrix###--Mh_35 11v:7-- ... 100
+/title:Hymnus sanctorum Ambrosii et Augustini. Te deum###--Mh_35 11v:21-- ... 100
+/title:Ad laudes###--Mh_35 12v:10-- ... 100
+/title:Psalmus 93 (92): Dominus regnavit!###--Mh_35 12v:10-- ... 100
+/title:Psalmus 100 (99): Iubilate Domino, omnis terra###--Mh_35 12v:23-- ... 100
+/title:Psalmus 63 (62): Deus, deus meus es tu###--Mh_35 13r:9-- ... 100
+/title:Psalmus 67 (66): Deus misereatur nostri###--Mh_35 13v:9-- ... 100
+/title:Canticum trium puerorum. Benedicite###--Mh_35 13v:22-- ... 100
+/title:Psalmus 148: Alleluia. Laudate Dominum de caelis###--Mh_35 14v:8-- ... 100
+/title:Capitulum. In omnibus requiem quesiui###--Mh_35 15v:10-- ... 100
+/title:Hymnus: O gloriosa domina###--Mh_35 15v:15-- ... 100
+/title:Canticum Zacharie prophete. Benedictus dominus###--Mh_35 16r:6-- ... 100
+/title:Collecta. Concede nos###--Mh_35 16v:10-- ... 100
+/title:Ad primam###--Mh_35 16v:23-- ... 100
+/title:Hymnus. Rex christe clementissime###--Mh_35 16v:23-- ... 100
+/title:Psalmus 120 (119): Ad Dominum, cum tribularer###--Mh_35 17r:6-- ... 101
+/title:Psalmus 121 (120): Levabo ocolos meos in montes###--Mh_35 17r:18-- ... 101
+/title:Psalmus 122 (121): Laetatus sum in eo###--Mh_35 17v:7-- ... 101
+/title:Capitulum. Haec est virgo###--Mh_35 17v:24-- ... 101
+/title:Collecta. Sancta maria###--Mh_35 18r:14-- ... 101
+/title:Ad tertiam###--Mh_35 18r:22-- ... 101
+/title:Hymnus: Rex Christe###--Mh_35 18r:23-- ... 101
+/title:Psalmus 123 (122): Ad te lavavi oculos meos###--Mh_35 18r:25-- ... 101
+/title:Psalmus 124 (123): Nisi quia Dominus erat in nobis###--Mh_35 18v:11-- ... 101
+/title:Psalmus 125 (124): Qui confidunt in Domino###--Mh_35 19r:1-- ... 101
+/title:Ab initio et ante secula creata sum###--Mh_35 19r:15-- ... 101
+/title:Collecta. Deus qui de beate marie###--Mh_35 19v:1-- ... 101
+/title:Ad sextam###--Mh_35 19v:12-- ... 101
+/title:Psalmus 126 (125): In convertendo captivitatem Sion###--Mh_35 19v:13-- ... 101
+/title:Psalmus 127 (126): Nisi Dominus aedificaverit domum###--Mh_35 20r:1-- ... 101
+/title:Psalmus 128 (127): Beati omnes###--Mh_35 20r:16-- ... 101
+/title:Capitulum. Et sic in Sion firmata sum###--Mh_35 20v:6-- ... 101
+/title:Collecta. Deus qui salutis###--Mh_35 20v:15-- ... 101
+/title:Ad nonam###--Mh_35 21r:1-- ... 102
+/title:Hymnus. Rex christe clementissime###--Mh_35 21r:1-- ... 102
+/title:Psalmus 129 (128): Saepe expugnaverunt me a iuventute mea###--Mh_35 21r:2-- ... 102
+/title:Psalmus 130 (129): De profundis clamavi ad te, Domine###--Mh_35 21r:15-- ... 102
+/title:Psalmus 131 (130): Domine, non est exaltatum cor meum###--Mh_35 21v:2-- ... 102
+/title:Capitulum. Et radicavi in populo honorificatu###--Mh_35 21v:13-- ... 102
+/title:Collecta. Concede misericors deus###--Mh_35 21v:23-- ... 102
+/title:Ad vesperas###--Mh_35 22r:7-- ... 102
+/title:Psalmus 110 (109): Dixit Dominus Domino meo###--Mh_35 22r:8-- ... 102
+/title:Psalmus 113 (112): Laudate, pueri Dominum###--Mh_35 22v:5-- ... 102
+/title:Psalmus 122 (121): Laetatus sum in his quae dicta sunt mihi###--Mh_35 22v:19-- ... 102
+/title:Psalmus 127 (126): Nisi Dominus aedeficaverit domum###--Mh_35 22v:23-- ... 102
+/title:Psalmus 147: Lauda Ierusalem, Dominum###--Mh_35 22v:25-- ... 102
+/title:Capitulum. Beata es, virgo maria###--Mh_35 23r:19-- ... 102
+/title:Hymnus. Ave maris stella###--Mh_35 23v:2-- ... 102
+/title:Canticum beatae mariae virginis. Magnificat###--Mh_35 23v:22-- ... 102
+/title:Collecta. Concede nos###--Mh_35 24r:21-- ... 102
+/title:Ad completorium###--Mh_35 24v:1-- ... 102
+/title:Psalmus 132 (131): Memento, Domine, David###--Mh_35 24v:1-- ... 102
+/title:Psalmus 133 (132): Ecce quam bonum et quam iucundum###--Mh_35 25r:12-- ... 103
+/title:Psalmus 134 (133): Ecce nunc benedicite Dominum###--Mh_35 25r:19-- ... 103
+/title:Capitulum. Multe filie###--Mh_35 25v:3-- ... 103
+/title:Hymnus. Fit porta christi###--Mh_35 25v:10-- ... 103
+/title:Canticum Simeonis. Nunc dimittis###--Mh_35 25v:20-- ... 103
+/title:Collecta. Famulorum tuorum###--Mh_35 26r:8-- ... 103
+/title:De Syv Bodssalmer###--Mh_35 26r:16-- ... 103
+/title:Septem Psalmi Penitenciales###--Mh_35 26r:16-- ... 103
+/title:The Seven Penitential Psalms###--Mh_35 26r:16-- ... 103
+/title:Psalmus 6: Domine, ne in furore tuo argas me###--Mh_35 26r:16-- ... 103
+/title:Psalmus 32 (31): Beatus, cui remissa est inquitas###--Mh_35 26v:15-- ... 103
+/title:Psalmus 38 (37): Domine, ne in furore tuo argas me###--Mh_35 27r:18-- ... 103
+/title:Psalmus 51 (50): Miserere mei, Deus###--Mh_35 28r:15-- ... 103
+/title:Psalmus 102 (102): Domine, exaudi orationem###--Mh_35 29r:5-- ... 103
+/title:Psalmus 130 (129): De profundis clamavi ad te, domine###--Mh_35 30r:10-- ... 103
+/title:Psalmus 143 (142): Domine, exaudi orationem meam###--Mh_35 30r:12-- ... 103
+/title:Allehelgenslitaniet###--Mh_35 30v:21-- ... 103
+/title:The Litany of the Saints###--Mh_35 30v:21-- ... 103
+/title:Prayer book###--Mh_35 33r:1-- ... 103
+/title:Prayers to Our Lord Jesus Christ and to the Trinity###--Mh_35 33r:1-- ... 103
+/title:Prayer of the Cross (MDB 69)###--Mh_35 33r:1-- ... 103
+/title:Prayer to Our Lord Jesus Christ (MDB 70)###--Mh_35 34r:3-- ... 104
+/title:Prayer to Our Lord Jesus Christ (MDB 71)###--Mh_35 34r:17-- ... 104
+/title:Prayer to Our Lord Jesus Christ (MDB 72)###--Mh_35 34v:3-- ... 104
+/title:Prayer to Our Lord Jesus Christ in his pain (MDB 73)###--Mh_35 34v:11-- ... 104
+/title:Prayer to the Trinity (MDB 74)###--Mh_35 34v:23-- ... 104
+/title:Prayer to the Trinity (MDB 75)###--Mh_35 35v:6-- ... 104
+/language:Latin... ... 104
+/title:Prayer to the Trinity (MDB 76)###--Mh_35 35v:16-- ... 104
+/title:Prayer to the Trinity (MDB 77)###--Mh_35 35v:22-- ... 104
+/title:Praise of the Trinity, Jesus Christ and the Virgin (MDB 78)###--Mh_35 36v:22-- ... 105
+/title:Prayer to the Trinity (MDB 79)###--Mh_35 37r:7-- ... 105
+/title:Prayers to Jesus Christ and the Virgin (MDB 80)###--Mh_35 37r:23-- ... 105
+/title:Prayer in verse to the Five Wounds of Jesus Christ (MDB 81)###--Mh_35 38v:12-- ... 105
+/title:Three prayers to Jesus Christ (MDB 82)###--Mh_35 39v:4-- ... 105
+/title:Prayer to the Trinity (MDB 83)###--Mh_35 40v:8-- ... 105
+/title:Prayer to Jesus Christ in his pain (MDB 84)###--Mh_35 41r:4-- ... 105
+/title:Prayer to the limbs of Jesus Christ (MDB 85)###--Mh_35 41v:9-- ... 106
+/title:Prayer to Our Lord Jesus Christ (MDB 86)###--Mh_35 47v:9-- ... 106
+/title:Three prayers to Our Lord Jesus Christ (MDB 87)###--Mh_35 48v:2-- ... 106
+/title:Prayer to Our Lord Jesus Christ for the owner of the book (MDB 88)###--Mh_35 49r:19-- ... 106
+/title:Deus in nomine tuo###--Mh_35 -- ... 106
+/title:Deus misereatur nostri###--Mh_35 -- ... 106
+/title:De profundis###--Mh_35 -- ... 106
+/name:karine lodwigs dottær... 106
+/title:Prayer to Our Lord Jesus Christ (MDB 89)###--Mh_35 51v:1-- ... 106
+/title:Prayer to Jesus Christ in his pain (MDB 90)###--Mh_35 51v:17-- ... 106
+/title:Prayer to Our Lord Jesus Christ (MDB 91)###--Mh_35 52v:25-- ... 107
+/title:Prayer to the body of Christ, used in the Holy Communion (MDB 92)###--Mh_35 54r:4-- ... 107
+/title:Prayer in verse to Our Lord Jesus Christ (MDB 93)###--Mh_35 55v:2-- ... 107
+/title:Dagvise###--Mh_35 -- ... 107
+/title:Prayer to Our Lord Jesus Christ (MDB 94)###--Mh_35 56r:15-- ... 107
+/title:Prayers to Our Lord Jesus Christ (MDB 94.2)###--Mh_35 56v:21-- ... 107
+/title:Nine prayers to the body of Christ, used in the Holy Communion (MDB 95)###--Mh_35 57r:1-- ... 107
+/title:Prayer to the body of Christ (MDB 96)###--Mh_35 59v:7-- ... 107
+/title:Prayer to the body of Christ, used in the Holy Communion (MDB 97)###--Mh_35 60r:21-- ... 108
+/title:Prayer to the body of Christ, used in the Holy Communion (MDB 98)###--Mh_35 61r:22-- ... 108
+/title:Prayer to God the Father, used in the Holy Communion (MDB 99)###--Mh_35 62r:16-- ... 108
+/title:Prayer to the Virgin, used in the Holy Communion (MDB 100)###--Mh_35 62v:1-- ... 108
+/title:Prayer to the body of Christ, used in the Holy Communion (MDB 101)###--Mh_35 63r:6-- ... 108
+/title:Prayer to the body of Christ, used in the Holy Communion (MDB 102)###--Mh_35 63v:9-- ... 108
+/title:Three prayers to God the Father, used in the Holy Communion (MDB 103)###--Mh_35 64r:3-- ... 108
+/title:Prayer to the body of Christ (MDB 104)###--Mh_35 64v:12-- ... 109
+/title:Prayers to the Virgin###--Mh_35 64v:24-- ... 109
+/title:Vor Frue bønner###--Mh_35 64v:24-- ... 109
+/title:The Joys of the Virgin. Ten prayers to the joy of the Virgin (MDB 105)###--Mh_35 65r:1-- ... 109
+/title:Prayer to the Virgin (MDB 106)###--Mh_35 69v:3-- ... 109
+/title:Prayer to the Virgin (MDB 107)###--Mh_35 71v:14-- ... 109
+/title:The Sorrows of the Virgin###--Mh_35 72r:16-- ... 109
+/title:Jomfru Marias drøvelser (MDB 108)###--Mh_35 72r:16-- ... 109
+/title:Prayer to the Virgin###--Mh_35 75v:19-- ... 109
+/title:Jomfru Maria syv ord under korset (MDB 109)###--Mh_35 75v:19-- ... 109
+/title:Prayer to the sorrow of the Virgin###--Mh_35 76r:21-- ... 110
+/title:Kristi råb på korset (MDB 110)###--Mh_35 76r:21-- ... 110
+/title:Prayer to the joys and sorrows of the Virgin###--Mh_35 76v:7-- ... 110
+/title:Jomfru Marias glæder og drøvelser (MDB 111)###--Mh_35 76v:7-- ... 110
+/title:Prayer to the Virgin (MDB 112)###--Mh_35 81r:8-- ... 110
+/title:Prayer to the Virgin###--Mh_35 81r:24-- ... 110
+/title:Jomfru Marias kys (MDB 113)###--Mh_35 81r:24-- ... 110
+/title:Prayer to the Virgin (MDB 114)###--Mh_35 81v:9-- ... 110
+/title:Prayer to the Trinity and the Virgin (MDB 115)###--Mh_35 81v:22-- ... 110
+/title:Prayer to the Virgin (MDB 116)###--Mh_35 82r:9-- ... 110
+/title:Prayer to the Virgin (MDB 117)###--Mh_35 82v:1-- ... 110
+/title:Prayer to the Virgin (MDB 118)###--Mh_35 82v:16-- ... 110
+/title:Prayer to the joys of the Virgin (MDB 119)###--Mh_35 83r:1-- ... 110
+/title:Prayer to the Virgin (MDB 120)###--Mh_35 83v:13-- ... 111
+/title:Prayer to the Virgin (MDB 121)###--Mh_35 84r:9-- ... 111
+/title:Prayer to the Virgin (MDB 122)###--Mh_35 84r:19-- ... 111
+/title:Prayer to the joys of the Virgin (MDB 123)###--Mh_35 84v:12-- ... 111
+/title:Prayer to the Virgin (MDB 124)###--Mh_35 85r:10-- ... 111
+/title:A commitment to the Virgin (MDB 125)###--Mh_35 85v:2-- ... 111
+/title:Prayer to the joy of the Virgin (MDB 126)###--Mh_35 85v:23-- ... 111
+/title:Prayer in verse to the Virgin (MDB 127)###--Mh_35 86r:15-- ... 111
+/title:Prayer in verse to the joys of the Virgin (MDB 128)###--Mh_35 86r:20-- ... 111
+/title:Prayer in verse to the seven joys of the Virgin (MDB 129)###--Mh_35 86v:12-- ... 112
+/title:Prayer to the Virgin for all christian souls (MDB 130)###--Mh_35 87v:2-- ... 112
+/title:A commitment to the Virgin (MDB 131)###--Mh_35 88v:18-- ... 112
+/title:Prayers to St Anne###--Mh_35 89r:11-- ... 112
+/title:Ten prayers to st Anne (MDB 132)###--Mh_35 89r:11-- ... 112
+/title:Prayer to the fifteen joys of St Anne (MDB 133)###--Mh_35 95v:1-- ... 112
+/title:Prayer to St Anne and the Virgin (MDB 134)###--Mh_35 97v:5-- ... 112
+/title:Prayer to St Anne, the mother of the Virgin (MDB 135)###--Mh_35 97v:19-- ... 112
+/title:Prayer to St Anne (MDB 136)###--Mh_35 98r:4-- ... 113
+/title:Prayer to St Anne, mother of the Virgin (MDB 137)###--Mh_35 98r:11-- ... 113
+/title:Prayer to St Anne and her three daughters (MDB 138)###--Mh_35 98v:1-- ... 113
+/title:Prayer to St Anne, the Virgin and Jesus Christ (MDB 139)###--Mh_35 98v:13-- ... 113
+/title:Prayer to St Anne (MDB 140)###--Mh_35 99r:3-- ... 113
+/title:Prayer to St Anne (MDB 141)###--Mh_35 100v:1-- ... 113
+/language:Danish and Latin... ... 113
+/title:Prayers to various Angels and Saints###--Mh_35 101v:1-- ... 113
+/title:Prayer to the daughters of St Anne (MDB 142)###--Mh_35 101v:1-- ... 113
+/title:Prayer to St Mary Magdalene (MDB 143)###--Mh_35 102r:10-- ... 113
+/title:Prayer to one's guardian angel (MDB 144)###--Mh_35 102v:3-- ... 114
+/title:Prayer to St John the Baptist (MDB 145)###--Mh_35 103r:5-- ... 114
+/title:Prayer to St Andrew (MDB 146)###--Mh_35 103v:3-- ... 114
+/title:Prayer to the Magi (MDB 147)###--Mh_35 104r:2-- ... 114
+/title:Prayer to St George (MDB 148)###--Mh_35 104r:23-- ... 114
+/title:Prayer to St Christopher (MDB 149)###--Mh_35 104v:11-- ... 114
+/title:Prayer to St Lawrence (MDB 150)###--Mh_35 104v:23-- ... 114
+/title:Prayer to St Sebastian (MDB 151)###--Mh_35 105r:10-- ... 114
+/title:Prayer to the Fourteen Holy Helpers###--Mh_35 105v:3-- ... 114
+/title:Bøn til de femten nødhjælpere (MDB 152)###--Mh_35 105v:3-- ... 114
+/title:Prayer to the Ten Thousand Martyrs###--Mh_35 105v:18-- ... 115
+/title:Prayer in verse to St Erasmus (MDB 154)###--Mh_35 106r:10-- ... 115
+/title:Prayer in verse to St Erasmus (MDB 155)###--Mh_35 107v:5-- ... 115
+/title:Prayer to St Francis (MDB 156)###--Mh_35 108r:4-- ... 115
+/title:Prayer to St Antony (MDB 157)###--Mh_35 108v:7-- ... 115
+/title:Prayer to St Nicholas (MDB 158)###--Mh_35 109r:5-- ... 115
+/title:Prayer to St Catherine (MDB 159)###--Mh_35 109v:1-- ... 115
+/title:Prayer to St Gertrud (MDB 160)###--Mh_35 109v:24-- ... 115
+/title:Prayer to St Barbara (MDB 161)###--Mh_35 110r:23-- ... 116
+/title:Prayers copied from Christiern Pedersen's Book of Hours###--Mh_35 110v:11-- ... 116
+/title:Prayer to the Trinity (CP, p. 393)###--Mh_35 110v:11-- ... 116
+/title:Prayer to the Trinity (CP, p. 394)###--Mh_35 111r:20-- ... 116
+/title:A blessing (CP, p. 394)###--Mh_35 111v:18-- ... 116
+/person:Ingeborg Predbjørnsdatter... 117
+/title:Ingeborg Predbjørnsdatters Tidebog###--Mh_35 -- ... 117
+/place:Jutland... 118
+/person:Karl Martin Nielsen... 118
+/person:Karen Ludvigsdatter Rosenkrantz... 118
+/person:Ludvig Nielsen Rosenkrantz... 118
+/person:Kirsten Andersdatter Hak... 118
+/person:Mogens Munk... 118
+/place:Ribe... 118
+/person:Iver Munk... 118
+/name:Viborg Cathedral... 118
+/person:Ivar... 118
+/person:Marsk Iverssen... 118
+/person:Albert Iversson Marsksson... 118
+/person:Ivar Albertsson... 118
+/person:Jens Iversson... 118
+/person:Niels Jensson... 118
+/person:Ludvig Nielsson... 118
+/person:Erik Joh. Meck... 118
+/person:Magnus Durell... 118
+/person:Meck... 118
+author:Nielsen, Lauritz ... 118
+author:Otto, Alfred ... 118
+author:Nielsen, Karl Martin ... 118
+author:Nielsen, Karl Martin ... 118
+author:Dahlerup, Pil ... 118
+author:Frederiksen, Britta Olrik ... 118
+author:Dahlerup, Pil ... 118
+/publ-place:Norway (Morlanda herrg\[u00E5]rd) ... Medeltidshandskrift 36 ... 119
+/publ-date:16th century (1535) ... 1535\(en1535 ... Medeltidshandskrift 36 ... 119
+/language:Norwegian... Medeltidshandskrift 36 ... 119
+/title:Vincent Lunge's land register###--Mh_36 1r-- ... 119
+/publ-place:Sweden ... Medeltidshandskrift 37 ... 121
+/publ-date:16th century, first half (before 1546) ... 1500\(en1546 ... Medeltidshandskrift 37 ... 121
+/language:Swedish... Medeltidshandskrift 37 ... 121
+/title:Provincial code of law of king Christopher###--Mh_37 2r-- ... 121
+/title:Additions###--Mh_37 280r-- ... 121
+/publ-place:France (Tours) ... Medeltidshandskrift 38 ... 124
+/publ-date:15th century, later half ... 1450\(en1500 ... Medeltidshandskrift 38 ... 124
+/language:Latin... Medeltidshandskrift 38 ... 124
+/title:Calendar###--Mh_38 2r-- ... 124
+/title:Temporale, winter part###--Mh_38 8r-- ... 124
+/name:Jean Fouquet... 124
+/name:Jeremiah... 125
+/publ-place:Russia (Novgorod?) ... Medeltidshandskrift 39 ... 126
+/publ-date:16th century, third quarter (c. 1560?) ... 1550\(en1575 ... Medeltidshandskrift 39 ... 126
+/language:Church Slavonic... Medeltidshandskrift 39 ... 126
+/title:Table of contents to the Gospel of St Matthew###--Mh_39 1r-- ... 126
+/title:Prologue of Theophylactus of Ochrid to the Gospel of St Matthew.###--Mh_39 2r:8-- ... 126
+/title:Gospel of St Matthew###--Mh_39 5v-- ... 126
+/title:Table of contents to the Gospel of St Mark###--Mh_39 90r:9-- ... 126
+/title:Prologue of Theophylactus of Ochrid to the Gospel of St Mark.###--Mh_39 91v:12-- ... 126
+/title:Gospel of St Mark###--Mh_39 93v-- ... 126
+/title:Prologue of Theophylactus of Ochrid to the Gospel of St Luke.###--Mh_39 148v-- ... 126
+/title:Table of contents to the Gospel of St Luke###--Mh_39 150v:6-- ... 126
+/title:Gospel of St Luke###--Mh_39 153v-- ... 126
+/title:Table of contents to the Gospel of St John.###--Mh_39 239r:4-- ... 126
+/title:Prologue of Theophylactus of Ochrid to the Gospel of St John.###--Mh_39 239r:5-- ... 126
+/title:Gospel of St John.###--Mh_39 242v-- ... 126
+/title:Synaxarion###--Mh_39 309r-- ... 126
+author:Borchling, C. ... 130
+author:Varpio, M. ... 130
+/publ-place:Russia ... Medeltidshandskrift 40 ... 131
+/publ-date:17th century, later part ... 1650\(en1700 ... Medeltidshandskrift 40 ... 131
+/language:Russian... Medeltidshandskrift 40 ... 131
+/title:Russkij Chronograf###--Mh_40 6r-- ... 131
+/publ-place:Denmark ... Medeltidshandskrift 41 ... 133
+/publ-date:15th century, second half ... 1450\(en1500 ... Medeltidshandskrift 41 ... 133
+/language:Danish... Medeltidshandskrift 41 ... 133
+/title:Skånske Lov###--Mh_41 1r:1-- ... 133
+/title:The Law of Scania###--Mh_41 1r:1-- ... 133
+/title:Kong Waldemars forordning om afskaffelse af jernbyrden (Skånske Lov, Tillæg XII)###--Mh_41 1r:1-- ... 133
+/title:Skånske Lov###--Mh_41 1v:8-- ... 133
+/title:Skånske Lov, Tillæg II###--Mh_41 69v:1-- ... 133
+/title:Skånske Lov, Tillæg I###--Mh_41 70r:14-- ... 133
+/title:Skånske Lov, Tillæg I###--Mh_41 70r:20-- ... 133
+/title:Skånske Lov, Tillæg VI 1###--Mh_41 71r:11-- ... 133
+/title:Skånske Kirkelov###--Mh_41 71v:4-- ... 134
+/title:The Scanic Church Law###--Mh_41 71v:4-- ... 134
+/title:Skånske Lov, Tillæg III (Dalbyforordningen)###--Mh_41 77v:5-- ... 134
+/title:Malmø birkeret###--Mh_41 79r:10-- ... 134
+/place:Malmø... 134
+/place:Lund... 134
+/title:Kong Erik af Pommerns gårdsret###--Mh_41 87r:12-- ... 134
+/person:J. L. A. Kolderup-Rosenvinge... 135
+/author:Cicero... 137
+/publ-place:Italy ... Medeltidshandskrift 42 ... 137
+/publ-date:15th century ... 1400\(en1500 ... Medeltidshandskrift 42 ... 137
+/language:Latin... Medeltidshandskrift 42 ... 137
+/title:Brutus, sive de claris oratoribus liber###--Mh_42 1r-- ... 137
+/title:Partitiones oratoriae###--Mh_42 85v-- ... 137
+/title:Carmen de morte Ciceronis###--Mh_42 112v-- ... 137
+author:Pellegrin, E. ... 138
+/publ-place:Denmark (Roskilde) ... Medeltidshandskrift 43 ... 139
+/publ-date:16th century, first third ... 1500\(en1530 ... Medeltidshandskrift 43 ... 139
+/language:Latin... Medeltidshandskrift 43 ... 139
+/title:Ordo ad benedicendum cimiterium###--Mh_43 2r-- ... 139
+/title:Ordo qualiter dedicacio ecclesie et altaris fieri debeat###--Mh_43 8r-- ... 139
+/title:Ordo pro consecracione altaris###--Mh_43 40v-- ... 139
+/title:Ordo pro consecracione altaris portatilis###--Mh_43 50v-- ... 139
+/title:Reconciliacio violate ecclesie###--Mh_43 51v-- ... 139
+/title:Ordo qualiter cimiterium violatum reconciliari debet###--Mh_43 56v-- ... 139
+/title:Ordo qualiter sacri ordines fieri debeant###--Mh_43 57v-- ... 139
+/title:Ordo pro indumentis sacerdotalibus fuerint consecranda###--Mh_43 75r-- ... 139
+/title:Ordo ad consignandum pueros###--Mh_43 81v-- ... 139
+/title:Feria Quinta maioris ebdomade###--Mh_43 84r-- ... 140
+/title:Ordo ad vocandum episcopum###--Mh_43 97r-- ... 140
+/title:Ordo ad intronisandum novum episcopum###--Mh_43 116v-- ... 140
+/title:Missa###--Mh_43 117v-- ... 140
+/title:Consecracio sacrarum virginum###--Mh_43 120r-- ... 140
+/publ-place:Denmark (Roskilde) ... Medeltidshandskrift 43a ... 142
+/publ-date:16th century, first quarter ... 1490\(en1522 ... Medeltidshandskrift 43a ... 142
+/language:Latin... Medeltidshandskrift 43a ... 142
+/title:Manuale curatorum secundum usum ecclesie Rosckildensis###--Mh_43a -- ... 142
+/title:Matthean Genealogy###--Mh_43a 2r-- ... 142
+/title:Lucan Genealogy###--Mh_43a 4v-- ... 142
+/title:Preface to the Blessing of Palms###--Mh_43a 8r-- ... 142
+/title:Orders of service for Good Friday###--Mh_43a 10v-- ... 142
+/title:Orders of service for Easter Eve###--Mh_43a 12v-- ... 142
+/title:Order of the Blessing of the Candles###--Mh_43a 26v-- ... 142
+/title:Annales rerum Danicarum###--Mh_43a -- ... 142
+author:Hoen, Marie ... 144
+/publ-place:Denmark (Roskilde?) ... Medeltidshandskrift 43b ... 145
+/publ-date:16th century ... 1500\(en1600 ... Medeltidshandskrift 43b ... 145
+/language:Latin... Medeltidshandskrift 43b ... 145
+/title:Canon secundum usum ecclesie Rosckildensis. Cum aliquibus missis et communi sanctorum optime correctus###--Mh_43b -- ... 145
+/publ-date:15th century ... 1400\(en1500 ... Medeltidshandskrift 44 ... 146
+/language:Latin... Medeltidshandskrift 44 ... 146
+/title:Imago vitae###--Mh_44 -- ... 146
+/title:De contemptu mundi###--Mh_44 -- ... 146
+/title:Liber Peniteas cito###--Mh_44 -- ... 146
+/title:Summa poenitentiae###--Mh_44 -- ... 146
+author:Pellegrin, E. ... 146
+/publ-date:14th century, late ... 1300\(en1400 ... Medeltidshandskrift 45 ... 147
+/language:Latin... Medeltidshandskrift 45 ... 147
+/title:Sermones dominicales###--Mh_45 -- ... 147
+/title:Concordia evangeliorum###--Mh_45 -- ... 147
+author:Pellegrin, E. ... 147
+/publ-place:Italy (?) ... Medeltidshandskrift 46 ... 148
+/publ-date:16th century, first half ... 1500\(en1550 ... Medeltidshandskrift 46 ... 148
+/language:Latin... Medeltidshandskrift 46 ... 148
+/publ-place:Germany (?) ... Medeltidshandskrift 47 ... 149
+/publ-date:15th century, late or early 16th century ... 1475\(en1525 ... Medeltidshandskrift 47 ... 149
+/language:Latin... Medeltidshandskrift 47 ... 149
+/publ-place:Italy (?) ... Medeltidshandskrift 48 ... 151
+/publ-date:15th century (1444) ... 1444.01.01\(en1444.12.31 ... Medeltidshandskrift 48 ... 151
+/language:Latin... Medeltidshandskrift 48 ... 151
+/title:De sphaera###--Mh_48 -- ... 151
+/title:Computus###--Mh_48 -- ... 151
+author:Hedlund, M. ... 152
+/publ-place:Bavaria ... Medeltidshandskrift 49 ... 153
+/publ-date:15th century, late - 16th century, early ... 1480\(en1520 ... Medeltidshandskrift 49 ... 153
+/language:German (Bavarian dialect)... Medeltidshandskrift 49 ... 153
+/title:About the "houses" (mansiones) of the moon###--Mh_49 1r-- ... 153
+/title:About the position of Saturnus###--Mh_49 8r-- ... 153
+/title:Pyromantia###--Mh_49 9v-- ... 153
+/title:About the zodiacal signs.###--Mh_49 10v-- ... 153
+/title:About the winds; diagram and text###--Mh_49 11v-- ... 153
+/title:About weather###--Mh_49 13r-- ... 153
+/title:Table of the planets and their influence on earth###--Mh_49 23r-- ... 153
+/title:About forecasting the weather###--Mh_49 27r-- ... 153
+/title:Astrological directions###--Mh_49 32r-- ... 153
+/title:About the planets###--Mh_49 36r-- ... 153
+/publ-date:13th century, late (ab. 1300) ... 1180\(en1300 ... Medeltidshandskrift 50 ... 155
+/language:Latin... Medeltidshandskrift 50 ... 155
+/publ-place:Sweden (Vadstena) ... Medeltidshandskrift 51 ... 156
+/publ-date:15th century, late ... 1475\(en1500 ... Medeltidshandskrift 51 ... 156
+/language:Swedish... Medeltidshandskrift 51 ... 156
+/title:Homilies for the quaresima, fragment###--Mh_51 1r-- ... 156
+author:Andersson, R. ... 157
+author:Geete, R. ... 157
+author:Ejder, B. ... 157
+/publ-place:Flanders/Holland (Bruges, for the use of Utrecht) ... Medeltidshandskrift 52 ... 158
+/publ-date:15th century, later half ... 1460\(en1480 ... Medeltidshandskrift 52 ... 158
+/language:Dutch... Medeltidshandskrift 52 ... 158
+/title:Calendar###--Mh_52 1r-- ... 158
+/title:Hours of Our Lady###--Mh_52 13r-- ... 158
+/title:Little Hours of Our Lady###--Mh_52 61r-- ... 158
+/title:Office of the Holy Cross###--Mh_52 77r-- ... 158
+/title:Office of the Holy Spirit###--Mh_52 86r-- ... 158
+/title:Office of the Holy Trinity###--Mh_52 112v-- ... 158
+/title:Office of the Holy Eucharist###--Mh_52 125r-- ... 158
+/title:Office of the Holy Wisdom###--Mh_52 213r-- ... 158
+/title:Office of the Holy Cross###--Mh_52 243r-- ... 158
+/title:Penitential psalms with litany and prayers###--Mh_52 278r-- ... 158
+/title:Liturgical prayers in translation###--Mh_52 298v-- ... 159
+/title:Prayers and suffrages###--Mh_52 305r-- ... 159
+/name:Chara Suoellin... 163
+/name:A. Siemaszko... 163
+/name:Joseph Siemaszko... 163
+/publ-place:France (?) ... Medeltidshandskrift 53 ... 164
+/publ-date:15th century ... 1400\(en1500 ... Medeltidshandskrift 53 ... 164
+/language:French, with Picardic influence... Medeltidshandskrift 53 ... 164
+/publ-place:Constantinople ... Medeltidshandskrift 54 ... 165
+/publ-date:11th century, mid ... 1025\(en1075 ... Medeltidshandskrift 54 ... 165
+/language:Greek... Medeltidshandskrift 54 ... 165
+/title:Apophtegmata Patrum, Collectio systematica (BHG 1442v)###--Mh_54 1r-- ... 165
+author:Hermann, Th. ... 167
+author:Rudberg, S. Y. ... 167
+/publ-place:Holland (Limburg or Brabant?) ... Medeltidshandskrift 55 ... 168
+/publ-date:14th century, early ... 1300\(en1330 ... Medeltidshandskrift 55 ... 168
+/language:Dutch... Medeltidshandskrift 55 ... 168
+/title:Minneliederen###--Mh_55 1r-- ... 168
+author:Deschamps, J. ... 168
+author:Hemmes-Hoogstadt, Annette C. ... 168
+author:Hemmes-Hoogstadt, Annette C. ... 168
+author:Mierlo, J. van ... 169
+author:Paepe, N. de ... 169
+author:Rooth, E. ... 169
+author:Rooth, E. ... 169
+author:Rooth, E. ... 169
+author:Wierda, L. ... 169
+author:Willaert, F. ... 169
+/publ-place:Flanders (Gislenghien?) ... Medeltidshandskrift 56 ... 170
+/publ-date:16th century (1507) ... 1507.01.01\(en1507.12.31 ... Medeltidshandskrift 56 ... 170
+/language:Latin... Medeltidshandskrift 56 ... 170
+/title:Temporale, winter part, Advent to Holy Saturday###--Mh_56 1r-- ... 170
+/title:Tuoni ecclesiastici###--Mh_56 236r-- ... 170
+/title:Sanctorale, winter part, St. Stephen to Annunciation###--Mh_56 237r-- ... 170
+/title:Commune Sanctorum (Apostles, Martyrs, Confessors, Virgins)###--Mh_56 362r-- ... 170
+/title:Hymnarium###--Mh_56 428r-- ... 170
+/title:Cantica per annum###--Mh_56 459r-- ... 170
+/title:Antiphonary (fragment)###--Mh_56 465r-- ... 170
+author:Sandomirskaia, Maria ... 173
+/publ-place:Constantinople ... Medeltidshandskrift 57 ... 174
+/publ-date:14th century, mid (c. 1360) ... 1350\(en1370 ... Medeltidshandskrift 57 ... 174
+/language:Greek... Medeltidshandskrift 57 ... 174
+/title:September###--Mh_57 1r-- ... 174
+/title:October###--Mh_57 51r-- ... 174
+/title:November###--Mh_57 120r-- ... 174
+/title:December###--Mh_57 172v-- ... 174
+/title:January###--Mh_57 223r-- ... 174
+/title:February###--Mh_57 263v-- ... 174
+/name:Χρηστοφόρος... 175
+/name:Ἐπίμαχος καὶ Γορδιανός... 175
+/name:Κόδρας... 175
+/name:Τρυφαίνη... 175
+/name:Τιμόθεος ὁ πατριάρχης... 175
+/name:Σίμων ὁ ζηλωτής... 175
+/name:Ἀλφιός... 175
+/name:Φιλάδελφος καὶ Κυρῖνος... 175
+/name:μηχαελ... 177
+author:Devos, P. ... 177
+author:Rudberg, S. Y. ... 177
+author:Rudberg, S. Y. ... 177
+/publ-place:Syria (Tikrit) ... Medeltidshandskrift 58 ... 178
+/publ-date:13th century (1204/1205) ... 1204\(en1205 ... Medeltidshandskrift 58 ... 178
+/language:Syriac... Medeltidshandskrift 58 ... 178
+/title:Old and New Testament###--Mh_58 3v-- ... 178
+/title:Letter to Giorgios, bishop of Sarug, on Syriac orthography###--Mh_58 308r-- ... 178
+/title:Treatise on punctuation###--Mh_58 313v-- ... 178
+/title:Two treatises on the Syriac accent###--Mh_58 318r-- ... 178
+/title:On Greek prosody###--Mh_58 320v-- ... 178
+/title:Treatise on the Syriac conjunctions###--Mh_58 320v-- ... 178
+/title:Treatise on the Syriac conjunctions###--Mh_58 321r-- ... 178
+/title:Orations###--Mh_58 322r-- ... 178
+/title:Concordance###--Mh_58 324r-- ... 178
+/title:Calendar###--Mh_58 324v-- ... 178
+author:Bengtsson, Per \[u00C5]. ... 180
+author:Bengtsson, Per \[u00C5]. ... 180
+/publ-date:15th century, late or early 16th century ... 1475\(en1550 ... Medeltidshandskrift 59 ... 181
+/language:Latin (German and Swedish)... Medeltidshandskrift 59 ... 181
+/title:Prayer or blessing (?)###--Mh_59 1r-- ... 181
+/title:De proprietatibus rerum, excerpts###--Mh_59 2r-- ... 181
+/title:Medical prescription###--Mh_59 14v-- ... 181
+/title:Medical handbook, excerpts###--Mh_59 18r-- ... 181
+/title:Lists (of sins, the five senses and the seven sacraments)###--Mh_59 34r-- ... 181
+/publ-place:Germany (?) ... Medeltidshandskrift 60 ... 183
+/publ-date:13th century, early ... 1200\(en1225 ... Medeltidshandskrift 60 ... 183
+/language:Latin... Medeltidshandskrift 60 ... 183
+/title:Epistulary###--Mh_60 1r-- ... 183
+/author:Paul III... 185
+/publ-place:Rome ... Medeltidshandskrift 61 ... 185
+/publ-date:16th century (1538, Febr. 16) ... 1538.02.16\(en1538.02.16 ... Medeltidshandskrift 61 ... 185
+/language:Latin... Medeltidshandskrift 61 ... 185
+/title:Letter to Tideman Gise, bishop of Ermland###--Mh_61 1r-- ... 185
+/name:Blosius Palladius... 185
+/publ-place:France (?) ... Medeltidshandskrift 62 ... 186
+/publ-date:15th century, later half ... 1454\(en1477 ... Medeltidshandskrift 62 ... 186
+/language:Latin... Medeltidshandskrift 62 ... 186
+/title:Compendium of the Nicomachean Ethic###--Mh_62 1r-- ... 186
+/title:Tabula librorum###--Mh_62 49r-- ... 186
+/author:Boethius... 188
+/publ-place:France (?) ... Medeltidshandskrift 63 ... 188
+/publ-date:15th century, later half ... 1450\(en1500 ... Medeltidshandskrift 63 ... 188
+/language:Latin... Medeltidshandskrift 63 ... 188
+/title:De consolatione philosophiae###--Mh_63 1r-- ... 188
+/publ-place:Bohemia (?) ... Medeltidshandskrift 64 ... 190
+/publ-date:15th century, second half ... 1450\(en1500 ... Medeltidshandskrift 64 ... 190
+/language:Latin... Medeltidshandskrift 64 ... 190
+/title:Doctrinale altum seu liber parabolarum###--Mh_64 1r-- ... 190
+/title:Doligamus###--Mh_64 5r-- ... 190
+/title:Antigameratus###--Mh_64 9r-- ... 190
+/title:Ortulus florum###--Mh_64 12r-- ... 190
+/publ-place:Holland (?) ... Medeltidshandskrift 65 ... 192
+/publ-date:15th century ... 1400\(en1500 ... Medeltidshandskrift 65 ... 192
+/language:Latin... Medeltidshandskrift 65 ... 192
+/title:Pentitential psalms###--Mh_65 3r-- ... 192
+/title:Litany###--Mh_65 13r-- ... 192
+/title:Office of the Virgin###--Mh_65 19r-- ... 192
+/title:Responsory for St. Nicholas###--Mh_65 64r-- ... 192
+/title:Celebrants' prayers before saying Mass###--Mh_65 66r-- ... 192
+/author:Birgitta... 194
+/publ-place:Sweden (Vadstena) ... Deposition 1 ... 194
+/publ-date:14th century, late ... 1390\(en1400 ... Deposition 1 ... 194
+/language:Latin... Deposition 1 ... 194
+/title:Revelationes, libri I-VII.###--Dep_1 3r-- ... 194
+/title:Additiones###--Dep_1 187r-- ... 194
+/title:Epistula solitarii ad reges###--Dep_1 189r-- ... 194
+/title:Revelationum liber VIII###--Dep_1 192r-- ... 194
+/title:Regula Salvatoris###--Dep_1 220r-- ... 194
+/title:Sermo angelicus###--Dep_1 230r-- ... 195
+/title:Quattuor orationes###--Dep_1 242r-- ... 195
+/title:Additiones###--Dep_1 247r-- ... 195

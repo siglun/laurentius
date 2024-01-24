@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_31">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 31</idno>
+<altName type="database-identifier">scriptorium:Mh:850943:1127463538</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="LAT">Glossa super decretales</title> 
+    <origPlace>Denmark (Lund)</origPlace>
+    <origDate notBefore="1400" notAfter="1450">15th century, first
+      half</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains a gloss to the first five books of the
+      decretals (ff. 1-171) and Summa brevissimia super quarto libro
+      decretalium by Johannes Andreaes (ff. <locus from="172v" to="190v">172v-190v</locus>).</p></note>  
+  </msHeading>
+<physDesc>
+    <support><p>Paper</p></support>
+    <extent>ff. i + 191 +
+      i<dimensions><height>210</height><width>147</width></dimensions>mm.
+    </extent>  
+
+    <decoration>
+      <decoNote><p>A red lombard with pen flourishes and decorative filling on
+	  f. <locus>159r</locus>; a red lombard with decorative filling in
+	  brown ink on f. <locus>172v</locus>; red lombard with a simple
+	  drawing in brown ink of a bearded head on f. <locus>110v</locus>; red
+	  lombards with white void decoration on f. <locus>134r</locus>,
+	  <locus>139r</locus>; an initial in brown ink with decorative filling
+	  on f. <locus>184v</locus>. 
+	</p></decoNote>
+    </decoration>
+
+    <bindingDesc> 
+      <binding><p>Natural coloured goatskin binding, preserved covering of
+	  former binding Denmark, Lund, contemporary with the
+	  manuscript. Rebinding, signed by Hans Heiland, Germany, Stuttgart,
+	  1965. Size: 224 x 160 x 58 mm.</p> 
+	<p>Natural coloured goatskin binding over rounded wooden
+	  boards. Rebinding with whittawed leather covering from former binding
+	  preserved on the new cover. Two long-strap fastenings at fore-edge
+	  (new). Holes from five bosses lost on each cover. Rounded
+	  spine. Tight back with three raised bands. Blind-tooled library label
+	  at the tail of the back. Former edge trimming preserved. Plain single
+	  flyleaves and pastedowns of paper. Former pastedowns restored and
+	  preserved as separate pastedowns. All along sewing on three double
+	  cords laced through the boards. Textblock restored. Photographic
+	  documentation of former binding and description of the rebinding
+	  preserved on the pastedown of the lower cover.</p></binding>  
+    </bindingDesc>
+  </physDesc>
+<history>
+    <origin/>
+    <provenance><p>The book belonged to <name type="person" role="owner">Olaus
+	Jacobus</name> book (cfr. almost 
+      illegible note on f. 1r saying <q>Liber domini Olaui Jacobi canonici
+	Lundensis</q>) and to <name type="person" role="owner">Amundus Andree
+	filius</name> according to a 
+      note on upper pastedown saying <q>Amundus Andree filius Malmogensis
+	dyocesis Lundensis canonicorum futurus Wibergensium prepositus
+	nullatenus</q>. The book can also have been in the possession of
+      <name type="person" role="owner">Tuve Nielsen Juel</name>, archbishop
+      1444 - 1472 as it appears from a note, also on upper pastedown, saying
+      <q>Wy Tuwo mz Gwdz nathe</q>.</p></provenance> 
+    <acquisition/>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-23</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-23</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

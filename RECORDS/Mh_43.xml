@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_43">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 43</idno>
+<altName type="former shelfmark" lang="LAT">Bibl. Ms. H. E. 4:o 1</altName>
+<altName type="former shelfmark" lang="LAT">Biblioth. Meckiana N:o XVII</altName>
+<altName type="database-identifier">scriptorium:Mh:771003:1130244590</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="LAT">Pontificale Roscildense</title>  
+    <origPlace>Denmark (Roskilde)</origPlace>
+    <origDate notBefore="1500" notAfter="1530">16th century, first third</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+  </msHeading>
+<msContents>
+<msItem n="1.1">
+<locus from="2r" to="7v">ff. 2r-7v</locus>
+<title type="uniform">Ordo ad benedicendum cimiterium</title>
+<rubric>Incipit ordo ad benedicendum sive consecrandum cimiterium</rubric>
+<incipit>Aufer a nobis domine iniquitates nostras ut ad sancta sanctorum puris mereamur mentibus introire</incipit>
+<explicit>Qui vivis et regnis cum Deo Patre in unitate Spiritus sancti Deus per omnia secula seculpru. Amen.</explicit>
+</msItem>
+
+<msItem n="1.2">
+<locus from="8r" to="40v">ff. 8r-40v</locus>
+<title type="uniform">Ordo qualiter dedicacio ecclesie et altaris fieri debeat</title>
+<rubric>Incipit ordo qualiter dedicacio ecclesie et altaris fieri debeat</rubric>
+<incipit>Kyrieleyson. Christe audi nos</incipit>
+<explicit>ut hic et sacramentorum virtus et votorum obtineatur effectus. Per Dominum.</explicit>
+</msItem>
+
+<msItem n="1.3">
+<locus from="40v" to="50v">ff. 40v-50v</locus>
+<title type="uniform">Ordo pro consecracione altaris</title>
+<rubric>Incipit ordo pro consecracione altaris</rubric>
+<incipit>Kyrieleyson. Christe audi nos</incipit>
+<explicit>ut hic et sacramentorum virtus et votorum obtineatur effectus. Per Dominum nostrum Ihesum Christum et cetera.</explicit>
+</msItem>
+
+<msItem n="1.4">
+<locus from="50v" to="51v">ff. 50v-51v</locus>
+<title type="uniform">Ordo pro consecracione altaris portatilis</title>
+<rubric>Sequitur consecracio altaris portatilis sive tabule itinerarie</rubric>
+<incipit>Dominus vobiscum. Oremus</incipit>
+<explicit>et nostram benedictionem, in nomine Patris et Filii et Spiritus sancti. Amen. Pax tecum. Et cum spiritu tuo.</explicit>
+<rubric type="final">Totum legatur in qualibet cruce.</rubric>
+</msItem>
+
+<msItem n="1.5">
+<locus from="51v" to="56v">ff. 51v-56v</locus>
+<title type="uniform">Reconciliacio violate ecclesie</title>
+<rubric>Reconciliacio violate ecclesie efferantur reliquie</rubric>
+<incipit>Dominus vobiscum. Et cum. Oremus</incipit>
+<explicit>atque fidelium tuorum tibi pie offerencium vota in illa sanctifica. Qui cum Deo Patre et cetera</explicit>
+</msItem>
+
+<msItem n="1.6">
+<locus from="56v" to="57v">ff. 56v-57v</locus>
+<title type="uniform">Ordo qualiter cimiterium violatum reconciliari debet</title>
+<rubric>Incipit ordo qualiter cimiterium violatum reconciliari debet</rubric>
+<incipit>Aufer a nobis Domine inquietates nostras</incipit>
+<explicit>Ecce odor</explicit><rubric type="final">loco alterius</rubric>
+</msItem>
+
+
+<msItem n="1.7">
+<locus from="57v" to="72r">ff. 57v-72r</locus>
+<title type="uniform">Ordo qualiter sacri ordines fieri debeant</title>
+<rubric>Incipit ordo qualiter sacri ordines fieri debeant mensis primi</rubric>
+<incipit>Nos N Dei gracia episcopus N districtius sub excommunicacionis</incipit>
+<explicit>Corpus Domini nostri Ihesu Christi prosit tibi sumenti in vitam eternam</explicit>
+</msItem>
+
+<msItem n="1.8">
+<locus from="75r" to="81v">ff. 75r-81v</locus>
+<title type="uniform">Ordo pro indumentis sacerdotalibus fuerint consecranda</title>
+<rubric>Pro indumentis sacerdotalibus cum plura simul fuerint consecranda</rubric>
+<incipit>Adiutorium nostrum et cetera.</incipit>
+<explicit>et tibi in eis devote et amicabiliter servientes gratos efficere dignare. Per Christum.</explicit>
+</msItem>
+
+<msItem n="1.9">
+<locus from="81v" to="83r">ff. 81v-83r</locus>
+<title type="uniform">Ordo ad consignandum pueros</title>
+<incipit>Ordo ad consignandum pueros sive infantes. Infantes in brachijs dextris</incipit>
+<explicit>Benedicat te omnipotens Deus Pater et Filius et Spiritus sanctus. Amen.</explicit>
+</msItem>
+
+
+<msItem n="1.10">
+<locus from="84r" to="96v">ff. 84r-96v</locus>
+<title type="uniform">Feria Quinta maioris ebdomade</title>
+<rubric>Feria Quinta maioris ebdomade sedente domino pontifice pro foribus ecclesie</rubric>
+<incipit>Adest venerabilis pontifex</incipit>
+<explicit>redeamus accessum per tuorum custodiam mandatorum. Per Dominum.</explicit>
+</msItem>
+
+<msItem n="1.11">
+<locus from="97r" to="116v">ff. 97r-116v</locus>
+<title type="uniform">Ordo ad vocandum episcopum</title>
+<rubric>Incipit ordo ad vocandum et examinandum seu consecrandum electum episcopum</rubric>
+<incipit>Jube domne benedicere</incipit>
+<explicit>Qui vivit et regnat et cetera. Pax tibi.</explicit>
+<rubric type="final">Et det ei osculum et ceteri episcopi.</rubric>
+</msItem>
+
+<msItem n="1.12">
+<locus from="116v" to="117v">ff. 116v-117v</locus>
+<title type="uniform">Ordo ad intronisandum novum episcopum</title>
+<rubric>Ad intronisandum novum episcopum</rubric>
+<incipit>Sta et retine locum a deo tibi delegatum</incipit>
+<explicit>Ego N illius ecclesie episcopus esse</explicit>
+</msItem>
+
+<msItem n="1.13">
+<locus from="117v" to="118v">ff. 117v-118v</locus>
+<title type="uniform">Missa</title>
+<rubric>Missa propria episcopi in die consecracionis sue</rubric>
+<incipit>Deus fidelium pastor et rector</incipit>
+<explicit>propicius muniendo custodias. Per Dominum.</explicit>
+</msItem>
+
+
+<msItem n="1.14">
+<locus from="120r" to="131v">ff. 120r-131v</locus>
+<title type="uniform">Consecracio sacrarum virginum</title>
+<rubric>Consecracio sacrarum virginum que in epiphania vel in 2a feria pasche aut in nataliciis apostolorum aut dominicis diebus celebratur</rubric>
+<incipit>Deus eternorum bonorum fidelissime</incipit>
+<explicit>stipate me malis quia amore langueo euouae</explicit>
+<rubric type="final">qui est in thalamo in ineffabili gloria te coronabit in eternum. Amen.</rubric>
+</msItem>
+</msContents>
+<physDesc>
+    <support>
+      <p>Paper</p>
+      <watermarks><p>According to Strömberg (see bibliography) who saw the
+	  manuscript sometime before 1955, before it was rebound, there are two
+	  different watermarks, now barely visible: 1) the palm of a hand
+	  surmounted by a flower, similar to <ref targOrder="U" TEIform="ref">Briquet 11417</ref>, dated to 1477-1480 and to <ref targOrder="U" TEIform="ref">Briquet 11430</ref>, dated to 1547; and 2) a gothic P, similar to <ref targOrder="U" TEIform="ref">Briquet 8534</ref>, dated to 1502 and to <ref targOrder="U" TEIform="ref">Briquet 8535</ref>, dated to 1507.</p></watermarks></support>
+
+    <extent>ff. ii + 133 +
+      i<dimensions><height>195</height><width>138</width></dimensions>mm.
+    </extent><collation><p>The original collation is disturbed by restoration and rebinding sometimes after 1955 when Strömberg saw it and described it. According to his quire analysis there were 11 quires, all senions except the first and the last quire that both had 13 leaves and the seventh quire (with script in a differnt hand) that had 10 leaves.</p></collation>
+<layout><p>Ff. 2-72 and 84-131 are ruled in ink where there is musical notation;  ff. 75-83 are ruled in ink also for the text; 16 written lines; written space: 130 x 80 mm.; ff. 72v-74v; 83v; 119r-v; 132r-v are blank.</p></layout>
+
+<msWriting>
+<handDesc><p>Two hands: Cursiva currens in ff. 2-72 and 84-131; Textualis Formata in ff. 75-83. The instructions to the priest are rubricated.</p></handDesc>
+</msWriting><musicNotation>Musical notation at ff. 5r-6r, 7r,10r-14r,15v, 21r-22v, 24v-26v, 27v-28v, 31v, 32v-33r, 34v-38v, 86v-87r, 105r-v, 106v-107v, 110v-111r, 114v.115r, 116r, 123r-124v, 127v-128r, 129r, 130r, 131v.</musicNotation>
+
+    <bindingDesc>
+      <binding><p>Ochre coloured silk binding with preserved 17th century
+	  satinwoven silk covering. Sweden 20th century. Size: 208 x 150 x 38
+	  mm.</p> 
+	<p>Ochre coloured silk binding over millboards. Satinwoven silk
+	  covering from former binding preserved on the new covering. The silk
+	  covering have holes likely from ties. Tight back with three double
+	  raised bands. Library code tooled in black at the tail of the
+	  back. Former edge trimming preserved. Two plain flyleaves and
+	  pastedowns of paper. All along sewing on three raised double
+	  cords. Textblock restored.</p>
+      </binding> 
+    </bindingDesc>
+<foliation><p>The manuscript is foliated in pencil in the upper right corner of recto side of the leaf, probably in connection with the rebinding. NB that the current foliation is not in agreement with the one given by Strömberg in his critical edition.</p></foliation><additions><p>There is a note on f. 1v in the hand of Gustaf Magnus Sommelius, professor of Eastern languages and Greek and librarian  in 1767-1799, saying: <q>Ritus pontificiorum circa consecrationem Coemiteriorum, altarum etc.</q></p></additions>
+  </physDesc>
+<history>
+<origin><p>Roskilde (cfr. f. <locus>122v</locus>: <q>Ego soror N promitto stabilitatem meam et conversionem morum meorum et obedienciam secundum regulam sancti Benedicti coram Deo et beatis martiribus quorum reliqie hic habentur et omnibus sanctis in hoc loco qui vocatur Roskildis constructo in honore beatissime virginis Marie in presencia domini N episcopi N priorisse.</q>, first third of the 16th century.</p></origin>
+<acquisition><p>By the end of the 17th century the book was owned by E. J. Meck
+(1644-1702), cfr. former callnumber on f. 1v. In 1704 the manuscript arrived in the University Library as part of a donation of 25 manuscripts out of which 7 Medieval (see Gerle E. Lunds universitetsbiblioteks historia fram till år 1968, Lund 1984, pp. 47-48 and LUBA. A IV b 10).</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>October of 2005</date> by Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation">2005-10-25</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-10-25</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<title level="m">Den pontifikala liturgin i Lund och Roskilde under Medeltiden. En liturgihistorisk studie jämte edition av pontificale lundense enligt handskriften C 441 i Uppsala universitetsbibliotek och pontificale roscildense enligt medeltidshandskrift nr. 43 i Lunds universitetsbibliotek.</title>
+<editor>Bengt Strömberg.</editor>
+<title level="s">Studia theologica Lundensia</title>
+<biblScope type="volume">9</biblScope>
+<imprint>
+<pubPlace>Lund</pubPlace>
+<date>1955</date>
+</imprint>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

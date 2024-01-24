@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_51">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 51</idno>
+<altName type="database-identifier">scriptorium:Mh:521931:1127733637</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Homilies</title> 
+  <origPlace>Sweden (Vadstena)</origPlace>
+  <origDate notBefore="1475" notAfter="1500">15th century, late</origDate>
+  <textLang langKey="SWE">Swedish</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1" defective="yes">
+<locus from="1r" to="4v">ff. 1r-4v</locus>
+<title>Homilies for the quaresima, fragment</title>
+<incipit defective="yes">at bannara skulu ey ægha hymerikis rike (f. 1r)</incipit>
+<explicit>wi maghin mædh honom <expan>æwær</expan>dhelika sæle wardha Amen (f. 1v)</explicit>
+<rubric>Thridhia sunnadaghen i fastonne (f. 1v)</rubric>
+<incipit>En man kom for jhesum som qualdis aff diæflenom (f. 1v)</incipit>
+<explicit>ingaa i sins starka (f. 1v)</explicit>
+<incipit>telika oc maktogha ropit (f. 2v)</incipit>
+<explicit>retande ey atenast sina eghna hustrv Wtan (f. 3v)</explicit>
+<incipit>kamanom mædh almosom (f. 4r)</incipit>
+<explicit defective="yes">Oc ææt mit brødh. (f. 4v)</explicit>
+<note>The fragment was edited by Klemming, pp. 275-289 after this manuscript.</note>
+<listBibl>
+<bibl>
+<title level="m">Svenska medeltids-postillor. Bd.2</title>
+<editor>Klemming, G. E.</editor>
+<title level="s">SFSS</title>
+<biblScope type="volume">23:3</biblScope>
+<imprint><pubPlace>Stockholm</pubPlace>
+<date>1880</date>
+</imprint>
+<biblScope type="pages">p. 305</biblScope>
+</bibl>
+</listBibl>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support><extent>ff. 4, <dimensions><height>305</height><width>230</width></dimensions> mm.</extent>
+<layout columns="2" writtenLines="36"><p>2 columns; 26 lines; written space: 230 x 175 mm. pricking in upper, lower and outer margins.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="cursive"><p>
+Robust cursive script from late 15th century. Capital letters marked in red; at f. 1v one blue lombard and a rubric.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>No original decoration. One blue lombard. Calligraphic rubric dated 1623 "Christoffer V: Våldects Recten" (?) with C and V decorated with extensive penwork.</p></decoNote>
+</decoration>
+<bindingDesc>
+<binding><p>The fragment is kept in an archival folder.</p></binding>
+</bindingDesc>
+<foliation><p>The fragment is foliated with pencil by modern cataloguer in upper right corner; ff. 2-3 have been the central bifolium in a quire. The leaves have been used as cover for accounts in the De la Gardie archives; at f. 4v text has been erased to make room for the title of the accounts, dated 1623.</p></foliation>
+<additions><p>Sometimes notes in margin by a younger hand.</p></additions>
+</physDesc>
+<history>
+<origin><p>That the text is written in Vadstena is clear not only from the script but also from the quotations from Birgitta. In the margins there are notes, mainly concerning the De la Gardie provenance (ff. 2r and 4r: Dipl. Delag. N. 105) but also concerning the contents of the text: f. 1r: <q>2 söndagen i fastan</q>; f. 2r: <q>Fortsättning å 3dje (ej såsom Klemming gissat å 1a) söndagen i fastan</q>; f. 4r: <q>Midfastesöndag</q>.</p></origin>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the manuscript description encoded in May of 2002 by Eva Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Andersson, R.</author>
+<title level="m">Postillor och predikan</title>
+<imprint><pubPlace>Stockholm</pubPlace><date>1993</date>
+</imprint><biblScope type="pages">p. 24.</biblScope>
+</bibl>
+
+<bibl>
+<author>Geete, R.</author>
+<title level="m">Fornsvensk bibliografi. Förteckning öfver Sveriges medeltida bokskatt på modersmålet samt därtill hörande litterära hjälpmedel</title>
+<title level="s">SFSS</title>
+<biblScope type="volume"/>
+<imprint><pubPlace>Stockholm</pubPlace><date>1903</date></imprint><biblScope type="pages">Nr. 280</biblScope>
+</bibl>
+
+<bibl>
+<author>Ejder, B.</author>
+<title level="m">Det bibliska materialet i de östnordiska postillorna på folkspråken</title>
+<title level="s">SFSS</title>
+<biblScope type="volume">73</biblScope>
+<imprint><pubPlace>Lund</pubPlace><date>1976</date></imprint><biblScope type="pages">p. 14, used at pp. 156-176</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

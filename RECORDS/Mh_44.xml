@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_44">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 44</idno>
+<altName type="former shelfmark">Teol.</altName>
+<altName type="database-identifier">scriptorium:Mh:399343:1127732418</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Miscellany: Theology</title>
+    <!--origPlace>Unknown place of origin</origPlace-->
+    <origDate notBefore="1400" notAfter="1500">15th century</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains among other texts
+	Bonaventure,
+	<title type="uniform">Imago vitae</title>;
+	Innocence III, <title type="uniform">De contemptu mundi</title>;
+	<title type="uniform">Liber Peniteas cito</title>,
+	i.e. <title type="uniform">Summa  poenitentiae</title>
+	attributed to John of Garland but edited under the name of Pierre de
+	Blois PL 207, 1153-1156 and Sermons</p>
+    </note> 
+ </msHeading>
+<physDesc>
+  <support><p>Paper and parchment</p></support>
+  <extent>ff. i + 328 + ii,<dimensions><height>205</height><width>145</width></dimensions>mm.</extent>
+<decoration>
+<decoNote><p>Simple drawings and initials; f. <locus>249r</locus>: Initial Q, five lines in height, inscribed in a frame of red ink and decorated with broad leaves in brown outline, tinted in red; ff. <locus>307r</locus>, <locus>307v</locus>: Initial I in red with white void decoration and crude pen flourishes;
+f. <locus>327v</locus>: Initial I in brown ink with white void zig zag decoration and strokes resembling pen flourishes;
+f. <locus>125v</locus>: Crude drawings in brown ink on lower half of the page, one possibly depicting a decorated bowl (font?) on a four stepped inscribed podium, repeated below in simpler outline, one depicting a four lobed knotwork, and one partly blurred swastika.
+Simple leaf ornaments in red and brown ink on f. <locus>130v</locus>, <locus>141v</locus>, <locus>149v</locus>, <locus>151r</locus>, <locus>153v</locus>, <locus>154r</locus>, <locus>160r</locus>, <locus>160v</locus>, <locus>163v</locus>, <locus>175r</locus>, <locus>175v</locus>, <locus>183v</locus>, <locus>185v</locus>, <locus>187v</locus>, <locus>267v</locus>, <locus>270r</locus>, <locus>304v</locus> (black ink only).</p>
+<p>Style: The initial Q on f. <locus>249r</locus> and the leaf ornaments in the text are clearly executed by a somewhat more accomplished artisan, working in a style of general germanic character, than the very simple initials on f. 307r - 327v.</p></decoNote>
+</decoration>
+
+
+
+<bindingDesc>
+<binding><p>Dark brown calfskin binding. England 19th century. Size: 215 x 150 x 70 mm.</p>
+<p>Dark brown calfskin binding over pasteboard. The covering is very worn. Rounded and backed spine. Hollow back with four raised bands. Gilt title on red paper label in second compartment and white library paper label at the tail of the back. Stuck-on endbands of orange paper. Cut edges. Plain single flyleaves and pastedowns of paper. Two-on sewing on four raised cords. Some cracking at the upper cover joint and partly detached bookblock, last quire and last manuscript leaf (restored) partly loose. Gilt lines divide the back into five compartments.</p></binding>
+</bindingDesc>
+ </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Pellegrin, E.</author>
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservés dans les bibliothèques publiques de Suède</title>
+<title level="j">Bulletin d'information de l'institut de recherches et d'histoire des texts</title>
+<biblScope type="volume">3 (1954)</biblScope>
+<imprint>
+<date>1955</date>
+</imprint>
+<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

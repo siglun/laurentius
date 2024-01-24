@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_47">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<institution>Lund Observatory</institution>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 47</idno>
+<altName type="former shelfmark">Astron.</altName>
+<altName type="database-identifier">scriptorium:Mh:401407:1127732678</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Miscellany: Astronomy</title> 
+    <origPlace>Germany (?)</origPlace>
+    <origDate notBefore="1475" notAfter="1525">15th century, late or early 16th
+      century</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains various treatises, descriptions of
+	instruments, illustrations, diagrams and tables.</p> 
+      <p>In deposition.</p></note>
+  </msHeading>
+<physDesc>
+    <support>
+      <p>Paper</p>
+      <watermarks><p>There are several watermarks: on ff. 4, 6, Tête de boeuf,
+	  cfr. <ref>Briquet 15445</ref>; f. 39, Croix Grecque; f. 44, 47,
+	  Couronne, cfr. <ref>Briquet 4899-4902</ref>; f. 63-64, Balance,
+	  cfr. <ref>Briquet 2571-2603.</ref> 
+	</p></watermarks></support>
+    <extent>ff. iii + 73 +
+      iii,<dimensions><height>212</height><width>155</width></dimensions>mm.
+    </extent> 
+    <decoration>
+      <decoNote>
+	<p>Various astronomical diagrams, tables and horoscopes aswell as
+	  pictures of instruments and movable volvelles.</p>  
+	<p>Detailed description:
+	  <list>
+	    <item>ff. <locus>6r</locus>, <locus>8r</locus>, <locus>13v</locus>,
+	  <locus>14v</locus>, <locus>15r</locus>, <locus>16r</locus>,
+	  <locus>27r</locus>, <locus>42r</locus>, <locus>42v</locus>,
+	  <locus>43r</locus>, <locus>44r</locus>, <locus>45v</locus>,
+	  <locus>64r</locus> minor diagrams and tables;</item>
+
+	    <item>f. <locus>8v</locus>: Drawing of astronomical constellation
+	      with faced Luna;</item>
+
+	    <item>f. <locus>11r</locus>: Detailed drawing of a cylindrical
+	      instrument with decorated cupola and moulded base, measuring the
+	      solar angle at different longitudes at different months;</item>
+
+	    <item>f. <locus>16v</locus>: Circular half page diagram of
+	      constellation with a faced Luna;</item>
+
+	    <item>f. <locus>20r</locus>: Full page diagram illustrating the
+	      shifting of daylight during the year;</item>
+
+	    <item>f. <locus>26r</locus>: Full page square horoscope of the sky
+	      July 14, 1477;</item>
+
+	    <item>f. <locus>43v</locus>: Full page diagram of Circulus
+	      equinoctialis;</item>
+	    <item>f. <locus>44v</locus>: Full page circular diagram of
+	      Nauiculum Ptholemei;</item>
+
+	    <item>f. <locus>45r</locus>: Large pseudo perspective drawing of a
+	      boxshaped horologium;</item>
+
+	    <item>ff. <locus>46r</locus> and <locus>46v</locus>: Full page
+	      diagrams;</item> 
+
+	    <item>f. <locus>47r</locus>: Full page volvelle entitled
+	      Saphea;</item> 
+	    <item>f. <locus>47v</locus>: Full page table with two small drawing
+	      of dice in the margin;</item>
+
+	    <item>f. <locus>48v</locus>: Full page volvelle with a movable
+	      device illustrating the faces of the Moon;</item>
+
+	    <item>f. <locus>49r</locus>: Full page circular diagram with a
+	      central face;</item>
+
+	    <item>f. <locus>52r</locus>: Full page circular diagram;</item>
+
+	    <item>f. <locus>52v</locus>: Circular diagram and two drawings of
+	      details for an astrolabe;</item>
+
+	    <item>f. <locus>53r</locus>: Full page circular diagram;</item>
+
+	    <item>f. <locus>58r</locus>: Square master plan for horoscope
+	      entitled Magisterialis figura Astrologie;</item>
+	    
+	    <item>f. <locus>60v</locus>: Full page diagram.</item>
+	  </list>
+	</p>
+	<p>Style: The diagrams in the first part (ff. <locus from="3r" to="37v">3-37</locus>) are less detailed and more hastily executed
+	  than the latter part, which are accurate and minute.</p>
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Half parchment case binding with light blue marbled
+	  papers. Sweden 20th century, before 1940. Size: 218 x 165 x 20
+	  mm.</p> 
+	<p>Half parchment case binding with light blue marbled papers over
+	  millboards. Rounded and backed spine, hollow back. Library code in
+	  pencil on the back. Trimmed edges. Three plain flyleaves and
+	  pastedowns of paper. All along sewing on two tapes.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+<history>
+    <origin><p>The watermarks, all coherent with a date around 1500-1510,
+	corroborates the dating by the note <q>1505</q> on
+	f. <locus>47v</locus>, <q>1506</q> 
+	on f. <locus>71v</locus> and <locus>72r</locus>, and the birth of
+	someone in 1477 indicated by the horoscope on
+	f. <locus>26r</locus>. The note on f. <locus>64v</locus> in German 
+	<q>Tauel dex Sunnen hoch im mittag auff eyn yeder grad dex 12 zaithen
+	  auff Nurnberg do dex polus ist 49 grad 30 mto</q> together with a
+	note on f. <locus>49v</locus> which specifies that the tables are
+	adapted for a latidudinal position of 48 degrees, suggests that the
+	manuscript was executed in e.g. Munich or Vienna and later transferred
+	to Nuremberg.</p> 
+    </origin>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-10-13</date>
+<respStmt>
+<name>sigge</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

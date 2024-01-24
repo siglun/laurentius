@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_36">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 36</idno>
+<altName type="former shelfmark">Ms. H. L. a) 4:o 24</altName>
+<altName type="database-identifier">scriptorium:Mh:950253:1138807183</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Vincents Lunge's land register</title> 
+  <origPlace>Norway (Morlanda herrgård)</origPlace>
+  <origDate notBefore="1535" notAfter="1535">16th century (1535)</origDate>
+  <textLang langKey="NOR">Norwegian</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="32v">ff. 1r-32v</locus>
+<title>Vincent Lunge's land register</title>
+<incipit>Hardagher. Ondals kirche Sogen</incipit>
+<explicit>Item en gord Engelbritt Garthe i bodhe j vogh torsk.</explicit>
+<note><p>Ff. 10r-v11v, 12r-13v, 18v, 21v-23v, 26r, 28v, 33r-v: blank.</p>
+</note>
+<listBibl>
+<bibl>
+<title level="m">Norske Regnskaber og Jordebøger fra det 16de Aarhundrede</title>
+<editor>Huitfeldt-Kaas, H. J.</editor>
+<biblScope type="volume">4</biblScope>
+<imprint>
+<pubPlace>Christiania</pubPlace>
+<date>1906</date><biblScope type="pages">pp. 469-495</biblScope>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment.</p></support><extent>ff. i + 33 + ii, <dimensions><height>205</height><width>140</width></dimensions> mm.</extent>
+<collation><p>7 quires:  I: 4 (ff. 1-4), II: 4 (ff. 5-8), III: 6 (ff. 9-14), IV: 6 (ff. 15-20), V: 6 (ff. 21-26), VI: 4 (ff. 27-30), VII: 3 (ff. 31-33). Collation is uncertain, especially in the beginning and the end, since the manuscript has been rebound. The first quire is a ternion with 2 leaves missing, the 7th quire a binion with 1 leaf missing).</p></collation>
+<layout><p>Page layout and number of lines vary.</p>
+</layout>
+<msWriting>
+<handDesc script="cursive" medium="ink"><p>
+Cursive script from early 16th century. No rubrication.
+</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>No decoration.</p></decoNote>
+</decoration>
+
+    <bindingDesc>
+      <binding><p>Blind-tooled brown leather binding, preserved decorated covers and fastening Norway, contemporary with the manuscript. Rebinding Germany, Stuttgart, signed by Hans Heiland, 1964. Size: 220 x 150 x 33 mm.</p>
+<p>Brown leather binding over thick and rounded wooden boards. Rebinding with upper cover from former binding preserved, lower cover and spine have new leather covering. One metal hook-clasp fastening (strap and nails new). Rounded spine. Tight back with four raised double bands. Brown library cloth label at the tail of the back. Former edge trimming preserved. Single flyleaves of parchment, frontleaf new. Former endleaves of parchment preserved as separate pastedowns. On the front pastedown a note on the contents of the manuscript and a former callnumber (cfr. above). On the back pastedown crossed out notes in the hand of Vincent Lunge, according to the editor of the text a list of jewellery left to Vincent Lunge as a pledge. All along sewing on four raised cords laced through the boards. Textblock with restored folds. One page with photographic documentation of former binding and description of the rebinding preserved on the pastedown of the lower cover. In the rebinding process the binder must have
+shifted the covers which were upside down before the restoration (cfr. photographs and description by Huitfeldt-Kaas, p. 470). The scribe thus must have started to write (as noted also by Huitfeldt-Kaas) in the wrong end of the book.</p>
+<p>The covers are blind-tooled with a double line fillet into nine rectangular compartments. The corner compartments are tooled into lozenges, the others with large rosettes. The central compartment is stamped with a panel (77 x 51 mm) depicting the Madonna and her child in an architectural renaissance setting.</p></binding></bindingDesc>
+
+
+    <foliation><p>Foliated in pencil by modern cataloguer in upper right
+	corner. </p></foliation>
+  </physDesc>
+<history>
+    <origin><p>Norway (Morlanda herrgård), 1535.</p></origin>
+    <acquisition><p>The manuscript was inherited by the daughter of Vincents
+	Lunge, Blanceflor and her husband Daniel Bildt of Morlanda
+	Herrgård where it remained until it came into the possession of
+	Sven Lagerbring (1707-1787), professor of history at the university of
+	Lund. It came to the library either with the rest of his manuscripts or
+	later, in ab. 1830.</p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the
+	    manuscript description encoded in May of 2002 by Eva Nilsson
+	    Nylander.</p>
+</source>
+<change>
+<date rend="creation"/>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-04-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<surrogates><p>
+	  Microfilm placed in the Microfilm collection of the manuscript department (Filmsamlingen H. 142).</p>
+    </surrogates>
+</additional>
+</msDescription>

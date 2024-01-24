@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription status="uni" id="Mh_18">
+<msIdentifier>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 18</idno>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 31.</altName>
+<altName type="former shelfmark">Bibl. Meckiana N:o XXI.</altName>
+<altName type="database-identifier">scriptorium:Mh:121663:1126173497</altName>
+</msIdentifier>
+<msHeading>
+<title lang="ENG">Provincial law of Jutland</title>
+<title lang="SE">Jutske lagboken</title>
+<origPlace>Denmark</origPlace>
+<origDate notBefore="1300" notAfter="1400">14th century</origDate>
+<textLang langKey="DAN">Danish</textLang>
+</msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r:1" to="134v:11">ff. 1r:1-134v:11</locus>
+<title type="uniform" lang="DAN">Jyske Lov</title>
+<title type="parallel" lang="ENG">Provincial law of Jutland</title>
+<msItem n="1.1"><locus from="1r:1" to="3v:14">1r:1-3v:14</locus>
+<incipit>Mæth logh skal land byggiæs. æn wilde hwær man oruæs ath siit eghæt oc latæ man nytæ iafnæth.</incipit>
+<explicit>ok th<expan>er</expan> til mæth allæ bæstæ mæns rath th<expan>er</expan> i hans riki wæræ.</explicit>
+</msItem>
+
+<msItem n="1.1"><locus from="3v:14" to="134v:11">ff. 2v:14-134v:11</locus>
+<rubric>Incipiu<expan>n</expan>t capitula p<expan>ri</expan>mi lib<expan>ri</expan>.</rubric>
+<incipit>Swa tak<expan>er</expan> thæn fyrstæ bok vp vm arf.</incipit>
+<explicit>the ægh<expan>er</expan> <add place="supralinear" hand="scribe">ther</add> a then by mark bo sum the eld war fyrst i saat gialdæ æftær then skatæ æll<expan>er</expan> legghæ ut then th<expan>er</expan> eld sattæ i hetæ</explicit>
+</msItem>
+<listBibl>
+<bibl><title level="m">Kong Valdemar den Andens Jydske Lov og Thord Degns Artikler</title><editor>J. L. A. Kolderup-Rosenvinge</editor><title level="s">Samling af gamle danske Love</title><biblScope type="vol">III</biblScope><imprint><pubPlace>Kjøbenhavn</pubPlace><date>1837</date></imprint><note>Variant readings from the manuscript in the apparatus, signatur: L</note></bibl>
+<bibl>
+<title level="m">Jyske Lov</title><editor>Peter Skautrup</editor><title level="s">Danmarks gamle Landskabslove</title><biblScope type="vol">II</biblScope><imprint><pubPlace>København</pubPlace><date>1933</date></imprint><note>The manuscript is used in the apparatus. Signatures: M2 (Fortalen) and H2 (Jyske Lov).</note>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="2">
+<locus from="134v:11" to="140r:14">ff. 134v:11-140r:14</locus>
+<title type="uniform" lang="DAN">Erik Klippings nyborgske forordning for Sjælland af 26. maj 1284</title>
+<rubric>Thænnæ logh gaf kuning erik i nyborgh æftær allæ danæ rath. først um husfrith.</rubric>
+<incipit>Hwa sum rith<expan>er</expan> mæth gørth rath. hem til ænnæn mansz hws oc dræpær hanum i sin eghæn garth</incipit>
+<explicit>thusænd wintær ok tw hundræth wintær. ok firtwgh wintær. ok a fiarthæ wintær æftær at war hærræ <expan>iesus</expan> <expan>cristus</expan> war fød</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 132-144</biblScope>
+<note>Variant readings from the manuscript in the apparatus, signature Af2.</note>
+</bibl>
+</msItem>
+
+<msItem n="3">
+<locus from="140r:14" to="143v:16">ff. 140r:14-143v:16</locus>
+<title type="uniform">Erik Klippings nyborgske forordning for Nørrejylland af 21-27. maj 1284</title>
+<rubric>Um kuni<expan>n</expan>g eriks logh</rubric>
+<incipit>Thennæ logh <add place="supralinear" hand="scribe">gaf</add> kuning erik kristofor søn. æftær at war hærræ <expan>iesus</expan> <expan>cristus</expan> war fød</incipit>
+<explicit>forthy at the aghæ bathæ then ræth th<expan>er</expan> then man hawær broth til. th<expan>er</expan> frithløs man hwsær r r r.</explicit>
+<bibl>
+<title level="m">Den danske rigslovgivning indtil 1400</title>
+<editor>Erik Kroman</editor><imprint><pubPlace>København</pubPlace>
+<date>1971</date></imprint><biblScope type="pages">pp. 107-123</biblScope>
+<note>Variant readings from the manuscript in the apparatus, signature Aa5.</note>
+</bibl>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment.</p></support>
+<extent>ff. 161; 144-161 modern paper. 
+<dimensions type="leaf" scope="all"><height>147</height><width>100</width></dimensions> mm.</extent>
+<collation><p>18 quires: I: 8 (ff. 1-8), II: 8 (ff. 9-16), III: 8 (ff. 17-24), IV: 8 (ff. 25-32), V: 8 (ff. 33-40), VI: 8 (ff. 41-48), VII: 8 (ff. 49-56), VIII: 8 (ff. 57-64), IX: 8 (ff. 65-72), X: 8 (ff. 73-80), XI: 10 (ff. 81-90), XII: 6 (ff. 91-96), XIII: 8 (ff. 97-104), XIV: 8 (ff. 105-112), XV: 8 (ff. 113-120), XVI: 8 (ff. 121-128), XVII: 8 (ff. 129-136), XVIII: 7 (ff. 137-143). Two additional paper quires of modern paper (18 unwritten leaves) have been inserted behind the original book block.</p></collation>
+<layout columns="1" writtenLines="16"><p>One column; crayon ruling; pricked (visible on ff. 1, 2, 17, 18, 19 et al.); 16 lines; written area: 100 x 72 mm.; rubricated.</p></layout>
+
+<msWriting hands="2">
+<handDesc scribe="Mh18-1" script="later gothic book script" medium="ink" scope="major"><p>Two hands: Hand 1, a later gothic book script, has written <locus>1r-72v</locus> (quire I-IX).</p></handDesc>
+<handDesc scribe="" script="later gothic book script" medium="ink" scope="minor"><p>
+Hand 2, a later gothic book hand, has written <locus>73v-143v</locus>.</p></handDesc>
+<handDesc scribe="Mh18-2" script="later gothic" medium="ink" scope="minor"><p>The corrections of the Jutish Law such as of &gt; om, æth &gt; ættr, ængi &gt; ængin and graphemic changings such as u to u with a superscript vertical stroke are made by a younger hand.</p></handDesc>
+</msWriting> 
+
+<decoration>
+<p>Except for the numerous red and blue simple lombards, usually 2 lines in heigth, there are four decorated initials of varied size:
+<list>
+<item>at f. <locus>1r</locus>initial (M), 6-line, red and blue with simple ornamentation</item>
+<item>at f. <locus>6r</locus>intarsiated 4-line initial (B), red and blue where intended filigranated decoration was never executed</item>
+<item>at f. <locus>42v</locus>large red initial (S) of somewhat square appearance with void central ornament and with filigranated filling in blue and red and surrounded by filigranated ornamentation, the lower serif extended with pen flourishing below mid page</item>
+<item>at f. <locus>99r</locus>intarsiated initial (T) in blue and red with filigranated filling and outer border in red with blue details</item></list></p> <p>Style: The geometric design is somewhat idiosyncratic, but well in accordance with the rather crude panscandinavian standard idiom.</p>
+</decoration> 
+
+
+<bindingDesc><binding notBefore="1500" notAfter="1600" certainty="high" evidence="conjecture" contemporary="no"><p>Blind-tooled and gilt panel-stamped brown calfskin binding, most likely Germany or the Netherlands 16th century. Size: 165 x 110 x 47 mm.</p>
+<p>Brown calfskin over bevelled beech boards. One (of two) engraved hook-clasp fastening at fore-edge, catch plate missing. Rounded spine with three raised double bands. Originally tight back, now cracked at the joint of the upper cover and detached from spine. Defect paper label with manuscript title in second compartment and a blind-tooled library label in top compartment of the back. Stuck-on white and brown endbands embroidered over parchment lining and cord now in part detached. Red edges. Plain paper pastedowns. On the pastedown of the upper board the librarian August Palm (1826-1907) has given the content and dating of the book.<q>Jutske Logh. Erik Glipings Nyborgs stadga 1284. Från 1300-1400-talet.</q>Pastedown of lower board, foliated 161, is detached thus making visible four straps of reused parchment with Latin text. Two additional paper quires of eight leaves each at the end of the textblock, one of the quires with the leaves cut to a stub. All along packed sewing on three double cords laced through the boards.</p>
+<p>The covers are blind-tooled into a frame made of multiple triple fillets and a blind roll of arabesques and heads-in-medallions. The centre is blocked with a gilt panel and the top and bottom compartments stamped with two gilt foils each. The panel-stamp of the upper cover (75 x 35 mm.) depicts Christ as a child treading on a snake; the inscription reads: <q>EMA[N]AVEL</q>. The inscription of the lower cover panel-stamp reads: <q>INOBEDIENTIA</q>, and depicts The Fall within a architectural framework: Adam seated holding an apple and Eva standing to the right reaching up towards the tree. The back is blind-tooled with double fillets next to the bands.</p></binding></bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner of the original book block ff. 1-143, the additional paper leaves ff. 144-161.</p></foliation>
+
+<condition><p>The first leaf has been cut in upper margin.</p></condition>
+
+</physDesc>
+<history>
+<origin notBefore="1300" notAfter="1400" certainty="high" evidence="conjecture"><p>According to the dating in Danmarks Gamle Landskabslove the <title>Jutish Law</title> text was written around <date>1400</date>, <title>Erik Klippings nyborgske forordning for Sjælland</title> <date>c. 1400</date> and <title>Erik Klippings nyborgske forordning for Nørrejylland</title> in the <date>first half of the 15th century</date>, (cf. Den danske rigslovgivning indtil 1400, pp. 133 and 107).</p></origin>
+<acquisition><p>Acquired in <date>1704</date> when Lund University Library purchased the <name type="person" role="owner">Meck</name> book collection.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+	  <p>Catalogued and encoded in 2001 by <name type="person" role="cataloguer" reg="Hansen, Anne Mette">Anne Mette
+	      Hansen</name>.</p>
+	</source>
+<change>
+<date rend="creation">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<title level="m">Jyske Lov</title><editor>Peter Skautrup</editor><title level="s">Danmarks gamle Landskabslove</title><biblScope type="vol">II</biblScope><imprint><pubPlace>København</pubPlace>
+	  <date>1933</date></imprint><biblScope type="pages">pp. XXIII-XXIV</biblScope> 
+      </bibl>
+      <bibl>
+	<author>Palm, August Johan Theod.</author>
+	<title level="m">Anteckningar till medeltidshandskrifterna i Lunds
+	  Universitetsbiblotek</title> 
+	<imprint><pubPlace>Lund</pubPlace></imprint>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

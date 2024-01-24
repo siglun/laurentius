@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_53">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 53</idno>
+<altName type="former shelfmark">Teol.</altName>
+<altName type="database-identifier">scriptorium:Mh:579771:1127737297</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Miscellany: Theology </title> 
+    <origPlace>France (?)</origPlace>
+    <origDate notBefore="1400" notAfter="1500">15th century</origDate>
+    <textLang langKey="FRE">French, with Picardic influence</textLang>
+    <note><p>The manuscript contains interpretative treatises in prose and
+	poetry on various religious subjects.</p></note> 
+  </msHeading>
+<physDesc>
+    <support><p>Parchment</p></support>
+    <extent>ff. i + 138 +
+      i,<dimensions><height>155</height><width>105-110</width></dimensions>mm.
+    </extent>
+
+    <decoration>
+      <decoNote><p>The decoration consists of four delicately pen flourished
+	  initials and a few line fillers in blue and red on
+	  f. <locus>1r</locus>, <locus>4r</locus>, <locus>6r</locus>,
+	  <locus>60r</locus>, <locus>61v</locus>, <locus>62r</locus>.</p> 
+
+	<p>Detailed description:
+
+	  <list>
+	    <item>f. <locus>1r</locus>: Intarsiated initial N,
+	      three lines in height,  in blue and red with minutely
+	      filigranated filling in blue and fluently waving pen flourishes
+	      in blue, except for when bordering to the intarsiated blue areas
+	      of the letter where the pen flourishes are red, extending into
+	      upper margin and along all of left margin;</item>
+
+	    <item>f. <locus>41r</locus>: Initial P, three lines in height, in
+	      blue with filligranated filling and surrounding pen flourishes in
+	      red. Initial T, three lines in height,  in red with filigranated
+	      filling and pen flourishes in blue extending along left
+	      margin;</item> 
+
+	    <item>f. <locus>82r</locus>: Intarsiated initial N, five lines in
+	      height, in red and green with minutely executed filigranated
+	      filling in blue, and surronded by filigranated pen flourishes in
+	      blue, except for red when bordering to the green intarsiated
+	      fields. Badly worn.
+	    </item>
+	  </list>
+	</p>
+
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Gold-tooled red morocco binding, late 18th or early 19th
+	  century. Size: 160 x 120 x 30 mm.</p> 
+	<p>Red morocco binding over millboards. Rounded and backed
+	  spine. Hollow back with five false bands. Embroidered green, red and
+	  white silk endbands. Edges gilt. Made endpapers and pastedowns of
+	  comb marbled paper, front flyleaf loose. The joint of the upper board
+	  is cracked and the bookblock detached from the cover. All along
+	  sewing on five cords.</p> 
+	<p>The covers are gilt with a border and panel of double and triple
+	  line fillets; arabesques stamps in each outer corner of the inner
+	  panel. Gilt library stamp in lower cover panel. The back is divided
+	  into six gilt double line fillet panels with centre and corner
+	  arabesques stamps. The turn-ins are gilt with two ornamental rolls in
+	  renaissance style.</p>
+      </binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

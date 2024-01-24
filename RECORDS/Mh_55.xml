@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_55">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 55</idno>
+<altName type="former shelfmark">Vitt.</altName>
+<altName lang="DUT" type="nickname">Lundse liederen</altName>
+<altName type="database-identifier">scriptorium:Mh:1013471:1138809543</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Secular lyrics</title> 
+  <origPlace>Holland (Limburg or Brabant?)</origPlace>
+  <origDate notBefore="1300" notAfter="1330">14th century, early</origDate>
+  <textLang langKey="DUT">Dutch</textLang>
+<note>Fragment.</note>
+ </msHeading>
+<msContents>
+<msItem n="1" defective="yes">
+<locus from="1r" to="2v">ff. 1r-2v</locus>
+<title type="uniform">Minneliederen</title>
+<incipit>So schiir si toent haer doeght ... </incipit>
+<explicit>Syns herten hope ... .</explicit>
+<note>F. 1v inc. def.: ... Dan dat te draghen; f. 2r inc.: Wat draf mach comen ... ; both leaves have holes but with a loss of text only on f. 2.</note>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support><extent>ff. 2, <dimensions><height>185</height><width>155</width></dimensions> mm.</extent>
+<collation><p>Bifolium, cropped in upper margin, used as binding material.</p></collation>
+<layout columns="2"><p>2 columns, 140 x 120-130 mm. Rooth estimates the original size of the leaf to have been ca. 240 x 160 mm.; catch word at f. 2v.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="minuscule"><p>
+Gothic minuscule from first half of 14th century.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>Initials are not filled or decorated.</p></decoNote>
+</decoration>
+<bindingDesc>
+<binding><p>Parchment case binding, Sweden 20th century. Size: 210 x 175 x 8 mm.</p>
+<p>Parchment case over millboards. Two white leather ties at fore-edge. Parchment pastedowns. The bifolio manuscript of parchment is mounted on parchment guard.</p></binding>
+</bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner.</p></foliation>
+</physDesc>
+<history>
+<origin><p>Holland (Limburg or Brabant?; the dialect is of the Limburg area), early 14th century.</p></origin>
+<acquisition><p>The manuscript was discovered in 1926 by Erik Rooth (1889-1986, professor of German studies at Lund University) in Lund University Library in a portfolio containing several unidentified fragments.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the manuscript description encoded in June of 2002 by Eva Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>               
+<bibl>
+<author>Deschamps, J.</author>
+<title level="m">Tentoonstelling van Middelnederlandse handschriften uit beide Limburgen. Catalogus</title>
+<imprint>
+<pubPlace>Hasselt</pubPlace>
+<date>1954</date>
+<biblScope type="pages">pp. 17-18 (no. 8).</biblScope>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Hemmes-Hoogstadt, Annette C.</author>
+<title level="a">Het uiterlijk van de custode. Over twee losse regels onder de Lundse gedichten [with a summary in English]</title>
+<title level="j">Queeste. Tijdschrift over Middeleeuwse Letterkunde</title>
+<biblScope type="volume">2:2</biblScope>
+<imprint>
+<date>1995</date>
+</imprint>
+<biblScope type="pages">pp. 113-124</biblScope>
+</bibl>
+
+<bibl>
+<author>Hemmes-Hoogstadt, Annette C.</author>
+<title level="m">'Sies mijn vlien, mijn jaghen'. Over vorm en inhoud van een corpus Middelnederlandse spreukachtige hoofse lyriek: Lund, UB, Mh 55 en Brussel, KB, Ms. IV 209/11. Proefschrift; with a summary in English; mit einer Zusammenfassung in deutscher Sprache.</title>
+<title level="s">Middeleeuwse Studies en Bronnen</title>
+<biblScope type="volume">86</biblScope>
+<imprint>
+<pubPlace>Hilversum</pubPlace>
+<date>2005</date>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Mierlo, J. van</author>
+<title level="a">De letterkunde van de Middeleuuwen tot omstreeks 1300</title>
+<title level="m">Geschiedenis van de letterkunde der Nederlanden, eds. F. Baur ... et al., 1</title>
+<imprint>
+<pubPlace>'s-Hertogenbosch and Brussels</pubPlace>
+<date>1939</date>
+</imprint>
+<biblScope type="pages">pp. 23-304 (p. 226-227).</biblScope>
+</bibl>
+
+
+<bibl>
+<author>Paepe, N. de</author>
+<title level="m">Ik zach nooit zo roden mond. Middeleeuwse liefdespoëzie</title>
+<imprint>
+<pubPlace>Leiden</pubPlace>
+<biblScope type="pages">pp. 64-80, fig. on p. 69</biblScope>
+<date>1970</date>
+</imprint>
+<note>Second edition Groningen, 1974.</note>
+</bibl>
+
+<bibl>
+<author>Rooth, E.</author>
+<title level="a">Medelnederländska trubadurdikter funna i Universitetsbiblioteket i Lund</title>
+<title level="j">Nordisk tidskrift för bok-och biblioteksväsen</title>
+<biblScope type="volume">14</biblScope>
+<imprint>
+<date>1927</date>
+</imprint>
+<biblScope type="pages">pp. 142-146</biblScope>
+</bibl>
+
+
+<bibl>
+<author>Rooth, E.</author>
+<title level="m">Ein Neuentdeckter Niederländischer Minnesänger aus dem 13. Jahrhundert</title>
+<imprint>
+<pubPlace>Lund</pubPlace>
+<biblScope type="pages">Text edition pp. 44-59, facs. f. 2r at p. [60].</biblScope>
+<date>1928</date>
+</imprint>
+</bibl>
+
+
+<bibl>
+<author>Rooth, E.</author>
+<title level="a">Een Limburgsch Minnedichter uit de 13e eeuw</title>
+<title level="j">Verslagen en Mededeelingen der Kon. Vlaamsche Academie voor Taal- en Letterkunde</title>
+<biblScope type="volume">14</biblScope>
+<imprint>
+<date>1928</date>
+</imprint>
+<biblScope type="pages">pp. 591-631</biblScope>
+<note>Translation of "Ein neuentdeckter niederländischer Minnesänger aus dem 13. Jahrhundert". The private archive of E. Rooth at the manuscript department of the University Library ("Samling Erik Rooth, B:835") contains his notes on the manuscript.</note>
+</bibl>
+
+
+<bibl>
+<author>Wierda, L.</author>
+<title level="m">Der minnen smertte. Een editie van de Lundse en Brusselse liederen en een verkennend onderzoek naar hun verwantschap</title>
+<imprint>
+<date>1986</date>
+</imprint>
+<note>Groningen, unpublished, xeroxed.</note>
+</bibl>
+
+<bibl>
+<author>Willaert, F.</author>
+<title level="m">De poëtica van Hadewijch in de Strofische Gedichten</title>
+<imprint>
+<pubPlace>Utrecht</pubPlace>
+<biblScope type="pages">pp. 57-63, 411</biblScope>
+<date>1984</date>
+</imprint>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

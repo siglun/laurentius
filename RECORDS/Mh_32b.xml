@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_32b">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 32b</idno>
+<altName type="former shelfmark" lang="SWE">Vitt. Ty.</altName>
+<altName type="database-identifier">scriptorium:Mh:490460:1138807064</altName>
+</msIdentifier>
+<msHeading>
+    <author>Schönebeck, Brun von</author>
+    <title lang="ENG">Ave Maria</title> 
+    <origPlace>Germany, Northern</origPlace>
+    <origDate notBefore="1400" notAfter="1500">15th century</origDate>
+    <textLang langKey="GER">Low German</textLang>
+    <note>Fragment in two parts</note>
+  </msHeading>
+<msContents>
+<msItem n="1" defective="yes">
+<locus from="1r" to="14vr">ff. 1r-14v, x1r</locus>
+<author>Schönbeck, Brun von</author>
+<title type="uniform">Ave Maria</title>
+<incipit>God de ware trini<expan>tat</expan> de alle dink ghesc<expan>hapen hat</expan></incipit>
+<explicit>de van der sunnen weren bed<expan>acht</expan>.</explicit>
+</msItem>
+
+<msItem n="2" defective="yes">
+<locus from="x1r" to="x4v">ff. x1r-x4v</locus>
+<author>Schönbeck, Brun von</author>
+<title type="uniform">Van der almissen</title>
+<incipit>Moghe wy dat iummer kr<expan>ighen</expan></incipit>
+<explicit defective="yes">An enen salmen dar he sprikt ... </explicit>
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Paper</p></support><extent>ff. 18,
+      <dimensions><height>180</height><width>140</width></dimensions> mm.
+    </extent>
+
+    <layout columns="1" writtenLines="28"><p>One column; 28 lines.</p></layout>
+    <msWriting hands="1">
+      <handDesc script="cursive"><p>Cursive script in one hand; Latin
+	  quotations in a somewhat larger Gothic book-hand.</p></handDesc>
+    </msWriting> 
+
+    <decoration>
+      <decoNote>
+	<p>Red lombards; at f. <locus>2v</locus> (=page 4) in
+	      part 1:  
+	      an initial (W) with the left serif extended and decorated with a
+	      plume in brown ink; first letter of each verse is marked in
+	      red.</p>
+      </decoNote>
+    </decoration>
+    <bindingDesc>
+      <binding><p>There is no binding. The fragments are kept separately in an
+	  archival folder.</p></binding>
+    </bindingDesc>
+
+    <foliation><p>Part 1 is both paginated (Arabic numbers) and foliated
+	(Roman numbers) by Norlind with a pencil; the leaves of part 1 are
+	ff. 1-14 or pp. 1-28; the leaves of part 2 are only foliated:
+	ff. x1-x4.</p></foliation>
+
+    <additions><p>Sometimes notes in margin by a younger
+	hand.</p>
+    </additions>
+  </physDesc>
+<history>
+<origin><p>Northern Germany, 15th century.</p></origin>
+<acquisition><p>The loose leaves, most of them cut and in a very poor condition, were found in 1925 by Wilhelm Norlind (1895-1982), librarian at Lund University Library, as binding material in L. Cellot, Panegyrici et orationes, Paris, 1631.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the
+	    manuscript description encoded in April, 2002 by Eva Nilsson
+	    Nylander.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<surrogates>
+	<p>There are 26 black and white photographs of the fragment in a folder
+	  marked "Fotokopia. Medelt.-hdskr. 32b, Bruno von
+	  Schonebeck".</p>
+      </surrogates>
+<listBibl>
+<bibl>
+<author>Norlind, W.</author>
+<title level="a">Neuaufgefundene Bruchstücke des "Ave Marie" Bruns von Schönebeck</title>
+<title level="j">Jahrbuch des Vereins für niederdeutsche Sprachforschung</title>
+<biblScope type="volume">53</biblScope>
+<imprint>
+<date>1927</date>
+</imprint>
+<biblScope type="pages">pp. 59-87,  from p. 64 an edition of the fragments.</biblScope>
+</bibl>
+
+<bibl>
+<author>Norlind, W.</author>
+<title level="a">Nyfunna fragment i Lunds universitetsbibliotek</title>
+<title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title>
+<biblScope type="volume">15</biblScope>
+<imprint>
+<date>1928</date>
+</imprint>
+<biblScope type="pages">112-118.</biblScope>
+</bibl>
+
+<bibl>
+<author>Wolff, L.</author>
+<title level="a">Brun von Schönebeck</title>
+<title level="j">Die deutsche Literatur des Mittelalters. Verfasserlexikon,</title>
+<biblScope type="volume">Bd 1</biblScope>
+<imprint>
+<date>1978 (2. Aufl.)</date>
+</imprint>
+<biblScope type="columns">coll. 1056-1061. Medeltidshandskrift 32b is mentioned in col. 1057.</biblScope>
+</bibl>
+
+</listBibl>
+</additional>
+</msDescription>

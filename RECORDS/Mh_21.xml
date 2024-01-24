@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_21">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 21</idno>
+<altName type="former shelfmark">B. N. Msc. N 43 Bibl.</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a)
+      fol. 6</altName>
+<altName lang="LAT" type="nickname">Codex Falkenberghianus</altName>
+<altName type="database-identifier">scriptorium:Mh:750590:1138809149</altName>
+</msIdentifier>
+<msHeading>
+<author>Birgitta</author>
+  <title lang="LAT">Opera</title> 
+  <origPlace>Sweden (Vadstena)</origPlace>
+  <origDate notBefore="1400" notAfter="1446">15th century, early (1404-1415?, before 1446)</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="277r">ff. 1r-277r</locus>
+<title type="uniform">Revelationes Birgittae, libri I-VII.</title>
+<rubric>Incipit prologus in libro reuelacionum celestium beate memorie domine Birgitte ... qui prologus fuit editus per venerabilem virum magistrum mathiam de Swecia</rubric>
+<incipit>Stupor et mirabilia audita sunt in terra nostra ... </incipit>
+<rubric>Incipit primus liber reuelacionum ... Rubrica primi Capituli. Uerba domini nostri ihesu christi ad suam electam sponsam ... Capitulum primum. (f. 3v)</rubric>
+<incipit>Ego sum creator celi et terre vnus in deitate ... (f. 3v)</incipit>
+<explicit>inter manus predictarum personarum emisit spiritum. Explicit septimus liber deo
+ gracias.</explicit>
+<note>This manuscript has been used in modern editions of Birgitta's works in <bibl>Samlingar utgivna av Svenska Fornskriftssällskapet ser. 2, VII</bibl> as manuscript F:
+Book I, ed. by C.-G. Undhagen 1978; Book II, ed. by C.-G. Undhagen and B. Bergh 2001; Book III, ed. by A.-M Jönsson 1998; Book IV, ed. by H. Aili 1992; Book V, ed. by B. Bergh 1971; Book VI, ed. by B. Bergh 1991; Book VII, utg. av B. Bergh 1967; and in Samlingar utgivna av Svenska Fornskriftssällskapet ser. 2, VIII: Opera minora 1 and Regula Salvatoris, utg. av S. Eklund 1975; Opera minora 2 and Sermo angelicus, utg. av S. Eklund 1972; and in Samlingar utgivna av Svenska Fornskriftssällskapet ser 2, V: Revelaciones extravagantes, utg. av L. Hollman 1956.</note></msItem>
+
+<msItem n="2">
+<locus from="277r" to="279r">ff. 277r-279r</locus>
+<title type="uniform">Additiones.</title>
+<rubric>Jncipit prologus libri celestis jmperatoris ad reges ... Et sciendum quod licet iste prologus domini alphonsi specialiter scribatur ... </rubric>
+<note>f. 279v: blank, apart from the rubric to book 8.</note>
+</msItem>
+
+
+
+
+<msItem n="3">
+<locus from="280r" to="315v">ff. 280r-315v</locus>
+<title type="uniform">Revelationum liber VIII</title>
+<incipit>Ad presentis quippe libri nunc iam materiam ... </incipit>
+<rubric>Capitulum primum</rubric>
+<incipit>Uidi palacium grande incomprehensibile magnitudine ... </incipit>
+<colophon>Explicit liber octauus. Finito libro sit laus et gloria christo Conscriptus per manus fratris Johannis Johannis Kalmarnensis. Orate pro eo.</colophon>
+<note><p>According to the scribe the contents of f. 315, which ends <q>quod ego sum suauis et mitis Explicit.</q> should have been inserted on f. 314v.</p>
+<p>Ed. Ghotan 1492, GW 4391.</p>
+</note>
+</msItem>
+
+<msItem n="4" defective="unk">
+<locus from="316r" to="331r">ff. 314v, 316r-331r</locus>
+<title type="uniform">Sermo angelicus</title>
+
+<msItem n="4.1">
+<locus from="314v" to="314v">f. 314v</locus>
+<rubric>Prologus in sermone angelico de excellencia virginis</rubric>
+<incipit>Cum beata Birgitta ... habitaret in roma ...</incipit>
+</msItem>
+
+<msItem n="4.2">
+<locus from="316r" to="331r">ff. 316r-331r</locus>
+<rubric>Jncipit leccio prima</rubric>
+<incipit>Uerbum de quo ewangelista johannes ...</incipit>
+<explicit>vobis prestare dignetur Qui ... regnat per infinita secula seculorum Amen  (f. 331r)</explicit>
+<rubric type="final">Expliciunt sermones angeli deo gracias.</rubric>
+</msItem>
+</msItem>
+
+<msItem n="5">
+<locus from="331v" to="350v">ff. 331v-350v</locus>
+<title type="uniform">Additiones. 37 Extravagantes, 6 Declarationes, Regula Saluatoris</title>
+<note>The parts of chapters 29 and 30 of Regula Salvatoris are listed by Wessén, 1968, p. 13.</note>
+</msItem>
+
+<msItem n="6">
+<locus from="343r" to="350r">ff. 343r-350r</locus>
+<author>Birgerus Gregorii</author>
+<title type="uniform">Legenda Birgittae</title>
+<rubric>Jncipit legenda vel vita beate Birgitte</rubric>
+<incipit>Ecce descripsi eam tibi tripliciter [Prov 22,20] Tripliciter sol exurens montes ... </incipit>
+<explicit>eam venerandam declarat et mirificat dominus noster ihesus christus qui est benedictus in secula seculorum Amen</explicit>
+<rubric type="final">Explicit Legenda et vita beate Birgitte</rubric>
+<note>Edition by Collijn after this ms.</note>
+<listBibl>
+<bibl>
+<author>Birgerus Gregorii</author>
+<title level="m">Legenda sancte Birgitte</title>
+<editor>utg. av I. Collijn</editor>
+<title level="s">SFSS ser. 2</title>
+<biblScope type="volume">IV</biblScope>
+<imprint>
+<pubPlace>Uppsala</pubPlace>
+<date>1946</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="7">
+<locus from="350r" to="352v">ff. 350r-352v</locus>
+<title type="uniform">Additiones. 13 Declarationes, 5 Extravagantes</title>
+<note>Cfr. Wessén, 1968, p. 14.</note>
+</msItem>
+
+<msItem n="8">
+<locus from="353r" to="358r">ff. 353r-358r</locus>
+<title type="uniform">Vita Birgittae prioris Petri et magistri Petri</title>
+<incipit defective="yes">totam veritatem et precipit vt visa silencio tegeret ... </incipit>
+<explicit>inter manus personarum predictarum emisit spiritum.</explicit>
+<note>Edited by Collijn where this text corresponds to p. 77 (line 23)- 101 (line 25).</note>
+<listBibl>
+<bibl>
+<title level="m">Acta et processus canonizacionis beate Birgitte ... </title>
+<editor>utg. av I. Collijn</editor>
+<title level="s">SFSS ser. 2</title>
+<biblScope type="volume">I</biblScope>
+<imprint>
+<pubPlace>Uppsala</pubPlace>
+<date>1924-1931</date>
+<biblScope type="pages">pp. 73-105</biblScope>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="9">
+<locus from="358r" to="359v">ff. 358r-359v</locus>
+<title type="uniform">Additiones</title>
+<incipit>Primo quod statuatur sub certa pena quod nullus ciuis ... portet vestes breuiores ... </incipit>
+<explicit>dimittant vestimenta curiosa per que deus offenditur. (f. 358v)</explicit>
+<note>Two extensive rubrics at f. 358r: [Remedia contra pestem].</note>
+<note>Edited by K. B. Westman.</note>
+<listBibl>
+<bibl>
+<title level="m">Birgitta-studier</title>
+<editor>Westman, K. B.</editor>
+<title level="s">Uppsala universitets årsskrift</title>
+<biblScope type="volume">Teol. 1</biblScope>
+<imprint>
+<pubPlace>Uppsala</pubPlace>
+<date>1911</date>
+<biblScope type="pages">pp. 295-296</biblScope>
+</imprint>
+</bibl>
+<bibl>
+<note>At f. 358v: Extravag. 49 abouth the giving of the Revelationes to Alphonsus de Jaen.</note>
+</bibl>
+<bibl>
+<note>At ff. 359r-v: Parts of the letters to Gomes Albornos, edited by Westman pp. 297-298. Extravag. 32, 41, 40, 31.</note>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="10">
+<locus from="360r" to="360v">f. 360r-v</locus>
+<title type="uniform">Poema ad laudem beatae Birgittae</title>
+<rubric>Jncipit laus et oracio de miraculis gestis Beate Brigide de swecia</rubric>
+<incipit>Salue o felix Brigida ... </incipit>
+<explicit>accedat ob spem gracie.</explicit>
+<note>Akrostikon at f. 360v: <q>SANCTA BRIGIDA DE SWECIA ORA PRO ME AMEN</q></note>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support><extent>ff. i + 360 + i, <dimensions><height>300</height><width>220</width></dimensions> mm.</extent>
+<collation><p>37 quires: I: 10 (ff. 1-10), II: 10 (ff. 11-20), III: 10 (ff. 21-30), IV: 10 (ff. 31-40) V: 10 (ff. 41-50), VI: 10 (ff. 54-60; a senion with 2 leaves missing), VII: 10 (ff. 61-70; a senion with 2 leaves missing), VIII: 10 (ff. 71-80), IX: 10 (ff. 81-90), X: 10 (ff. 91-100), XI: 10 (ff. 101-110), XII: 10 (ff. 111-120), XIII: 10 (ff. 121-130), XIV: 10 (ff. 131-140), XV: 10 (ff. 141-150), XVI: 10 (ff. 151-160), XVII: 11 (ff. 161-171; f. 171 added), XVIII: 9 (ff. 172-180; a quinion with last leaf missing), XIX: 10 (ff. 181-190), XX: 10 (ff. 191-200), XXI: 10 (ff. 201-210), XXII: 10 (ff. 211-220), XXIII: 10 (ff. 221-230), XXIV: 10 (ff. 231-240), XXV: 10 (ff. 241-250), XXVI: 10 (ff. 251-260), XXVII: 8 (ff. 261-268; a ternion with 2 leaves added), XXVIII: 11 (ff. 269-279; a quinion with f. 179 added), XXIX: 10 (ff. 280-289), XXX: 10 (ff. 290-299), XXXI: 10 (ff. 300-309), XXXII: 11 (ff. 310-320; f. 315 is a lingula), XXXIII: 11 (ff. 321-331; a quinion with f. 330 added), XXXIV: 10 (ff. 332-341), XXXV: 10 (ff. 342-351), XXXVI: 7 (ff. 352-358; a ternion with f. 352 added), XXXVII: 2 (ff. 359-360).</p><p>Lacunae in the text show that two quires are missing: one after f. 140 with the text to Rev. IV:59:5-81:3 and one after f. 268 with the text to Rev. VII:1-15:4 and after f. 352 one leaf, probably containing the beginning of a Birgitta vita is missing (a note in a later hand at f. 353r: <q>Här äru ut rövade några blad ... </q>.Catch words until f. 320.</p></collation>
+<layout columns="2" writtenLines="36"><p>2 columns; 36 lines; written space: 215 x 150 mm.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="cursiva libraria" medium="ink" scope="sole"><p>Cursiva libraria by Johannes Johannis Kalmarnensis, in Vadstena from 1404-1446 (cfr. f. 314v: <q>Conscriptus per manus fratris Johannis Johannis Kalmarnensis Orate pro eo.</q>). According to Wessén (1968, pp. 25-28, cfr. Bibliography), who does not think the script is that of an older man, the manuscript was copied after 1404 when Johannes entered the convent (cfr. Diarium Vadstenense nr. 126, 151, 172:1, 254:2, 269, 273, 562) and before May 1415 when he left for Syon in England.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>Decorated initials, mainly lombards in green or red with simple ornamentation, like on ff. 1r, 33r, 52r, 121v, 124r, 128r, 131v, 205r, 210v, 280r (blue) or rather crude two-coloured initials in green and red, like on ff. 1r, 111r, 143r, 144v, 145v, 147v153v, 154r, 231v, 260v. The initial of the first chapter of the main text of the first book is a minutely executed filigranated initial. Cartouches in red or green surrounding 21 of the catch words, small red crosses in the margins and numerous pointing hands and related readers' additions. Most of the two coloured initials were intended to be green, but due to the oxidization the green pigment was scraped off and replaced by red minium. The green pigment was replaced by blue in the latter part of the manuscript.</p>
+<p>Detailed description: f. <locus>3v</locus>: small blue initial with a double countour in red; small blue initial with filigranated filling; large intarsiated initial (E) in blue and red with red filigranated filling, blue floral pattern surrounding the letter with vertically protruding ivy; f. <locus>13v</locus>: to the left of the last 16 lines of the left column, designating a "nota", is a contour drawing of a human face in profile; f. <locus>33r</locus>: small green lombard with a red double contour; between the columns a floral ornament in red, similar to a palm tree (?); f. <locus>184v</locus>: small red lombard with dots in the shape of a cross; f. <locus>200r</locus>: covering the last 27 lines of the right column is a contour drawing of a human face in the right margin with a detailed eye and the word "nota" coming out of the mouth; f. <locus>204v</locus>: large 10-line initial (M), scraped away; f. <locus>316r</locus>: small blue initial (U) with a filigranated filling and pen flourishing in red, beginning the "lectio prima" of "Sermone angelico de excellencia virginis"; f. <locus>333r</locus>: two small red lombards with secondary crude filigranated fillings in brown ink; f. <locus>360r</locus>: on an otherwise blank page <q>Maria</q> in a large contoured
+ littera textualis over two lines with a small leaf ornament on the letter r.</p></decoNote>
+</decoration>
+
+<bindingDesc>
+<binding><p>Brown leather binding, preserved covers contemporary with the manuscript. Rebinding Sweden 20th century. Size: 310 x 220 x 120 mm.</p>
+<p>Brown leather binding over rounded oak boards. Rebinding with covers from former binding preserved. Two metal anchor plates from long strap fastenings at the fore-edge of the upper cover (straps and other metal fastenings missing). Rounded spine. Tight back with five raised bands. Blind-tooled white library paper label at top compartment of the back. Former edge trimming preserved, no squares. Five red and green embroidered fore-edge textmarkers of silk and one of brown leather. Single plain flyleaves and pastedowns of paper reinforced with cloth in the joints. Parchment endleaf from former binding preserved as separate pastedown of the upper board with a note on the contents of the ms.: <q>Revelationes Sanctæ Birgittæ</q> and an almost illegible note with the former shelf marks (cfr. above).All along sewing on five cords laced through the boards. A few quires at the end of the textblock repaired in the centrefolds.</p></binding>
+</bindingDesc>
+<foliation><p>Foliated in pencil by modern cataloguer in lower right corner.</p></foliation>
+<additions><p>In the margins often notes, both mediaeval and modern.</p></additions>
+</physDesc>
+<history>
+<origin><p>The manuscript was copied in Vadstena sometime between 1404 and 1446 by Johannes Johannis from Kalmar who also wrote UUB C 203 and C 631.</p></origin>
+<acquisition><p>The manuscript has no notes of former owners. It was donated to the University Library in 1778 by count Melker Falkenberg (d. 1795), member of the privy council. For the story of the manuscript cfr. Wessén (1968), pp. 30-32.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the manuscript description revised and encoded in June 2002 by Eva Nilsson Nylander.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Birgitta</author>
+<title level="m">Revelationes s. Birgittae e codice membr. Fol. 21 Bibl. Universitatis Lundensis ("Codex Falkenberg"), Suecice et Britannice praefatus ed. E. Wessén, 1-2, facsimile edition</title>
+<title level="s">Corpus codicum Suecicorum Medii Aevi</title>
+<biblScope type="volume">13-14</biblScope>
+<imprint>
+<pubPlace>Hafniae</pubPlace>
+<date>1952-56</date>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Wessén, E.</author>
+<title level="m">Svensk medeltid 2, Birgitta-texter</title>
+<title level="s">Kungl. Vitterhets- historie- och antikvitetsakademiens handlingar, Filologiska serien</title>
+<biblScope type="volume">10</biblScope>
+<imprint>
+<pubPlace>Stockholm</pubPlace>
+<date>1968</date>
+<biblScope type="pages">pp. 7-32 (with a reproduction in colour of f. 3v)</biblScope>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Hedlund, Monica</author>
+<title level="m">Die Handschriften Schwedens ausgenommen UB Uppsala, unter Leitung von Jan-Olof Tjäder, herausgegeben von Monica Hedlund. 1. Text. 2. Tafeln</title>
+<title level="s">Katalog der datierten Handschriften in lateinischen Schrift vor 1600 in Schweden</title>
+<biblScope type="volume">II:1(Text)-2(Tafeln)</biblScope>
+<imprint>
+<pubPlace>Stockholm</pubPlace>
+<date>1980</date>
+</imprint>
+<biblScope type="pages">Bd. 1, pp. 16-17; Bd. 2, p. Abbildung 22</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

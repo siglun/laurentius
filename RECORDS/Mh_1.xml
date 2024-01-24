@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_1" status="frag">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 1</idno>
+<altName type="other">Ms 1</altName>
+<altName type="former shelfmark">Bibl. ant. M. 64. 4:o N:o 11</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 40</altName>
+<altName type="database-identifier">scriptorium:Mh:413627:1118857344</altName>
+</msIdentifier>
+<msHeading>
+  <author>Boethius</author> 
+  <title type="uniform">Institutio Arithmetica</title> 
+  <origPlace>Eastern France (?)</origPlace> 
+  <origDate notBefore="900" notAfter="925">10th century, early</origDate> 
+  <textLang langKey="LAT">Latin</textLang>
+<note>Four fragments from the same codex, from the end of Book I and beginning of Book II.</note>
+  </msHeading>
+<msContents>
+ <msItem n="1">
+  <locus from="1r" to="23v">ff. 1r-23v</locus> 
+  <author>Boethius, Anicius Manlius Torquatus Severinus</author> 
+  <title type="uniform">Institutio Arithmetica</title> 
+ <msItem n="1.1">
+  <locus from="1r" to="8v">ff. 1r-8v</locus> 
+  <incipit defective="yes">duobus secundis et tertio id est xxv</incipit> 
+  <explicit defective="yes">ad hunc modum infinita progressio est omnesque ex ordine trianguli aequilateri procreabuntur</explicit> 
+  <note><p>Corresponding to 1.32.18-2.8.1.</p>
+<p>Cfr. Köln Dombibliothek, Codices 83, 185 and 186 (http://www.ceec.uni-koeln.de/).</p>
+</note> 
+  </msItem>
+
+ <msItem n="1.2">
+  <locus from="9r" to="9v">ff. 9r-v</locus> 
+  <incipit defective="yes">ab his inter quos bene loquendi ratio non neglegitur</incipit> 
+  <explicit defective="yes">Quod si continuatim quis faciat, cunctos huiusmodi numeros in competenti ordine procreatos videbit</explicit> 
+  <note>Corresponding to 2.27.4-2.28.7.</note> 
+  </msItem>
+
+ <msItem n="1.3">
+  <locus from="10r" to="11v">ff. 10r-11v</locus> 
+  <incipit defective="yes">Tetragoni</incipit> 
+  <explicit defective="yes">Nam si omnes ab unitate impares disponantur, iuncti figuras cybicas explicabunt: I: III: V: VII: VIIII: XI: XIII: XV: XVII: XVIIII: XXI</explicit> 
+ <note>Begins with two illustrations that end 2.34.2, following which is the rubric to 2.35.1: 
+  <q>Quemadmodum quadrati ex parte altera longioribus vel parte longiores ex quadratis fiant</q>corresponding to 2.34.2-2.39.2.</note>
+  </msItem>
+
+ <msItem n="1.4">
+  <locus from="12r" to="23r">ff. 12r-23r</locus> 
+  <incipit defective="yes">Quae medietatis quibus rerum publicarum statibus comparentur</incipit> 
+  <explicit defective="yes">huius discriptiones subter exemplar adiecimus</explicit> 
+  <note><p>Corresponding to 2.45.1-2.54.9; on f. 17r there is an illustration from elsewhere in the manuscript.</p>
+<p>Following the explicit there are four illustrations.</p>
+<p>F. 23v: blank.</p>
+</note> 
+  </msItem>
+  </msItem>
+  </msContents>
+<physDesc>
+ <support>
+  <p>Parchment</p> 
+  </support>
+ <extent>ff. i (modern parchment) + 23 (every other leaf is an unfoliated Japanese paper leaf) + xxiv (modern paper) + i (modern parchment)<dimensions type="leaves" scope="all">
+  <height>215</height><width>195</width>mm.</dimensions></extent>
+<collation><p>Original collation disturbed by restoration and rebinding in 1964.</p> 
+  </collation>
+ <layout columns="2" writtenLines="26 lines per column">
+  <p>Ruled with a dry point; no trace of pricking. Written in two columns throughout, each of 26 lines.</p> 
+  </layout>
+ <msWriting hands="1">
+ <handDesc script="caroline minuscule" medium="ink" scope="sole">
+  <p>Caroline minuscule; written in one hand, with the exception of ff. 22-23, rewritten in the 11th-12th century; rubricated.</p> 
+  </handDesc>
+  </msWriting>
+
+ <decoration>
+ <decoNote type="diagrams" subtype="arithmetical" technique="pen drawn" figurative="no">
+  <p>Didactic diagrams illustrating the text, carefully traced in thin lines of red ink with the use of ruler and compasses, one full page diagram on f. <locus>23r</locus> with decorative elements. Retracings and secondary diagrams in brown ink.</p>
+<p>Initials in square capitals with some exceptions in uncials, elegantly drawn
+	  mostly in brown ink, contemporary with the main portion of the
+	  text. A large initial (S) begins Book II on
+	  f. <locus>2v</locus>. Secondary initials on ff. <locus from="22r" to="22v">22r and 22v</locus> show simple floral ornamentation.</p>
+<p>Detailed description: f. <locus>23r</locus>: Full page decoration with a combination of four separate rubricated diagrams within a common decorated frame, illustration to II:54:9. Above left Geometrica, a diagram with a horizontal band divided into four with two concentric segments of a circle above, the outer of which connects the outermost fields, and the inner, which is divided by a vertical line, connects the two central fields, and below two intersecting segments connecting the outer fields with the central field in the opposite half of the horizontal band. Above right Arithmetica, a diagram with a horizontal band divided into four with two concentric segments of a circle above, the outer of which connects the outermost fields, and the inner, which is divided by a vertical line, connects the two central fields, and below a larger segment connecting the far left field with the central right, and a smaller segment connecting the far right field with the central right. Below left Armonica, a diagram with a horizontal band divided into two bands of which the upper is divided into four fields with two concentric segments of a circle above, the outer of which connects the outermost fields, and the inner, which is divided by a vertical line, connects the two central fields. The lower band is divided into two and two arches connect the outer parts of the fields with the division line in the middle. Below right Consonantiae, a diagram with a vertical band divided into four with a large segment of a circle to the left connecting the outer fields and three smaller segments connecting the respectively juxtaposed fields. To the right two intersecting segments connect the outer fields with the central field in the opposite half of the vertical band. The diagrams are separated from each other by a cruciform decoration consisting of two parallel lines transgressing the frame and ending with knobbed sprouts which diverge in the vertical axis, and intersect in the horizontal axis, and a secondarily enhanced cross inscribed between these lines with knobs at the ends and in the center. Short knobbed sprouts of the same kind protrude from the corners of the frame.</p>
+<p>In comparison with the luxurious Bamberg manuscript of De Arithmetica, Bamberg Staatsbibliothek, Class. 8 (H.J.IV.12),  there is a marked absence of independent artistry in Medeltidshandskrift 1. The simplicity of the diagrammatic decoration presents us with a neutral complement to the text, common also in astronomical and geometrical treatises throughout the Middle Ages, without any stylistic features connecting the decoration with the art historical currents of eastern France to which the manuscript has been ascribed on palaeographical grounds, or any other region. There is reason to believe that the attitude towards the diagrams as part of the text rather than images justified an exact copying of the exemplar instead of an interpretation in the taste of the day,  which makes the only decorated illustration the more interesting.</p>
+<p>The full page diagram on f. <locus>23r</locus> displays characteristic protrusions in the framework. Though simple in design they are distinct enough to say that they do not convey to the notion of either Franco-Saxon style in particular or late Carolingian style as a whole, but show closer affinities to insular decoration. The spelling and abbreviations in the Lund manuscript noted by Lehmann seem to confirm the textual dependence of an insular prototype. Parallels to the frame in this manuscript are to be found in the evangelist portraits in the Trier Gospels and the Macregol Gospels. In detail, however, insular book illumination often show a more elaborated interlace pattern, whereas the simpler kind of knobbed sprouts are found in late antique works of art in different media.</p>
+<p>In comparison to diagrams and schemas in related works on the liberal arts by Cassiodorus and the Corpus Agrimensorum, with which De Arithmetica was often associated,  there is a striking similarity in execution independent of the manuscript's date or place of origin. In the case of the Corpus Agrimensorum, which is preserved in both 6th century manuscripts and later copies, it can be stated that the Carolingian artists followed their exemplars very closely. Suggesting that the same can be suspected of the relation between Medeltidshandskrift 1 and its prototype, it is likely that its decoration represents a faithful copy ultimately derived from a 6th century exemplar without extensive alterations.</p>
+<p>The mediatory role played by the insular monasteries during the 7th and 8th centuries to promote classical learning is well known, and De Arithmetica was translated by Alfred the Great in the 9th century. Considering the convincing late antique character of the framework on f. <locus>23r</locus> it seems plausible that an insular 8th century copy of a late antique prototype was the immediate exemplar of Medeltidshandskrift 1.</p>
+<p>The importance of the monastery of Fleury in the dissemination of Boethius texts, and the contacts between Fleury and English monasteries during the 10th century are well documented, and preserved late carolingian copies from its scriptorium such as e.g. the Codex Schoenbergianus have many features in common with Medeltidshandskrift 1. Hypothetically, thus, Fleury is perhaps the most likely point where different tendencies as the Carolingian script, the classical layout and the insular spelling converge.</p>
+<p>The combination of the diagrams on f. <locus>23r</locus> form the picturing of the "maxima et perfecta symphonia, quae tribus distenditur interuallis" which is the subject of II:54. The concept, based on Timaios of Plato and De Caelo of Aristotle, is set in a Christian context by Boethius and becomes a parallel to the concordance of the gospels, the "evangelical harmony". The similarity of the setup of the Boethius page to the cruciform pages with all four evangelist symbols in The Book of Kells,  The Trier Gospels and the Macdurnan Gospels cannot be ignored. In the light of the arian conflict at the time of Boethius, the emphasis on symphonia as opposed to differentia gives a profound theological dimension to the mathematical treatise, an idea procurred by Boethius also in his text De Trinitate.</p></decoNote>
+</decoration>
+ <bindingDesc>
+ <binding contemporary="no">
+  <p>Blind-tooled dark brown leather binding, preserved covers northern Europe, likely Denmark or Germany, late 15th or early 16th century. Rebinding signed by Hans Heiland Germany, Stuttgart 1964. Size: 232 x 220 x 34 mm.</p>
+<p>Dark brown leather binding over thick square edged wooden boards. Rebinding with covers from former binding preserved. One engraved metal hook-clasp fastening at fore-edge, new nails, rivets and strap. Tight back with four double raised bands. Trimmed edges. Single flyleaves and separate pastedowns of parchment. A preserved piece of endpaper with former shelf marks (cfr. above) mounted on front pastedown. All along sewing on four double cords laced through the boards. Two thick additional quires of Japanese paper at the end of the textblock. Textblock restored and foliated with Japanese paper. Photographic documentation of former binding and description of the rebinding mounted on pastedown of the lower cover.</p>
+<p>The covers are blind-tooled with a triple line fillet border and panel decorated with rosettes, a lozenge and a floral tool. The panel is divided into ogival diapers by a repeated panel-stamped pomegranate ornament.</p></binding>
+</bindingDesc>
+<foliation><p>The parchment leaves are foliated in pencil by modern cataloguer in upper right corner; the Japanese paper leaves are un-foliated.</p></foliation>
+
+  </physDesc>
+<history>
+ <origin><p>Written in Eastern France in the early 10th century.</p>
+</origin>
+ <provenance><p>The manuscript appears to have been the property of the library of Lund Cathedral (cfr. former shelfmarks).</p>
+</provenance>
+ <acquisition>
+  <p>The manuscript came to the library in 1708 from the estate of professor Andreas Riddermarck (1651-1707).</p>
+</acquisition>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source><p>Catalogued and encoded in April of 2002 by Eva Nilsson Nylander.</p>
+  </source>
+<change>
+<date rend="creation">2005-06-15</date>
+<respStmt>
+<name>sigge</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+ <bibl>
+  <editor>Guillaumin, Jean-Yves</editor> 
+  <author>Boethius</author> 
+  <title level="m">Boèce, Institution arithmétique</title> 
+ <imprint>
+  <pubPlace>Paris</pubPlace> 
+  <date>1995</date> 
+  </imprint>
+  <biblScope type="pages">pp. lxxiii</biblScope> 
+  <note>Medeltidshandskrift 1 is Guillaumin's nr 73.</note> 
+  </bibl>
+
+<bibl>
+  <author>Boethius</author> 
+<title level="m">Anicii Manlii Severini Boethii De Arithmetica</title>
+<editor>cura et studio Henrici Oosthout et Iohannis Schilling</editor>
+<title level="s">Corpus Christianorum. Series Latina</title>
+<biblScope type="volume">94 A. Anicii Manlii Severinii Boethii Opera. Pars II.</biblScope>
+<imprint>
+<pubPlace>Turnhout - Belgium</pubPlace>
+<date>1999</date>
+</imprint>
+  <biblScope type="pages">p. ix</biblScope> 
+</bibl>
+
+ <bibl>
+  <author>Lehmann, P.</author> 
+  <title level="a">Skandinavische Reisefrüchte. 1. Nachlese 1-2</title> 
+  <title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title> 
+  <biblScope type="volume">24</biblScope> 
+ <imprint>
+  <date>1937</date> 
+  </imprint>
+  <biblScope type="pages">pp. 103-120 (esp. p. 106)</biblScope>
+</bibl>
+
+ <bibl>
+  <author>Paulson, J.</author> 
+  <title level="a">De fragmento Lundensii Boetii de institutione arithmetica librorum</title> 
+  <title level="j">Lunds univiversitets årsskrift</title> 
+  <biblScope type="volume">21</biblScope> 
+ <imprint>
+  <pubPlace>Lundae</pubPlace> 
+  <date>1885</date> 
+  </imprint>
+  <biblScope type="pages">pp. 1-30</biblScope> 
+  </bibl>
+
+ <bibl>
+  <author>Pellegrin, E.</author> 
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservés dans les bibliothèques publiques de Suède</title>
+  <title level="j">Bulletin d'information de l'institut de recherches et d'histoire des textes</title> 
+  <biblScope type="volume">3</biblScope> 
+ <imprint>
+  <pubPlace>Paris</pubPlace> 
+  <date>1954</date> 
+  </imprint>
+  <biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope> 
+  </bibl>
+  </listBibl>
+</additional>
+</msDescription>

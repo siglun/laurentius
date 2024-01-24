@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_50">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<institution>Lund Observatory</institution>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 50</idno>
+<altName type="former shelfmark">Astron.</altName>
+<altName type="database-identifier">scriptorium:Mh:622202:1127733622</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Miscellany: Astronomy</title> 
+    <!--origPlace>Unknown place of origin</origPlace-->
+    <origDate notBefore="1180" notAfter="1300">13th century, late
+      (ab. 1300)</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains mostly tables.</p>
+      <p>In deposition.</p></note>
+  </msHeading>
+<physDesc>
+    <support><p>Parchment and paper</p></support>
+    <extent>ff. i +
+      80,<dimensions><height>300</height><width>215</width></dimensions>mm.
+    </extent> 
+
+    <bindingDesc>
+      <binding><p>Reversed whittawed leather binding, contemporary with the
+	  manuscript. Size: 315 x 230 x 45 mm.</p> 
+	<p>Reversed whittawed leather binding over rounded beech boards. The
+	  covering is worn, partly torn and missing at the spine. A piece of
+	  parchment manuscript waste with seven initials in alternating red or
+	  blue with restricted pen flourishes in opposite colour has been used
+	  for later repair of the back. The parchment is torn, defect and does
+	  not hold to the spine. Traces of two lost metal fastenings at
+	  fore-edge. Trimmed edges. Pastedowns of parchment, detached from
+	  boards. The joints are repaired by large hinges of parchment
+	  strips. Endbands missing. All along packed sewing on four double
+	  leather thongs laced through the boards. All sewing supports are
+	  cracked in the joints except one of the lower board.</p>
+      </binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_63">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 63</idno>
+<altName type="database-identifier">scriptorium:Mh:654719:1127809706</altName>
+</msIdentifier>
+<msHeading>
+    <author>Boethius</author>
+    <title type="uniform">De consolatione philosophiae</title> 
+    <origPlace>France (?)</origPlace>
+    <origDate notBefore="1450" notAfter="1500">15th century, later half</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note>The manuscript is bound with: Augustinus de Ancona, Summa de
+      ecclesiastica potestate, printed in Lyon before 1480, and with Medeltidshandskrift 62 and 64.</note> 
+  </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="47r">ff. 1r-47r</locus>
+<author>Boethius, Anicius Manlius Torquatus Severinus</author> 
+<title type="uniform">De consolatione philosophiae</title>
+<incipit>Carmina qui quondam studio florente peregi</incipit>
+<explicit>cum ante oculos agitis iudicis cuncta cernentis.</explicit>
+<rubric type="final">Finit quintus et ultimus liber Boetii de consolatione philosophie.</rubric>
+<note>Book 1: ff. 1r-8r; book 2: ff. 8v-17v; book 3: ff. 17v-32r; book 4: ff. 32r-41r; book 5: ff. 41v-47r; f. 47v: blank. </note>
+<listBibl>
+<bibl>
+<title level="m">Anici Manli Severini Boethi De consolatione philosophiae libri quinque,</title>
+<editor>quos denuo recognovit adnotationibus illustravit adiectis apparatu critico bibliographia indicibus biblioco et alageriano Adrianus A Forti Scuto; opus mortuo auctore ... edendum curavit Georgius D. Smith.</editor>
+<imprint>
+<pubPlace>Londini,</pubPlace>
+<date>1925.</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+</msContents>
+<physDesc>
+<support>
+      <p>Paper</p>
+    <watermarks>
+	<p>Watermarks, close to but not identical with <ref>Briquet 4890</ref> and
+	    <ref>Briquet 4893</ref> e.g. on f. 45.</p></watermarks></support>
+    <extent>ff. 47, <dimensions><height>292</height><width>215</width></dimensions> mm.</extent>
+<collation><p>4 quires: I: 12 (ff. 1-12), II: 12 (ff. 13-24), III: 12 (ff. 25-36), IV: 11 (ff. 37-47).</p></collation>
+<layout columns="3"><p>Ruled in ink in three columns for text with commentary.</p>
+</layout>
+<msWriting>
+<handDesc script="Cursiva Recentior Libraria"><p>
+Several hands; main text: Cursiva Recentior Libraria; margins: hybrida currens.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>Red lombards. Small drawing in left margin on f. <locus>13r</locus> in brown and red ink, concentric circles depicting an orb with a towered building on top. Brackets and marks in brown ink drawing in the shape of textiles or scrolls (ff. <locus>6v</locus>, <locus>8r</locus>, <locus>12v</locus>, <locus>15r</locus>, <locus>18v</locus>, <locus>22v</locus>, <locus>32r</locus>) and drawings of leaf-ornaments occasionally with red details (ff. <locus>8v</locus>, <locus>11r</locus>, <locus>11v</locus>, <locus>12r</locus>, <locus>13r</locus>, <locus>13v</locus>, <locus>14r</locus>, <locus>14v</locus>, <locus>15r</locus>, <locus>15v</locus>, <locus>17r</locus>, <locus>18r</locus>, <locus>19r</locus>, <locus>20r</locus>, <locus>22r</locus>, <locus>25r</locus>).</p></decoNote>
+</decoration>
+
+    <bindingDesc>
+      <binding><p>Blind-tooled brown calfskin binding, contemporary with the
+	  manuscript, restored back. Size: 300 x 220 x 80 mm.</p> 
+	<p>Brown calfskin binding over square edged wooden boards (type [a],
+	  cfr. Szirmai 1999 p. 219). Later recovering of the back late
+	  19th or 20th century. The covering is worn, loose and partly missing
+	  around endbands and at corners of the boards, the joint is cracked at
+	  the lower part of the upper board. Two engraved hook-clasp fastenings
+	  at fore-edge, engraving: ma[u or ri?]. Hook-clasp and leather strap of upper fastening missing. Lower anchor plate of later date, new nails. Worn
+	  and partly damaged manuscript titles on paper labels in top
+	  compartments and manuscript library code on paper in one of the lower
+	  compartments of the back. Primary wound endbands with secondary
+	  cross-stitched embroidery (type IV fig. 2.24, cfr. Szirmai 1999,
+	  p. 208-209). The endbands are worn and the embroidery partly
+	  missing. Trimmed edges, squares at head and tail. All along sewing on
+	  three double split leather thongs laced through the boards. Some of
+	  the bands are partly cracked at the joints of the upper
+	  board. Endleaves missing.</p> 
+	<p>The covers are blind-tooled with double fillets into a large frame
+	  and central panel. The frame is stamped with an inscribed curved
+	  ribbon tool into a partly irregular undulated and crossed pattern;
+	  the corner compartments contain a large rosette placed in a square
+	  made of the same ribbon tool. The central panel is stamped into
+	  repeated ogival compartments with pomegranates in the centre. The
+	  back is blind-tooled with double fillets next to the
+	  bands.</p>
+      </binding> 
+    </bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner.</p></foliation>
+<additions><p>Annotated. Pointing hands in the margins throughout the manuscript.</p></additions>
+</physDesc>
+<history>
+    <origin><p>France (?), second half of 15th century.</p></origin>
+<provenance><p>There is a note on the first leaf of the printed book (with which the manuscript part is bound) saying that the book once belonged to a reformed Franciscan convent in Bolzano: <q>Conventu. Frum Min. reform. Bolsanensium</q>.</p>
+<p>There is another note on the former front flyeaf, now a loose sheet, saying <q>Franciscus Borthanis me possidet</q>.</p></provenance>
+    <acquisition><p>It is unknown how and when the book came to the University library. There is a loose slip with a note in the hand of Per Ekström (librarian 1969-99) saying: <q>okat. Bland Callmers kvarlåtenskap (1985).</q></p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded <date>in January of 2005</date> by <name>Eva Nilsson Nylander </name></p>
+</source>
+<change>
+<date rend="creation">2005-09-27</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-27</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

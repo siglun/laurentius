@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_42">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 42</idno>
+<altName type="former shelfmark">Phillipps Ms 9153</altName>
+<altName type="database-identifier">scriptorium:Mh:153597:1127732005</altName>
+</msIdentifier>
+<msHeading>
+<author>Cicero</author>
+<title>Selected works</title>
+<origPlace>Italy</origPlace>
+<origDate notBefore="1400" notAfter="1500">15th century</origDate>
+<textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="85r">ff. 1r-85r</locus>
+<author>Cicero, Marcus Tullius</author>
+<title type="uniform">Brutus, sive de claris oratoribus liber</title>
+<listBibl>
+<bibl>
+<title level="m">M. Tulli Ciceronis Rhetorica,</title>
+<editor>recognovit brevique adnotatione critica instruxit A. S. Wilkins</editor>
+<imprint>
+<pubPlace>Oxonii,</pubPlace>
+<date>1903</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="2">
+<locus from="85v" to="112v">ff. 85v-112v</locus>
+<author>Cicero, Marcus Tullius</author>
+<title type="uniform">Partitiones oratoriae</title>
+<listBibl>
+<bibl>
+<title level="m">M. Tulli Ciceronis Rhetorica,</title>
+<editor>recognovit brevique adnotatione critica instruxit A. S. Wilkins.</editor>
+<imprint>
+<pubPlace>Oxonii,</pubPlace>
+<date>1903</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="3">
+<locus from="112v" to="113r">ff. 112v-113r</locus>
+<author>Severus, Cornelius</author>
+<title type="uniform">Carmen de morte Ciceronis</title>
+<note><p>Cfr. Seneca, Suasoriae, VI:26.</p>
+<p>Ff. 113v-115r: blank.</p></note>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support><extent>ff. i + 115 (+ f. 75b) + i, <dimensions><height>197</height><width>115</width></dimensions> mm.</extent>
+<collation><p>13 quires: I: 10 (ff. 1-10), II: 10 (ff. 11-20), III: 10 (ff. 21-30), IV: 8 (ff. 31-38), V: 10 (ff. 39-48), VI: 10 (ff. 49-58), VII: 10 (ff. 59-68), VIII: 10 (ff. 69-77), IX: 10 (ff. 78-87), X: 10 (ff. 88-97), XI: 10 (ff. 98-107), XII: 3 (ff. 108-110; f. 110 is added), XIII: 5 (ff. 111-115; f. 114 added. Decorated catch words, vertical from top to bottom at the end of each quire except the last two.</p></collation>
+<layout columns="1" writtenLines="25"><p>Ruled in ink, pricked in upper and lower margin; 1 column, 25 written lines.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="cursive"><p>Italian humanistic cursive script; one hand; the first quire has contemporary marginal notes in red ink.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>The intended initials were never executed.</p></decoNote>
+</decoration>
+<bindingDesc>
+<binding><p>Blind- and gold-tooled brown goatskin binding. Italy, contemporary with the manuscript, rebacked and restored 20th century. (cfr. Hobson 1989 pp 19; 91 sqq.). Size: 209 x 128 x 31 mm.</p>
+<p>Brown goatskin binding over thin wooden boards. Rebacked, front edge corner of lower cover new, leather fragment of former binding preserved at the tail compartment of the back. Fastenings at head-, tail- and fore-edge missing. Tight back with three double raised bands. Defect gilt title on red label in second compartment (19th century) and a blind-tooled library code at the tail of the back. Embroidered endbands of green and red silk later cut flush with the spine. Gilt edges. Single flyleaves of parchment, former endpapers preserved as separate pastedowns. All along sewing on three raised double cords. Sewing restored at first and last gatherings.</p>
+<p>The covers are blind-tooled with a triple fillet border and a mitred panel of six blind fillets containing an over-all design of twisted rope tooling. A gilt medallion with a head is stamped in a square centrepiece of the panel. Gilt roundels "alla fiorentina" are scattered over the design (remains of gilding in one roundel of the lower cover). The leather fragment of the back shows a diapered decoration made of a blind-tooled triple fillet.</p></binding>
+</bindingDesc>
+
+<foliation><p>The manuscript is foliated in pencil in upper right corner by modern cataloguer.</p></foliation>
+</physDesc>
+<history>
+<origin><p>Italy, 15th century.</p></origin>
+<provenance><p>The manuscript was part of the collection of Sir Thomas Phillipps, 1st Bt (1792-1872) dispersed between 1886 and 1938 (cfr. Edwards, Memoirs of libraries. Vol. 2, London 1859, pp. 159 sqq.) where it had the callnumber 9153 (cfr. note on front pastedown).</p></provenance>
+<acquisition><p>The University Library bought it in 1926 from S. Lindstam, in Gothenburg.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in May of 2002 by.</p>
+</source>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Pellegrin, E.</author>
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservès dans les bibliothèques publiques de Suède</title>
+<title level="j">Bulletin d'information de l'institut de recherches et d'histoire des texts</title>
+<biblScope type="volume">3 (1954)</biblScope>
+<imprint>
+<date>1955</date>
+</imprint>
+<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

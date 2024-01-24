@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_46">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<institution>Lund Observatory</institution>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 46</idno>
+<altName type="former shelfmark">Astron.</altName>
+<altName type="database-identifier">scriptorium:Mh:186879:1127732663</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Astronomical pictorial work</title> 
+    <origPlace>Italy (?)</origPlace>
+    <origDate notBefore="1500" notAfter="1550">16th century, first
+      half</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>With figures illustrating the movements of the planets.</p>
+      <p>In deposition.</p></note>
+  </msHeading>
+<physDesc>
+    <support><p>Paper</p></support>
+    <extent>ff. i + 34 +
+      i,<dimensions><height>375</height><width>245</width></dimensions>mm.
+    </extent> 
+    <decoration>
+      <decoNote>
+	<p>All of the manuscript consists of lavish full page diagrams
+	  (f. <locus>3r</locus>, <locus>3v</locus>, <locus>8r</locus>,
+	  <locus>8v</locus>, <locus>9r</locus>, <locus>9v</locus>,
+	  <locus>10r</locus>, <locus>12r</locus>, <locus>12v</locus>,
+	  <locus>13r</locus>, <locus>13v</locus>, <locus>15r</locus>,
+	  <locus>15v</locus>, <locus>17r</locus>, <locus>17v</locus>,
+	  <locus>18r</locus>, <locus>18v</locus>, <locus>19r</locus>,
+	  <locus>19v</locus>, <locus>20r</locus>, <locus>20v</locus>,
+	  <locus>21r</locus>, <locus>21v</locus>, <locus>23r</locus>,
+	  <locus>23v</locus>, <locus>24r</locus>, <locus>25r</locus>,
+	  <locus>25v</locus>, <locus>26r</locus>, <locus>26v</locus>,
+	  <locus>27r</locus>, <locus>29r</locus>, <locus>29v</locus>,
+	  <locus>30r</locus>, <locus>31r</locus>, <locus>31v</locus> (enlarged
+	  segment), <locus>32v</locus>, <locus>33r</locus>) and intricate
+	  volvelles with moving parts (f. <locus>2v</locus>, <locus>4v</locus>,
+	  <locus>5v</locus>, <locus>6v</locus>, <locus>7v</locus>,
+	  <locus>11v</locus>, <locus>14v</locus>, <locus>22r</locus>,
+	  <locus>22v</locus>, <locus>28v</locus>, <locus>32r</locus>)  in black
+	  and red ink, illustrating different aspects of the zodiac, the orbits
+	  of the planets, solar and lunar eclipses, the faces of the moon
+	  etc. explained in the respective rubrics. Place reserved for one
+	  further volvelle on f. <locus>16v</locus>.</p>
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Half parchment case binding with red and blue marbled
+	  paper. Sweden 20th century, after 1946. Size: 383 x 262 x 20 mm.</p> 
+	<p>Half parchment case binding with red and blue marbled paper over
+	  millboards. Rounded spine, hollow back. Gilt title in second
+	  compartment of the back and with library codes in pencil
+	  below. Stuck-on endbands of striped white and blue tissue. Untrimmed
+	  edges. Plain single flyleaves and pastedowns of paper. All along
+	  sewing on four tapes. The back is divided in six compartments by a
+	  gilt floral line.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

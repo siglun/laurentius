@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_29">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 29</idno>
+<altName type="nickname" lang="LAT">Breviarium Leydesdorpense</altName>
+<altName type="former shelfmark">Biblioth. Meckiana XXIII</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a)4:o 3</altName>
+<altName type="database-identifier">scriptorium:Mh:258938:1135247597</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Breviary, summer part</title> 
+  <origPlace>Holland (Leyderdorp)</origPlace>
+  <origDate notBefore="1450" notAfter="1500">15th century, second half</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="84r">ff. 1r-84r</locus>
+<title type="uniform">Temporale</title>
+<rubric>In die sancto pasche</rubric>
+<incipit>ant. Ego sum qui sum</incipit>
+<explicit>Tu autem domini miserere nostri. Deo gratias</explicit>
+</msItem>
+
+
+<msItem n="2">
+<locus from="84v" to="98v">ff. 84v-98v</locus>
+<title type="uniform">Sanctorale</title>
+<rubric>Incipit commune sanctorum. De quinto apostolo</rubric>
+<incipit>Regem apostolorum dominum. Venite adoremus</incipit>
+<explicit>Te deum dicitur</explicit>
+</msItem>
+
+<msItem n="3">
+<locus from="98v" to="102r">ff. 98v-102r</locus>
+<title type="uniform">Hymnarium</title>
+<rubric>Ab octava pasche usque ad ascensionem domini</rubric>
+<incipit>Aurora lucis rutilat</incipit>
+<explicit>et potestas per eterna secula. Amen.</explicit>
+</msItem>
+
+<msItem n="4">
+<locus from="103r" to="187r">ff. 103r-187r</locus>
+<title type="uniform">Sanctorale</title>
+<rubric>Incipit commune sanctorum tempore paschali ... De uno martire</rubric>
+<incipit>Alleluya. Regem martirum dominum. Venite adoremus</incipit>
+<explicit>nullus fidelius ambigat. Tu autem. Deo gratias</explicit>
+<colophon>Explicit per manus fratris arnoldi dilophi de leydis conventualis in leyderdorp extra tempus communis laboris.</colophon>
+</msItem>
+
+</msContents>
+<physDesc>
+<support><p>Paper and parchment (outer and central bifolia in parchment).</p><watermarks><p>There is a unicorn in quires I-II, V, VII, IX-X; there is a letter P with bifurcated foot and a quatrefoil in quires XII-XIII, XVII and XXI. Quires III-IV, VI, VIII, XI, XVI, XV, XVIII-XX, XXII-XXIII have no watermarks.</p></watermarks>
+</support>
+<extent>ff. i + 188 + ii.<dimensions><height>145</height><width>96</width></dimensions>mm.</extent>
+
+<collation><p>23 quires: I: 8 (ff. 1-8); II: 8 (ff. 9-16); III: 8 (ff. 17-24); IV: 8 (ff. 25-32); V: 8 (ff.- 33-40); VI: 8 (ff. 41-48); VII: 8 (ff. 49-56); VIII: 8 (ff. 57-64); IX: 8 (ff. 65-72); X: 12 (ff. 73-84); XI: 8 (ff. 85-92); XII: 10 (ff. 93-102); XIII: 8 (ff. 103-110); XIV: 8 (ff. 111-118); XV: 8 (ff. 119-126); XVI: 8 (ff. 127-134); XVII: 8 (ff. 135-142); XVIII: 8 (ff. 143-150); XIX: 8 (ff. 151-158); XX: 8 (ff. 159-166); XXI: 8 (ff. 167-174); XXII: 8 (ff. 175-182); XXIII: 6 (183-188). No catchwords. Leaf signatures in pencil in quires II, III, IV, VII, IX, X (leaves 2 and 3); in quire XII - leaves 3 and 4; in quire XIV - leaves 1, 2 and 3; in quires XV, XVI, XVII, XIX, XX and XXI - leaves 1, 2, 3 and 4; in quire XXIII - leaves 1 and 2, always  in lower right corner of recto.</p>
+</collation>
+
+<layout columns="2" writtenLines="28"><p>2 columns (intercolumnium of 10 mm.), 28 lines; pricking in the outer, upper and lower margins, ruled in ink, ; f. 102v and ff. 187v-188v: blank.
+</p>
+</layout>
+
+
+<msWriting><handDesc><p>Netherlandish hybrida; 1 scribe (Arnoldus Dilophi de Leydis); colophon on f. 187r in cursiva. Change of ink in ff. 49r-55v.
+</p>
+</handDesc>
+</msWriting> 
+
+<decoration>
+<decoNote><p>Blue initials and lombards, often with white void decoration, delicately pen flourished with thin ondulating lines in red. Size and amount of decoration is not always consistent with the hierarchy of the initials in relation to the texts, but four main degrees of decorated initials can be discerned: Blue decorated initials, four to five lines in height, with pen flourished full border in red on ff. <locus>1r</locus> (heightened with details in green), <locus>63v</locus> described separately; decorated blue initials, four to five lines in height, with extensive pen flourishes in red on ff. <locus>21v</locus>, <locus>28r</locus>, <locus>39r</locus>, <locus>52v</locus>, <locus>85r</locus>, <locus>116v</locus>; blue lombards, occasionally slightly decorated, three to four lines in height, with 1/3 - 1/2 pen flourished border in red on f. <locus>6r</locus>, <locus>8r</locus>, <locus>19r</locus>, <locus>32v</locus>, <locus>40v</locus>, <locus>42r</locus>, <locus>43v</locus>, <locus>45v</locus> (with pen flourish extending into lower margin), <locus>47r</locus>, <locus>48v</locus>, <locus>50r</locus>, <locus>51v</locus>, <locus>53v</locus>, <locus>54r</locus>, <locus>56r</locus>, <locus>58r</locus>, <locus>58v</locus>, <locus>60r</locus>, <locus>60v</locus>, <locus>62v</locus>, <locus>64v</locus>, <locus>67v</locus>, <locus>70v</locus>, <locus>71v</locus>, <locus>73v</locus>, <locus>74r</locus>, <locus>75v</locus>, <locus>89v</locus>, <locus>92r</locus>, <locus>94r</locus>, <locus>95r</locus>, <locus>101r</locus>, <locus>104r</locus>, <locus>105r</locus>, <locus>106r</locus>, <locus>107v</locus>, <locus>109r</locus>, <locus>110v</locus>, <locus>114r</locus>, <locus>119v</locus>, <locus>124r</locus>, <locus>127v</locus>, <locus>129r</locus>, <locus>130r</locus> (with pen flourish extending into upper margin), <locus>131r</locus>, <locus>135r</locus>, <locus>142r</locus>, <locus>146r</locus>, <locus>146v</locus>, <locus>147v</locus>, <locus>153v</locus>, <locus>159r</locus>, <locus>160r</locus>, <locus>161r</locus>, <locus>162r</locus>, <locus>163v</locus>, <locus>166r</locus>, <locus>168v</locus>, <locus>169v</locus>, <locus>171r</locus>, <locus>172v</locus>, <locus>174r</locus>, <locus>184r</locus>, <locus>185v</locus>; blue lombards, three lines in height, with pen flourishes in red restricted to the immediate area surrounding the initial on ff. <locus>12r</locus>, <locus>15r</locus>, <locus>26r</locus>, <locus>37v</locus>, <locus>38r</locus>, <locus>55r</locus>, <locus>66r</locus>, <locus>69r</locus>, <locus>72v</locus>, <locus>87r</locus>, <locus>97r</locus>, <locus>98v</locus>, <locus>102r</locus>, <locus>112v</locus>, <locus>133r</locus>, <locus>149v</locus>, <locus>154v</locus>, <locus>158r</locus>, <locus>165r</locus>, <locus>177r</locus>.</p>
+<p>Detailed description: f. <locus>1r</locus>: Blue initial I with floral white void decoration flanked by pen flourished pearl bordure in red heightened with green, and accompanied by pen flourishes extending vertically along left margin, and horizontally in organically ondulating lines in lower margin heightened with green;
+f. <locus>63v</locus>: Blue initial E with simple white void decoration, filled with filigranated leaf pattern and flanked by extensive ondulating pen flourishes in red along left margin.</p>
+<p>Style: All initials are apparently executed by the same artist, presumably identical with the scribe Arnold from Leiden, active in Leydendorp. Features characteristic of Dutch pen flourishes as the delicately ondulating lines with interspersed hooks and small circles are very close in style to the products from Delft (e.g. Medeltidshandskrift 32a) not far south of Leiden. In Medeltidshandskrift 29 the decoration is less fluent and distinct however, although executed by an accomplished artist.</p></decoNote>
+</decoration>
+
+
+    <bindingDesc>
+      <binding><p>Panel-stamped brown calfskin binding. Netherlands, likely Leyderdorp, contemporary with the manuscript. Rebacking, Germany, signed in pencil on the inside of the lower cover: <q>Restauriert Stefan Heiland 1963</q>. Size: 148 x 118 x 55 mm.</p>
+<p>Brown calfskin binding over rounded wooden boards, rebacked with former back covering preserved. Joints with some cracking. Two metal hook-clasp fastenings at fore-edge, straps and hooks missing. Rounded and backed spine. Tight back with four raised bands. Saddle-stitched endbands, resewn with the new back. Trimmed edges, no squares. One flyleaf and pastedown at the front and three flyleaves and pastedown of parchment at the back. Back pastedown mounted on former pastedown. On f. i verso several former library shelf marks: <q>Bibl. Ms. H. L.  a) 4o 3</q> and another, erased and illegible note. It might have carried the same text as the cancelled note, in a later hand (Gustaf Sommelius, d. 1799, librarian?) , below: <q>Arnoldi Fratris Philosophi Leidensis Exegesis Evangeliorum</q>, a note that might explain Kernkamp's mistaken reading of the colophon (<q>explicatio psalmorum fratris</q> instead of <q>explicit per manus fratris</q>). There is also a note with the Meck callnumber: <q>Mscr: é Biblioth. Meckiana No XXIII.</q> The back pastedown contains two modern shelf marks (29), one of which is a piece of paper glued to the lower part of the pastedown; the other is on artificial leather, in the form of a bookmark, glued to the inner corner of the pastedown so as to be visible even when the book is closed. Inner joints restored with Japanese paper. All along sewing on three raised cords laced through the boards.</p>
+<p>The covers are blind-tooled with a triple fillet frame and a row of rosettes in two alternating sizes enclosing a panel stamped in blind. The panel (80 x 50 mm.) depicts Maria as Regina Humilitatis sitting on the ground with her child. The inscription of the panel border reads: <q>ihesus | maria | o mater dei | memento mei</q>. (cfr. Fogelmark 1999 p. 53, Verheyden 
+1946 p. 155 sqq.).</p></binding></bindingDesc>
+
+<foliation><p>Foliated in pencil in upper right corner by modern cataloguer.</p></foliation>
+
+<additions><p>There is a loose sheet with a note written by August Palm, librarian at the University Library 1856-1907: <q>Breviarium. Pars aestivalis. Från förra hälften af 1400-talet</q> and there is a note, also in Palm's hand on f. 21v: <q>S. Leonis Ppe</q>.
+</p></additions>
+</physDesc>
+<history>
+    <origin><p>According to the colophon on f. 187r, the manuscript was written in Leyderdorp (Holland) by Arnoldus Dilophi de Leidis, a Canon Regular of the Augustine monastery of St. Mary (Domus Beatae Mariae in Valle Angelorum).</p></origin>
+    <acquisition><p> By the end of the 17th century the book was owned by E. J. Meck (1644-1702). In 1704 the manuscript arrived in the University Library as part of a donation of 25 manuscripts out of which 7 Medieval(see Gerle E. Lunds universitetsbiblioteks historia fram till år 1968, Lund 1984, pp. 47-48).</p></acquisition>
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>Spring of 2004.</date> by Maria Sandomirskaia and Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation">2005-12-22</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-12-22</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Kernkamp, Gerhard Wilhelm</author>
+	<title level="m">Verslag van een onderzoek in Zweden, Noorwegen en
+	  Denemarken naar archivalia, belangrijk voor de geschiedenis van
+	  Nederland,</title>
+	<imprint>
+	  <pubPlace>'s-Gravenhage</pubPlace>
+	  <date>1903</date>
+<biblScope type="pages">p. 3</biblScope>
+	</imprint>
+      </bibl>
+
+      <bibl>
+	<editor>Kohl, Wilhelm et al.</editor>
+	<title level="m">Monasticon Windeshemense. III: Niederlande.</title>
+	<title level="s">Archives et Bibliotheques de Belgique : Archief - en
+	  Bibliotheekwezen in Belgie,</title>
+	<biblScope type="volume">16</biblScope>
+	<imprint>
+	  <pubPlace>Brussel</pubPlace>
+	  <date>1980</date>
+<biblScope type="pages">pp. 287-288</biblScope>
+	</imprint>
+      </bibl>
+
+      <bibl>
+	<author>Lievens, Robrecht</author>
+	<title level="m">Middelnederlandse handschriften in
+	  Oost-Europa,</title>
+	<title level="s">Leonard Willemsfonds,</title>
+	<biblScope type="volume">1</biblScope>
+	<imprint>
+	  <pubPlace>Gent</pubPlace>
+	  <date>1963</date>
+<biblScope type="pages">p. 202</biblScope>
+	</imprint>
+      </bibl>
+
+      <bibl>
+	<author>Verheyden, Prosper</author>
+	<title level="a">Een boekband van "den regulieren in Onser Vrowen
+	  Polder" op Walcheren - en de mirakuleuze Lievevrouw aldaar,</title>
+	<title level="j">Ons Geestelijk Erf</title>
+	<biblScope type="volume">20</biblScope>
+	<imprint>
+	  <date>1946</date>
+	</imprint>
+	<biblScope type="pages">pp. 150-173; p. 158</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

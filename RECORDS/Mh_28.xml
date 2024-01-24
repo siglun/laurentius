@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_28">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 28</idno>
+<altName type="database-identifier">scriptorium:Mh:483309:1126266664</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Prayer book</title> 
+  <!--origPlace>Unknown place of origin</origPlace-->
+  <origDate notBefore="1450" notAfter="1500">15th century, second half</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<physDesc>
+  <support><p>Parchment</p></support>
+  <extent>ff. 281<dimensions><height>72</height><width>50</width></dimensions>mm.</extent>
+    <decoration>
+      <decoNote>
+	<p>Four gilt pen flourished initials described below; 24 blue three-,
+	  or two line initials with extended pen flourishes in brownish red
+	  with blue details on f. <locus>6r</locus>, <locus>16v</locus>,
+	  <locus>22r</locus>, <locus>32v</locus>, <locus>36r</locus>,
+	  <locus>39r</locus>, <locus>48v</locus>, <locus>81v</locus>,
+	  <locus>86r</locus>, 
+	  <locus>86v</locus>, <locus>91r</locus>, <locus>91v</locus>,
+	  <locus>101v</locus>, <locus>105r</locus>, <locus>106v</locus> (red
+	  with blue pen flourishes), <locus>116v</locus>, 
+	  <locus>118r</locus>, <locus>146v</locus>, <locus>159v</locus>,
+	  <locus>183r</locus> (red with blue pen flourishes),
+	  <locus>205v</locus>, <locus>220v</locus>, 
+	  <locus>243v</locus>, <locus>249v</locus>;
+	  2 smaller one or two line initials with restricted pen 
+	  flourishes on f. <locus>22v</locus>, <locus>254v</locus> (with
+	  secondary pen flourishes in brown); 
+	  10 lombards with void white pattern decoration on f. <locus>18v</locus>, <locus>36v</locus>, <locus>47v</locus>,
+	  <locus>49v</locus>, <locus>122v</locus>, <locus>129v</locus>,
+	  <locus>145r</locus>, <locus>151r</locus>, <locus>158r</locus>,
+	  <locus>246v</locus>.</p> 
+	<p>Detailed description: f. <locus>1v</locus>: Gilt initial I with pen
+	  flourishes in blue with red details, extending along the entire left
+	  and lower margins; 
+	  f. <locus>92r</locus>: Gilt initial O with decorated filling and
+	  perpendicular pen flourishes in brownish red with small blue dots; 
+	  f. <locus>103v</locus>: Gilt initial S with extending pen flourishes
+	  in pink with blue details; 
+	  f. <locus>168r</locus>: Gilt initial S with rather restricted pen
+	  flourishes in brownish red with blue details.</p></decoNote> 
+    </decoration>
+    <bindingDesc>
+      <binding><p>Blind-tooled dark brown calfskin binding. Contemporary with the manuscript. Rebacking, Germany,
+	  Stuttgart, signed in pencil on the inside of the lower cover:
+	  <q>Restauriert Stefan Heiland 1963</q>. Size: 82 x 68 x 70 mm.</p> 
+	<p>Dark brown calfskin binding over rounded beech boards. Rebacked,
+	  parts of the leather covering of the lower board restored, joints
+	  with some cracking. Traces of one metal fastening on the
+	  covers. Rounded spine. Tight back with three double raised
+	  bands. Trimmed edges. Tail-edge with faded red inscription:
+	  <q>IAN:</q>. Parchment pastedowns. Inner joints reinforced with
+	  Japanese paper but partly cracked at upper cover. Back pastedown with
+	  two library labels of paper and cloth. All along sewing on three
+	  double raised cords laced through the boards. 
+	  The covers are blind-tooled with a triple fillet and a floral roll to
+	  a frame and the central panel filled with vertical multiple
+	  fillets.</p>
+      </binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-09</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-09</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

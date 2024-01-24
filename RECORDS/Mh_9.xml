@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_9">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 9</idno>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o, N:o 15</altName>
+<altName type="former shelfmark">Bibl. Ant. 7.30, N:o 15</altName>
+<altName lang="LAT" type="nickname">Liber decretalium minor</altName>
+<altName type="database-identifier">scriptorium:Mh:976887:1120120903</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Decretals</title> 
+  <origPlace>France (Paris?)</origPlace>
+  <origDate notBefore="1275" notAfter="1300">13th century, last quarter (c. 1280)</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="194r">ff. 1r-194r</locus>
+<title type="uniform">Liber extra</title>
+<incipit defective="yes">quatenus, si ita esse constiterit, revocatis in statum pristinum </incipit>
+<explicit>Indignum est et a Romanae ecclesiae consuetudine alienum, ut pro spiritualibus facere quis homagium compellatur.</explicit>
+<rubric type="final">Explicit liber quintus decretalium</rubric>
+<note><p>The book has been taken apart and restored and leaves have been lost and put together incorrectly.</p>
+<p>Liber I begins defectively on f. 1r with the end of tit. 3, cap. 12.</p>
+<p>Liber II begins defectively on f. 53r with the beginning of tit. 38, cap. 11.</p>
+<p>Liber III begins on f. 70r (cf. decoradetd intitial).</p>
+<p>Liber IV begins on f. 124v (cf. decoradetd intitial).</p>
+<p>Liber V begins defectively on f. 143 in the middle of tit. 1, cap. 10.</p></note>
+</msItem>
+
+<msItem n="2">
+<locus from="194v" to="196v">ff. 194v-196v</locus>
+<!--title type="uniform">???/Gamla katalogen säger: Novellae of Innocence IV</title-->
+<!--rubric></rubric-->
+<!--incipit></incipit-->
+<!--incipit defective="yes"></incipit-->
+<note><!--p>Vad är det för texter på ff. 194r-196v??
+Jag har skrivit till Anders Winroth 28 juni 2005.
+Han är out of office till den 10 juli.</p--></note>
+</msItem>
+
+<msItem n="3">
+<locus from="197r" to="204v">ff. 197r-204v</locus>
+<title type="uniform">Liber sextus</title>
+<incipit defective="yes">ganei sui excommunicationis sententiam ex aliqua rationabili causa profert</incipit>
+<explicit defective="yes">pro utilitate communi contra iuris asperitatem exe</explicit>
+<note><p>This last quire is presumably from another, slightly later, book.</p>
+<p>The text begins defectively in the middle of Liber I, tit. 13, cap. 1 and ends in in Liber II, tit. 14, cap. 3.</p></note>
+</msItem>
+
+</msContents>
+<physDesc>
+  <support><p>Parchment</p></support>
+  <extent>ff. ii + 206 + ii,<dimensions><height>130</height><width>85</width></dimensions>mm.</extent>
+<collation><p>The collation is disturbed, probably in connection with a restauration. 12 quires: I: 16 (ff. 1-16); II: 4 (ff. 17-20); III: 16 (ff. 21-36); IV: 16 (ff. 37-52); V: 24 (ff. 52-76); VI: 24 (ff. 77-100); VII: 18 (ff. 101-118); VIII: 24 (ff. 119-142); IX: 19 (ff. 142-160); X: 24 (ff. 161-184); XI: 12(ff. 185-196); XII: 12 (ff. 197-204).</p></collation>
+<layout columns="2" writtenLines="44"><p>Ruled in ink, two columns with an intercolumnium of 5 mm., 44 written lines, written space: 95 x 60 mm.; cropped margins with loss of text.</p></layout>
+<msWriting hands="2">
+<handDesc script="Textualis"><p>A small Textualis ("pearl script"). Two hands: hand 1 has written everything except f. 35b, f. 196 and maybe also the last quire, ff. 197-204, where the parchment is also of a different  quality.</p></handDesc></msWriting> 
+
+    <decoration>
+      <decoNote><p>The preserved decoration consists of two historiated and
+	  illuminated initials, described below, and 1590 pen flourished
+	  initials alternating in blue and red with flourishes in the opposite
+	  colour. In the main portion of the text (ff. 1-195) the initials are
+	  placed in the margin, next to the written text, with flourishes
+	  extending vertically along the margins, while in the last part, the
+	  initials are placed in the reserved spaces in the written text, with
+	  flourishes restricted to shorter sprouts.</p> 
+	<p>Detailed description:
+	  <list>
+	    <item>f. <locus>70r</locus>: An illuminated and
+	      historiated initial U, 18 x 24 mm, in pink decorated with circles
+	      and crosses in white, inscribed in a square with red frame and
+	      blue background embellished by small gilt roundels and thin white
+	      tracery. The upper left serif extends into a leaf ornament in
+	      blue with gilt roundes, the lower right serif into a small green
+	      leaf ornament. The inner space of the initial is inhabited by
+	      three clercs in front of an altar. The one to the left is dressed
+	      in blue with a belt in orange, the one in the middle has a white
+	      alb and a blue dalmatic with  silver lining, the one to the right
+	      in with alb with gilt rubra and blue chausuble with silver
+	      lining. To the right of him a blue altar with orange pediment and
+	      white mortar, on which stands a veiled silver chalice. The
+	      backgrond is mauve with minute white dots;
+	    </item>
+	    <item>f. <locus>122r</locus>: A crude drawing in brown ink of a
+	      human face in profile;</item>
+	    <item>f. <locus>124v</locus>: An illuminated and historiated
+	      initial D, 23 X 33 mm, in blue with circles and dotted undy
+	      decoration in white and serifs ending in leaf ornaments in pink
+	      and orange. The letter is inscribed in a square with light green
+	      frame and pink backround withgilt roundels and thin white
+	      tracery. The inner space of the initial is inhabited by a bishop
+	      clad in white alb with gilt rubra, chausuble in mauve with gilt
+	      lining and with white mitre and staff. At his right side stands a
+	      crowned king with light green tunic and dark brown mantle, and at
+	      his left stands a slender woman dressed in red. These two reach
+	      their right hands to each other. The background is blue with
+	      minute white dots.</item>
+	  </list>
+	</p> 
+	<p>Style: The illuminated initials are minutely executed by the same
+	  accomplished artist, working in the parisian tradition of e.g. the
+	  workshop of Johannes Grusch. Although the small size and relative
+	  simplicity of the motifs makes a strong attribution difficult at this
+	  point, Paris seems the most plausible place of origin. The pen
+	  flourished initials are divided between three artists. The slender
+	  and narrow pen flourished initials in the main portion of the
+	  manuscript (ff. <locus from="1r" to="195">1r-195v</locus>) are
+	  executed around 1270 by artist A, the 
+	  last initial on f. <locus>195v</locus> and the two on
+	  f. <locus>196v</locus>, close in general appearance, but less
+	  accomplished, are executed by artist B, while the remaining, rounder
+	  and less detailed and close in style to the initials in Mh 10, are
+	  executed by artist C towards the end of the century.</p> 
+	<p>Iconography: The scene with the three clerks on
+	  f. <locus>70r</locus> depicts the consecration of the wine as a
+	  representative illustration of purely ecclesiastic matter as
+	  suggested by the text itself. The betrothal on f. <locus>124v</locus>
+	  illustrates the canonic view on marriage as a sacrament, actively
+	  involving the blessing of the Church, rather than an act of consensus
+	  between the two parties alone.</p>
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding>
+	<p>Parchment binding with fore-edge yapps, Sweden, Lund 17th or 18th
+	  century. Size: 136 x 90 x 34 mm.</p> 
+	<p>Parchment binding over pasteboards with fore-edge yapps. Hollow
+	  back. Manuscript title in sepia ink. Stuck-on white and blue linen
+	  endbands embroidered on parchment tape laced through the
+	  covers. Trimmed edges, manuscript losses at headmargin. Two plain
+	  flyleaves and pastedowns of paper. On front pastedown several notes and former shelf marks (see above). All along sewing on three
+	  parchment tapes laced through the covers. Textblock
+	  restored.</p>
+      </binding>
+    </bindingDesc>
+<foliation><p>The ms. is foliated  (1-204, + 35b, 145a) in pencil in upper right corner by 19th century librarian August Palm. In several occasions he has indicated where leaves, in connection with a rebinding, have been put in the wrong order: f. 2 (15), f. 15 (2), f. 17 (20), f. 18 (19), f. 19 (18), f. 20 (17).</p></foliation><additions><p>On front pastedown notes on the contents of the book and several former shelfmarks. On f. i recto a loose slip of paper glued to the leaf with a note saying <q>Decretales Gregor. [et9 nove. decr. (Innocentii). Från 1200-talets senare hälft.</q> All through the ms. there are marginal notes in pencil in the minute hand of August Palm, librarian at the University library 1856-1907, identifying the different parts of the text.</p></additions><condition><p>Lower margin of f. 117 has been cut out. The upper margin is cropped all through the book.</p></condition>
+  </physDesc>
+<history>
+<origin><p>France (Paris), ab. 1270.</p></origin>
+<provenance><p>In the will of archdeacon Haagen, probably identical to one
+Haagen mentioned in 1253 (DD, II, 1:120 &amp; 122), dated 1 August
+1283 (Diplomatarium Danicum II, 3, 73) a collection of decretals was
+given to dean Andreas. He also gave a Breviary and a collection of
+Danish law books, as well as money to buy a missal. This could possibly refer to Mh 9.</p></provenance>
+<acquisition><p>The manuscript entered the library in 1671 when the chapter
+was formally reorganized, or dissolved, and its manuscripts were
+transferred to the University library.</p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-06-30</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-06-30</date>
+<respStmt>
+<name/>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Pellegrin, E.</author>
+	<title level="a">Manuscrits d'auteurs latins de l'époque classique
+	  conservés dans les bibliothèques publiques de
+	  Suède</title>
+
+	<title level="j">Bulletin d'information de l'institut de recherches et
+	  d'histoire des texts</title>
+
+      <biblScope type="volume">3 (1954)</biblScope>
+      <imprint>
+	<date>1955</date>
+      </imprint>
+      <biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+    </bibl>
+  </listBibl>
+</additional>
+</msDescription>

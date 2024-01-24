@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_66">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 66</idno>
+<altName type="former shelfmark" lang="">Paleot.</altName>
+<altName type="database-identifier">scriptorium:Mh:589823:1168357106</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="LAT">Confessionale</title> 
+  <origPlace/>
+  <origDate notBefore="1495" notAfter="">16th century</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+<note>The manuscript is a continuation of and bound with a Confessionale (Andreas de Escobar, Interrogationes et doctrine quibus quilibet sacerdos debet interrogare suum confitentem), printed in Rom in ab. 1495 (GW 7324).</note> 
+  </msHeading>
+<physDesc>
+  <support><p>Paper (and 1 parchment leaf).</p></support>
+  <extent>ff. i + 25 (1-10 printed, the rest manuscript) + i<dimensions><height>93</height><width>70</width></dimensions>mm.</extent>
+
+<collation><p>The collation is disturbed by the rebinding.</p></collation>
+<layout columns="" writtenLines=""><p/></layout>
+<msWriting hands="3">
+<handDesc><p>Four hands. Hand 1: f. 10r-v; hand 2: ff. 11r-16v; hand 3: ff. 17r-21r; hand 4: ff. 21v-22v.</p></handDesc>
+</msWriting> 
+
+
+<bindingDesc><binding><p/></binding></bindingDesc>
+
+<foliation><p>The manuscript is foliated by modern cataloguer in upper right corner.</p></foliation>
+<additions><p/></additions>
+</physDesc>
+<history>
+<origin><p/></origin>
+<acquisition><p>According to a note on the inside of the lower cover, the book was bought at Björck o. Börjesson in 1964.</p>
+</acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2007-01-09</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2007-01-09</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

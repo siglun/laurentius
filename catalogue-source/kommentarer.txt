@@ -1,0 +1,34 @@
+Kommentarer til papirversionen af katalogen:
+på grundlag af Medeltidshandskrift 35, p. 7 ff.
+
+1. Konsekvens med hensyn til tegnsætningen. Altså hvor sætter stylesheet punktum og komma, og hvor sætter vi/jeg dem i XML-filen? Se fx. i <note> i <msHeading>, hvor jeg har sat komma efter titlerne der er mærket med <title>, mens stylesheet sætter punktum fordi der skal være et efter <title> i <msItem>. Hvad gør vi?
+
+2. <title type="uniform"> er i kursiv i papirkatalogen, men da kursiv også bruges til at gengive opløste forkortelser (<expan>), skulle man måske bruge en anden fremhævelsesmåde (fed skrift? det bruger vi på Arnamagnæansk Institut). Dog mener jeg stadig at <title> i <bibl> bør vises i kursiv, at der alså gøres forskel på titler i al almindelighed og titler der forekommer i selve håndskriftet. 
+
+3. Og hvad med <title type="supplied"> der p.t. gengives i ordinær skrift. Skal de vedblive at være det, eller skal de også fremhæves? 
+
+4. Hvorfor bruge fed skrift til sidehenvisningerne der er mærket med <locus>, fx.  i <note> i <msItem> og  i <decoNote>? 
+
+5. Skal der ikke stå et kolon (:) efter 'Rubric', 'Incipit' og 'Explicit'?
+Rubric: "Hære byriæs ..." etc.
+
+6. Citater <q> bør forsynes med citationstegn ligesom ved 'Rubric', 'Incipit' og 'Explicit'. Se fx. i <origin> i <history> (p. 20, spalte 2) 
+The same names appear in an older hand (gothic cursive) on the back pastedown: "Her ier Her marssk ..."
+
+7. i <extent> kan man lade stylesheet indsætte 'leaf/leaves' og  'size of leaves' ved <dimensions type="leaf">, eller man kan selv skrive det i XML-filen. Nu har jeg gjort det i Mh 35, og kan også gøre det i alle kortpost-versionerne. Hvad gør vi? 
+
+8. Følgende elementer bør også have deres egen overskrift:
+i <physDesc>
+<collation> = Collation   <msWriting> = Script
+
+<additional> = Additional
+
+i <additional>
+<recordHist> = Record history   <custodialHist> = Custodial history
+  
+9. Der bør være linjeskift ved et nyt afsnit, altså en ny <p>, se fx. p. 19 spalte 1 i papirkatalogen
+<decoNote><p>... the main text by the scribe himself.</p>
+<p>Style: The decorative effect is emphasized by ...</p>
+
+
+10. Der er forsvundet noget tekst i <note> i<msHeading>, og i forbindelse med <ref> er der komet noget tekst ind som ikke skal være der. Jeg har også rettet nogle af mine egne fejl beskrivelsen af Mh 35 - det er godt at læse korrektur efter papirkatalogen! - og sender dig derfor en ny version af filen. Jeg har også sendt mine kommentarer til Eva.

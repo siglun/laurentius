@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_22">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 22</idno>
+<altName type="database-identifier">scriptorium:Mh:106229:1126176691</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="LAT">Registrum ville malmöyghe</title> 
+<note>The manuscript is no longer at the University Library but at the city archives of Malmö (Stadsarkivet).</note>
+ </msHeading>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

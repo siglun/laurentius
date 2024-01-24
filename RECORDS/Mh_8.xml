@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_8">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 8</idno>
+<altName type="former shelfmark">Bibliotheca recentior N:o 4</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) fol. 13</altName>
+<altName type="database-identifier">scriptorium:Mh:950227:1126014778</altName>
+</msIdentifier>
+<msHeading>
+  <author>Vegetius</author>
+<title type="uniform">Epitoma rei militaris</title>
+  <origPlace>Italy (Florence?)</origPlace>
+  <origDate notBefore="1400" notAfter="1500">15th century</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="40r">ff. 1r-40r</locus>
+<author>Vegetius Renatus, Flavius</author>
+<title type="uniform">Epithoma rei militaris</title>
+<incipit>Primus liber electionem edocet iuniorum ex quibus</incipit>
+<explicit>in his frequentior usus invenit quam vetus doctrina monstraverat.</explicit>
+<rubric type="final">Flavii Vegetii Renati viri illustris liber quartus et ultimus explicit.</rubric>
+<bibl>
+<title level="m">P. Flavii Vegetii Renati Epitoma rei militaris</title>
+<editor>edidit Alf Önnerfors</editor>
+<imprint>
+<pubPlace>Bibliotheca Teubneriana, Stuttgart and Leipzig,</pubPlace>
+<biblScope type="pages">pp. xv-xvi (Medeltidshandskrift 8 is F* erroneously dated to late 11th century).</biblScope>
+<date>1995</date>
+</imprint>
+</bibl>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support>
+<extent>ff. i + 40 + i<dimensions><height>284</height>175<width/></dimensions> mm.</extent>
+<collation><p>5 quires: I:  10 (ff. 1-10), II:  10 (ff. 11-20), III: 8  (ff. 21-28), IV: 10 (ff. 29-38) V: 2 (ff. 39-40). One senion is missing after f. 28, corresponding to book 3: 6,7-8,1 and book 3: 11,6-book 4: prol. 6. Collation is uncertain since the manuscript has been rebound. Quire signatures in upper margin of all leaves. Catchwords at ff. 20v, 28v, 38v.</p></collation>
+<layout columns="1" writtenLines="33"><p>One column; 33 written lines; pricked in outer margin, dry point ruling; written space: 185 x 110 mm.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="humanistic cursive book script" medium="ink" scope="sole"><p>
+One hand; humanistic cursive book script. Rubricated.</p></handDesc>
+</msWriting>
+<decoration>
+<decoNote><p>Intended initials were never executed.</p>
+</decoNote>
+</decoration>
+<bindingDesc>
+<binding><p>Limp paper binding, Sweden 18th century. Size: 285 x 178 x 15 mm.</p>
+<p>Limp paper binding of red, blue and yellow placard marble. Lower fore-edge corner of the upper cover lost. Back missing. Trimmed edges. Single plain flyleaves and pastedowns of paper. On front pastedown two former shelfmarks (cfr. above) and further down a note in the hand of Gustaf Sommelius, librarian at Lund University Library 1767-99, on the contents: <q>Flavius Vegetius</q>. All along sewing on two parchment tapes. The manuscript is kept in a archival paper folder.</p></binding>
+</bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner.</p></foliation>
+<additions><p>Slip inserted before f. i with a note on the contents of the manuscript and an erroneous dating.</p></additions>
+<condition><p>Several leaves (ff. 1, 2, 3, 11, 29) are badly damaged after having  been treated with some kind of chemical substance probably in order to enhance legibility.</p></condition>
+</physDesc>
+<history>
+<origin><p>Italy (Florence?), 15th century</p></origin>
+<acquisition><p>The manuscript was supposedly given to the University Library by professor Andreas Riddermarck (1651-1707). His name appears in the lower margin of f. 1r.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in June of 2001.</p>
+</source>
+<change>
+<date rend="creation">2005-09-06</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-06</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Lehmann, P.</author>
+<title level="a">Skandinavische Reisefrüchte. 1. Nachlese 1-2</title>
+<title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title>
+<biblScope type="volume">24</biblScope>
+<imprint>
+<date>1937</date>
+</imprint>
+<biblScope type="pages">pp. 103-120 (esp. p. 106)</biblScope>
+</bibl>
+
+<bibl>
+<author>Pellegrin, E.</author>
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservés dans les bibliothèques publiques de Suède</title>
+<title level="j">Bulletin d'information de l'institut de recherches et d'histoire des textes</title>
+<biblScope type="volume">3</biblScope>
+<imprint>
+<pubPlace>Paris</pubPlace>
+<date>1954</date>
+</imprint>
+<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+</bibl>
+
+<bibl>
+<author>Wåhlin, Lars</author>
+<title level="a">Collatio codicis Vegetii de re militari librorum lundensis</title>
+<title level="m">Commentationes philologae in honorem Iohannis Paulson</title>
+<imprint>
+<pubPlace>Lund</pubPlace>
+<date>1905</date>
+</imprint>
+<biblScope type="pages">pp. 106-123</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

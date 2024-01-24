@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_3">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 3</idno>
+<altName type="former shelfmark">Bib. ant. M. 59. N:o 6.</altName>
+<altName type="former shelfmark">Bibl. Msc. H. L. a) fol. 1.</altName>
+<altName type="former shelfmark">Handskrifter. Teol.</altName>
+<altName type="database-identifier">scriptorium:Mh:196471:1138809899</altName>
+</msIdentifier>
+<msHeading>
+<title type="uniform">Genesis, glossed</title>
+  <origPlace>France ? (Paris?)</origPlace>
+  <origDate notBefore="1150" notAfter="1200">12th century, mid</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="2r">ff. 1r-2r</locus>
+<title type="uniform">Prothemata in Genesim</title>
+<incipit>Beda. Moyses in hoc libro de inferiori mundo</incipit>
+<explicit>quae adhuc confusa et incerta quas formas essent habitura.</explicit>
+<listBibl>
+<bibl>
+<title level="s">Patrologiae cursus completus. Series Latina, Migne, J.-P.</title>
+<biblScope type="volume">113:64 B</biblScope>
+<imprint>
+<pubPlace>Parisiis</pubPlace>
+<date>1844-64</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="2">
+<locus from="2v" to="119r">ff. 2v-119r</locus>
+<title type="uniform">Genesis</title>
+<explicit>in loculo in Aegypto. Explicit.</explicit>
+
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Parchment</p></support>
+    <extent>ff. i + 119 +
+      i<dimensions><height>275</height>180<width/></dimensions>
+      mm.</extent> 
+    <collation><p>15 quires: I: 7 (ff. 1-7), II: 8
+	  (ff. 8-15), III: 8 (ff. 16-23), IV: 8 (ff. 24-31), V: 8 (ff. 32-39),
+	  VI: 8 (ff. 40-47), VII: 8 (ff. 48-55), VIII: 8 (ff. 56-63), IX: 8
+	  (ff. 64-71), X: 8 (ff. 72-79), XI: 8 (ff. 80-87), XII: 8 (ff. 88-95),
+	  XIII: 8 (ff. 96-103), XIV: 8 (ff. 104-111), XV: 8
+	  (ff. 112-119).</p><p>The first leaf of the first quire is
+	lost. Quire signatures in the lower margin of the last leaf of all
+	quires except the last two where margin is cut.</p></collation> 
+    <layout columns="3"><p>Dry point ruling reinforced with ink; pricking in upper and lower margin, sometimes also visible in outer and inner margin. The text is glossed marginally and interlineary.</p> 
+    </layout>
+
+    <msWriting>
+      <handDesc script="gothic book script" medium="ink" scope="sole"><p>
+	  Gothic book hand.</p></handDesc>
+    </msWriting>
+
+    <decoration>
+      <decoNote><p>No executed decoration. On f. <locus>2v</locus> faint traces
+	  could be interpreted as a hardpoint sketch for an historiated
+	  initial.</p> 
+      </decoNote>
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Natural coloured goatskin binding, preserved covers, Denmark, probably Lund 14th or 15th century, fastenings 15th century. Rebinding signed with an ink stamp on the inside of the lower cover: <q>Restauriert durch S. Heiland Stuttgart 1968, Germany</q>. Size: 296 x 195 x 45 mm.</p>
+<p>Natural coloured goatskin binding over bevelled wooden boards. Rebinding with covers from former binding preserved and covering material partially restored. One metal hook-clasp fastening at fore-edge,  new nails. The fastening is replaced circa 10 mm. compared to original position. Rounded spine. Tight back with four raised double bands. Blind-tooled library code at the tail of the back. Former edge trimming preserved. Headcaps cracked at joints. Single flyleaves of parchment. Former parchment endleaf restored and preserved as separate pastedown of the upper cover; apart from former callnumbers (cfr. above) a note, repeated on a glued slip of paper, on the contents of the manuscript: <q>Explicationis incerti auctoris nonnullorum capi. Genes. (Medl. af 1100-talet).</q>&gt;Back pastedown of Japanese paper. All along sewing on 
+four double cords laced through the boards. Two manuscript fragments of paper and a photograph of former binding mounted on the pastedown of the lower cover.</p></binding> 
+    </bindingDesc>
+    <foliation><p>Foliated in pencil by modern cataloguer in upper right
+	corner.</p></foliation> 
+    <additions><p>In the margin a contemporary hand has added the chapter
+	numbers: 
+	2 in f. <locus>9v</locus>; 3 in f. <locus>18r</locus>; 4 in
+	f. <locus>23r</locus>; 5 in f. <locus>26r</locus>; 6 in
+	f. <locus>27v</locus>; 7 in f. <locus>29v</locus>; 8 in
+	f. <locus>31r</locus>; 9 in f. <locus>32v</locus>; 10 in
+	f. <locus>34v</locus>; 11 in f. <locus>36r</locus>; 12 in
+	f. <locus>37v</locus>; 13 in f. <locus>39r</locus>; 14 in
+	f. <locus>40r</locus>; 15 in f. <locus>42r</locus>; 16 in
+	f. <locus>43v</locus>; 17 in f. <locus>44v</locus>; 18 in
+	f. <locus>46v</locus>; 19 in f. <locus>49r</locus>; 20 in
+	f. <locus>52r</locus>; 21 in f. <locus>53r</locus>; 22 in 
+	f. <locus>55r</locus>; 23 in f. <locus>56v</locus>; 24 in
+	f. <locus>58r</locus>; 25 in f. <locus>62v</locus>; 26 in
+	f. <locus>64v</locus>; 27 in f. <locus>66v</locus>; 28 in
+	f. <locus>69v</locus>; 29 in f. <locus>70v</locus>; 30 in
+	f. <locus>73r</locus>; 31 in f. <locus>75v</locus>; 32 in 
+	f. <locus>78r</locus>; 33 in f. <locus>80v</locus>; 34 in
+	f. <locus>82r</locus>; 35 in f. <locus>83v</locus>; 36 in
+	f. <locus>85r</locus>; 37 in 
+	f. <locus>87r</locus> (although chapter begins in
+	f. <locus>86v</locus>); 39 in f. <locus>92r</locus>; 40 in
+	f. <locus>93v</locus>; 
+	41 in f. <locus>94v</locus>; 42 in f. <locus>98r</locus>; 43 in
+	f. <locus>100v</locus>; 44 in f. <locus>103r</locus> (with a cut in  
+	the margin where the number was); 45 in f. <locus>105r</locus>; 46 in 
+	f. <locus>106v</locus>; 47 in 
+	f. <locus>108v</locus>; 48 in f. <locus>111r</locus>; 49 in f. <locus>112v</locus>; 50 in f. <locus>116v</locus> (although chapter
+	begins in f. <locus>117r</locus>).</p> 
+      <p>In the margin of f. <locus>93v</locus>, a pointing hand in dry point.</p>  
+    </additions>
+    <condition><p>Several pages have had their margins cut out: ff. 24 (no loss
+	of text), 38 (cut but still in place), 40 (no loss of text), 49 (loss
+	of text?), 57 (loss of text), 58-59 (no loss of text), 77 and 82 (loss
+	of text?), 89 (no loss of text), 93, 96, 103, 105, 106 (loss of text?),
+	107 (both lower and outer margin are cut out; loss of text?), 110, 111
+	(loss of text?), 114 (no loss of text), 117-118(loss of text?), 119
+	(major part of page but without loss of text).</p> 
+      <p>Marks of dropped wax on ff. <locus>31r</locus>, <locus>52r</locus>,
+	<locus>65v</locus>.</p> 
+    </condition>
+  </physDesc>
+<history>
+    <origin><p>Northern France, maybe Paris, around 1150.</p></origin>
+    <provenance><p>The manuscript appears to have been the property of the
+	library of Lund Cathedral (cfr. former shelmark).</p></provenance> 
+
+    <acquisition><p>The manuscript entered the library in 1671 when the chapter
+	was formally reorganized, or dissolved, and its manuscripts were
+	transferred to the University library.</p></acquisition>
+
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in
+	    June of 2001.</p>
+</source>
+<change>
+<date rend="creation">2005-06-22</date>
+</change>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Haastrup, N.</author>
+<title level="a">Zur frühen Pariser Bibel - auf Grund skandinavisicher Handschriften</title>
+<title level="j">Classica et Mediaevalia</title>
+<biblScope type="volume">24 and 26</biblScope>
+<imprint>
+<date>1963 and 1965</date>
+</imprint>
+<biblScope type="pages">pp. 242-269 (esp. pp. 244-246); pp. 394-401</biblScope>
+</bibl>
+
+<bibl>
+<author>Pellegrin, E.</author>
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservés dans les bibliothèques publiques de Suède</title>
+<title level="j">Bulletin d'information de l'institut de recherches et d'histoire des texts</title>
+<biblScope type="volume">3 (1954)</biblScope>
+<imprint>
+<date>1955</date>
+</imprint>
+<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+</bibl>
+
+<bibl>
+<author>Weibull, L.</author>
+<title level="a">Bibliotek och arkiv i Skåne under medeltiden</title>
+<title level="j">Historisk tidskrift för Skåneland (Skåne, Halland, Blekinge och Bornholm)</title>
+<biblScope type="volume"/>
+<imprint>
+<date>1901</date>
+</imprint>
+<biblScope type="pages">p. 113</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

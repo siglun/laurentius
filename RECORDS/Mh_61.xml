@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_61">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 61</idno>
+<altName type="database-identifier">scriptorium:Mh:589701:1138810032</altName>
+</msIdentifier>
+<msHeading>
+  <author>Paul III</author>
+  <title lang="LAT">Breve</title> 
+  <origPlace>Rome</origPlace>
+  <origDate notBefore="1538.02.16" notAfter="1538.02.16">16th century (1538, Febr. 16)</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r">f. 1r</locus>
+<author>Paul III</author>
+<title>Letter to Tideman Gise, bishop of Ermland</title>
+<note><p>The letter is dated and signed in Rome, Febr. 16, 1538. <name>Blosius Palladius</name> was papal secretary, bishop of Foligno 1540-1547.</p></note>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment</p></support><extent>f. 1, <dimensions><height>145</height><width>435</width></dimensions> mm.</extent>
+<layout columns="1" writtenLines="9"><p/>
+</layout>
+<msWriting hands="1">
+<handDesc script="cursive" medium="ink" scope="sole"><p>
+Humanistic cursive script.</p></handDesc>
+</msWriting> 
+
+<additions><p>On the verso, a note in the hand of Blosius: "Dilecto filio ... " and another note in a modern hand: "Bref af Påfven Paulus III till Biskop Tidemannus Gise, 1538. Denna Påfve höll Tridentinska mätet."</p></additions>
+</physDesc>
+<history><origin><p>Rome, Febr. 16, 1538.</p>
+</origin>
+<acquisition><p>It is unknown how and when the letter entered the library.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in June of 2002.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

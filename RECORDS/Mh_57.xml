@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_57">
+  <msIdentifier>
+    <country reg="SE">Sweden</country>
+    <settlement>Lund</settlement>
+    <repository key="Mh">Lund University Library</repository>
+    <idno>Medeltidshandskrift 57</idno>
+    <altName lang="SWE" type="former shelfmark">Kyrkohist.</altName>
+    <altName type="database-identifier">scriptorium:Mh:321519:1146049063</altName>
+  </msIdentifier>
+  <msHeading>
+    <title lang="ENG">Synaxarion, September - February</title> 
+    <origPlace>Constantinople</origPlace>
+    <origDate notBefore="1350" notAfter="1370">14th century, mid (c. 1360)</origDate>
+    <textLang langKey="GRK">Greek</textLang>
+    <note><p>The manuscript belongs to the family
+    M* of H. Delehaye's survey, cols. XXXVIII - XLVI. The brevity of Delehaye's
+    manuscript descriptions makes it difficult to establish the place of
+    Medeltidshandskrift 57 within the M*-group, but it seems reasonable to
+    suppose a close affinity between Mh 57 and the manuscript Ma (Codex
+    bibliothecae Caesaraeae Petropolitanae gr. 231).</p></note>
+  </msHeading>
+  <msContents>
+
+   <msItem n="1">
+     <locus from="1r" to="50v">ff. 1r-50v</locus>
+     <title type="uniform">September</title>
+
+     <rubric lang="GRK">ΒΙΒΛΊΟΝ ΣΥΝΑΞΆΡΙΟΝ τῆς συνόψεως τῶν
+     ἁγί(ων) τοῦ ὅλου χρόνου, ὅθεν τὲ ἕκαστος καὶ ἐκ τίνων ἔφυ καὶ ἐν οἷς
+     χρόνοις, καὶ εἴτε τὸν διὰ μαρτυρίου εἴτε τὸν δι᾿ ἀσκήσεως ἐδέξατο
+     στέφανον</rubric>
+
+     <incipit lang="GRK">Μὴν σεπτέμβριος ἔχων ἡμέρας λʹ. ἡ
+     ἡμέρα ἔχει ὥρας ιβʹ καὶ ἡ νὺξ ὥρας δώδεκα. ἰστέον ὅτι τὴν ἰνδικτιῶνα
+     ἑορτάζει ἡ τοῦ Θ(εο)ῦ ἐκκλησία ἀπὸ τῶν ἀρχαίων παραλαβοῦσα διὰ τὸ
+     νομίζεσθαι παρὰ Ῥωμαίοις ἀρχὴν εἶναι ἔτους ἀπὸ ταύτης τῆς
+     ἰνδικτιῶνος. ἰνδικτιὼν γὰρ λέγεται παρὰ Ῥωμαίοις ὁ ὁρισμός. καὶ πρόσετι,
+     διὰ τὸ κατ᾿ αὐτὴν τὴν ἡμέραν εἰσελθεῖν τὸν Κ(ύριο)ν ἡμῖν εἰς τὴν
+     συναγωγὴν τ(ῶν) Ἰουδαίων</incipit>
+   </msItem>
+
+   <msItem n="2">
+     <locus from="51r" to="120r">ff. 51r-120r</locus> <title
+     type="uniform">October</title> <incipit
+     lang="GRK">Μὴν ὀκτώβριος ἔχων ἡμέρας λαʹ. ἡ ἡμέρα ἔχει ὥρας ιαʹ κ(αὶ) ἡ
+     νὺξ ὥρας ιγʹ. ἐν τῆ πρώτη· μνήμη τοῦ ἁγίου ἀπο(στόλου) Ἀνανίου</incipit>
+   </msItem>
+
+   <msItem n="3">
+     <locus from="120r" to="172v">ff. 120r-172v</locus> <title
+     type="uniform">November</title> <incipit
+     lang="GRK">Μὴν νοέμβριος ἔχων ἡμέρας λʹ. ἡ ἡμέρα ἔχει ὥρας ιʹ καὶ ἡ νὺξ
+     ὥ(ρας) ιδʹ. εἰς τὴν πρώτην· τῶν ἁγίων κ(αὶ) θαυματουργῶν ἀναργύ(ρων)
+     Κοσμᾶ καὶ Δαμιανοῦ</incipit>
+   </msItem>
+
+   <msItem n="4">
+     <locus from="172v" to="223r">ff. 172v-223r</locus> <title
+     type="uniform">December</title> <incipit
+     lang="GRK">Μὴν δεκέμβριος ἔχων ἡμέρας λαʹ. ἡ ἡμέρα ἔχει ὥρας θʹ καὶ ἡ νὺξ
+     ὥρας ιεʹ. εἰς τὴν πρώτην· μνήμη τοῦ ἁγίου προφήτου Ναούμ</incipit>
+   </msItem>
+
+   <msItem n="5">
+     <locus from="223r" to="263v">ff. 223r-263v</locus>
+     <title type="uniform">January</title>
+
+     <incipit lang="GRK">Μὴν ἰαννουάριος ἔχων ἡμέρας λαʹ. ἡ
+     ἡμέρα ἔχει ὥρ(ας) ιʹ καὶ ἡ νὺξ ὥρας ιδʹ. εἰς τὴν αην· ἡ κατὰ σάρκα
+     περιτομὴ τοῦ Κ(υρίο)υ καὶ Θ(εο)ῦ καὶ Σ(ωτῆρο)ς ἡμ(ῶν) Ἰ(ησο)ῦ
+     Χ(ριστο)ῦ</incipit>
+   </msItem>
+
+   <msItem n="6">
+     <locus from="263v" to="297v">ff. 263v-297v</locus> <title
+     type="uniform">February</title> <incipit
+     lang="GRK">Μὴν φεβρουάριος ἔχει ἡμέρας κηʹ. ἡ ἡμέρα ἔχει ὥρας ιβʹ καὶ ἡ
+     νῢξ ὥ(ρας) ιγʹ. εἰς τὴν αην· μνήμη τοῦ ἁγίου μ(άρτυ)ρος
+     Τρύφωνος</incipit>
+
+     <explicit lang="GRK">πολλὰς θαυμάτων ἐνεργείας
+     ἐνδειξάμενος κ(αὶ) οὕτω πρὸς Κ(ύριο)ν ἐξεδήμησεν :– τῆ αὐτῆ ἡμέρα,
+     μνή(μη) τοῦ ὁσίου</explicit>
+
+   </msItem>
+ </msContents>
+ <physDesc>
+   <support><p>Paper (parchment leaf
+   A).</p><watermarks><p>Four different
+   watermarks: 1) Most frequent is a pomegranate on a stem with two pairs of
+   leaves, occurring in quires no. 1-11 and 22-27. One might compare with the
+   fairly similar Fruit: Grenade 4187 from the year 1363 in V. A. Mošin et
+   S. M. Traljić, Filigranes des XIIIe et XIVe ss., I-II, Zagreb
+   1957. According to Mošin and Traljić this type of watermark appeared in
+   Italy around 1360. 2) In quires no. 11-21 we find a letter-combination in
+   the form of two 'G's one above the other, bisected by a line and with a
+   patriarchal cross above. Cf. Mošin and Traljić Lettres 5738 (1375/85), and
+   Briquet lettres assembles 9415 (1354) of Italian provenance. Almost
+   identical but with just one crossbar: Keinz 40, undated (F. Keinz, Die
+   Wasserzeichen des XIV. Jahrhunderts in Handschriften der k. bayer. Hof- und
+   Staatsbibliothek, Abh. d. I. Cl. d. k. Ak. d. Wiss. XX. Bd. III. Abth.,
+   München 1894-1897). 3) The Bow-and-arrow occurring in quires no. 27-38 is
+   remotely similar to Mošin and Traljić Arc 368 (1370); see also Bogen und
+   Pfeil X 1680 (Perugia 1361) in G. Piccard, Wasserzeichen Werkzeug und
+   Waffen (Findbuch IX), Stuttgart 1980, and Bow-and-arrow 3786 (1372) in
+   Likhachev's Watermarks, I-II, (=Monumenta chartae papyraceae historiam
+   illustrantia, XV) ed. J. S. G. Simmons and B. J. van Ginneken-van de
+   Kasteele, Amsterdam 1994 (Russian original St Petersburg 1899). 4) Two
+   keys, addorsed, single-line, with a line (or possibly a cross now lacking
+   the cross bar - cf. Briquet, vol. I p. 241: "La croix fait assez souvent
+   défaut") above. Similar is Briquet deux clefs 3815 (1362). This watermark
+   appears only once in the ms, on f. 270 (quire
+   no. 35).</p></watermarks></support><extent>ff. i + A + 297 +
+   i,<dimensions><height>295</height><width
+  >215</width></dimensions>mm.</extent>
+
+   <collation><p>38 quires: I: 7 (ff. 1-7, one
+   leaf has been cut out after f. 5 with resulting loss of text); II:
+   (ff. 8-15); III: 8 (ff. 16-23); IV: 8 (ff. 24-31); V: 8 (ff. 32-39); VI: 8
+   (ff. 40-47); VII: 8 (ff. 48-55); VIII: 8 (ff. 56-63); IX: 8 (ff. 64-71); X:
+   8 (ff. 72-79); XI: 8 (ff. 80-87); XII: 8 (ff. 88-95); XIII: 8 (ff. 96-103);
+   XIV: 7 (ff. 104-110, there is a guard from a cut out leaf after f. 109, but
+   the text is intact); XV: 7 (ff. 111-117, one torn out leaf after f. 116
+   with resulting loss of text); XVI: 8 (ff. 118-125); XVII: 8 (ff. 126-133);
+   XVIII: 8 (ff. 134-141); XIX: 4 (ff. 142-145, after f. 143 there are 4
+   leaves missing with resulting loss of text); XX: 8 (ff. 146-153); XXI: 8
+   (ff. 154-161); XXII: 8 (ff. 162-169); XXIII: 8 (ff. 170-177); XXIV: 8
+   (ff. 178-185); XXV: 8 (ff. 186-193); XXVI: 8 (ff. 194-201); XXVII: 8
+   (ff. 202-209); XXVIII: 8 (ff. 210-217); XXIX: 8 (ff. 218-225); XXX: 8
+   (ff. 226-233); XXXI: 8 (ff. 234-241); XXXII: 8 (ff. 242-249); XXXIII: 8
+   (ff. 250-257); XXXIV: 8 (ff. 258-265); XXXV: 8 (ff. 266-273); XXXVI: 8
+   (ff. 274-281); XXXVII: 8 (ff. 282-289); XXXVIII: 8 (ff. 290-297). Beside
+   the modern flyleaves there is one parchment leaf ('A') preceding the actual
+   synaxarion. The parchment is now very dark and wrinkled but seems to have
+   been of good quality originally. Probably 12th century. Writing area
+   205/210 x 145 mm. Ruling type Sautel 22D1 (or possibly 22C1, it is
+   difficult to see, due to cutting of the inner margin). Dark brown ink,
+   mixed minuscule script pendent from ruled lines. The text comes from
+   another synaxarion and gives part of the text for May 9 and 10, mentioning
+   the saints <name lang="GRK">Χρηστοφόρος</name>, <name
+   lang="GRK">Ἐπίμαχος καὶ Γορδιανός</name>, <name
+   lang="GRK">Κόδρας</name>, <name
+   lang="GRK">Τρυφαίνη</name>, <name lang="GRK">Τιμόθεος ὁ
+   πατριάρχης</name>, <name lang="GRK">Σίμων ὁ ζηλωτής</name>,
+   <name lang="GRK">Ἀλφιός</name>, <name
+   lang="GRK">Φιλάδελφος καὶ Κυρῖνος</name>. The wording of the narrative on
+   Kodras suggests that the fragment could be related to the ms D (Codex
+   bibliothecae Nationalis Parisiensis 1587) of H. Delehaye's study in
+   Synaxarium Ecclesiae Constantinopolitanae, Bruxelles 1902 (Acta Sanctorum,
+   Propylaeum ad Acta SS. Novembris). The ms is mutilated at the end, giving
+   just two entries on the 27th of February and none for the 28th. Quire
+   numbering is made in Greek numerals in two sets successively: quires 1-21
+   and 22-38. The signatures are generally written (by the main scribes, it
+   seems, or at least in the same ink as the rest of the text) in the lower
+   righthand corners of first recto and last verso for quires no. 2 - 21, in
+   the middle of or the outer corners of lower margin for quires no. 22 -
+   37. Some signatures are missing altogether, a few of them probably trimmed
+   away or lost due to ripping of the page. Although originally made up of
+   quaterniones the bookblock is now bound together in much larger units. To
+   prevent the well used book from falling apart one has at rebinding taken
+   some 18-20 leaves at a time, overcasting them tightly at the spine. Thus
+   the binding threads which are visible inside these units cannot be taken as
+   proof of an irregular quire organisation, and accordingly the old quire
+   signatures are still valid.</p></collation>
+
+   <layout columns="2" writtenLines="30-33"><p
+  >Blind ruling; written space on ff. 1-161: 205 x 145 mm. text
+   in 2 columns with 3o lines at 65 mm. with an intercolumnium of 13
+   mm.</p></layout>
+
+   <msWriting hands="2">
+     <handDesc>
+       <p>The manuscript was copied by two contemporary
+       scribes, scribe A wrote ff. 1-161, scribe B ff. 162-297. Only on
+       f. 191v a third hand seems to appear. None of them are as yet
+       identified. No subscription is preserved, since the final leaves are
+       lost. The script of the first part of the manuscript is clear and
+       regular, slightly inclined to the left. A prominent feature of the
+       script is the forceful pen strokes at the base of the letters <q
+       lang="GRK">ξ</q> and <q lang="GRK">ζ</q>
+       ending in a NW-SE-diagonal, which is also taken up by <q
+       lang="GRK">χ</q>, <q lang="GRK">λ</q>, and <q
+       lang="GRK">δ.</q> Note also the shorthand <q
+       lang="GRK">και</q> linked to next letter, further the
+       rather conspicuous - <q lang="GRK">ος</q> ligatures as
+       in <q lang="GRK">πρò</q> at the end of lines
+       (cf. f. 102r). Though coming from a skilled hand the style gives rather
+       an uncouth impression. Blackish-brown and mild orange-red ink in good
+       preservation.</p>
+
+     <p>The second part of the manuscript (ff. 162-297) shows
+     more of a scholar's hand. It is upright or very slightly inclined to the
+     right. Brown and light red ink, the latter in a strongly faded
+     condition. The large thetas and omegas dominate the script together with
+     other overdimensioned circular forms in e.g.<q
+     lang="GRK">α, ο,</q> and <q lang="GRK">φ</q>
+     ('Fettaugenmode'). At the end of lines the punctuation marks are
+     sometimes inscribed within the spacious C-sigma, omicron or
+     upsilon.</p></handDesc>
+   </msWriting> 
+
+   <decoration>
+     <decoNote><p>Head pieces, tituli and most
+     of the other decorative elements are in faded red ink - some linefillers
+     and elaborate initials combine black and red ink. The headpieces for
+     September, October, and November, height 30-40 mm, are in Laubsägestil;
+     the rectangular frame contains a billowy arabesque with halfpalmettes and
+     knobs, lily- or palmette shaped corner decorations, and, in the middle of
+     the top border, a threefold loop or Dreierschlinge (fully worked out in
+     the September piece, only suggested in the following two). The red ink is
+     used for contouring but also for filling up the background
+     (Aussparungstechnik). The headpieces for the following three months show
+     a Flechtband-construction in the form of a ribbon interlacedly crossing
+     itself while passing through ribbon ovals. The ends of the ribbon are
+     shaped as lilies.  At the end of each day in the synaxarion we find a
+     delimiting linefiller, the design of which in the first half of the book
+     (=scribe A) varies considerably, while in the second half scribe B has
+     kept to a more restricted set of rather simple geometrical/vegetal
+     ornaments. This contrast between the two scribes is reflected also in the
+     design of the initials.  Elaborate red (occasionally red and black)
+     initials project into the margin and in the space between the two columns
+     at the outset of all narratives. On ff. 1-161 the oblong initials, 20-45
+     mm. in size, show two basic structures: the unfilled Laubsäge/Palmetten
+     type and the filled silhouette/bead-and-reel type with additional
+     embellishments of beads and strokes. There are some examples of
+     zoomorphic initials and linefillers, chiefly single or double snakes
+     (ff. <locus>19r</locus>, <locus
+    >29v</locus>, <locus>34v</locus>, <locus
+    >61v</locus>, <locus>68v</locus>, <locus
+    >108v</locus>, <locus>112v</locus>, <locus
+    >120v</locus>, <locus>142v</locus>, <locus
+    >159v</locus>). Two fish-initials (omicron), on f. <locus
+    >78r</locus> and f. <locus>89v</locus> .
+     &gt;From f. 162 onwards the initials are quite plain and of lesser
+     dimensions (height 10-20mm). The elaboration is often just a couple of
+     swellings and a small beaded tendril at the base. Rubrication is also
+     used for the commemoration of each saint, i.e. for the opening remark
+     which sometimes stands alone but mostly precedes the ensuing verse(s) and
+     the narrative of the saint. Furthermore, all iambic or hexametral lines
+     are indicated by small majuscule or minuscule initials in
+     red.</p></decoNote>
+   </decoration>
+
+   <bindingDesc>
+     <binding><p>Blind-tooled dark brown
+     goatskin binding, preserved covers of Byzantine binding; Greece,
+     contemporary with the manuscript. Rebinding, 20th century. Size: 310 x
+     225 x 95 mm.</p>
+
+     <p>Dark brown goatskin binding over thick, grooved, square
+     edged wooden boards with rounded inner face at the spine (type a and k,
+     cfr. Szirmai 1999, p. 75; type 19.5 and 20.3, cfr. Frederici and Houlis
+     1988 p. 28). Rebinding with upper cover and back of black calfskin and
+     with lower cover from former binding. Dark brown covering material of
+     upper board and back from former binding preserved, but partly missing on
+     the new covering. Small white paper label with the number 793 at the
+     centre of the upper cover. Two fastenings at fore-edge missing (holes at
+     lower cover fore-edge type 32.4, cfr. Frederici and Houlis 1988,
+     p. 39). Rounded spine with lining of blue grey cloth. Tight
+     back. Blind-tooled white library cloth label at the top of the
+     back. Natural coloured primary endbands embroidered on double supports
+     extending over the boards. The endbands are attached by the sewing thread
+     by several holes on the inner face of each board (fig. 6.10, cfr. Szirmai
+     1999, p. 77; fig. 26.3, cfr. Frederici and Houlis 1988, p. 35). The
+     endbands are restored and partly damaged. Former edge trimming
+     preserved. No squares. One plain paper flyleaf, 20th century, mounted on
+     the first and last manuscript page of the bookblock. Upper board with a
+     half paper pastedown; on the inside of the upper board in black ink: <q
+     lang="GRK">Cυναξάριν ςʹ μην(ων) | σεπτεμβ(ριος) ε(ως)
+     φεβ(ρουαριου)</q> and on the inside of the lower board, rather coarsely:
+     <q lang="GRK">πε μα ‚αφ ασπρ(ων) | ͵ςσο ασπρ(ων) | χρεω |
+     τό λγθετϊ.</q> The original (most likely link-stitch) sewing on three
+     sewing stations is repaired by assembling and oversewing leaves into
+     thick gatherings of 18 to 20 leaves each. The original sewing thread is
+     broken at joints but remains in holes of the boards and in centrefolds of
+     the gatherings.  The covers are blind-tooled to a frame of double fillets
+     containing two rows of a repeated rectangular stamp with heart-shaped
+     forms (cfr. Vat. gr. 1297, cfr. Frederici and Houlis 1988, p. 56). The
+     central panel is divided into four compartments each divided by fillets
+     into a saltire. (fig. 37.6, cfr. Federici and Houlis 1988, p. 66). The
+     fillets of the compartments are stamped with a small four-petal flower
+     and the concurrences of the fillets with a tool of concentric
+     circles. The compartments of the lower cover are decorated with a
+     symmetric trapeze-shaped tool showing a lily on a blind bottom and the
+     upper cover compartments with a circular tool possibly of a two-headed
+     eagle. The back is blind-tooled with a double fillet to a fishbone
+     pattern with concentric circles at the top of each superposed and
+     inversed V-form.</p></binding>
+   </bindingDesc>
+
+
+   <foliation><p>Foliated in pencil by modern
+   cataloguer in upper right corner.</p>
+   </foliation>
+
+   <additions><p>Marginal entries: f. <locus
+  >1r</locus>, by scribe A, upper margin: <q
+   lang="GRK">ἡγοῦ ἰ(ησοῦ) τῶν ἐμῶν πονημάτ(ων)</q>, and lower margin: <q
+   lang="GRK">στί(χοι) τῆ ἰνδ(ίκτω)· ἴνδικτον ἡμῖν εὐλόγει νέου
+   χρόνου, ὦ κ(αὶ) παλαιὲ καὶ δι᾿ ἀν(θρώπ)ους νέε</q>, i.e. the iambic
+   distichon for the first day. On f. <locus>3r</locus>, lower
+   margin, and f. <locus>4v</locus>, upper margin, two notes in
+   black ink (15th - 16th century?): <q lang="GRK"> εἰσ τών
+   γραμ(ματι)κόν · ηγιέσ πωλέσ καὶ χερετήσμ(ατα) ἀπὸ των μάρκον δεομ(αι) των
+   θ(εό)ν · του | εὐρῆν σέ η γραφή μου · εν ἡγι(ει)α καὶ χαρήν · καὶ ἡμεῖσ
+   μ(ετα) το ελεόσ τοῦ θ(εο)ῦ. ζωμεν τοῦ | ?θ(είου) μαρκο · δχτ · κ`ο · γγ´´ ·
+   αθανυ ´ · πεο · γγ´´ μπαρτζη · ?εγρεσ · μπηγ · αλη μπηγ · μουσταφᾶ and πολα
+   προσκυνήματα · κ(αὶ) χαιρετήσματα απώ αἱμενα τω μάρκοσ · ησ την π(α)π(α)
+   γεργϊσ μπώρισ | να μή βλεπῆσ τω σπϊτι μοῦ · δεν τω παρῆσ · τω κράσϊ : κ(αὶ)
+   τω σϊταρϊ κ(αὶ) τω λαθῦρϊ · κ(αὶ) τω | βρομῆ κ(αὶ) ωλο το σπιτϊ · εσ
+   εξεβρῆσ :– ωτϊ εγω ξαιρο · ωλα :–. On f. <locus>50v</locus>,
+   in monokondylic style, by the main scribe: τελος σεπτεμβριου μηνος, and, in
+   a different hand and ink, a prayer formula in Church slavonic. On f. <locus
+  >181r</locus>: ετοc ζρλθ μηνὶ δηκέβρηοc ειc ζʹ ημερα τετραδη
+   | εχη ὀνησεν ο θεοc ?στάχτη</q>, i.e. giving the date Dec. 7. 1630. On
+   f. <locus>274v</locus>, upper margin, black ink: <q
+   lang="GRK">ευλόγη υ ψυχὴ μοῦ τὸν κ(ύριο)ν κ(ύρι)ε ο θ(εὸ)σ
+   μοῦ εμεγαλη</q> (Septuag. Ps. 103). Further notes, formulas, and pentrials,
+   from different times and in different hands (not always legible), are to be
+   found on f. <locus>6r</locus>; f. <locus
+  >38v</locus>; f. <locus>44r</locus>; f. <locus
+  >49v</locus> and <locus>50r</locus> (a 19th
+   century hand?); f. <locus>51r</locus> (by the main scribe);
+   f. <locus>83r</locus> and <locus>87r</locus>
+   ; f. <locus>100r</locus>; f. <locus
+  >151v</locus>, <locus>152r</locus> and <locus
+  >158r</locus> (same hand as on f. <locus
+  >49</locus> and f. <locus>50</locus>)
+   mentioning the year 1854; f. <locus>158v</locus>; f. <locus
+  >171v</locus>; f. <locus>180v</locus>
+   (numerals, maybe a computation of the years 1630 and 1783/4); f. <locus
+  >185r</locus>; f. <locus>204r</locus>
+   (including a name, <name lang="GRK">μηχαελ</name>) ;
+   f. <locus>205r</locus> (two blind drawings of saints, made
+   through scratching the surface with a sharp tool) ; f. <locus
+  >280v</locus>; f. <locus
+  >286v</locus>.</p></additions>
+
+   <condition><p>Overall the manuscript is in
+   fairly good condition. There are some traces of worm and water damage, and
+   especially the red ink of the latter scribe has undergone severe fading and
+   can be read only with difficulty. Wax stains and overcasting along the
+   inner margin give evidence to the frequent use of the
+   codex.</p></condition>
+ </physDesc>
+
+ <history>
+   <origin><p>Constantinople, mid 14th
+   century.</p>
+   </origin>
+
+   <provenance><p>Very little is known of the
+   vicissitudes of this manuscript except that the codex was acquired on the
+   Peloponnese in 1920 by professor Axel W. Persson.</p></provenance>
+   <acquisition><p>It was donated to the Lund
+   University Library the following year (cfr. Lunds universitets
+   årsredogörelse, 1921-22, p. 42). Some of the marginal entries might give
+   clues as to its previous history in Greek-speaking and possibly Slavonic
+   areas.</p></acquisition>
+ </history>
+
+<additional>
+  <adminInfo>
+    <recordHist>
+      <source>
+	<p>Catalogued by Eva Nyström.</p>
+      </source>
+      <change>
+	<date rend="creation"/>
+	<respStmt>
+	  <name>eva</name>
+	</respStmt>
+	<item>Record uploaded</item>
+      </change>
+      <change>
+	<date rend="revision">2006-05-10</date>
+	<respStmt>
+	  <name>eva</name>
+	</respStmt>
+	<item>Record revised</item>
+      </change>
+    </recordHist>
+    <remarks rend="audience">
+      <p>external</p>
+    </remarks>
+  </adminInfo>
+  <listBibl>
+    <bibl>
+      <author>Devos, P.</author>
+      <title level="a">Commémoraisons de martyrs persans dans
+      le synaxaire de Lund</title>
+      <title level="j">Analecta Bollandiana</title>
+      <biblScope type="volume">81</biblScope>
+      <imprint>
+	<date>1963</date>
+      </imprint>
+      <biblScope type="pages">pp. 143-158</biblScope>
+    </bibl>
+
+    <bibl>
+      <author>Rudberg, S. Y.</author>
+      <title level="a">Le synaxaire grec de Lund</title>
+      <title level="j">Analecta Bollandiana</title>
+      <biblScope type="volume">81</biblScope>
+      <imprint>
+	<date>1963</date>
+      </imprint>
+      <biblScope type="pages">pp. 117-141</biblScope>
+    </bibl>
+
+    <bibl>
+      <author>Rudberg, S. Y.</author>
+      <title level="a">Les manuscrits grecs de la Bibliothèque
+      universitaire de Lund,</title>
+      <title level="j">Eranos</title>
+      <biblScope type="volume">67</biblScope>
+      <imprint>
+	<date>1969</date>
+      </imprint>
+      <biblScope type="pages">pp. 54-61</biblScope>
+    </bibl>
+  </listBibl>
+</additional>
+</msDescription>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_33">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 33</idno>
+<altName type="database-identifier">scriptorium:Mh:549865:1137070806</altName>
+</msIdentifier>
+<msHeading>
+      <title lang="ENG">Psalter</title> 
+      <origPlace>Holland (Utrecht)</origPlace>
+      <origDate notBefore="1500" notAfter="1525">16th century, early</origDate>
+      <textLang langKey="DUT">Dutch</textLang>
+    </msHeading>
+<msContents>
+
+      <msItem n="1">
+	<locus from="3r" to="11v">ff. 3r-11v</locus>
+	<title type="uniform">Calendar</title>
+	<note><p>In red: Pancratius (12. 5), Gereon (10. 10), Willibrordus,
+	    bishop of Utrecht (7. 11), Lebuinus (12. 11), indicating the
+	    diocese of Utrecht</p> 
+	  <p>Ff. 1r-2v: blank.</p> 
+	</note>
+      </msItem>
+
+      <msItem n="2">
+	<locus from="12r" to="14v">ff. 12r-14v</locus>
+	<title type="uniform">Computistic tables, partially imcomplete</title>
+	<note><p>On f. <locus>14r</locus>: tables; and on f. <locus>14v</locus>
+	    a much later hand has added the outlines for a new table.</p> 
+      </note> 
+
+	<msItem n="2.1"><locus from="13r" to="13r">f. 13r</locus>
+	  <incipit>Aries ist hoeft daer in is goet laeten</incipit>
+	</msItem>
+
+        <msItem n="2.2"><locus from="13v" to="13v">f. 13v</locus>
+	  <title>Golden Numbers</title>
+	  <incipit>Hij begint dat gulden ghetal ende die sondaeges
+	    letter</incipit>
+	</msItem>
+
+
+    </msItem>
+
+  <msItem n="3">
+    <locus from="15r" to="214r">ff. 15r-214r</locus>
+    <title type="uniform">Psalter</title>
+    <incipit>Die sanck der psalmen hillighet dat lichaem</incipit>
+    <explicit>alle geesten louet den louet den heren Hijr gaet de psalter wt
+      ... Ende hijr begynnen de cantica ... .</explicit> 
+    <note><p>According to Biemans, the translation is by Geert Groote and Johan
+	Scutken.</p> 
+      <p>On f. <locus>16r</locus>: <q>lof godes in sijnre herten
+	  draeget</q>.</p>  
+      <p>On f. <locus>16v</locus>: <q>Wilstu penitencie doen bichte van dinen
+	  sonden</q>.</p> 
+      <p>On f. <locus>18v</locus>: <q>Hijr begint als die leraers segghen een
+	  boeck van den loeue godes</q>.</p> 
+      <p>On f. <locus>21v</locus>: <q>Alsoe als sancte iheronimus secht in den
+	  prologus opten solter</q>.</p> 
+      <p>On f. <locus from="22r" to="22v">22r/v</locus>: <q>datmen vindet of
+	  ghemeenlick of sonderlinghe</q>.</p> 
+      <p>On f. <locus>22v</locus>: <q>Hijr begint die eerst psalm beatus vir
+	  Dese psalm segghen die meisters  ...  Saelich is die man die niet of
+	  ghegaen is ... </q> after which there is a lacuna of one leaf;
+	f. <locus>23r</locus> starts with Ps. 2.</p> 
+
+      <p>The Latin initia, rubricated, quoted for each psalm. After the end of
+	each psalm there is information as to who has written it and on what
+	occasion.</p> 
+    </note>
+  </msItem>
+
+    <msItem n="4">
+      <locus from="214r" to="228v">ff. 214r-228v</locus>
+      <title type="uniform">Cantica</title>
+      <rubric>Confiteor tibi</rubric>
+      <incipit>Ic sal belijen here wantu my toernich biste</incipit>
+      <explicit>soe en mach he niet beholden bliuen Amen Deo gracias</explicit>
+      <note><p>Before each song information about origin; rubricated Latin
+	  initia.</p><p>Ff. 229r-230v: blank.</p></note> 
+
+      <msItem n="4.1"><locus from="214v" to="215r">ff. 214v-215r</locus>
+	<rubric>Ego dixi</rubric>
+	<incipit>Ic sprac int middel mynre daeghen</incipit>
+      </msItem>
+
+      <msItem n="4.2"><locus from="215v" to="216r">ff. 215v-216r</locus>
+	<rubric>exultauit cor</rubric>
+	  <incipit>Myn herte heuet vrolick ghewest</incipit></msItem>
+
+      <msItem n="4.3"><locus from="f. 216v" to="217v">ff. 216v-217v</locus>
+	  <rubric>cantemus</rubric>
+	  <incipit>Synghe wy den heren want he is glorioselick
+	  gheert</incipit>
+      </msItem>
+
+      <msItem n="4.4"><locus from="218r" to="219r">ff. 218r-219r</locus>
+	<rubric>domine audiui</rubric>
+	<incipit>Here ic hoerde din oren</incipit></msItem>
+
+      <msItem n="4.5"><locus from="219v" to="222v">ff. 219v-222v</locus>
+	<rubric>audite celi</rubric>
+	<incipit>Hoert v hemelen dat ic spreken sal</incipit></msItem>
+
+      <msItem n="4.6"><locus from="223r" to="223v">ff. 223r-223v</locus>
+	<rubric>benedic</rubric>
+	<incipit>Benediet den heren alle werke</incipit>
+      </msItem>
+
+      <msItem n="4.7"><locus from="224r" to="224r">ff. 224r</locus>
+	<rubric>benedictus</rubric>
+	<incipit>Ghebenedijt sy de here god van israel</incipit>
+      </msItem>
+
+      <msItem n="4.8"><locus from="224v" to="225r">ff. 224v-225r</locus>
+	<rubric>te deum lau</rubric>
+	<incipit>Dy god loue wy</incipit>
+      </msItem> 
+
+      <msItem n="4.9"><locus from="225v" to="226r">ff. 225v-226r</locus>
+	<rubric>Magnificat anima</rubric>
+	<incipit>Myne ziele maket groet den heren</incipit>
+      </msItem> 
+
+      <msItem n="4.10"><locus from="226r" to="226r">f. 226r</locus>
+	<rubric>Nunc dimit[t]is domine</rubric>
+	<incipit>Nu laet here dinen knecht nae dinen woerden in
+	  vreden</incipit>
+      </msItem> 
+
+      <msItem n="4.11"><locus from="226v" to="226v">f. 226v</locus>
+	<rubric>quicumque vult</rubric>
+	<incipit>Soe we beholden wil wesen</incipit>
+      </msItem>
+
+    </msItem>
+
+  </msContents>
+<physDesc>
+    <support><p>Paper.</p><watermarks><p>Watermarks,
+	  visible e.g. at ff. 23 and 215-216 with the arms of Savoy and France
+	  and a walking unicorn (very close to Briquet 1848), are probably
+	  attributable to Chalons-sur-Marne around 1523.</p></watermarks> 
+    </support>
+
+    <extent>ff. 230,
+      <dimensions><height>140</height><width>100</width></dimensions>
+      mm.</extent> 
+    <collation><p>Collation is uncertain since the manuscript
+	has been rebound.; 28 quires: I: 12 (ff. 1-12), II: 11
+	  (ff. 13-23), III: 6 (ff. 24-29), IV: 9 (ff. 30-38), V: 8 (ff. 39-46),
+	  VI: 8 (ff. 47-54), VII: 8 (ff. 55-62), VIII: 8 (ff. 63-70; ff. 69 and
+	  70 added), IX: 6 (ff. 71-76), X: 10 (ff. 77-86; originally a senion),
+	  XI: 9 (ff. 87-95; f. 95 added), XII: 6 (ff. 96-101), XIII: 9
+	  (ff. 102-110; originally a quinion), XIV: 9 (ff. 111-119; f. 119
+	  added), XV: 7 (ff. 120-126; f. 126 added), XVI: 8 (ff. 127-134),
+	  XVII: 8 (ff. 135-142), XVIII: 8 (ff. 143-150), XIX: 9 (ff. 151-159;
+	  f. 159 added), XX: 6 (ff. 160-165), XXI: 10 (ff. 166-175), XXII: 6
+	  (ff. 176-181), XXIII: 9 (ff. 182-190), XIV: 8 (ff. 191-198), XXV: 8
+	  (ff. 199-206), XXVI: 8 (ff. 207-214), XXVII: 9 (ff. 215-223), XXVIII:
+	  7 (ff. 224-230).</p></collation> 
+
+    <layout columns="1" writtenLines="18"><p>One column; 18 written lines;
+	ruled in ink; written space: 142 x 100 mm.</p> 
+    </layout>
+    <msWriting hands="1">
+      <handDesc script="hybrida"><p>Main text in hybrida in one hand. Rubricated, often with instructions
+	  to rubricator partiallly legible in cropped margins.</p></handDesc> 
+    </msWriting> 
+
+    <decoration>
+      <decoNote><p>One illuminated and gilt three-sided frame
+	    (f. <locus>172v</locus>), 8 
+	  illuminated and gilt borders with flower decoration
+	    (ff. <locus>53r</locus>, <locus>60v</locus>, 
+	  <locus>90r</locus>, <locus>98r</locus>, <locus>109v</locus>,
+	    <locus>118v</locus>, <locus>130v</locus>, <locus>154v</locus>), 25
+	    large illuminated 3-6 lines 
+	  initials with extended pen flourishes or otherwise emphasised
+	  decoration (ff. <locus>15r</locus>, <locus>53r</locus>,
+	    <locus>60v</locus>, <locus>82r</locus>, <locus>90r</locus>,
+	    <locus>98r</locus>, <locus>109v</locus>, <locus>118v</locus>,
+	    <locus>130v</locus>, <locus>132r</locus>, 
+	  <locus>139v</locus>, <locus>149v</locus>, <locus>154v</locus>,
+	    <locus>172v</locus>, <locus>179v</locus>, <locus>181v</locus>,
+	    <locus>184v</locus>, <locus>187v</locus>, <locus>188v</locus>,
+	    <locus>192r</locus>, <locus>197v</locus>, 
+	  <locus>201v</locus>, <locus>219v</locus>, <locus>224v</locus>,
+	    <locus>225v</locus>), 7 smaller, 3-4 lines, illuminated initials 
+	  with rows of drops in the margin instead of pen flourishes
+	    (ff. <locus>45r</locus>, 
+	  <locus>70r</locus>, <locus>89r</locus>, <locus>163r</locus>,
+	    <locus>183r</locus>, <locus>186r</locus>, <locus>223r</locus>), 15
+	    lombards with void white, and 
+	  occasional red details, often with incorporated simple drawings of
+	  human faces in profile (ff. <locus>29v</locus>, <locus>33r</locus>,
+	    <locus>39r</locus>, <locus>95v</locus>, <locus>175r</locus>,
+	    <locus>176v</locus>, <locus>177r</locus>, 
+	  <locus>180r</locus>, <locus>190v</locus>, <locus>191r</locus>,
+	    <locus>193r</locus>, <locus>195r</locus>, <locus>200v</locus>,
+	    <locus>208v</locus>, <locus>226v</locus>), and numerous simply 
+	  decorated line fillers (e.g. ff. <locus>22v</locus>,
+	    <locus>127r</locus>, <locus>135r</locus>, <locus>200v</locus>). On
+	    f. <locus>13v</locus> a 
+	  circular diagram in red on the golden numbers with two concentric
+	  registers, two crosses and a rubric "Md" suggesting an approximate
+	  date of the manuscript. The colours are applied in thin washes.</p> 
+
+	<p>Detailed description: f. <locus>53r</locus>: initial (D) in blue and
+	    orange with 
+	  leaf ornaments in orange, yellow and green, floral filling in mauve,
+	  blue, orange, green and gold against a yellow background, surrounding
+	  field with multiple contours in brown. Border in upper  margin with
+	  ondulating stem and small stars in gold, flower buds, or rather,
+	  pumpkins in orange and mauve; f. <locus>60v</locus>: initial (U) in
+	    blue with leaf 
+	  ornaments in mauve, green and orange, void white fields filled with
+	  red dots, decorative filling with leaf-ornaments against a background
+	  in, green, orange and mauve. Surrounding field in green  and penwork
+	  extending in leaf-ornamens and sprouts in dark red lines with details
+	  in green. Border in upper margin with ondulating stem and small stars
+	  in gold, zucchini or cucumbers in green, orange or mauve with flowers
+	  in orange; f. <locus>90r</locus>: initial (D) in blue with (faded)
+	    leaf-ornaments 
+	  and floral filling in green, orange and mauve against a yellow
+	  background. Surrounding field in brown and orange with multiple
+	  contoursin brown. Border in upper margin with ondulating stem and
+	  small stars in gold, small green leaves and three-leaf flowers in
+	  orange, mauve and blue; f. <locus>98r</locus>: initial (H) in blue
+	    with floral 
+	  ornaments in mauve, blue and gold, floral filling in green, blue and
+	  orange against a yellow background, surrounding multiple contours in
+	  brown. Border in upper margin with ondulating stem and small stars in
+	  gold, small green leaves and hop flowers in green and mauve;
+	    f. <locus>109v</locus>: 
+	  initial (G) in blue with floral ornaments in green, orange and gold,
+	  floral filling in green, blue, mauve, orange and gold against a
+	  yellow background, surrounding multiple contours in brown. Border in
+	  upper margin with ondulating stem and small stars in gold, small
+	  green leaves and pear-shaped flowers in blue, orange and mauve;
+	  f. <locus>118v</locus>: initial (G) in blue with leaf ornaments in green and orange,
+	  floral filling in dark red outline and orange against a green
+	  background. Surrounding field in green and penwork extending in
+	  leaf-ornamens and sprouts in dark red lines with details in
+	  green. Border in upper margin with ondulating stem and small stars in
+	  gold, small green leaves and strawberries in orange and mauve;
+	  f. <locus>130v</locus>: initial (D) in blue with leaf ornaments in
+	    green, floral 
+	  filling in dark red outline and green against a background in green
+	  and mauve. Surrounding field in green and mauve, and penwork
+	  extending in leaf-ornamens and sprouts in dark red lines with details
+	  in green. Border in lower margin with ondulating stem and small stars
+	  in gold, large green thistle-leaves and flowers in mauve;
+	    f. <locus>154v</locus>: 
+	  initial (H) in blue with leaf ornaments in orange and mauve, floral
+	  filling in dark red outline against a background in green and
+	  mauve. Penwork with volutes and sprouts in dark red lines with
+	  details in green. Border in upper margin with ondulating stem and
+	  small stars in gold, small green leaves and thistle-flowers in mauve;
+	  f. <locus>172v</locus>:  illuminated and gilt three-sided frame with
+	    contours, 
+	  ondulating stem and star ornaments in gold, blue, mauve and orange
+	  flowers, small drop-shaped green leaves and a few larger leaves of
+	  thistle or holly. Initial (D) in blue with floral decoration in mauve
+	  and orange, floral filling in green, mauve, orange and blue with gilt
+	  detail against a yellow backround, surrounding field in black and
+	  yellow.</p> 
+
+	<p>Style: The decoration belongs to the same Northern Dutch tradition
+	  as e.g. Leiden, UB, Ltk 328, dated 1475, and Leiden, UB, Ltk 348, and
+	  is somewhat similar to Leiden, UB, Bpl, 2843, (f. 208r) dated
+	  1519.</p></decoNote> 
+    </decoration>
+
+
+    <bindingDesc>
+      <binding><p>Blind-tooled brown sheepskin binding, preserved decorated
+	  covers the Netherlands, contemporary with the manuscript. Rebinding,
+	  Germany, Stuttgart, signed with an ink stamp at the inside of the
+	  lower cover: <q>Restauriert Hans Heiland &amp; Sohn, 1963. Size: 150
+	    x 115 x 48 mm.</q></p> 
+	<p>Brown sheepskin binding over square edged wooden boards. Rebinding
+	  with the covers from former binding preserved. Two hook clasp
+	  fastenings at fore-edge, straps, anchor plates and nails new. Rounded
+	  spine. Tight back with four raised bands. Blind-tooled library cloth
+	  label at the tail of the back. Former edge trimming preserved. Two
+	  plain flyleaves at the front, former parchment pastedowns preserved
+	  as separate pastedowns. On the upper pastedown former shelf marks
+	  (cfr. above) and present shelf mark in pencil, with notes in the hand
+	  of Gustaf Sommelius, librarian at Lund University Library 1767-99, on
+	  the contents: <q>Exegesis Psalmorum Davidis lingua germanica
+	    antiqua</q>; in the upper left corner, in pencil: <q>h. 14.2,
+	    br. 10 cm.</q> in the hand of librarian August Palm
+	  (1826-1907). All along sewing on four raised cords laced through the
+	  boards. Photograph of former binding inserted at lower cover.</p>  
+	<p>The covers are blind-tooled to a frame and panel of parallel
+	  vertical stripes made of a roll and double fillets. The roll shows a
+	  four-petal flower within a lozenge.</p>
+      </binding>
+    </bindingDesc> 
+    <foliation><p>Foliated in pencil by modern cataloguer in upper right
+	corner; f. 231 is the lower pastedown; between f. 22 and 23 there is
+	one folio that had a large initial facing f. 22v
+	missing.</p></foliation>
+
+    <additions><p>At f. 15r in upper margin: <q>Om frede ende enicheit</q>;
+	from f. 31r numbers and notes in the margins referring to the text, in
+	the hand of August Palm, librarian at Lund University Library
+	1856-1907.</p></additions>
+
+    <condition><p>From f. 175 the paper is damaged by humidity but the text
+	remains legible. </p></condition>
+
+  </physDesc>
+<history>
+    <origin><p>Holland (Utrecht), early 16th century.</p></origin>
+
+    <provenance><p>The mannuscript was apparently owned by Gosen Conders,
+	possibly a nun, cfr. note on lower pastedown: <q>s[uster?] gosen
+	  conders.</q> Biemans (1984) erroneously reads "couders" instead of
+	"conders". Gosen may well be identical with the Gosen Conders who owned
+	Leiden UB, Ltk. 285.</p></provenance> 
+    <acquisition><p>It was acquired by Lund University Library ab. 1750,
+	cfr. note on upper pastedown: 1746 N. I.</p></acquisition> 
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued by Margarete Andersson-Schmitt, the
+	    manuscript description encoded in August, 2002 by Eva Nilsson
+	    Nylander.</p>
+</source>
+<change>
+<date rend="creation">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-01-12</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Biemans, J.A.A.M.</author>
+<title level="m">Middelnederlandse Bijbelhandschriften, Leiden 1984 (= Verzameling van Middelnederlandse Bijbelteksten. Catalogus)</title>
+<imprint><pubPlace>Leiden</pubPlace>
+<date>1984</date></imprint>
+<biblScope type="pages">pp. 117-118: n. 83 (older bibliography quoted here).</biblScope>
+</bibl>
+<bibl>
+<author>Borchling, C.</author>
+<title level="a">Mittelniederdeutsche Handschriften in Skandinavien, Schleswig-Holstein, Mecklenburg un Vorpommern. Zweiter Reisebericht</title>
+<title level="j">Nachrichten von Königl. Gesellschaft der Wissenschaften zu Göttingen. Philologisch-historische Klasse 1900. Beiheft</title>
+<biblScope type="volume"/>
+<imprint>
+<pubPlace>Göttingen</pubPlace>
+<date>1900</date>
+</imprint>
+<biblScope type="pages">pp. 1-204 (p. 137)</biblScope>
+</bibl>
+<bibl>
+<author>Kernkamp, G. W.</author>
+<title level="m">Verslag van een onderzoek in Zweden, Noorwegen en Denemarken naar archivalia, belangrijk voor de geschiedenis van Nederland</title>
+<imprint>
+<pubPlace>s'Gravenhage</pubPlace>
+<date>1903</date>
+</imprint>
+<biblScope type="pages">p. 3</biblScope>
+</bibl>
+<bibl>
+<author>Rooth, E</author>
+<title level="a">Medelnederländska trubadurdikter funna i Universitetsbiblioteket i Lund</title>
+<title level="j">Nordisk tidskrift för Bok- och Biblioteksväsen</title>
+<biblScope type="volume">14</biblScope>
+<imprint>
+<date>1927</date>
+</imprint>
+<biblScope type="pages">pp. 142-146 (p. 143)</biblScope>
+</bibl>
+<bibl>
+<author>Vreese, W. de</author>
+<title level="a">Sint Augustinus in het Middelnederlandsch. Uit de Bibliotheca Neerlandica Manuscripta</title>
+<title level="m">Miscellanea Augustiniana. Gedenkboek samengesteld uit verhandelingen over S. Augustinus bij de viering van zijn zalig overlijden voor 15 eeuwen CDXXX-MCMXXX</title>
+<imprint>
+<pubPlace>[Rotterdam]</pubPlace>
+<date>1930</date>
+</imprint>
+<biblScope type="pages">pp. 341-373 (p. 363)</biblScope>
+<note>
+reprint in: Over handschriften en handschriftenkunde: tien codicologische
+	  studiën, bijeengebracht, ingeleid en toegelicht door
+	  P. J. H. Vermeeren, Zwolle 1962 (= Zwolse Reeks van Taal- en
+	  Letterkunde 11), pp. 85-115 (p. 106).</note>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

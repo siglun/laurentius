@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_24">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 24</idno>
+<altName type="former shelfmark">Biblioth. Lilliebl. No. 3</altName>
+<altName type="former shelfmark">Ms. H. L. a) fol. 14</altName>
+<altName type="former shelfmark">Handskrifter. Klass. Lat.</altName>
+<altName type="database-identifier">scriptorium:Mh:556780:1138806768</altName>
+</msIdentifier>
+<msHeading>
+<author>Servius</author>
+  <title lang="ENG">Commentary on Virgil</title> 
+  <origPlace>Italy, Northern (?)</origPlace>
+  <origDate notBefore="1440" notAfter="1455">15th century, mid</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1" defective="no">
+<locus from="1r" to="24r">ff. 1r-24r</locus>
+<author>Servius, Maurus Honoratus</author>
+<title>Commentary on the Bucolics</title>
+<bibl>
+<title level="m">Servii Grammatici qui feruntur in Vergilii Carmina Commentarii recensuerunt</title>
+<editor>Georgius Thilo et Hermannus Hagen, Vol. 3. Fac. 1. In Bucolica et Georgica Commentarii, recensuit Georgius Thilo</editor>
+<imprint>
+<pubPlace>Lipsiae, In aedibus B. G. Teubneri,</pubPlace>
+<date>1887</date>
+</imprint>
+</bibl>
+</msItem>
+
+<msItem n="2">
+<locus from="24r" to="64v">ff. 24r-64v</locus>
+<author>Servius, Maurus Honoratus</author>
+<title>Commentary on the Georgics</title>
+<bibl>
+<title level="m">Servii Grammatici qui feruntur in Vergilii Carmina Commentarii recensuerunt</title>
+<editor>Georgius Thilo et Hermannus Hagen, Vol. 3. Fac. 1. In Bucolica et Georgica Commentarii, recensuit Georgius Thilo</editor>
+<imprint>
+<pubPlace>Lipsiae, In aedibus B. G. Teubneri,</pubPlace>
+<date>1887</date>
+</imprint>
+</bibl>
+</msItem>
+
+<msItem n="3">
+<locus from="65r" to="260v">ff. 65r-260v</locus>
+<author>Servius, Maurus Honoratus</author>
+<title>Commentary on the Aeneid</title>
+<bibl>
+<title level="m">Servii Grammatici qui feruntur in Vergilii Carmina Commentarii recensuerunt</title>
+<editor>Georgius Thilo et Hermannus Hagen, Vol. 1. Aeneidos Librorum I-V Commentarii, recensuit Georgius Thilo</editor>
+<imprint>
+<pubPlace>Lipsiae, In aedibus B. G. Teubneri,</pubPlace>
+<date>1881</date>
+</imprint>
+</bibl>
+</msItem>
+</msContents>
+<physDesc>
+    <support><p>Paper.</p>
+      <watermarks><p>A whole series of watermarks (<ref>Briquet
+	    6552-6572</ref>) with a <term>7 petal flower</term> (as clearly
+	  seen on f.  <locus>9</locus>) are, allthough different from one another, all Nothern
+	  Italian, and most of them Lombard.</p></watermarks> 
+    </support>
+
+    <extent>ff. i + 260 +
+      i<dimensions><height>280</height><width>197</width></dimensions> 
+      mm.</extent> 
+    <collation><p>26 quires: I: 10 (ff. 1-10), II: 10
+	  (ff. 11-20), III: 10 (ff. 21-30), IV: 10 (ff. 31-40) V: 10
+	  (ff. 41-50), VI: 10 (ff. 51-60), VII: 10 (ff. 61-70), VIII: 10
+	  (ff. 71-80), IX: 10 (ff. 81-90), X: 10 (ff. 91-100), XI: 10
+	  (ff. 101-110), XII: 10 (ff. 111-120), XIII: 12 (ff. 121-132), XIV: 10
+	  (ff. 133-142), XV: 10 (ff. 143-152), XVI: 10 (ff. 153-162), XVII: 10
+	  (ff. 163-172), XVIII: 10 (ff. 173- 182), XIX: 10 (ff. 183-192), XX:
+	  10 (ff. 193-202), XXI: 10 (ff. 203-212), XXII: 10 (ff. 213-222),
+	  XXIII: 10 (ff. 223-232), XXIV: 10 (ff. 233-242), XXV: 10
+	  (ff. 243-252), XXVI: 8
+	  (ff. 253-260). Catchwords.</p></collation> 
+    <layout columns="1" writtenLines="39"><p>1 column; 39 lines; ruled in ink,
+	written space: 190 x 125 mm.</p> 
+    </layout>
+
+    <msWriting hands="3">
+      <handDesc script=" semi cursive" medium="ink" scope="sole"><p>
+	  Humanistic semi cursive script. Three hands; scribe 1:  <locus from="1r" to="86r">f. 1r - 86r</locus>,
+	  l. 1; scribe 2 f. <locus>86r</locus>, l. 2 - <locus>113r</locus>, l. 2; and scribe 3 f. 113, l. 3 -
+	  the end.</p></handDesc> 
+    </msWriting>
+    <decoration>
+      <decoNote><p>The original decoration consists of a total of 17
+	  illuminated initials of two sizes: smaller 3-5-lines initials on
+	  ff. <locus>1r</locus>, <locus>24r</locus>, <locus>38r</locus>,
+	  <locus>48v</locus>, <locus>58r</locus>, <locus>65r</locus>,
+	  <locus>98r</locus>, and larger 7-9-lines initials 
+	  on ff. <locus>131r</locus>, <locus>144v</locus>, <locus>156r</locus>,
+	  <locus>181v</locus>, <locus>195r</locus>, <locus>210r</locus>,
+	  <locus>220r</locus>, <locus>233v</locus>, <locus>249v</locus>; one 
+	  16-lines initial (I) on f. <locus>113r</locus>. They are all painted
+	  by one artist 
+	  with brush in blue, pink, yellow, green and different red tones from
+	  light pink to mauve and unblended bright red, with fine details in
+	  white and brown ink; preliminary drawings in pencil are visible in
+	  several instances e.g. on ff. <locus>65r</locus> and
+	  <locus>220r</locus>. One intended initial on 
+	  f. <locus>130v</locus> was never carried out, and the smallest
+	  initials in the 
+	  beginning of the manuscript are simple lombards.</p>
+
+	<p>The larger initials are all in the commentary to the Aeneid although
+	  the first two initials in this text (ff. <locus>65r</locus> and
+	  <locus>98r</locus>) are small. The 
+	  marked ending of the commentary to the Georgics suggests a clear
+	  division of the book in two halves, but the fact that the increase in
+	  decorative effect was not introduced until f. <locus>113r</locus>,
+	  points towards a 
+	  probable slight altering of plans during work.</p>
+
+	<p>In all 17 initials the body of the letter is pink, the internal
+	  background yellow, the surrounding frame blue and the leaf ornaments
+	  green, reddish and blue. Heightenings with thin white lines in
+	  ornamental figures are distributed over the whole surface of the
+	  initial, but generally more detailed on the body of the
+	  letter. Secondary decoration include maniculae on
+	  ff. <locus>7r</locus>, <locus>155r</locus>, <locus>174r</locus> 
+	  and cartouches around marginal scholia in the shape of a balloon like
+	  object on f. <locus>147v</locus>, a bowl on f. <locus>178v</locus>,
+	  and a scroll on f. <locus>191r</locus>.</p> 
+
+	<p>Style: During the 14th and early 15th Century Ragusa (Dubrovnik) lay
+	  under Venice and later under Hungary. In comparison with Bohemian and
+	  Dalmatian manuscripts, the style of this manuscript is undoubtedly
+	  not coherent with a more germanic aspect, but shows obvious Italian
+	  features. An Italian import, probably from Milan or surrounding
+	  Lombardy is likely, also considering the lombard water-marks. The
+	  characteristics of the style is fully developped in northern Italian
+	  manuscripts from the late 14th century, with close relatives in Milan
+	  around 1400, suggesting that the note of 1455 can not be taken as the
+	  date of production, which cautiously is set to the first half of the
+	  15th century.</p></decoNote>
+
+    </decoration>
+    <bindingDesc>
+      <binding><p>Parchment binding, sewing Italy contemporary with the manuscript. Rebinding, Sweden, 17th century or in connection with the library acquisition of the manuscript 1704. Size: 295 x 205 x 65 mm.</p>
+<p>Parchment binding over pasteboards. Covers with some warping. Rounded spine, hollow back. Manuscript title in ink (faded). Blind-tooled library label of paper. Stuck-on green and white linen endbands embroidered on parchment tape and laced through the covers. Tailband in part defect. Gilt and guaffered edges (gilding worn and gone). Plain single flyleaves and pastedowns of paper; on front pastedown a glued label with a note in the hand of the librarian August Palm (1826-1907) on the contents of the manuscript. (Pastedowns and parchment turn-ins in part detached from the boards). All along sewing on three double tongs later cut flush with the spine. Quire centrefolds with guards of parchment strips. Tapes of parchment slipped into the sewing supports and laced through the covers.</p></binding>
+    </bindingDesc>
+
+    <foliation><p>Foliated in pencil by modern cataloguer in upper right
+	corner.</p></foliation>
+
+    <additions><p>Cropped margins sometimes make the notes
+	illegible.</p></additions>
+
+  </physDesc>
+<history>
+    <origin><p>Northern Italy (?), mid 15th century.</p></origin>
+    <provenance><p>According to a note partially scraped off on
+	f. <locus>260v</locus> the 
+      manuscript was bought by a priest in Ragusa (Dubrovnik) in 1455 <q>Iste
+	liber Servii est [conventus Ragusini] emptus ducatis ... a presbiteri
+	Simeo filio Andre de Tr ... de Ragusio 1455 die 15 Iulii
+	... .</q></p></provenance>
+
+    <acquisition><p>In the early 18th century it was owned by Gustaf Peringer
+      Lillieblad (1651-1710), professor of oriental languages in Uppsala, and
+      royal secretary and librarian. It was sold by him to the Library in
+      1703. There is a former shelf mark at f. i verso <q>Ex
+	Biblioth. Lilliebl. No. 3</q>and further down a note in pencil
+      <q>ink. 1703</q>. At the top of that same folio is the old Wieselgren
+      shelf mark <q>Bibl. Ms. H. L a) fol 14.</q></p></acquisition>
+
+  </history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in June of 2002.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Pellegrin, E.</author>
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservés dans les bibliothèques publiques de Suède</title>
+<title level="j">Bulletin d'information de l'institut de recherches et d'histoire des textes</title>
+<biblScope type="volume">3</biblScope>
+<imprint>
+<pubPlace>Paris</pubPlace>
+<date>1954</date>
+</imprint>
+<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

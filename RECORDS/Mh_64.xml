@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_64">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 64</idno>
+<altName type="database-identifier">scriptorium:Mh:589523:1138810197</altName>
+</msIdentifier>
+<msHeading>
+<title>Miscellany</title> 
+  <origPlace>Bohemia (?)</origPlace>
+  <origDate notBefore="1450" notAfter="1500">15th century, second half</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+    <note>The manuscript contains four different texts. It is bound with: Augustinus de Ancona, Summa de ecclesiastica potestate, printed in Lyon before 1480, and with Medeltidshandskrift 62 and 63.</note> 
+  </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1r" to="4v">ff. 1r-4v</locus>
+<author>Alain de l'Isle</author>
+<title>Doctrinale altum seu liber parabolarum</title>
+<incipit>A Phoebe Phoebe lumen capit a sapiente insipiens</incipit>
+<explicit>Nec superet qui te sic superare putat.</explicit>
+<rubric type="final">Proverbiorum super probleumatum Alani liber explicit in lipit. in die undecimo milia virginum 1470 per studiosum M pellificis de Cadana</rubric>
+<listBibl>
+<bibl>
+<title level="m">Doctrinale minus alias Liber parabolarum magistri Alani de Insulis</title>
+<editor>de Wisch, Carolus</editor>
+<title level="s">Patrologiae cursus completus. Series Latina, Migne, J.-P.</title>
+<biblScope type="volume">210:0579</biblScope>
+<imprint>
+<pubPlace>Parisiis</pubPlace>
+<date>1844-64</date>
+</imprint>
+</bibl>
+</listBibl>
+</msItem>
+
+
+
+<msItem n="2">
+<locus from="5r" to="9r">ff. 5r-9r</locus>
+<author>Adolphus of Vienna</author>
+<title>Doligamus</title>
+<incipit>Augurio docti fraudes didici</incipit>
+<explicit>et post hanc metam det ei sedem bene letam iungeque solamen nunc dicat quilibet amen</explicit>
+<rubric type="final">explicit doligamus per manum et non per pedes M Cadanensis in Lipsia (?) 1470 in profesto omnium sanctorum.</rubric>
+<note>Nine fabulae of varying length concerning the deceitful conduct of women. The first 14 versers make up the acrosticon "Adolfus me fecit".</note>
+<listBibl>
+<bibl>
+<title level="m">Adolfo di Vienna. Doligamus, gli inganni delle donne,</title>
+<editor>a cura di Paola Casali.</editor>
+<title level="s">Per Verba</title>
+<biblScope type="volume">7</biblScope>
+<imprint>
+<pubPlace>Firenze</pubPlace>
+<date>1997</date>
+</imprint>
+
+<note>Casali lists 17 mss. none of which is Mh 64; cfr. also Yale, Beinecke
+	    Rare Book and Manuscript Library MS 462 (ff. 2r-31r), Austria,
+	    second half of 15th century, also not on Casali's list.</note>
+</bibl>
+</listBibl>
+</msItem>
+
+<msItem n="3">
+<locus from="9r" to="11v">ff. 9r-11v</locus>
+<author>Frovinus Cracoviensis</author>
+<title>Antigameratus</title>
+<incipit>Hos morum flores  si carpseris ut rosa flores</incipit>
+<rubric type="final">Moralia Antigamerati canonici Cracoviensis qui etiam phisologum compilavit explicit feliciter in lipit.</rubric>
+</msItem>
+
+<msItem n="4">
+<locus from="12r" to="12v">f. 12r-v</locus>
+<title>Ortulus florum</title>
+<incipit>cum nihil utilius humane credo saluti quam morum novisse modos et moribus uti</incipit>
+<rubric type="final">finit ortulus florum p.m. Cadani</rubric>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Paper</p></support><extent>ff. 12, <dimensions><height>292</height><width>215</width></dimensions> mm.</extent>
+<collation><p>1 quire: I: 12 (ff. 1-12).</p></collation>
+<layout columns="2"><p>Ruled in ink; 2 columns (f. 9 traces of a third column (?) in cropped margin) with an intercolumnium of 25 mm.; written space: 230 x 150 mm.</p>
+</layout>
+<msWriting hands="1">
+<handDesc script="Cursiva Recentior Libraria"><p>
+One hand; Cursiva Recentior Libraria.</p></handDesc>
+</msWriting> 
+<decoration>
+<decoNote><p>Red lombards. Drawings of scrolls in brown ink framing a few lines of text (ff. 4v, 9r, 11v, 12v) and small drawings of leaf-ornaments (ff. 6r, 7r).</p></decoNote>
+</decoration>
+
+<bindingDesc>
+      <binding><p>Blind-tooled brown calfskin binding, contemporary with the
+	  manuscript, restored back. Size: 300 x 220 x 80 mm.</p> 
+	<p>Brown calfskin binding over square edged wooden boards (type [a],
+	  cfr. Szirmai 1999 p. 219). Later recovering of the back late
+	  19th or 20th century. The covering is worn, loose and partly missing
+	  around endbands and at corners of the boards, the joint is cracked at
+	  the lower part of the upper board. Two engraved hook-clasp fastenings
+	  at fore-edge, engraving: ma[u or ri?]. Hook-clasp and leather strap of upper fastening missing. Lower anchor plate of later date, new nails. Worn
+	  and partly damaged manuscript titles on paper labels in top
+	  compartments and manuscript library code on paper in one of the lower
+	  compartments of the back. Primary wound endbands with secondary
+	  cross-stitched embroidery (type IV fig. 2.24, cfr. Szirmai 1999,
+	  p. 208-209). The endbands are worn and the embroidery partly
+	  missing. Trimmed edges, squares at head and tail. All along sewing on
+	  three double split leather thongs laced through the boards. Some of
+	  the bands are partly cracked at the joints of the upper
+	  board. Endleaves missing.</p> 
+	<p>The covers are blind-tooled with double fillets into a large frame
+	  and central panel. The frame is stamped with an inscribed curved
+	  ribbon tool into a partly irregular undulated and crossed pattern;
+	  the corner compartments contain a large rosette placed in a square
+	  made of the same ribbon tool. The central panel is stamped into
+	  repeated ogival compartments with pomegranates in the centre. The
+	  back is blind-tooled with double fillets next to the
+	  bands.</p>
+      </binding> 
+    </bindingDesc>
+
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner.</p></foliation>
+<additions><p>Annotated in the margins throughout the manuscript.</p></additions>
+</physDesc>
+<history>
+<origin><p>Leipa in Bohemia (?).</p></origin>
+<provenance><p>There is a note on the first leaf of the printed book (with which the manuscript part is bound) saying that the book once belonged to a reformed Franciscan convent in Bolzano (?): <q>Conventu. Frum Min. reform. Bolsanensium</q>.</p>
+<p>There is another note on the former front flyeaf, now a loose sheet, saying <q>Franciscus Borthanis me possidet)</q>.</p></provenance>
+<acquisition><p>It is unknown how and when the book came to the	Library. There is a loose slip with a note in the hand of Per Ekström (librarian 1969-99) saying "okat. Bland Callmers kvarlåtenskap (1985)."</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded <date>in January of 2005</date> by <name>Eva Nilsson Nylander </name></p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+</additional>
+</msDescription>

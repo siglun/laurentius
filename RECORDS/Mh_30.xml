@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_30">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 30</idno>
+<altName type="database-identifier">scriptorium:Mh:390649:1127463514</altName>
+</msIdentifier>
+<msHeading>
+    <title lang="ENG">Miscellany: Theology</title> 
+    <!--origPlace>Unknown place of origin</origPlace-->
+    <origDate notBefore="1475" notAfter="1600">15th century, late-16th century,
+      late</origDate> 
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains a collection of texts, passages and
+	quotations from various authors.</p> 
+      <!--
+      <p>Kristeller says: "misc. XV, Commentariium in eclogam Theoduli,
+      Cf. Pellegrin 3, p. 30" 
+      Then he describes a "ms. Klass. förf. (olim Math. fol. 1) cart. XV ex.,
+      287 ff., numbered irreg., Expositio magnae compositionis Prolemaei a
+      Georgio Tarpezuntio facta, inc. ...." 
+      What is this??</p>
+
+      -->
+    </note>
+ </msHeading>
+<physDesc>
+    <support><p>Paper and parchment</p></support>
+    <extent>ff. i +
+      194<dimensions><height>210</height><width>140</width></dimensions>mm.
+    </extent> 
+
+    <decoration>
+      <decoNote><p>Red lombard with decorated filling in brown ink on
+	  f. <locus>1r</locus>; on f. <locus>23v</locus>, in lower margin, a
+	  small simple drawing of uncertain meaning; red lombards with simple
+	  void white decoration on ff. <locus>56r</locus>, <locus>58v</locus>,
+	  <locus>161r</locus>, <locus>161v</locus>, <locus>162v</locus>,
+	  <locus>163v</locus>.  
+	</p>
+      </decoNote>
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Light red sheepskin binding, preserved decorated covering and
+	  fastenings contemporary with the manuscript. Rebinding Sweden, Lund
+	  University library bindery, signed in ink: <q>G. Borgström 1967</q>,
+	  at the inside of the lower cover. Size: 130 x 157 x 53 mm.</p> 
+	<p>Light red sheepskin binding over square edged wooden boards. Two
+	  metal hook-clasp fastenings at fore-edge (hooks and catch plates from
+	  former binding). Metal guards in all corners and five metal bosses on
+	  each cover. Rounded spine. Tight back with three double raised
+	  bands. Blind-tooled library code at the tail of the back. Embroidered
+	  endbands of white linen. Former edge trimming preserved together with
+	  six fore-edge textmarkers of white leather. Front flyleaf of
+	  parchment, the preserved and restored back flyleaf of paper has a hole
+	  cut in the form of spectacles. Restored separate pastedowns of
+	  parchment manuscript waste from former binding. All along sewing on
+	  five double cords laced through the boards. A piece of former red
+	  leather covering is preserved on the inside of the lower cover. The
+	  leather is blind-tooled into stripes of horizontal triple fillets and
+	  repeated rectangular tools of among other a palm leaf and a
+	  dragon. The leather has holes from lost bosses.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-09-23</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-23</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Dudik, B.</author>
+	<title level="m">Forschungen in Schweden fur Mährensgeschichte</title>
+	<imprint>
+	  <pubPlace>Brunn</pubPlace>
+	  <date>1852</date>
+	</imprint>
+	<biblScope type="pages">pp. 367-368</biblScope>
+      </bibl>
+      <bibl>
+	<author>Kristeller, P. O.</author>
+	<title level="m">Iter Italicum. Accedunt alia itinera. A finding list
+	  of uncatalogued or incompletely catalogued humanistic manuscripts of
+	  the Renaissance in Italian and other libraries</title> 
+	<imprint>
+	  <pubPlace>London, Leiden, New York, Köbenhavn, Köln</pubPlace>
+	  <date>1990</date> 
+	</imprint>
+	<biblScope type="pages">p. 5</biblScope>
+      </bibl>
+      <bibl>
+	<author>Pellegrin, E.</author>
+	<title level="a">Manuscrits d'auteurs latins de l'époque classique
+	  conserves dans les bibliothèques publiques de Suède</title> 
+	<title level="j">Bulletin d'information de l'institut de recherches et
+	  d'histoire des textes</title> 
+	<biblScope type="volume">3</biblScope>
+	<imprint>
+	  <pubPlace>Paris</pubPlace>
+	  <date>1954</date>
+	</imprint>
+	<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+      </bibl>
+      <bibl>
+	<author>Spunar, P.</author>
+	<title level="a">Kurzgefasste Nachrichten aus Handschriften und über
+	  Handschriften</title> 
+	<title level="j">Medievalia Bohemica</title>
+	<biblScope type="volume">4</biblScope>
+	<imprint>
+	  <date>1974</date>
+	</imprint>
+	<biblScope type="pages">pp. 125-140 (esp. p. 134)</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

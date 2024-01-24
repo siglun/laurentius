@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_58">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 58</idno>
+<altName type="former shelfmark">[Österl. litt.] Masora</altName>
+<altName type="database-identifier">scriptorium:Mh:358335:1138809628</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Masoretic Peshitta</title> 
+  <origPlace>Syria (Tikrit)</origPlace>
+  <origDate notBefore="1204" notAfter="1205">13th century (1204/1205)</origDate>
+  <textLang langKey="SYR">Syriac</textLang>
+<note>This is the youngest known Masoretic manuscript.</note>
+   </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="3v" to="308r">ff. 3v-308r</locus>
+<title type="uniform">Old and New Testament</title>
+<note>There is a colophon on f. <locus>308r</locus> with the name of the scribe, Mattai.</note>
+</msItem>
+
+<msItem n="2">
+<locus from="308r" to="313v">ff. 308r-313v</locus>
+<author>Jakob of Edessa</author>
+<title type="uniform">Letter to Giorgios, bishop of Sarug, on Syriac orthography</title>
+
+<bibl>
+<title level="m">A Letter by Mar Jacob, Bishop of Edessa, On Syriac Orthography,</title>
+<editor>Phillips, G.</editor>
+<imprint>
+<pubPlace>London,</pubPlace>
+<date>1869.</date>
+</imprint>
+</bibl>
+
+<bibl>
+<title level="m">Jacobi, Episcopi Edessensi, epistola ad ... de Orthographia Syriaca,</title>
+<editor>Martin, J. P.</editor>
+<imprint>
+<pubPlace>Paris,</pubPlace>
+<date>1869.</date>
+</imprint>
+</bibl>
+</msItem>
+
+<msItem n="3">
+<locus from="313v" to="318r">ff. 313v-318r</locus>
+<author>Jakob of Edessa</author>
+<title type="uniform">Treatise on punctuation</title>
+
+<bibl>
+<title level="m">A Letter by Mar Jacob, Bishop of Edessa, On Syriac Orthography,</title>
+<editor>Phillips, G.</editor>
+<imprint>
+<pubPlace>London,</pubPlace>
+<date>1869.</date>
+</imprint>
+</bibl>
+
+<bibl>
+<title level="m">Jacobi, Episcopi Edessensi, epistola ad ... de Orthographia Syriaca,</title>
+<editor>Martin, J. P.</editor>
+<imprint>
+<pubPlace>Paris,</pubPlace>
+<date>1869.</date>
+</imprint>
+</bibl>
+</msItem>
+
+
+<msItem n="4">
+<locus from="318r" to="320r">ff. 318r-320r</locus>
+<author>Diaconus Thomas</author>
+<title type="uniform">Two treatises on the Syriac accent</title>
+
+<bibl>
+<title level="m">Jacobi, Episcopi Edessensi, epistola ad ... de Orthographia Syriaca,</title>
+<editor>Martin, J. P.</editor>
+<imprint>
+<pubPlace>Paris,</pubPlace>
+<date>1869.</date>
+<biblScope type="pages">pp. 11-13; 17.</biblScope>
+</imprint>
+</bibl>
+
+<bibl>
+<title level="m">A Letter by Mar Jacob, Bishop of Edessa, On Syriac Orthography, Appendix II and III</title>
+<editor>Phillips, G.</editor>
+<imprint>
+<pubPlace>London,</pubPlace>
+<date>1870.</date>
+<biblScope type="pages">Appendix II, p. 83 f. and Appendix III, p. 90 ff.</biblScope>
+</imprint>
+</bibl>
+
+</msItem>
+
+
+<msItem n="5">
+<locus from="320v" to="320v">f. 320v</locus>
+<author>Epiphanios</author>
+<title type="uniform">On Greek prosody</title>
+
+<bibl>
+<title level="m">Hebraica, vol IV</title>
+<editor>Gottheil, J. H.</editor>
+<imprint>
+<pubPlace/>
+<date>1887-1888</date>
+<biblScope type="pages">p. 168</biblScope>
+</imprint>
+</bibl>
+
+</msItem>
+
+<msItem n="6">
+<locus from="320v" to="321r">ff. 320v-321r</locus>
+<title type="uniform">Treatise on the Syriac conjunctions</title>
+
+<bibl>
+<title level="m">Hebraica, vol IV</title>
+<editor>Gottheil, J. H.</editor>
+<imprint>
+<pubPlace/>
+<date>1887-1888</date>
+<biblScope type="pages">p. 168</biblScope>
+</imprint>
+</bibl>
+
+</msItem>
+
+<msItem n="7">
+<locus from="321r" to="321v">f. 321r-321v</locus>
+<title type="uniform">Treatise on the Syriac conjunctions</title>
+
+</msItem>
+
+<msItem n="8">
+<locus from="322r" to="323v">ff. 322r-323v</locus>
+<author>Gregory of Nazianz</author>
+<title type="uniform">Orations</title>
+</msItem>
+
+<msItem n="9">
+<locus from="324r" to="324r">f. 324r</locus>
+<title type="uniform">Concordance</title>
+</msItem>
+
+<msItem n="10">
+<locus from="324v" to="326r">ff. 324v-326r</locus>
+<title type="uniform">Calendar</title>
+</msItem>
+
+</msContents>
+<physDesc>
+  <support><p>Paper</p></support>
+  <extent>ff. i + 326 + ii,<dimensions><height>340</height><width>250</width></dimensions>mm.</extent>
+
+<collation><p>33 quires, all but the last quinions: I: 10 (ff. 1-10); II: 10 (ff. 11-20); III: 10 (ff. 21-30); IV: 10 (ff. 31-40); V: 10 (ff. 41-50); VI: 10 (ff. 51-60); VII: 10 (ff. 61-70); VIII: 10 (ff. 71-80); IX: 10 (ff. 81-90); X: 10 (ff. 91-100); XI: 10 (ff. 101-110); XII: 10 (ff. 111-120); XIII: 10 (ff. 121-130); XIV: 10 (ff. 131-140); XV: 10 (ff. 141-150); XVI: 10 (ff. 151-160); XVII: 10 (ff. 161-170); XVIII: 10 (ff. 171-180); XIX: 10 (ff. 181-190); XX: 10 (ff. 191-200); XXI: 10 (ff. 201-210); XXII: 10 (ff. 211-220); XXIII: 10 (ff. 221-230); XXIV: 10 (ff. 231-240); XXV: 10 (ff. 241-250); XXVI: 10 (ff. 251-260); XXVII: 10 (ff. 261-270); XXVIII: 10 (ff. 271-280); XXIX: 10 (ff. 281-290); XXX: 10 (ff. 291-300); XXXI: 10 (ff. 301-310); XXXII: 10 (ff. 311-320, ff. 312 and 319 are added); XXXIII: 6 (ff. 321-326). Decorated quire signatures in Estrangelo lettering in the lower margin of first and last page of quire.</p></collation>
+
+<layout columns="1" writtenLines="21-23"><p>One column; 21-23 written lines; two columns on ff. 241v-250v; 322v-323v.</p></layout>
+
+<msWriting hands="2">
+<handDesc scribe="Mattai"><p>Two hands: the main text is in the hand of the scribe Mattai; the revisions are in the hand of Johannan, the Sinner. A scribe by the same name copied, also in 1204/5, a the text in Ms. 7184 Rich. of British Museum.</p></handDesc>
+</msWriting> 
+
+<decoration>
+<decoNote><p>Decorated full page crosses on ff. <locus>1r</locus>, <locus>1v</locus>, <locus>2r</locus>; full page decorative medallions in table of contents on ff. <locus>2v</locus> and <locus>3r</locus>, decorated quire signature on f. <locus>10v</locus>. All of these decorations belong to the additions of the 18th century. Decorated quire signatures on f. <locus>11r</locus>; f. <locus>1r</locus>: cross (205 x 165 mm) in red, green and yellow; f. <locus>1v</locus>: cross within a double frame with text (225 x 160 mm) in red, green, yellow and blue; f. <locus>2r</locus>: cross within a double frame with text (230 x 138 mm) in red, green, yellow and blue; f. <locus>2v</locus>: frame (255 x 167 mm); f. <locus>3r</locus>: frame (258 x 185 mm); ff. <locus>11r</locus>, <locus>20v</locus>, <locus>21r</locus>, <locus>30v</locus>, <locus>31r</locus>, <locus>40v</locus>, <locus>41r</locus>, <locus>50v</locus>, <locus>51r</locus>, <locus>60v</locus>, <locus>61r</locus>, <locus>70v</locus> (in red only), <locus>71r</locus>, <locus>80v</locus>, <locus>81r</locus>, <locus>90v</locus>, <locus>91r</locus>, <locus>100v</locus>, <locus>101r</locus>, <locus>110v</locus>, <locus>111r</locus>, <locus>120v</locus>, <locus>121r</locus>, <locus>130v</locus>, <locus>131r</locus>, <locus>140v</locus>, <locus>141r</locus>, <locus>150v</locus>, <locus>151r</locus>, <locus>160v</locus>, <locus>161r</locus>, <locus>170v</locus>, <locus>171r</locus>, <locus>180v</locus>, <locus>181r</locus>, <locus>190v</locus>, <locus>191r</locus>, <locus>200v</locus>, <locus>201r</locus>, <locus>210v</locus>, <locus>211r</locus>, <locus>220v</locus>, <locus>221r</locus>, <locus>230v</locus>, <locus>231r</locus>, <locus>240v</locus>, <locus>241r</locus>, <locus>250v</locus>, <locus>251r</locus>, <locus>260v</locus>, <locus>261r</locus>, <locus>270v</locus>, <locus>271r</locus>, <locus>280v</locus>, <locus>281r</locus>, <locus>290v</locus>, <locus>291r</locus>, <locus>300v</locus>, <locus>301r</locus>, <locus>310v</locus>, <locus>311r</locus>, <locus>320v</locus>, <locus>321r</locus> (red only); quire signatures with numbers in red, green, and yellow surrounded on four sides by intertwining decorations in the form of crosses, bars or vines in red, green, and yellow with black dots, symmetrically designed on the pages facing each other (with the exception of f. <locus>10v</locus> which has a simpler design; f. <locus>324v</locus>;  circular diagram compartmented in red ink with brown outer contour; ff. <locus>325r</locus>, <locus>325v</locus>; rectangular diagrams in red ink; f. <locus>326r</locus>: rectangular diagram in red ink from the added portion.</p></decoNote>
+</decoration>
+
+<bindingDesc>
+<binding><p>Blind-tooled brown goatskin binding, 20th century. Size: 350 x 255 x 90 mm.</p>
+<p>Brown goatskin binding over millboard, worn. Rounded spine. Tight back with four raised bands. Edges cut, defect and black from burning. Plain single flyleaves and pastedowns of paper. All along sewing on four raised cords laced through the boards. Textblock damp-stained and with large restorations.</p>
+<p>The covers are blind-tooled with a large frame made of triple fillets containing a repeated tendril of vine and corner compartments with flowers. The central panel is stamped with a repeated four-petal flower on a diced background, the top and bottom compartments of the panel have lozenge ornaments. The back is blind-tooled with blind fillets next to the bands and a central flower in each compartment.</p></binding>
+</bindingDesc>
+<foliation><p>The manuscript is foliated in upper left corner of pages 1-326; there is another, "Western", foliation visible for the last time at f. 40v (287), in pencil in upper right corner of pages.</p></foliation>
+<additions><p>There are exegetic and other marginal notes all through the manuscript. On f. Ir: <q>Masora. Syrische Papierhandschrift jakobitischer Herkünft.</q></p></additions>
+<condition><p>The manuscript is in poor condition due to damages from fire and water.</p></condition>
+
+ </physDesc>
+<history>
+<origin><p>Written in Tikrit 1204/5 by the scribe Mattai, son of Johannan; revised in 1795/6 by Johannan the Sinner (cf. ff. <locus>3r</locus>, <locus>205v</locus>, <locus>308r</locus> and <locus>324r</locus>).</p></origin>
+<provenance><p>The manuscript was owned by Abd Jeschu bar Abraham who has written in the margin both in Arabic and in Syriac. According to a note on f. <locus>38r</locus> he bought the book in 1634/5 from an Arab for 3 piasters. In another note he calls himself Diaconus and writes Arabic with Syriac letters (see f. <locus>255r</locus>). Another owner seems to have been a certain Rabbi' of Tikrit who bought the book for five denari. He writes only in Arabic (see e.g. f. <locus>106r</locus>). How the manuscript came to Europe is not known.</p></provenance>
+<acquisition><p>It was bought by the University library in 1923 (library shelf mark on back pastedown).</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>in December of 2005</date> by Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Bengtsson, Per Å.</author>
+<title level="m">Translation techniques in two Syro-Arabic versions of Ruth</title>
+<title level="s">Studia Orientalia Lundensia. Nova series</title>
+<biblScope type="volume">3</biblScope>
+<imprint>
+<pubPlace>Stockholm</pubPlace>
+<date>2003</date>
+<biblScope type="pages">p. 14</biblScope>
+</imprint>
+</bibl>
+
+<bibl>
+<author>Bengtsson, Per Å.</author>
+<title>Masoretic Peshitta MSS of Ruth</title>
+<note>Unpublished article (Lund, s.d.).</note>
+</bibl>
+</listBibl>
+</additional>
+</msDescription>

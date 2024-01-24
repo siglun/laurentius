@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_45">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 45</idno>
+<altName type="database-identifier">scriptorium:Mh:605679:1127732643</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Miscellany: Theology</title>
+    <!--origPlace>Unknown place of origin</origPlace-->
+    <origDate notBefore="1300" notAfter="1400">14th century, late</origDate>
+    <textLang langKey="LAT">Latin</textLang>
+    <note><p>The manuscript contains among other texts <title type="uniform">Sermones dominicales</title>and <title type="uniform">Concordia evangeliorum</title>.</p></note> 
+  </msHeading>
+<physDesc>
+    <support><p>Paper (and parchment)</p></support> <extent>ff. 296 (+1a, 82a, 147a, 280a) + i, <dimensions> <height>292</height>
+	<width>200</width></dimensions>mm.</extent>
+    <decoration>
+      <decoNote><p>The original decoration is restricted to a few initials,
+	  also including slightly decorated red lombards:</p> 
+	<p>f. <locus>113r</locus>: Red initial A, six lines in height, with
+	  white void decoration; 
+	  f. <locus>114r</locus>: Red initial L five lines in height with white
+	  void decoration. 
+	  Intarsiated four line initials in red and blue f. <locus>22v</locus>,
+	  <locus>55r</locus>, <locus>63v</locus>. 
+	  On f. <locus>92r</locus> an initial lombard H with a vine leaf from
+	  the staff. On f. <locus>111r</locus> an initial (?) in red with bag
+	  shaped enhancement decorated with small circles.</p> 
+	<p>On verso side of upper pastedown a diagram in red outline of the
+	  arbor consanguinitatis from c. 1200. Compare to the text on
+	  f. <locus>291r</locus> sqq.</p></decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Brown calfskin binding. Germany, Stuttgart, signed with a
+	  blue ink stamp at the inside of the lower cover: <q>Restauriert Hans
+	    Heiland &amp; Sohn 1967</q>. Size: 310 x 233 x 75 mm.</p> 
+	<p>Brown calfskin binding over square edged wooden boards. Two metal
+	  hook-clasp fastenings at fore-edge. Rounded spine. Tight back with
+	  four double raised bands. Former edge trimming preserved. Former
+	  flyleaf of parchment (on guard) and separate pastedown of paper
+	  restored and preserved at the front. Single plain flyleaf and
+	  pastedown of paper at the back. All along sewing on raised double
+	  bands laced through the boards. Textblock restored.</p></binding> 
+    </bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Pellegrin, E.</author>
+	<title level="a">Manuscrits d'auteurs latins de l'époque classique
+	  conservés dans les bibliothèques publiques de Suède</title> 
+	<title level="j">Bulletin d'information de l'institut de recherches et
+	  d'histoire des texts</title> 
+	<biblScope type="volume">3 (1954)</biblScope>
+	<imprint>
+	  <date>1955</date>
+	</imprint>
+	<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_26">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 26</idno>
+<altName type="database-identifier">scriptorium:Mh:188399:1126180316</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Sermons for quadragesima</title> 
+  <origPlace>Denmark (?)</origPlace>
+  <origDate notBefore="1440" notAfter="1460">15th century, mid</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<physDesc>
+  <support><p>Parchment</p></support>
+  <extent>ff. i + 52 + ii<dimensions><height>155</height><width>110</width></dimensions>mm.</extent>
+
+<bindingDesc>
+<binding><p>Natural coloured pigskin binding, preserved whittawed leather on covers and fastenings Denmark, Lund (?) contemporary with manuscript. Rebinding, signed Hans Heiland, Germany, Stuttgart, 1965. 1965. Size: 172 x 120 x 25 mm.</p>
+<p>Natural coloured pigskin binding over rounded oak boards. Whittawed leather from former binding preserved on the new covering. One metal long-strap fastening. Plate and hook from former binding, strap, nails and rivets new. Tight back with three double raised bands. Blind-tooled white library paper label at the tail of the back. Former edge trimming preserved. Single flyleaves and pastedowns of parchment. Former pastedowns preserved as flyleaves together with new flyleaves. All along sewing on three double cords laced through the boards.</p>
+<p>Photographic documentation of former binding and description of the rebinding preserved on the pastedown of the lower cover.</p></binding>
+</bindingDesc>
+ </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source/>
+<change>
+<date rend="creation">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-08</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+</additional>
+</msDescription>

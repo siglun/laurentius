@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+
+<msDescription id="Mh_10">
+ <msIdentifier>
+  <country reg="SE">Sweden</country>
+  <settlement>Lund</settlement>
+  <repository>Lund University Library</repository>
+  <idno>Medeltidshandskrift 10</idno>
+  <altName lang="LAT" type="nickname">Liber decretalium maior</altName>
+ </msIdentifier>
+
+ <msHeading>
+  <title lang="ENG">Decretals of Gregory IX</title>
+  <origPlace>France (Paris)</origPlace>
+<origDate notBefore="1275" notAfter="1300">13th century (1285 c.)</origDate>
+<textLang langKey="LAT">Latin</textLang>
+<note><p>The manuscript also contains the Constitutions of Innocence IV, the Constitutions of Gregory X and the Bull Clericis laicis of Boniface VIII.</p></note>
+ </msHeading>
+
+<physDesc>
+  <support><p>parchment</p></support>
+  <extent>ff. 443<dimensions><height>285</height><width>200</width></dimensions>mm.</extent>
+    <bindingDesc>
+      <binding>
+	<p>Blind-tooled light red sheepskin binding, fastenings and furnishings 15th or early 16th century. Bound by Gösta Borgström, Sweden, Lund University library bindery, 1965. Size: 320 x 215 x 92 mm.</p>
+<p>Light red sheepskin binding over square edged wooden boards. Two preserved metal hook-clasp fastenings at fore-edge, anchor plates, straps and nails new. Metal guards in all corners and five metal bosses preserved on each cover. Rounded spine. Tight back with four raised double bands. Library code blind-tooled on label at the tail of the back. Former edge trimming preserved. Embroidered endbands of white linen. Parchment pastedowns. All along sewing on four double cords laced through the boards. </p>
+<p>The covers are blind-tooled to a triple fillet frame with a central panel divided diagonally by triple fillets into lozenge-shaped compartments.</p></binding></bindingDesc>
+</physDesc>
+<additional>
+<listBibl>
+<bibl>
+<author>Pellegrin, E.</author>
+<title level="a">Manuscrits d'auteurs latins de l'époque classique conservés dans les bibliothèques publiques de Suède</title>
+<title level="j">Bulletin d'information de l'institut de recherches et d'histoire des texts</title>
+<biblScope type="volume">3 (1954)</biblScope>
+<imprint>
+<date>1955</date>
+</imprint>
+<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+</bibl>
+  </listBibl>
+  </additional>
+</msDescription>

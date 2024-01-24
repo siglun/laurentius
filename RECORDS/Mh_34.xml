@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_34">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 34</idno>
+<altName type="database-identifier">scriptorium:Mh:194911:1127464746</altName>
+</msIdentifier>
+<msHeading>
+  <title lang="ENG">Breviary</title> 
+  <origPlace>Denmark (Lund) or Norway (Trondheim)</origPlace>
+  <origDate notBefore="1475" notAfter="1500">15th century, end of</origDate>
+  <textLang langKey="LAT" otherLangs="SWE">Latin</textLang>
+<note>Type B.</note>
+   </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="1v" to="98v">ff. 1v-98v</locus>
+<title type="uniform">Psalter with hymns and canticles</title>
+<rubric>Tempore hyemali</rubric>
+<incipit>Primo dierum</incipit>
+<explicit>Gloria natum. Amen</explicit>
+<note>There is a lacuna between ff. 1 and 2; f. 1v ends: Sirvite domino in timore; f. f.2r begins defectively: bona. Signatum est super nos</note>
+</msItem>
+
+<msItem n="2">
+<locus from="99r" to="295r">ff. 99r-295r</locus>
+<title type="uniform">Temporale, comprising the whole year</title>
+<rubric>Dominica prima adventum dominum</rubric>
+<incipit>Fratres Scientes quia hora est</incipit>
+<explicit>propheta qui venturus est in mundum</explicit>
+</msItem>
+
+
+<msItem n="3">
+<locus from="295r" to="463r">ff. 295r-463r</locus>
+<title type="uniform">Sanctorale, comprising the whole year</title>
+<rubric>In vigilia sancti Andree</rubric>
+<incipit>In illo tempore: Stabat iohannes et ex discipulis eius</incipit>
+<explicit>huic domui salus a deo facta est alleluia</explicit>
+</msItem>
+
+<msItem n="4">
+<locus from="464r" to="495r">ff. 464r-495v</locus>
+<title type="uniform">Commune Sanctorum</title>
+<rubric>Incipit commune sanctorum</rubric>
+<incipit>In illo tempore. Dixit iehus discipulis suis</incipit>
+<explicit>supplicationibus consequantur</explicit>
+</msItem>
+</msContents>
+<physDesc>
+  <support><p>parchment</p></support>
+  <extent>ff. i + 496 +
+      i<dimensions><height>195</height><width>135</width></dimensions>mm.
+    </extent>
+<collation><p>42 quires, almost all of which are senions:  I: 11 (ff. 1-11; 1 leaf missing), II: 12 (ff. 12-23), III: 12 (ff. 24-35 ), IV: 12 (ff. 36-47), V: 12 (ff. 48-59), VI: 12 (ff. 60-71), VII: 12 (ff. 72-83), VIII: 12 (ff. 84-95), IX: 12 (ff. 96-107), X: 12 (ff. 108-119), XI: 12 (ff. 120-131), XII: 12 (ff. 132-143), XIII: 12 (ff. 144-155), XIV: 12 (ff. 156-167), XV: 12 (ff. 168-179), XVI: 12 (ff. 180-191), XVII: 12 (ff. 192-203), XVIII: 12 (ff. 204-215), XIX: 12 (ff. 216-227), XX: 12 (ff. 228-239), XXI: 12 (ff. 240-251 ), XXII: 12 (ff. 252-263), XXIII: 12 (ff. 264-275), XXIV: 12 (ff. 276-287), XXV: 12 (ff. 288-299), XXVI: 12 (ff. 300-311), XXVII: 12 (ff. 312-323), XXVIII: 12 (ff. 324-335), XXIX: 12 (ff. 336-347), XXX: 10 (ff. 348-357), XXXI: 12 (ff. 358-369), XXXII: 12 (ff. 370-381), XXXIII: 10 (ff. 382-391), XXXIV: 12 (ff. 392-403), XXXV: 12 (ff. 404-415), XXXVI: 12 (ff. 416-427), XXXVII: 12 (ff. 428-439), XXXVIII: 12 (ff. 440-451), XXXIX: 12 (ff. 452-463), XXXX: 13 (ff. 464-475; f. 471a is added), XXXXI: 12 (ff. 476-487), XXXXII: 8 (ff. 488-495).</p>
+<p>Quire signatures in the right lower corner of the page visible in most quires.</p>
+</collation>
+<layout columns="2" writtenLines="38"><p>Pricking in the outer and inner margins and in upper and lower margins for the intercolumnium; ruled in ink (except for ff. 488r-495v where there is no pricking and ruling); 2 columns (with an intercolumnium of 10 mm.), 38 lines (30-32 lines on ff. 488r-495v).</p></layout>
+
+<msWriting hands="2"><handDesc><p>Semihybrida in two sizes according to liturgical function. Two scribes: hand 1: ff. 1r-487v (including f. 471a, a parchment slip, 130 x 127 mm., with 2 columns, 20 lines); hand 2: ff. 488r-495v.</p></handDesc></msWriting> 
+
+
+    <decoration>
+      <decoNote>
+	<p>The decoration is restricted to the initials. Apart from the
+	  largest which is described separately, there are three six line
+	  initials with red pen flourishes extending into upper and lower
+	  margin on f. <locus>15r</locus>, <locus>50r</locus>,
+	  <locus>99r</locus>; twelve five to seven line initials with
+	  moderately extended red pen flourishes f. <locus>9v</locus>,
+	  <locus>18r</locus>, <locus>21r</locus>, <locus>23r</locus>,
+	  <locus>26v</locus>, <locus>29v</locus>, <locus>34v</locus>,
+	  <locus>41v</locus>, <locus>65v</locus>, <locus>72v</locus>,
+	  <locus>99r</locus>, <locus>119v</locus>; six smaller initial with
+	  restricted pen flourishes on f. <locus>265v</locus>,
+	  <locus>267v</locus>, <locus>268r</locus>, <locus>268v</locus> (two),
+	  <locus>269v</locus>.</p> 
+	<p>On f. <locus>88r</locus> the tail of a small blue initial Q extends
+	  into a drawing in the lower margin of a heart pierced by an
+	  arrow. The motif is repeated in brown ink on f. <locus>351r</locus>
+	  and <locus>402v</locus>, a heart only on f. <locus>402r</locus> and
+	  <locus>411v</locus>. On f. <locus>175v</locus>, <locus>178v</locus>,
+	  <locus>233v</locus>, <locus>404r</locus>, <locus>434v</locus>,
+	  <locus>464r</locus>, <locus>465r</locus>, <locus>470r</locus> small
+	  leaf decorations in brown and red ink.</p> 
+	<p>Detailed description: f. <locus>1v</locus>: large initial P, 20
+	  lines in height, in shadowed red, with dentelle decoration in blue
+	  with red dots, and pen flourishes in red extending from the serifs
+	  and mid staff.</p> 
+	<p>Style: The initials have a distinctly Scandinavian flavour,
+	  presumably of Norwegian origin, with symmetrically organized stylized
+	  leaf forms  in the fillings of the initials and twists and roundels
+	  in the pen flourishes reminescent of continental early 13th century
+	  initials, indicating a conservative paradigm. The initials on f. 265v
+	  - 269v are executed with a finer line by a second
+	  artist.</p>
+      </decoNote> 
+    </decoration>
+
+    <bindingDesc>
+      <binding><p>Blind-tooled brown goatskin binding, preserved covers
+	  possibly Norway, Trondheim, contemporary with the
+	  manuscript. Rebinding Sweden 20th century. Size: 210 x 135 x 160
+	  mm.</p> 
+	<p>Brown goatskin binding over bevelled wooden boards. Rebinding with
+	  covers from former binding and leather fragment of the back
+	  preserved. Two engraved metal hook-clasp fastenings (hooks, straps
+	  and anchor plates missing). Remains of furnishings at fore-edge
+	  corners of the upper cover. Rounded spine. Tight back with three
+	  raised double bands. Embroidered endbands of white linen. Former edge
+	  trimming preserved together with eight textmarkers of parchment at
+	  fore-edge (one marker broken). Single flyleaves and separate
+	  pastedowns of parchment. Separate pastedown of upper board from
+	  former binding. All along sewing on three raised cords laced through
+	  the boards.</p> 
+	<p>The covers are blind-tooled with two triple fillets to a frame with
+	  compartments containing two repeated tools; a lion and a lacework
+	  within a rectangular form. Two pomegranate ornaments fill the central
+	  panel of the upper cover. The panel of the lower cover is tooled with
+	  triple fillets into a saltire with a repeated lion in each
+	  compartment. The back is blind-tooled into panels with a
+	  lozenge-shaped pattern made of double line fillets. (cfr. Schjoldager
+	  1927 p. 54 sqq.).</p>
+      </binding> 
+
+    </bindingDesc>
+<foliation><p>Modern foliation 1-495 + f. 471a, in pencil in upper right corner of recto side. According to a note in pencil in the same hand as the foliation f. 471a was earlier placed between ff. 353-354; f. 1r an f. 463v are blank. There are 8 parchment bookmarks (one is broken): ff. 10, 15, 21, 27, 96, 295, 402 and 484.</p></foliation>
+<additions><p>The manuscript contains various contemporary marginal notes in different hands and different ink. There are also several notes made in pencil by August Palm, librarian at the University Library 1856-1907.</p></additions>
+</physDesc>
+<history>
+    <origin><p>The manuscript was written in the end of the 15th century, either in Lund or in Trondheim for the use of Lund (cfr. the feast of St. Euphrosyna and Florentina, whose relics were kept in the cathedral in Lund, at f. <locus>383v</locus>, and parchment bookmarks that indicate for instance the feast of St. Laurence on f. <locus>401v</locus>). A note on the upper pastedown (contemporary with the manuscript) says: <q>Reverendissumus In christo pater Dominus Ericus Workendorp Archiepiscopus Nidrosienssis et apostalice sedis legatus, quondam huius Ecclesie prepositus dignissimus, Hunc librum suis impensis scriptum dedit ad usum pauperum sacerdotum huius Ecclesie. Anno Domino, 1522</q>. </p>
+<p>Erik Valkendorf (d. 28 November 1522 in Rome) was the archbishop of Trondheim 1510-1521. In 1503 he was appointed dean of Lund and Odense.</p><acquisition><p>The manuscript was transferred to the newly established university library in 1671.</p>
+<p>There are two former call numbers on the front pastedown: <q>Bibl. Ms. H. L. a) 4o 2</q> and further down <q>Ex Biblioth: ant: L. II, N:o 13</q>. The current call number ("34") written on a small piece of paper is glued on to the pastedown.</p></acquisition>
+</origin>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>Catalogued <date>Spring of 2004.</date> by Maria Sandomirskaia/Eva Nilsson Nylander.</source>
+<change>
+<date rend="creation"/>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-04-26</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<surrogates><p>Microfilm placed in the Microfilm collection of the manuscript department.</p>
+    </surrogates>
+<listBibl>
+<bibl>
+	<editor>Hesbert, Renato-Joanne</editor>
+	<title level="m">Corpus Antiphonalium Officii. V. Fontes earumque prima ordinatio. (Series Maior. Fontes. XI). </title>
+	<imprint>
+	  <pubPlace>Roma</pubPlace>
+	  <date>1975</date>
+<biblScope type="pages">p. 10</biblScope>
+	</imprint>
+      </bibl>
+
+
+
+
+      <bibl>
+	<author>Nielsen, Lauritz</author>
+	<title level="m">Danmarks Middelalderlige Haandskrifter</title>
+	<imprint>
+	  <pubPlace>Köbenhavn</pubPlace>
+	  <date>1937</date>
+<biblScope type="pages">p. 92</biblScope>
+	</imprint>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

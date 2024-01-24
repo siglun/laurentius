@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_12">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 12</idno>
+<altName type="database-identifier">scriptorium:Mh:966655:1126084492</altName>
+</msIdentifier>
+<msHeading>
+  <author>Nicolas de Byard</author>
+  <title lang="LAT">Distinctiones thelogicae Veteris et Novi Testamenti</title>
+  <origPlace>France (?)</origPlace>
+  <origDate notBefore="1200" notAfter="1400">13th-14th century</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<physDesc>
+  <support><p>Parchment</p></support>
+    <extent>ff. i +
+      173<dimensions><height>225</height><width>170</width></dimensions>mm.
+    </extent>
+    <bindingDesc>
+      <binding><p>Light red sheepskin binding, fastenings 15th or early 16th century; Sweden, Lund University library bindery, 20th century. Size: 230 x 175 x 45 mm.</p>
+<p>Light red sheepskin binding over thick rounded oak boards. Two metal hook-clasp fastenings at fore-edge, plates and hooks from former binding, nails new. Rounded spine, tight back with four raised bands. Blind-tooled library code on leather label at the tail of the back. Embroidered endbands of white linen. Former edge trimming preserved. Pastedowns of parchment, front pastedown detached. All along sewing on four raised cords laced through the boards.</p></binding></bindingDesc>
+  </physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<change>
+<date rend="creation">2005-09-07</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2005-09-07</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+</adminInfo>
+<listBibl>
+      <bibl>
+	<author>Pellegrin, E.</author>
+	<title level="a">Manuscrits d'auteurs latins de l'époque
+	  classique conservés dans les bibliothèques publiques de
+	  Suède</title>
+
+	<title level="j">Bulletin d'information de l'institut de recherches et
+	  d'histoire des texts</title>
+
+	<biblScope type="volume">3 (1954)</biblScope>
+	<imprint>
+	  <date>1955</date>
+	</imprint>
+	<biblScope type="pages">pp. 7-32 (esp. pp. 28-31)</biblScope>
+      </bibl>
+    </listBibl>
+</additional>
+</msDescription>

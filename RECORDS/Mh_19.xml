@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDescription id="Mh_19">
+<msIdentifier>
+<country reg="SE">Sweden</country>
+<settlement>Lund</settlement>
+<repository key="Mh">Lund University Library</repository>
+<idno>Medeltidshandskrift 19</idno>
+<altName type="former shelfmark">B. N. Mscr. 4:to N:o 37.</altName>
+<altName type="former shelfmark">Bibl. Ms. H. L. a) 4:o 20.</altName>
+<altName type="database-identifier">scriptorium:Mh:479230:1138806555</altName>
+</msIdentifier>
+<msHeading>
+<author>Jacobus de Voragine</author>
+<title type="uniform">Legenda Aurea</title>
+<title type="alternative">Legenda Sanctorum</title>
+  <origPlace>Pomerania (?)</origPlace>
+  <origDate notBefore="1380" notAfter="1425">14th century, late-15th century, early</origDate>
+  <textLang langKey="LAT">Latin</textLang>
+ </msHeading>
+<msContents>
+<msItem n="1">
+<locus from="3r" to="256r">ff. 3r-256r</locus>
+<author>Jacobus de Voragine</author>
+<title type="uniform">Legenda Aurea</title>
+<title type="alternative">Legenda Sanctorum</title>
+<rubric>De nomine</rubric>
+<incipit>Urbanus ab urbanitate dictus</incipit>
+<note><p>Ff. 1v-2r: a list of the contents of the manuscript; ff. 256v, 257v, 258r: blank.</p>
+<p>The manuscript begins defectively with De tempore peregrinationis, the life of St. Urban (chapter 72 in the printed edition).</p>
+</note>
+<bibl>
+<author>Jacobus de Voragine</author>
+<title level="m">Legenda aurea / Iacopo da Varazze</title>
+<editor>edizione critica a cura di Giovanni Paolo Maggioni (Società Internazionale per lo Studio del Medioevo Latino)</editor>
+<imprint>
+<pubPlace>Firenze</pubPlace>
+<date>1998</date>
+</imprint>
+<note><p>De sancto Syro (chapter 87 in the printed edition) is missing in the manuscript.</p>
+<p>De sancto Egidio (f. <locus>129r</locus>), chapter 123 in the printed edition, in the manuscript comes after De sancto Mamertino (f. <locus>128r</locus>), chapter 126.</p>
+<p>De sancto Johannes Chrysostomo (chapter 132 in the printed edition) comes at the end of the manuscript (f. <locus>248r</locus>).</p>
+<p>De sancto Wenzelao is added (f. <locus>156r</locus>), and there is a note in the lower margin of f. <locus>156v</locus> on the passion of st. Elisabth, added on f. <locus>254v</locus>.</p>
+<p>De sancto Francisco (f. <locus>170r</locus>), chapter 145 in the printed edition, in the manuscript comes after De sancta Thaysi (f. <locus>169r</locus>), chapter 148.</p>
+<p>De sancto Crisanto (f. <locus>177r</locus>), chapter 153 in the printed edition, in the manuscript comes before De sancto Luca Evangelista (f. <locus>177v</locus>), chapter 152.</p>
+<p>De undecim milibus virginum (chapter 154 in the printed edition) is missing from its usual place in the manuscript. There is a note in the upper margin of f. <locus>184r</locus> referring to the beginning of the book (f. <locus>2r</locus>.</p>
+<p>De sancta Elizabeth (chapter 164 in the printed edition) is missing from its usual place in the manuscript. There is a note in the upper margin of f. <locus>208r</locus> referring to the end of the book (f. <locus>254v</locus>).</p>
+<p>De sancto Pastore abbate (chapter 171 in the printed edition) is missing in the manuscript.</p>
+<p>De sancto Pelagio papa (f. <locus>238r</locus>), chapter 177 in the printed edition, in the manuscript comes after De dedicatione ecclesie (f. <locus>232v</locus>), chapter 178.</p>
+<p>At f. <locus>247r</locus>: Passio x milia militum, not present in the printed edition.</p>
+</note>
+</bibl>
+</msItem>
+</msContents>
+<physDesc>
+<support><p>Parchment.</p></support>
+<extent>ff. 258 (ff. 1-2 and 257-258 are former flyleaves)<dimensions><height>245</height><width>175</width></dimensions> mm.</extent>
+<collation><p>22 quires: I:  12 (ff. 3-14), II:  12 (ff. 15-26), III: 12  (ff. 27-38), IV: 10 (ff. 39-48) V: 10 (ff. 49-58), VI: (ff. 59-68), VII: 10 (ff. 69-78), VIII: 12 (ff. 79-90), IX: 12 (ff. 91-102), X: 12 (ff. 103-114), XI: 12 (ff. 115-126), XII: 12 (ff. 127-138), XIII: 12 (ff. 139-150), XIV: 12 (ff. 151-162), XV: 12 (ff. 163-174), XVI: 12 (ff. 175-186), XVII: 12 (ff. 187-198), XVIII: 12 (ff. 199-210), XIX: 12 (ff. 211-222), XX: 12 (ff. 223-234), XXI: 12 (ff. 235-246), XXII: 10 (ff. 247-256). Quire signatures in lower margin of ff. 14v, 15r, 27r, 38v, 48v, 68v, 78v, 90v, 102v, 114v, 126v, 138v, 150v, 162v, 174v, 186v, 198v, 210v, 222v, 234v, 246v.</p></collation>
+<layout columns="2" writtenLines="31"><p>2 columns with an intercolumnium of 10 mm.; 31 lines; pricked in outer, upper and lower margin; ruled in ink; written space: 180 x 120 mm.</p>
+</layout>
+
+<msWriting>
+<handDesc script="gothic book script"><p>
+Gothic book hand. Rubricated.</p></handDesc>
+</msWriting>
+
+<decoration>
+<decoNote><p>Intarsiated and filigranated initials, lombards alternating in red and blue.</p>
+<p>Detailed description: f. <locus>2v</locus>: in the lower margin of a reused diploma is a checkered square with ornaments in the corners, placed obliquely; f. <locus>3r</locus>: intarsiated 7-line initial (U) in blue and red, with filigranated filling in red with blue details. Small red initial (U) with simple decorated filling in blue; f. <locus>10v</locus>: small red initial (N) with void white decoration, filigranated border and geometric filling (Johannis baptiste); f. <locus>93v</locus>: intarsiated initial (A) in red and blue (De assumptione sancte Marie); f. <locus>130r</locus>: intarsiated initial (N) in blue and red (De natiuitate sancte Marie); f. <locus>191r</locus>: intarsiated initial (O) in red and blue (De omnibus sanctis); f. <locus>257r</locus>: in the lower margin of a reused diploma is a drawing in black ink in the shape of a chess-man.</p>
+</decoNote>
+</decoration>
+
+<bindingDesc>
+<binding><p>Blind-tooled whittawed leather binding, Pomerania, contemporary with the manuscript; front flyleaf dated Greifenhagen 1399 and back flyleaf Stargard 1397. Size: 260 x 226 x 80 mm.</p>
+<p>Whittawed leather binding over rounded oak boards. Upper cover with two small lozenge-shaped metal plates from long-strap fastenings, lower cover fastenings and straps missing. Five metal bosses in the shape of a six-petal flower on each cover. One boss missing in upper corner of both covers, lower cover bosses defect. Metal shoes at fore- and tail-edges of the covers. One fore-edge shoe missing from the upper cover and one tail-edge shoe from the lower cover. Rounded spine. Tight back with six double raised bands. Fragment of a title paper label with script in black and red ink on the upper part of the upper cover. Blind-tooled library label of paper in the second compartment of the back. Braided endbands of pink leather laced through the boards. Trimmed edges. Single flyleaves and pastedowns of manuscript parchment waste, pastedowns detached and with some restorations. All along sewing on six white slit leather thongs laced through the boards.</p>
+<p>The upper cover is blind-tooled with a double line fillet and two small four-petal flowers to a panel with a saltire, scattered flowers and lozenges surrounds the cross.</p></binding>
+</bindingDesc>
+<foliation><p>Foliated in pencil by modern cataloguer in upper right corner.</p></foliation>
+<additions><p>Notes and corrections in the margins throughout the manuscript.</p></additions>
+</physDesc>
+<history>
+<origin><p>Pomerania (?), late 14th century, early 15th. According to a note in the old catalogue it used to belong to a carthusian (?) convent in Szczecin/Stettin.  The front flyleaves is a reused notary document, dated 1399 in Greifenhagen by Johannes Veddere (f. <locus>2v</locus>) concerning the archdeacon of Landsberg who had been attacked by Franciscans and imprisoned in Stettin. The back flyleaves are dated 1397 in Stargard (today Oldenburg) by Johannes Enghelkini (f. <locus>257r</locus>). The text is a protest written by Johannes Stoneveld, prior of the Augustinian Hermits in Stargard against a decision that the brothers of his order no longer had confessional jurisdiction.</p></origin>
+<acquisition><p>The manuscript was bought (with Medeltidshandskrift 16 and 17) in 1751 from Johan Nelander, 1743-1782, professor of philosophy at the university of Lund (cfr. Cons. maj. manualhandlingar June 22, 1751.</p></acquisition>
+</history>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<p>Catalogued and encoded by Eva Nilsson Nylander in June of 2001.</p>
+</source>
+<change>
+<date rend="creation">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record uploaded</item>
+</change>
+<change>
+<date rend="revision">2006-02-01</date>
+<respStmt>
+<name>eva</name>
+</respStmt>
+<item>Record revised</item>
+</change>
+</recordHist>
+<remarks rend="audience">
+<p>external</p>
+</remarks>
+</adminInfo>
+<listBibl>
+<bibl>
+<author>Lehmann, P.</author>
+<title level="a">Skandinavische Reisefrüchte. N. F. 1-2.</title>
+<title level="j">Nordisk tidskrift för bok och biblioteksväsen</title>
+<biblScope type="volume">23</biblScope>
+<imprint>
+<date>1936</date>
+</imprint>
+<biblScope type="pages">pp. 13-22; 49-84 (esp. pp. 20-21)</biblScope>
+</bibl>
+
+<bibl>
+<author>Spunar, P.</author>
+<title level="a">Kurzgefasste Nachrichten aus Handschriften und über Handschriften</title>
+<title level="j">Medievalia Bohemica</title>
+<biblScope type="volume">4</biblScope>
+<imprint>
+<date>1974</date>
+</imprint>
+<biblScope type="pages">pp. 125-140 (esp. pp. 133-134)</biblScope>
+</bibl>
+    </listBibl>
+</additional>
+</msDescription>
