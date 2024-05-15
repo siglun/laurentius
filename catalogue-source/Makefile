@@ -10,9 +10,9 @@ default: catalogue.ps
 # make segments_done in order to create a pdf per manuscript
 
 TRANSFORM = ./xml2ms.pl
-XDIR      = ../cleaned
+XDIR      = ../RECORDS
 
-GROFF=groff -U -Tps -kt -Kutf8 -M./tmac  -ma4 -P-pa4 -mgs
+GROFF=groff -U -Tps -kt -Kutf8 -M./tmac  -P-pa4 -mgs
 
 MS = Mh_1.ms Mh_2.ms Mh_3.ms Mh_4.ms Mh_5.ms Mh_6.ms Mh_7.ms Mh_8.ms\
 	Mh_9.ms Mh_10.ms Mh_11.ms Mh_12.ms Mh_13.ms Mh_14.ms Mh_15.ms\
