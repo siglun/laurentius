@@ -1,0 +1,25 @@
+.ds REFERENCES Litteraturförteckning
+.ds ABSTRACT SAMMANFATTNING
+.ds TOC Innehåll
+.ds MONTH1 januari
+.ds MONTH2 februari
+.ds MONTH3 mars
+.ds MONTH4 april
+.ds MONTH5 maj
+.ds MONTH6 juni
+.ds MONTH7 juli
+.ds MONTH8 augusti
+.ds MONTH9 september
+.ds MONTH10 oktober
+.ds MONTH11 november
+.ds MONTH12 december
+.ds MO \\*[MONTH\n[mo]]
+.nr *year \n[yr]+1900
+.ds DY \n[dy] \*[MO] \n[*year]
+.de ND
+.if \\n[.$] .ds DY "\\$*
+..
+.de DA
+.if \\n[.$] .ds DY "\\$*
+.ds CF \\*[DY]
+..

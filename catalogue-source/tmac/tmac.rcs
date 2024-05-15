@@ -1,0 +1,14 @@
+.de BT
+.ie \\n[PN]==\\[RCS_PAGE] \{\
+.	if d RCSID \{\
+.		tl '''\\s-2\\*[RCSID]\\s+2'
+.	\}
+.\}
+.el \{\
+.	ie o .tl \\*[pg*OF]
+.	el .tl  \\*[pg*OF]
+.\}
+..
+.de rcs_show
+.nr RCS_PAGE \\[PN]
+..

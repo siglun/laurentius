@@ -1,0 +1,13 @@
+.de reset
+'in 0
+..
+.de anfang
+.nr anf_ps ( ((\\$2 - 1)*\\n[PS])+((\\$2 - 1)*\\n[VS]) )p
+.\"tm Anfanginfo \\n[anf_ps] \\$2 \\n[VS] \\n[PS]
+.nr mv_len  ( \\$2*\\n[VS] )p
+.nr anf_pos ( \\n(nlu + \\n[mv_len]p )
+.nr anf_wid \\w'\\s[\\n[anf_ps]]\\$1\^'u
+\\v'\\n[mv_len]p'\\s[\\n[anf_ps]]\\$1\\s[\\n[PS]]\\v'-\\n[mv_len]p'
+.in \\n[anf_wid]u
+.wh \\n[anf_pos]u reset
+..           

@@ -1,0 +1,54 @@
+.\" From James Clarke, jjc@jclark.com in comp.text on Fri, 9 Oct 1992 11:40:32 GMT.
+.\" Prints stuff between L1 and L2 in landscape.
+.\" Use like this:
+.\".L1
+.\".TS
+.\"tab(&);
+.\"cb cb.
+.\"Column 1&Column2
+.\"Column 1&Column2
+.\".TE
+.\".L2
+.\"
+.\"Do NOT put a display inside L1 and L2 or it will stop landscape working.
+.\"(well, that's my experience, anyhow). PJP pete@smtl.demon.co.uk
+.\"
+.de L1
+.br
+.di L1:di
+..
+.de L2
+.br
+.di
+.ne \\n(dlu+\n(.Vu
+\v'-1v'\X'ps: exec gsave currentpoint 2 copy translate -90 rotate \
+\\n(dl u neg 0 translate neg exch neg exch translate'
+.sp -1
+.mk L1:x
+.ev tmp
+.nf
+.L1:di
+.ev
+.sp |\\n[L1:x]u
+\X'ps: exec grestore'
+.sp -1
+.sp \\n(dlu
+..
+.\" rotates the other way from the Landscape L2
+.de L3
+.br
+.di
+.ne \\n(dlu+\n(.Vu
+\v'-1v'\X'ps: exec gsave currentpoint 2 copy translate 90 rotate \
+\\n(dl u neg 0 translate neg exch neg exch translate'
+.sp -1
+.mk L1:x
+.ev tmp
+.nf
+.L1:di
+.ev
+.sp |\\n[L1:x]u
+\X'ps: exec grestore'
+.sp -1
+.sp \\n(dlu
+..
