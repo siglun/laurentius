@@ -1,0 +1,24 @@
+.de FROM
+.ds SENDER \\$1
+.LD
+.vs \\n[VS]-1
+\\$1\\h'(\\n(LLu/2u-\\w'\\$1'u)'\\*[DATE]
+..
+.de ENDFROM
+.DE
+..
+.de ADRESSAT
+.DS I \\n(LLu/2u
+.vs \\n[VS]-1
+..
+.de ENDADRESSAT
+.DE
+..
+.de SIGN
+.sp 1.4c
+.DS I \\n[LL]u/2u
+\\$1
+.sp 1.5c
+\\*[SENDER]
+.DE
+..

@@ -1,0 +1,184 @@
+.\" **********************************************
+.\"
+.\" Here comes some hacks by S. Lundberg
+.\" To be used together with groff tmac.gs
+.\" Which is loaded here:
+.\"
+.mso tmac.gs
+.\"
+.\" **********************************************
+.\"
+.\" indexing
+.\"
+.de IXINIT
+.open index index.log
+.nr INDEXOPEN 1
+..
+.de IX
+.if !rINDEXOPEN .IXINIT
+.ie '\\n[.z]'' \{\
+.write index \\$1\t\\$2\t\\$3\t\\$4\t\\$5
+.\}
+.el \{\
+\!.IX \\$1 "\\$2" "\\$3" "\\$4" "\\$4" \\$5 
+.\}
+..
+.\" **********************************************
+.\"
+.\" This is for chapters sections and the like
+.\"
+.\" **********************************************
+.als newpage pg@begin
+.de preface
+.ev h
+.wh 0.1 pref_page
+.ev
+.pg@begin \\$1
+..
+.de CHAPTER
+.CHAPINIT
+.ie !rCHAP \{\
+.	nr CHAP 1 1
+.	pg@begin 1 1
+.\}
+.el \{\
+.	nr CHAP +1
+.	pg@begin
+.\}
+.ie !'\\$2'' \{\
+.	ds AUTHORS ", \\fI\\$2\\fR
+.	ds CHAPNAME "\\n[CHAP]. \\$1
+.\}
+.el \{\
+.	ds AUTHORS
+.	ds CHAPNAME \\$1
+.\}
+.nr NAMF 24
+.nr NUMF 24
+.XS
+.sp 0.5c
+\\s12\\*[CHAPNAME]\\*[AUTHORS]
+.XE
+.nr admode \n[.j]
+.di chaptertitle
+.ce 999
+.ad c
+.hy 0
+.sp 1.5c
+.ll 13.0c
+.ft R
+.ps 16
+.vs 26
+.if !'\\$2'' \{\
+Chapter \\n[CHAP]
+.\}
+.ps 24
+\\$1
+.if !'\\$2'' \{\
+.ps 16
+\\fI\\$2
+.\}
+.sp 1.5c
+.di
+.ad \\n[admode]
+.ds@need \\n[dn]
+.ev nf
+.in 1.5c
+.chaptertitle
+.in 0
+.ev
+.nr EQNUM 0 1
+.nr EXNUM 0 1
+.nr TABNUM 0 1
+.nr FIGNUM 0 1
+.ds SECTNAME
+.CHAPRESET
+.par@reset
+.hy 14
+..
+.de Nh
+.NH \\$1
+\\$2
+.ds SECTNAME "\\*[SN] \\$2
+.XS
+.ti 0.5c
+\\*[SECTNAME]
+.XE
+.nr OCHonPage \\n[%]
+..
+.\"
+.de PT*print
+.so headers/H\\n[PN]
+.ie \\n%=1 .if \\n[pg*P1] .tl \\*[pg*OH]
+.el \{\
+.	ie o .tl \\*[pg*OH]
+.	el .tl \\*[pg*EH]
+.\}
+..
+.\"
+.de BT*print
+.ie o .tl \\*[pg*OF]
+.el .tl \\*[pg*EF]
+..
+.de BT*print-roman
+.nr PN*roman \\n[PN]
+.af PN*roman i
+.tl ''\\n[PN*roman]''
+.rm PN*roman
+..
+.de pref_page
+.ev h
+.als PT @nop
+.als BT BT*print-roman
+.ev
+..
+.de chap_page
+.ev h
+.als PT @nop
+.als BT BT*print
+.ev
+..
+.de BTouthead
+.open header headers/H\\n[PN]
+.write header ".ds pg*OH '\\*[SECTNAME]''\\n[PN]'
+.write header ".ds pg*EH '\\n[PN]''\\*[CHAPNAME]'
+.close header
+..
+.de ordinary_page
+.ev h
+.als BT BTouthead
+.als PT PT*print
+.ev
+..
+.de CHAPINIT
+.ev h
+.wh 0.1 chap_page
+.ev
+..
+.de CHAPRESET
+.ev h
+.wh 0.1
+.wh -0.1 ordinary_page
+.ev
+..
+.ev h
+.als BT @nop
+.als PT @nop
+.ev
+.de end_ex
+'br
+.nf
+\\h'\\n[LL]u-\\w'\(sq'u'\(sq
+.fi
+..
+.de list
+.ie '\\$1'end' .rr LIST*NUM
+.el \{\
+.	if !rLIST*NUM \{\
+.		nr LIST*NUM 0 +1
+.	\}
+.	ds LIST*STRING (\\n+[LIST*NUM].)
+.	IP \\h'(\\n[PI]-\\w'\\*[LIST*STRING]')/2'\\*[LIST*STRING]
+.	rm LIST*STRING
+.\}
+..

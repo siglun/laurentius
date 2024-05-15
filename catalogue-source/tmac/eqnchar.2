@@ -1,0 +1,155 @@
+From volterra.teorekol.lu.se!siglun Thu Aug 26 18:53:57 1993
+Return-Path: <siglun@volterra.teorekol.lu.se>
+Received: from <lotka.teorekol.lu.se> by euler.teorekol.lu.se with bsmtp
+	(Smail3.1.28.1 #4) id m0oVkZw-0000fQC; Thu, 26 Aug 93 18:53 MET DST
+Received: by lotka.teorekol.lu.se (/\==/\ Smail3.1.25.1 #25.14)
+	id <m0oVlz1-0000giC@lotka.teorekol.lu.se>; Thu, 26 Aug 93 18:23 UCT
+Received: by volterra.teorekol.lu.se (Smail3.1.28.1 #7)
+	id m0oVkAt-0009jvC; Thu, 26 Aug 93 18:27 MET DST
+Message-Id: <m0oVkAt-0009jvC@volterra.teorekol.lu.se>
+Date: Thu, 26 Aug 93 18:27 MET DST
+From: siglun@volterra.teorekol.lu.se (Sigfrid Lundberg)
+To: siglun@euler.teorekol.lu.se
+Status: O
+
+#! /bin/sh
+# This is a shell archive.  Remove anything before this line, then unpack
+# it by saving it into a file and typing "sh file".  To overwrite existing
+# files, type "sh file -c".  You can also feed this as standard input via
+# unshar, or by typing "sh <file", e.g..  If this archive is complete, you
+# will see the following message at the end:
+#		"End of shell archive."
+# Contents:  eqnchar
+# Wrapped by siglun@volterra.teorekol.lu.se on Thu Aug 26 18:27:47 1993
+PATH=/bin:/usr/bin:/usr/ucb ; export PATH
+if test -f 'eqnchar' -a "${1}" != "-c" ; then 
+  echo shar: Will not clobber existing file \"'eqnchar'\"
+else
+echo shar: Extracting \"'eqnchar'\" \(3737 characters\)
+sed "s/^X//" >'eqnchar' <<'END_OF_FILE'
+XFrom efd.lth.se!jh Tue Aug 24 12:33:58 1993
+XReturn-Path: <jh@efd.lth.se>
+XReceived: from efd.lth.se by volterra.teorekol.lu.se with smtp
+X	(Smail3.1.28.1 #7) id m0oUvhN-0009jvC; Tue, 24 Aug 93 12:33 MET DST
+XReceived: from baal by baal.efd.lth.se with smtp (perl jhmail 0.20)
+X	id acca57_4ca6_1 ; Tue, 24 Aug 1993 12:36:32 MET DST
+XMessage-Id: <macca57_4ca6_1@baal.efd.lth.se>
+XX-Conversion: converted to ISO 646SE by baal.efd.lth.se
+XDate: Tue, 24 Aug 1993 12:36:25 MET DST
+XFrom:  J|rgen H{gg <jh@efd.lth.se>
+XTo: siglun@volterra.teorekol.lu.se (Sigfrid Lundberg)
+XSubject: eqnchar
+XStatus: OR
+X
+X
+X
+X.EQ
+Xtdefine ciplus % "\(pl\h'-\w'\(pl\^'u'\v'.3n'\(ci\v'-.3n'" %
+Xndefine ciplus % O+ %
+Xtdefine citimes % "\(mu\h'-\w'\(mu\^'u'\v'.3n'\(ci\v'-.3n'" %
+Xndefine citimes % Ox %
+Xtdefine =wig % "\(~=" %
+Xndefine =wig % ="~" %
+Xtdefine bigstar %{ roman "\v'.5n'\s+4*\s-4\v'-.5n'"}%
+Xndefine bigstar % X|- %
+Xtdefine =dot % "\z\s+2\(eq\s-2\v'-.6m'\h'.2m'\s+2.\s-2\v'.6m'\h'.1m'" %
+Xndefine =dot % = dot %
+Xtdefine orsign % "\e\s+1\(sl\s-1" %
+Xndefine orsign % \e/ %
+Xtdefine andsign % "\s+1\(sl\s-1\e" %
+Xndefine andsign % /\e %
+Xtdefine =del % "\v'.3m'\z=\v'-.6m'\h'.3n'\s-2\(*D\s+2\v'.3m'" %
+Xndefine =del % = to DELTA %
+Xtdefine oppA % "\v'-.3n'\z\(mi\v'.3n'\e\s+1\(sl\s-1" %
+Xndefine oppA % V- %
+Xtdefine oppE %"\s-3\v'.2m'\z\(em\v'-.5m'\z\(em\v'-.5m'\z\(em\v'.55m'\h'.9m'\z\(br\z\(br\v'.25m'\s+3" %
+Xndefine oppE % E/ %
+Xtdefine incl % "\s-2\(or\v'-.4m'\z\(em\v'.75m'\z\(em\v'.2m'\(em\v'-.55m'\s+2" %
+Xndefine incl % C_ %
+Xtdefine nomem % "\o'\(mo\(sl'" %
+Xndefine nomem % C-/ %
+Xtdefine angstrom % "\fR\zA\v'-.3m'\h'.2m'\(de\v'.3m'\fP\h'.2m'" %
+Xndefine angstrom % A to o %
+Xtdefine star %{ roman "\v'.5n'\s+2*\s-2\v'-.5n'"}%
+Xndefine star % * %
+Xtdefine || % \(or\(or %
+Xtdefine <wig % "\z<\v'.4m'\(ap\v'-.4m'" %
+Xndefine <wig %{ < from "~" }%
+Xtdefine >wig % "\z>\v'.4m'\(ap\v'-.4m'" %
+Xndefine >wig %{ > from "~" }%
+Xtdefine langle % "\v'-.3n'\s-1\z\(sl\s-1\v'1n'\e\v'-1n'\s+2\v'.3n'" %
+Xndefine langle %<%
+Xtdefine rangle % "\v'-.3n'\s-2\z\e\s+1\v'1n'\(sl\v'-1n'\s+1\v'.3n'" %
+Xndefine rangle %>%
+Xtdefine hbar % "\zh\v'-.6m'\h'.05m'\(ru\v'.6m'" %
+Xndefine hbar % h\u-\d %
+Xtdefine ppd % "\o'\(ru\s-3\(or\s+3'" %
+Xndefine ppd % _| %
+Xtdefine <-> % "\z\(<-\|\(->" %
+Xndefine <-> % "<-->" %
+Xtdefine <=> % "\z\(lh\|\(rh" %
+Xndefine <=> % "<=>" %
+Xtdefine |< % "\o'<\(or'" %
+Xndefine |< % <| %
+Xtdefine |> % "\o'>\(or'" %
+Xndefine |> % |> %
+Xtdefine ang % "\z\(sl\v'-.1n'\(ru\v'.1n'" %
+Xndefine ang % /_ %
+Xtdefine rang % "\v'-.2n'\(or\v'.1n'\(ru\v'.1n'" %
+Xndefine rang % L %
+Xtdefine 3dot % "\v'-.7m'\z.\v'.4m'\z.\v'.4m'.\v'-.1m'" %
+Xndefine 3dot % .\u.\u.\d\d %
+Xtdefine thf % ".\v'-.5m'.\v'.5m'." %
+Xndefine thf % ..\u.\d %
+Xtdefine quarter % roman \(14 %
+Xndefine quarter % 1/4 %
+Xtdefine 3quarter % roman \(34 %
+Xndefine 3quarter % 3/4 %
+Xtdefine degree % \(de %
+Xndefine degree % nothing sup o %
+Xtdefine square % \(sq %
+Xndefine square % [] %
+Xtdefine circle % \(ci %
+Xndefine circle % O %
+Xtdefine blot % "\fB\(sq\fP" %
+Xndefine blot % HIX %
+Xtdefine bullet % \(bu %
+Xndefine bullet % oxe %
+Xtdefine -wig % "\(mi\h'-\w'\(mi'u-\w'\(ap'u/2u'\v'-.4n'\(ap\v'.4n'\h'\w'\(mi'u-\w'\(ap'u/2u'" %
+Xndefine -wig % - to "~" %
+Xtdefine wig % \(ap %
+Xndefine wig % "~" %
+Xtdefine prop % \(pt %
+Xndefine prop % oc %
+Xtdefine empty % \(es %
+Xndefine empty % O/ %
+Xtdefine member % \(mo %
+Xndefine member % C- %
+Xtdefine cup % \(cu %
+Xndefine cup % U %
+Xdefine cap % \(ca %
+Xdefine subset % \(sb %
+Xdefine supset % \(sp %
+Xdefine !subset % \(ib %
+Xdefine !supset % \(ip %
+X.EN
+X
+X--------
+XJ|rgen H{gg				jh@efd.lth.se
+XSystemansvarig f|r Linjen{mnd EFD	Telnr: 7492	Fax: 4013
+X					Snigelpost: H{mtst{lle 7
+X					Paket: E-huset, Ole R|mers v{g 3
+X
+X"He was so narrow minded he could see through a keyhole with both
+Xeyes ..."
+X
+END_OF_FILE
+echo shar: 24 control characters may be missing from \"'eqnchar'\"
+if test 3737 -ne `wc -c <'eqnchar'`; then
+    echo shar: \"'eqnchar'\" unpacked with wrong size!
+fi
+# end of 'eqnchar'
+fi
+echo shar: End of shell archive.
+exit 0
+

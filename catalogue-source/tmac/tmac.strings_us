@@ -1,0 +1,25 @@
+.ds REFERENCES References
+.ds ABSTRACT ABSTRACT
+.ds TOC Table of contents
+.ds MONTH1 January
+.ds MONTH2 February
+.ds MONTH3 March
+.ds MONTH4 April
+.ds MONTH5 May
+.ds MONTH6 June
+.ds MONTH7 July
+.ds MONTH8 August
+.ds MONTH9 September
+.ds MONTH10 October
+.ds MONTH11 November
+.ds MONTH12 December
+.ds MO \\*[MONTH\n[mo]]
+.nr *year \n[yr]+1900
+.ds DY \n[dy] \*[MO] \n[*year]
+.de ND
+.if \\n[.$] .ds DY "\\$*
+..
+.de DA
+.if \\n[.$] .ds DY "\\$*
+.ds CF \\*[DY]
+..
