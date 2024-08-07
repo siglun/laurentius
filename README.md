@@ -1,7 +1,7 @@
 # laurentius
 
 Data from St Laurentius Digital Manuscript Library, a service Lund
-univeristy library [provided during som 15
+univeristy library [provided during some 15
 years](https://web.archive.org/web/20120120171336/http://laurentius.ub.lu.se/). Like
 so many digital library and digital humanities projects it eventually
 dissappeared from the Internet.
